@@ -1,1 +1,2 @@
 MyCapytain
+capitains_nautilus==1.0.1.

@@ -5,7 +5,7 @@ resolver =HttpCtsResolver(HttpCtsRetriever("http://cts.dh.uni-leipzig.de/api/cts
 inventory = resolver.getMetadata()
 
 output = []
-with open("temptools/metadata/names.txt") as f:
+with open("helpers/metadata/names.txt") as f:
     for line in f.readlines():
         line = line.replace("\n", "")
         line = URN(line)

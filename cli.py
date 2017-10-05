@@ -23,7 +23,8 @@ def enhance_metadata():
     """ Enhance the metadata using the spreadsheet and other informations"""
     print("Enhancing the metadata")
     metadata = helpers.metadata.read_datation_spreadsheet()
-    helpers.metadata.feed_resolver(metadata, helpers.reader.make_resolver())
+    resolver = helpers.metadata.feed_resolver(metadata, helpers.reader.make_resolver())
+    helpers.metadata.write_inventory(resolver)
 
 
 @cli.command()

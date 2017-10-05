@@ -1,6 +1,7 @@
 from collections import namedtuple
 from csv import DictReader
 import rdflib
+import MyCapytain.common.constants
 from .ns import SemanticCut, StartDate, EndDate, Ignore
 from ..printing import SUBTASK_SEPARATOR, TASK_SEPARATOR, SUBSUBTASK_SEPARATOR
 
@@ -51,4 +52,15 @@ def feed_resolver(metadata_urn, resolver):
         except :
             print(SUBTASK_SEPARATOR+"{} was not found in the corpus but is annotated".format(urn))
     print(SUBTASK_SEPARATOR+"Texts having no enhanced metadata : "+", ".join(texts))
+    return resolver
+
+
+def write_inventory(resolver, tgt="./data/curated/inventory.xml"):
+    print(TASK_SEPARATOR+"Exporting the annotated inventory")
+    data = resolver.getMetadata()
+
+    print(type(data), len(data.readableDescendants))
+    data = data.export(MyCapytain.common.constants.Mimetypes.XML.CapiTainS.CTS)
+    with open(tgt, "w") as target_file:
+        target_file.write(data)
 

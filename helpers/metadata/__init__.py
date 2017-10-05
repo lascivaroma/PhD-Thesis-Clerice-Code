@@ -1,1 +1,1 @@
-from .date_spreadsheet import read_datation_spreadsheet, feed_resolver
+from .date_spreadsheet import read_datation_spreadsheet, feed_resolver, write_inventory

@@ -1,6 +1,8 @@
 # Corpus data
 data/raw/**/*
+data/curated/corpus/generic
 
+# Python
 *.pkl
 # Compiled python modules.
 *.pyc

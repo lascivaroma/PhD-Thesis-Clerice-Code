@@ -28,6 +28,15 @@ def enhance_metadata():
 
 
 @cli.command()
+def generate_raw_texts():
+    """ Prepare the whole corpus """
+    resolver = helpers.reader.make_resolver()
+    metadata = helpers.metadata.read_datation_spreadsheet()
+    resolver = helpers.metadata.feed_resolver(metadata, resolver)
+    helpers.reader.create_raw_text(resolver=resolver)
+
+
+@cli.command()
 @click.option('--corpus', is_flag=True, help='Stats of corpus')
 def stats(corpus=False):
     """ Refresh corpora if need be """

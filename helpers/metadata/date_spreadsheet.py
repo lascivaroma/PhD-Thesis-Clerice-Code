@@ -59,8 +59,9 @@ def write_inventory(resolver, tgt="./data/curated/inventory.xml"):
     print(TASK_SEPARATOR+"Exporting the annotated inventory")
     data = resolver.getMetadata()
 
-    print(type(data), len(data.readableDescendants))
-    data = data.export(MyCapytain.common.constants.Mimetypes.XML.CapiTainS.CTS)
+    inventory = data.export(MyCapytain.common.constants.Mimetypes.XML.CTS)
     with open(tgt, "w") as target_file:
-        target_file.write(data)
+        target_file.write(inventory)
+    with open(tgt+".turtle", "w") as target_file:
+        target_file.write(data.graph.serialize(format='turtle').decode())
 

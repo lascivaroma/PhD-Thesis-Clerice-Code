@@ -10,10 +10,11 @@ def cli():
 
 @cli.command()
 @click.option('--corpus', is_flag=True, help='Update corpus')
-def download(corpus=False):
+@click.option('--force', is_flag=True, help='Force download')
+def download(corpus=False, force=False):
     """ Refresh corpora if need be """
     if corpus:
-        helpers.download.download_corpora()
+        helpers.download.download_corpora(force=force)
 
 
 @cli.command()

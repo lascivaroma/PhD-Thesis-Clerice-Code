@@ -32,12 +32,12 @@ def download_corpus(tgt, corpus_name, corpus_version):
     return True, target_dir
 
 
-def download_corpora(src="data/raw/corpora.csv", tgt="data/raw/corpora/"):
+def download_corpora(src="data/raw/corpora.csv", tgt="data/raw/corpora/", force=False):
     with open(src) as src_file:
         corpora = [corpus for corpus in csv.DictReader(src_file, delimiter=";")]
         new_corpora = []
         for corpus in corpora:
-            if corpus["Current"] == corpus["Version"]:
+            if corpus["Current"] == corpus["Version"] and force is not True:
                 print("{} stays on version {}".format(corpus["Name"], corpus["Current"]))
             else:
                 print("{}'s version is {}. Downloading {}".format(corpus["Name"], corpus["Current"], corpus["Version"]))

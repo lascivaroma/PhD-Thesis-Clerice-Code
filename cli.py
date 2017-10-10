@@ -2,6 +2,7 @@ import click
 import helpers.download
 import helpers.reader
 import helpers.metadata
+import analysis.general_analysis.corpus_analysis
 
 
 @click.group()
@@ -45,6 +46,12 @@ def stats(corpus=False):
     if corpus:
         print("{} Texts".format(len(resolver.getMetadata().readableDescendants)))
 
+
+@cli.command()
+@click.option('--parts', multiple=True, help='Stats of corpus')
+def run_analysis(parts=None):
+    if "corpus_analysis" in parts:
+        analysis.general_analysis.corpus_analysis.run()
 
 if __name__ == "__main__":
     cli()

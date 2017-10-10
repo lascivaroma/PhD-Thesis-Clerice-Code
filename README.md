@@ -16,5 +16,5 @@
 python cli.py download --corpus --force
 python cli.py enhance_metadata --corpus
 python cli.py generate_raw_texts
-python cli.py run --part corpus_analysis
+python cli.py run --parts corpus_analysis
 ```

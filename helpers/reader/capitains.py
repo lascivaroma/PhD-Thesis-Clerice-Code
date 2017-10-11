@@ -7,6 +7,7 @@ import logging
 import os
 import shutil
 import re
+import rdflib.namespace
 
 
 def make_resolver(directories=None, additional_metadata=None):
@@ -19,6 +20,7 @@ def make_resolver(directories=None, additional_metadata=None):
 
     resolver = NautilusCTSResolver(resource=directories, logger=logger)
     resolver.inventory.graph.namespace_manager.bind(THESE_NS_PREFIX, THESE_NS)
+    resolver.inventory.graph.namespace_manager.bind("dc", rdflib.namespace.DC)
     return resolver
 
 
@@ -65,6 +67,5 @@ def create_raw_text(resolver, tgt="data/curated/corpus/generic", step=20):
                 with open(subtarget+"/"+file+".txt", "w") as f:
                     f.write(normalize.sub(" ", regex.sub(" ", content.strip())))
         i += 1
-    print()
     print(SUBTASK_SEPARATOR+"{}/{} texts done".format(i, i))
     print(SUBTASK_SEPARATOR+"{}/{} texts not converted because they lacked SemanticCut information".format(y, i))

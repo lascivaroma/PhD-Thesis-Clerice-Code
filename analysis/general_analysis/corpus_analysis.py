@@ -42,6 +42,20 @@ def texts_date(graph):
     return {str(r): (int(s), int(e)) for r, s, e in results}
 
 
+def authors_name(graph):
+    """ Get texts names
+
+    :param graph: Graph to use to retrieve date
+    :return: {TextID : [StartDate, EndDate]}
+    """
+    results = graph.query("""SELECT ?s ?aname
+        WHERE {
+            ?s dc:author ?aname .
+            ?s lr:Ignore false
+        }""")
+    return {str(r): n for r, n in results}
+
+
 def time_analysis_range(graph, texts):
     """ Analysis the repartition of text size
 
@@ -141,6 +155,17 @@ def time_analysis(graph, texts):
     return accumulated_tokens, tokens_per_year, text_per_year
 
 
+def passage_size_analysis(graph, texts_dict):
+    fre_name = authors_name(graph)
+
+    # Get the violin representation
+    flatten_length = [x for lengths in texts_dict.values() for x in lengths]
+    fig = matplot_plot.figure()
+    axes = fig.add_subplot(111)
+    axes.violinplot(flatten_length)
+    matplot_plot.show()
+
+
 def run():
     # We get the graph
     graph = get_graph()
@@ -152,7 +177,10 @@ def run():
     texts_dict = get_text_length_dict(texts)
 
     # Run time analysis
-    time_ana = time_analysis(graph, texts_dict)
+    #accumulated_tokens, tokens_per_year, text_per_year = time_analysis(graph, texts_dict)
+
+    # Passage Size Analysis
+    passages_repartition = passage_size_analysis(graph, texts_dict)
 
 
 if __name__ == "__main__":

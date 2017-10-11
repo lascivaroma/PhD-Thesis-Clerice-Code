@@ -1,12 +1,13 @@
 from collections import namedtuple
 from csv import DictReader
 import rdflib
+import rdflib.namespace
 import MyCapytain.common.constants
 from .ns import SemanticCut, StartDate, EndDate, Ignore
 from ..printing import SUBTASK_SEPARATOR, TASK_SEPARATOR, SUBSUBTASK_SEPARATOR
 
 
-additional_infos = namedtuple("AdditionalInfo", ["CutAt", "StartDate", "EndDate", "Ignore"])
+additional_infos = namedtuple("AdditionalInfo", ["CutAt", "StartDate", "EndDate", "Ignore", "Author"])
 
 
 def read_datation_spreadsheet(src="data/raw/datation.tsv"):
@@ -22,7 +23,8 @@ def read_datation_spreadsheet(src="data/raw/datation.tsv"):
                     CutAt=int(row["Citation level"]),
                     Ignore=row["Ignore"] == 'x',
                     StartDate=row["Birth"],
-                    EndDate=row["Death"]
+                    EndDate=row["Death"],
+                    Author=row["Nom FR"]
                 )
             except Exception:
                 print(SUBTASK_SEPARATOR+"Text {} has an error".format(row["URN"]))
@@ -48,6 +50,7 @@ def feed_resolver(metadata_urn, resolver):
             graph.add((node, EndDate, rdflib.Literal(informations.EndDate, datatype=rdflib.namespace.XSD.integer)))
             graph.add((node, Ignore, rdflib.Literal(informations.Ignore, datatype=rdflib.namespace.XSD.boolean)))
             graph.add((node, SemanticCut, rdflib.Literal(informations.CutAt, datatype=rdflib.namespace.XSD.integer)))
+            graph.add((node, rdflib.namespace.DC.term("author"), rdflib.Literal(informations.Author, lang="fre")))
             texts.pop(texts.index(urn))
         except :
             print(SUBTASK_SEPARATOR+"{} was not found in the corpus but is annotated".format(urn))

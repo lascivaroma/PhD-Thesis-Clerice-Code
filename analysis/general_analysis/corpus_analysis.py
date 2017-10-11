@@ -1,11 +1,20 @@
-from helpers.reader.curated import get_graph, get_texts, text_length
+from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from pandas import Series
+from operator import itemgetter
+import matplotlib.pyplot as matplot_plot
 
 PERIODS = 25
 START, END = -300, 750
 
 
 def texts_between(graph, start, end):
+    """ Get text using a range
+
+    :param graph:
+    :param start:
+    :param end:
+    :return:
+    """
     filters = """?s lr:EndDate ?edate .
     ?s lr:StartDate ?sdate .
     FILTER (( {start} <= ?sdate  &&  ?sdate < {end} ) || ( {start} <= ?edate  &&  ?edate < {end} )) .""".format(
@@ -18,7 +27,22 @@ def texts_between(graph, start, end):
     return [str(r) for r, *_ in results]
 
 
-def time_analysis(graph, texts):
+def texts_date(graph):
+    """ Get text using a range
+
+    :param graph: Graph to use to retrieve date
+    :return: {TextID : [StartDate, EndDate]}
+    """
+    results = graph.query("""SELECT DISTINCT ?s ?sdate ?edate
+        WHERE {
+            ?s lr:EndDate ?edate .
+            ?s lr:StartDate ?sdate .
+            ?s lr:Ignore false
+        }""")
+    return {str(r): (int(s), int(e)) for r, s, e in results}
+
+
+def time_analysis_range(graph, texts):
     """ Analysis the repartition of text size
 
     :param graph: RDF Graph of metadata
@@ -50,7 +74,71 @@ def time_analysis(graph, texts):
     )
     plot = serie.plot(kind="bar", alpha=0.5)
     figure = plot.get_figure()
-    figure.savefig('results/analysis/corpus_analysis/time_tokens.png')
+    figure.savefig('results/analysis/corpus_analysis/time_tokens_range.png')
+
+
+def time_analysis(graph, texts):
+    """ Analysis the repartition of text size
+
+    :param graph: RDF Graph of metadata
+    :param texts: Dictionary of texts length {text_id : [TokenCount, ...]}
+    :return:
+    """
+    # Get dates for each text
+    dates = {k: range(values[0], values[1]+1) for k, values in texts_date(graph).items()}
+
+    # Create tokens year dict
+    tokens_per_year = {year: 0 for year in range(START, END+1)}
+    accumulated_tokens = {year: 0 for year in range(START, END + 1)}
+    text_per_year = {year: 0 for year in range(START, END+1)}
+
+    # Generate an helper for accumulated tokens
+    first_year_tokens = []
+
+    # Feed the tokens !
+    for text_id, daterange in dates.items():
+        temp_text_count, temp_token = 0, []
+        try:
+            temp_token = texts[text_id]
+            temp_text_count = 1
+        except KeyError:
+            print(text_id + " was not found in text length dictionary")
+
+        _start = True
+        if temp_text_count == 1:
+            for year in daterange:
+                tokens_per_year[year] += sum(temp_token)
+                text_per_year[year] += temp_text_count
+                if _start is True:
+                    first_year_tokens.append((year, sum(temp_token)))
+                    _start = False
+
+    first_year_tokens = sorted(first_year_tokens, key=itemgetter(0))
+    for year in range(START, END + 1):
+        # Get the previous year + all texts where the first year match
+        accumulated_tokens[year] = accumulated_tokens.get(year-1, 0) + \
+                                   sum([tokens for year_tokens, tokens in first_year_tokens if year_tokens == year])
+
+    serie = Series(data=accumulated_tokens)
+    plot = serie.plot(kind="line", title="Mots accumulés par année")
+    figure = plot.get_figure()
+    figure.savefig('results/analysis/corpus_analysis/accumulated_tokens.png')
+
+    matplot_plot.figure()
+    serie = Series(data=tokens_per_year)
+    plot = serie.plot(kind="line", title="Mots écrits par auteur vivant à une période donnée")
+    figure = plot.get_figure()
+    figure.savefig('results/analysis/corpus_analysis/tokens_per_year.png')
+    del plot, figure
+
+    matplot_plot.figure()
+    serie = Series(data=text_per_year)
+    plot = serie.plot(kind="line", title="Textes écrits par un auteur vivant à une période donnée")
+    figure = plot.get_figure()
+    figure.savefig('results/analysis/corpus_analysis/texts_per_year.png')
+    del plot, figure
+
+    return accumulated_tokens, tokens_per_year, text_per_year
 
 
 def run():
@@ -61,12 +149,10 @@ def run():
     texts = get_texts()
 
     # And the list of texts as a dictionary of text: text_length
-    texts_dicts = {text_id: [] for path, text_id in texts}
-    for text, text_id in texts:
-        texts_dicts[text_id].append(text_length(text))
+    texts_dict = get_text_length_dict(texts)
 
     # Run time analysis
-    time_ana = time_analysis(graph, texts_dicts)
+    time_ana = time_analysis(graph, texts_dict)
 
 
 if __name__ == "__main__":

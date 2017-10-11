@@ -39,6 +39,7 @@ def create_raw_text(resolver, tgt="data/curated/corpus/generic", step=20):
         annotations = list(text.graph.objects(text.asNode(), SemanticCut))
         if len(annotations) == 0:
             y += 1
+            print(SUBTASK_SEPARATOR+"{} text has no SemanticCut".format(str(text.id)))
         else:
             level = int(annotations[0])
             os.makedirs(subtarget)

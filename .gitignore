@@ -1,6 +1,7 @@
 # Corpus data
 data/raw/**/*
 data/curated/corpus/generic
+.pickle_dir/*
 
 # Python
 *.pkl

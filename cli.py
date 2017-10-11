@@ -1,8 +1,11 @@
 import click
 import helpers.download
 import helpers.reader
+from helpers.printing import TASK_SEPARATOR
 import helpers.metadata
 import analysis.general_analysis.corpus_analysis
+import glob
+import shutil
 
 
 @click.group()
@@ -52,6 +55,15 @@ def stats(corpus=False):
 def run_analysis(parts=None):
     if "corpus_analysis" in parts:
         analysis.general_analysis.corpus_analysis.run()
+
+
+@cli.command()
+def clear_cache():
+    files = glob.glob(".pickle_dir/*.pickle")
+    print(TASK_SEPARATOR+"Deleting {} pickle files".format(len(files)))
+    for file in files:
+        shutil.rmtree(file)
+
 
 if __name__ == "__main__":
     cli()

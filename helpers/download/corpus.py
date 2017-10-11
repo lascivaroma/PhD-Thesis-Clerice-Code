@@ -9,6 +9,7 @@ import glob
 from ..reader import make_resolver
 from ..printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 
+
 def download_corpus(tgt, corpus_name, corpus_version):
     """ Download a corpus
 

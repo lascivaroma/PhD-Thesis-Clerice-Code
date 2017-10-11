@@ -151,19 +151,30 @@ def time_analysis(graph, texts):
     figure = plot.get_figure()
     figure.savefig('results/analysis/corpus_analysis/texts_per_year.png')
     del plot, figure
+    matplot_plot.figure()
 
     return accumulated_tokens, tokens_per_year, text_per_year
 
 
 def passage_size_analysis(graph, texts_dict):
-    fre_name = authors_name(graph)
-
     # Get the violin representation
     flatten_length = [x for lengths in texts_dict.values() for x in lengths]
-    fig = matplot_plot.figure()
-    axes = fig.add_subplot(111)
-    axes.violinplot(flatten_length)
-    matplot_plot.show()
+
+    fig, axes = matplot_plot.subplots(1, 1)
+    series = Series(data=flatten_length)
+    series.hist(ax=axes, log=True, bins=150)
+    #series.plot(ax=axes, logy=True, secondary_y=True, kind="kde")
+    fig.tight_layout()
+    fig.savefig('results/analysis/corpus_analysis/passage_size_distribution.png')
+
+
+def authors_annex(graph, texts_dict):
+    """ Creates a CSV file for annexes of the thesis with name of the author, number of tokens
+
+    :param graph:
+    :param texts_dict:
+    :return:
+    """
 
 
 def run():

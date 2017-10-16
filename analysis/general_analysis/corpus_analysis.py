@@ -197,7 +197,7 @@ def authors_annex(graph, texts_dict):
         reversed_authors[author]["passages"].append(len(texts_dict[ed_id]))
         reversed_authors[author]["tokens"].append(sum(texts_dict[ed_id]))
         reversed_authors[author]["tokens_notflat"] += texts_dict[ed_id]
-    with open("results/analysis/corpus_analysis/authors.csv", "w") as f:
+    with open("results/analysis/corpus_analysis/authors.tsv", "w") as f:
         f.write("\t".join(["Auteur", "Nombre de textes", "Nombre de passages", "Nombre de mots", "Médiane de taille de passage", "Moyenne de taille de passage"])+"\n")
         for aname in sorted(list(reversed_authors.keys())):
             f.write(

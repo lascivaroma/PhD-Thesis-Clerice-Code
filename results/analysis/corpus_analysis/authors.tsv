@@ -1,4 +1,6 @@
 Auteur	Nombre de textes	Nombre de passages	Nombre de mots	Médiane de taille de passage	Moyenne de taille de passage
+urn:cts:latinLit:stoa0247	1	3	16475	5724.0	5491.66666667
+Anonymous	1	79	3135	29.0	39.6835443038
 Adomnan d'Iona 	1	3	11094	4326.0	3698.0
 Aetna	1	1	4188	4188.0	4188.0
 Ambroise	17	70	517936	6675.5	7399.08571429
@@ -54,6 +56,7 @@ Macrobe	1	7	78059	10334.0	11151.2857143
 Martial	1	1527	56284	26.0	36.8592010478
 Mavortius	1	1	878	878.0	878.0
 Minucius Felix	2	2	23223	11611.5	11611.5
+Novatianus	1	1	20397	20397.0	20397.0
 Optat de Milève	2	2	42660	21330.0	21330.0
 Orens d'Auch / Orientius	3	8	8145	357.0	1018.125
 Orose	3	9	87250	10507.0	9694.44444444
@@ -66,9 +69,7 @@ Plaute	19	19	162242	8132.0	8539.05263158
 Pline l'Ancien	1	37	416781	10198.0	11264.3513514
 Pline le Jeune	1	371	65805	108.0	177.371967655
 Pomponius	1	1	933	933.0	933.0
-Pomponius Mela	1	3	16475	5724.0	5491.66666667
 Ponthius le Diacre (De Carthage)	2	2	5052	2526.0	2526.0
-Priapées	1	79	3135	29.0	39.6835443038
 Priscillien	2	12	23370	1714.0	1947.5
 Proba	1	2	4986	2493.0	2493.0
 Properce	1	105	25383	209.0	241.742857143
@@ -85,7 +86,6 @@ Quintus Tullius Cicero	1	1	4356	4356.0	4356.0
 Rufin d'Aquilée	1	4	23629	3732.0	5907.25
 Rurice de Limoges	1	91	20224	187.0	222.241758242
 Rusticus	1	1	291	291.0	291.0
-Rutilius Namatianus	1	2	3977	1988.5	1988.5
 Salluste	5	10	67931	872.0	6793.1
 Salvien de Marseille	4	23	72349	1911.0	3145.60869565
 Secundinus	1	1	1719	1719.0	1719.0
@@ -108,5 +108,5 @@ Victorin de Poetovio	2	2	19717	9858.5	9858.5
 Virgile	3	26	83680	3678.0	3218.46153846
 Vitruve	1	10	58227	5923.5	5822.7
 Égérie	1	1	17546	17546.0	17546.0
-Novatian	1	1	20397	20397.0	20397.0
+Rutilius Namatianus	1	2	3977	1988.5	1988.5
 Valerius Paterculus	1	2	26148	13074.0	13074.0

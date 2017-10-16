@@ -1,0 +1,48 @@
+\documentclass{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[frenchb]{babel}
+\usepackage{lipsum}
+
+% permet de faire une table des matieres par chapitre
+\usepackage[french]{minitoc}
+
+% ajoute (entre autre) la bibliographie dans la table des matieres 
+\usepackage[nottoc]{tocbibind}
+
+% biblio ordonnee classique
+\bibliographystyle{unsrt}
+
+\title{Exemple de thèse \LaTeX{} qui se veut minimal}
+\author{G. Vallverdu}
+\date{\today}
+
+\begin{document}
+
+% le titre
+\maketitle
+
+% preparation des minitocs
+\dominitoc
+
+% table des matieres generale
+\tableofcontents
+
+% inclusion des chapitres
+\include{intro}
+
+\include{chap1}
+
+\include{chap2}
+
+\include{conclu}
+
+\appendix
+
+\include{annexe}
+
+% bibliographie
+\bibliography{allbiblio}
+
+\end{document}
+

@@ -83,14 +83,14 @@ def install_third_parties():
     for install in installs:
         print(SUBTASK_SEPARATOR+"Installing {}".format(install.split("/")[-1].replace("build-", "").replace(".sh", "")))
         call(["sh", install.replace("third_parties/", "")], cwd=os.getcwd()+"/third_parties")
+    print(TASK_SEPARATOR+"Installing LaTeX dependencies".format(len(installs)))
+    deps = ["babel-french", "biblatex", "tocbibind", "minitoc", "nomencl", "multirow", "lipsum"]
+    call(["tlmgr", "install"]+deps)
 
 
 @cli.command()
 def pdf():
-    call(["sh", "compileThese"], cwd=os.getcwd()+"/redaction")
-
-
-
+    call(["make", "all"], cwd=os.getcwd()+"/redaction")
 
 if __name__ == "__main__":
     cli()

@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{Dudarev1998}
+S.~L. Dudarev, G.~A. Botton, S.~Y. Savrasov, C.~J. Humphreys, and A.~P. Sutton.
+\newblock Electron-energy-loss spectra and the structural stability of nickel
+  oxide: An lsda+u study.
+\newblock {\em Phys. Rev. B}, 57:1505--1509, Jan 1998.
+
+\bibitem{Henkelman2006}
+G.a Henkelman, A.b Arnaldsson, and H.b~c Jonsson.
+\newblock A fast and robust algorithm for bader decomposition of charge
+  density.
+\newblock {\em Computational Materials Science}, 36(3):354--360, 2006.
+\newblock cited By (since 1996) 559.
+
+\bibitem{Blochl1994}
+P.~E. Bl\"ochl.
+\newblock Projector augmented-wave method.
+\newblock {\em Phys. Rev. B}, 50:17953--17979, Dec 1994.
+
+\bibitem{Kresse1993}
+G.~Kresse and J.~Hafner.
+\newblock \textit{Ab initio} molecular dynamics for liquid metals.
+\newblock {\em Phys. Rev. B}, 47:558--561, Jan 1993.
+
+\bibitem{Kresse1996}
+G.~Kresse and J.~Furthmüller.
+\newblock Efficiency of ab-initio total energy calculations for metals and
+  semiconductors using a plane-wave basis set.
+\newblock {\em Computational Materials Science}, 6(1):15 -- 50, 1996.
+
+\end{thebibliography}

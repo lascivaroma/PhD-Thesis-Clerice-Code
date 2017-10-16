@@ -91,6 +91,7 @@ def install_third_parties():
 @cli.command()
 def pdf():
     call(["make", "all"], cwd=os.getcwd()+"/redaction")
+    call(["make", "purge"], cwd=os.getcwd()+"/redaction")
 
 if __name__ == "__main__":
     cli()

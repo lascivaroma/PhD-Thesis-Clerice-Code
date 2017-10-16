@@ -2,6 +2,8 @@ from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from pandas import Series
 from operator import itemgetter
 import matplotlib.pyplot as matplot_plot
+from MyCapytain.common.reference import URN
+from numpy import mean, median
 
 PERIODS = 25
 START, END = -300, 750
@@ -156,14 +158,15 @@ def time_analysis(graph, texts):
     return accumulated_tokens, tokens_per_year, text_per_year
 
 
-def passage_size_analysis(graph, texts_dict):
+def passage_size_analysis(texts_dict):
     # Get the violin representation
     flatten_length = [x for lengths in texts_dict.values() for x in lengths]
 
     fig, axes = matplot_plot.subplots(1, 1)
     series = Series(data=flatten_length)
-    series.hist(ax=axes, log=True, bins=150)
-    #series.plot(ax=axes, logy=True, secondary_y=True, kind="kde")
+    series.hist(ax=axes, log=True, bins=200, histtype="bar")
+    axes.set_xlabel("Taille (en mots) des passages")
+    axes.set_ylabel("Nombre de passages")
     fig.tight_layout()
     fig.savefig('results/analysis/corpus_analysis/passage_size_distribution.png')
 
@@ -171,11 +174,46 @@ def passage_size_analysis(graph, texts_dict):
 def authors_annex(graph, texts_dict):
     """ Creates a CSV file for annexes of the thesis with name of the author, number of tokens
 
-    :param graph:
+    :param graph: Graph that needs to be used for metadata
     :param texts_dict:
     :return:
     """
-
+    authors = authors_name(graph)
+    reversed_authors = {}
+    for ed_id, author in authors.items():
+        _id = URN(ed_id)
+        tg = str(_id.upTo(URN.TEXTGROUP))
+        if author not in reversed_authors:
+            reversed_authors[author] = {
+                "name": author,
+                "ids": [],
+                "texts": [],
+                "passages": [],
+                "tokens": [],
+                "tokens_notflat": []
+            }
+        reversed_authors[author]["ids"].append(tg)
+        reversed_authors[author]["texts"].append(ed_id)
+        reversed_authors[author]["passages"].append(len(texts_dict[ed_id]))
+        reversed_authors[author]["tokens"].append(sum(texts_dict[ed_id]))
+        reversed_authors[author]["tokens_notflat"] += texts_dict[ed_id]
+    with open("results/analysis/corpus_analysis/authors.csv", "w") as f:
+        f.write("\t".join(["Auteur", "Nombre de textes", "Nombre de passages", "Nombre de mots", "Médiane de taille de passage", "Moyenne de taille de passage"])+"\n")
+        for aname in sorted(list(reversed_authors.keys())):
+            f.write(
+                "\t".join([
+                    str(lmb(reversed_authors[aname][key]))
+                    for key, lmb in
+                    [
+                        ("name", lambda x: x),
+                        ("texts", lambda x: len(x)),
+                        ("passages", lambda x: sum(x)),
+                        ("tokens", lambda x: sum(x)),
+                        ("tokens_notflat", lambda x: median(x)),
+                        ("tokens_notflat", lambda x: mean(x)),
+                    ]
+                ])+"\n"
+            )
 
 def run():
     # We get the graph
@@ -188,10 +226,13 @@ def run():
     texts_dict = get_text_length_dict(texts)
 
     # Run time analysis
-    #accumulated_tokens, tokens_per_year, text_per_year = time_analysis(graph, texts_dict)
+    accumulated_tokens, tokens_per_year, text_per_year = time_analysis(graph, texts_dict)
 
     # Passage Size Analysis
-    passages_repartition = passage_size_analysis(graph, texts_dict)
+    passages_repartition = passage_size_analysis(texts_dict)
+
+    # Generation of annexes
+    authors_annexes = authors_annex(graph, texts_dict)
 
 
 if __name__ == "__main__":

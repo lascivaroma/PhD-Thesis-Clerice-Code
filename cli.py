@@ -5,7 +5,7 @@ from helpers.printing import TASK_SEPARATOR
 import helpers.metadata
 import analysis.general_analysis.corpus_analysis
 import glob
-import shutil
+import os
 
 
 @click.group()
@@ -62,7 +62,7 @@ def clear_cache():
     files = glob.glob(".pickle_dir/*.pickle")
     print(TASK_SEPARATOR+"Deleting {} pickle files".format(len(files)))
     for file in files:
-        shutil.rmtree(file)
+        os.remove(file)
 
 
 if __name__ == "__main__":

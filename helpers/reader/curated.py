@@ -26,6 +26,20 @@ def get_text_length(path):
 
 
 @memoize
+def get_passage_dict(texts):
+    """ Get a dictionary of texts length
+
+    :param texts: Texts to investigate as a list of path and text identifiers
+    :return: Dictionary where the key is the text identifier and the value is a list of passage length
+    """
+    text_dicts = {}
+    for text_path, text_id in texts:
+        with open(text_path) as f:
+            text_dicts[":".join(text_path.split("/")[-2:])] = " ".join(f.read().split())
+    return text_dicts
+
+
+@memoize
 def get_text_length_dict(texts):
     """ Get a dictionary of passages length
 

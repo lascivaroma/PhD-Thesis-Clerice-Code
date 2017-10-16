@@ -1,0 +1,1 @@
+from .gensim_model import GensimW2Vec

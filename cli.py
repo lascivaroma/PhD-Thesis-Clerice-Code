@@ -1,12 +1,14 @@
 import click
 import helpers.download
 import helpers.reader
-from helpers.printing import TASK_SEPARATOR
+from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 import helpers.metadata
+import helpers.exporter
 import analysis.general_analysis.corpus_analysis
+import analysis.field_analysis.embeddings_analysis
 import glob
 import os
-
+from subprocess import call
 
 @click.group()
 def cli():
@@ -55,6 +57,8 @@ def stats(corpus=False):
 def run_analysis(parts=None):
     if "corpus_analysis" in parts:
         analysis.general_analysis.corpus_analysis.run()
+    if "embedding_analysis" in parts:
+        analysis.field_analysis.embeddings_analysis.run()
 
 
 @cli.command()
@@ -63,6 +67,29 @@ def clear_cache():
     print(TASK_SEPARATOR+"Deleting {} pickle files".format(len(files)))
     for file in files:
         os.remove(file)
+
+
+@cli.command()
+def export():
+    print(TASK_SEPARATOR+"Exporting for other pipelines")
+    print(SUBTASK_SEPARATOR + "Exporting for passim")
+    helpers.exporter.make_passim_source()
+
+
+@cli.command()
+def install_third_parties():
+    installs = glob.glob("third_parties/build-*.sh")
+    print(TASK_SEPARATOR+"Installing {} 3rd parties pipelines".format(len(installs)))
+    for install in installs:
+        print(SUBTASK_SEPARATOR+"Installing {}".format(install.split("/")[-1].replace("build-", "").replace(".sh", "")))
+        call(["sh", install.replace("third_parties/", "")], cwd=os.getcwd()+"/third_parties")
+
+
+@cli.command()
+def pdf():
+    call(["sh", "compileThese"], cwd=os.getcwd()+"/redaction")
+
+
 
 
 if __name__ == "__main__":

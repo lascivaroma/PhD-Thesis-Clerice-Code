@@ -11,3 +11,8 @@ def run():
     print(GModel.most_similar(word="lasciva"))
     print(GModel.most_similar(word="mentula"))
     print(GModel.most_similar(word="mentulam"))
+    # Interesting !
+    print(GModel.vector_comparison(positive=["lasciva", "mentula"]))
+    print(GModel.vector_comparison(positive=["lascivus"], negative=["vir"]))
+    print(GModel.vector_comparison(positive=["lascivus", "vir"]))
+

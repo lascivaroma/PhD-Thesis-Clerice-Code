@@ -53,8 +53,9 @@ def stats(corpus=False):
 
 
 @cli.command()
-@click.option('--parts', multiple=True, help='Stats of corpus')
+@click.argument('parts', nargs=-1)
 def run_analysis(parts=None):
+    parts = list(parts)
     if "corpus_analysis" in parts:
         analysis.general_analysis.corpus_analysis.run()
     if "embedding_analysis" in parts:

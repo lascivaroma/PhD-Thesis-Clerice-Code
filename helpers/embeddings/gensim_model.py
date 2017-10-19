@@ -14,7 +14,7 @@ class GensimIterator:
 
 class GensimW2Vec(BaseEmbedding):
     def compile(self):
-        self.__model__ = Word2Vec(sentences=GensimIterator(self.corpus_path), size=100, window=5, min_count=5, workers=7)
+        self.__model__ = Word2Vec(sentences=GensimIterator(self.corpus_path), size=100, window=5, min_count=1, workers=7)
         self.persist()
 
     def persist(self):
@@ -25,3 +25,13 @@ class GensimW2Vec(BaseEmbedding):
 
     def most_similar(self, word):
         return self.model.wv.most_similar([word])
+
+    def vector_comparison(self, positive=None, negative=None):
+        """ Compute the most similar addition of vector
+
+        Example : most_similar(positive=['woman', 'king'], negative=['man']) -> Queen
+        :param positive: List of words to add to form the vector
+        :param negative: List of words to substract to form the vector
+        :return: List of tuples of close vector (Label, Score)
+        """
+        return self.model.wv.most_similar(positive=positive, negative=negative)

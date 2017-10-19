@@ -4,8 +4,8 @@ data/curated/corpus/generic
 data/curated/passim
 data/models
 .pickle_dir/*
-third_parties/*
-
+third_parties/**/*
+!third_parties/build-*.sh
 # Python
 *.pkl
 # Compiled python modules.

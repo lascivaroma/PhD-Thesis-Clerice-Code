@@ -1,1 +1,1 @@
-from .gensim_model import GensimW2Vec
+from .gensim_model import GensimW2Vec, GensimFasttext

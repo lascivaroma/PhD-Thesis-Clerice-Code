@@ -4,11 +4,17 @@ import helpers.reader
 from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 import helpers.metadata
 import helpers.exporter
+import helpers.lemmatizers
 import analysis.general_analysis.corpus_analysis
 import analysis.field_analysis.embeddings_analysis
 import glob
 import os
+from multiprocessing.pool import ThreadPool
 from subprocess import call
+
+
+CORPUS_PATH = "data/curated/corpus/generic/**/*.txt"
+
 
 @click.group()
 def cli():
@@ -48,7 +54,6 @@ def stats(corpus=False):
     """ Refresh corpora if need be """
     if corpus:
         resolver = helpers.reader.make_resolver()
-    if corpus:
         print("{} Texts".format(len(resolver.getMetadata().readableDescendants)))
 
 
@@ -87,6 +92,26 @@ def install_third_parties():
     print(TASK_SEPARATOR+"Installing LaTeX dependencies".format(len(installs)))
     deps = ["babel", "babel-french", "biblatex", "tocbibind", "minitoc", "nomencl", "multirow", "lipsum"]
     call(["tlmgr", "install"]+deps)
+
+
+@cli.command()
+def lemmatize():
+    text_files = glob.glob(CORPUS_PATH) + glob.glob(CORPUS_PATH.replace("*.", "."))
+    text_files = text_files
+    print(TASK_SEPARATOR+"Lemmatizing {} texts".format(len(text_files)))
+    lemmatizer = helpers.lemmatizers.Collatinus()
+    unknowns = 0
+    unk = []
+    with ThreadPool(processes=7) as pool:
+        for source in pool.imap_unordered(lemmatizer.output, text_files):
+            diff = len(lemmatizer.unknown) - unknowns
+            unknowns = len(lemmatizer.unknown)
+            unk = [(source.replace("data/curated/corpus/generic/", ""), form) for form in lemmatizer.unknown]
+            print(SUBTASK_SEPARATOR+"{} done [+{} new unknown forms]".format(source, diff))
+
+            with open("data/curated/corpus/collatinus-lemmatizer.unknown.tsv", "w") as f:
+                f.write("\n".join(u[0]+"\t"+u[1] for u in unk))
+                f.write("\n")
 
 
 @cli.command()

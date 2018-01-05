@@ -8,6 +8,37 @@ import os
 import shutil
 import re
 import rdflib.namespace
+from lxml import etree
+from unidecode import unidecode
+
+
+with open("./helpers/reader/passage.transform.xsl") as f:
+    xml = etree.parse(f)
+_transformer = etree.XSLT(xml)
+_hyphen = re.compile("-[\s\n]+")
+_number = re.compile("\d+")
+
+IGNORED = [
+    "urn:cts:phi0474.phi045.perseus-lat1:praef",
+    "urn:cts:phi0474.phi045.perseus-lat1:index",
+    "urn:cts:phi0474.phi048.perseus-lat1:praef",
+    "urn:cts:phi0474.phi048.perseus-lat1:index",
+    "urn:cts:phi0474.phi049.perseus-lat1:praef",
+    "urn:cts:phi0474.phi049.perseus-lat1:index"
+]
+
+def transform(resource):
+    return unidecode(
+        _number.sub(
+            "", 
+            _hyphen.sub(
+                "",
+                str(_transformer(resource))
+            ).
+            replace("AUG ", "Augustus").
+            replace("/", "")
+        )
+    )
 
 
 def make_resolver(directories=None, additional_metadata=None):
@@ -25,14 +56,14 @@ def make_resolver(directories=None, additional_metadata=None):
 
 
 def create_raw_text(resolver, tgt="data/curated/corpus/generic", step=20):
-    regex = re.compile('[^a-zA-Z ]')
+    regex = re.compile('[^\w ]')
     normalize = re.compile('\s+')
     print(TASK_SEPARATOR+"Creating the corpus raw texts")
     if os.path.isdir(tgt):
         print(SUBTASK_SEPARATOR+"Cleaning up old text")
         shutil.rmtree(tgt)
     print(SUBTASK_SEPARATOR+"Generating folder")
-    i, y  = 1, 1
+    i, y = 1, 1
     for text in resolver.getMetadata().readableDescendants:
         if (i % 20) == 0:
             print(SUBTASK_SEPARATOR+"{} texts done".format(i))
@@ -46,22 +77,26 @@ def create_raw_text(resolver, tgt="data/curated/corpus/generic", step=20):
             level = int(annotations[0])
             os.makedirs(subtarget)
             excludes = [
-                "tei:note", "tei:orig", "tei:abbr", "tei:head", "tei:title", "tei:teiHeader"
+                "tei:orig", "tei:abbr", "tei:head", "tei:title", "tei:teiHeader", "tei:del"
             ]
             if level == 0:
                 contents = {
                     "": "\n".join([
-                        resolver.getTextualNode(textId=text.id, subreference=node).export(Mimetypes.PLAINTEXT, exclude=excludes)
+
+                        transform(
+                            resolver.getTextualNode(textId=text.id, subreference=node).export(Mimetypes.PYTHON.ETREE)#,exclude=excludes)
+                        )
                         for node in resolver.getReffs(textId=text.id, level=0)
                     ])
                 }
             else:
                 reffs = resolver.getReffs(textId=text.id, level=level)
                 contents = {
-                    str(reff): resolver.
-                        getTextualNode(textId=text.id, subreference=reff).
-                        export(Mimetypes.PLAINTEXT, exclude=excludes)
+                    str(reff): transform(
+                        resolver.getTextualNode(textId=text.id, subreference=reff).export(Mimetypes.PYTHON.ETREE)#, exclude=excludes)
+                    )
                     for reff in reffs
+                    if str(text.id)+":"+str(reff) not in IGNORED
                 }
             for file, content in contents.items():
                 with open(subtarget+"/"+file+".txt", "w") as f:

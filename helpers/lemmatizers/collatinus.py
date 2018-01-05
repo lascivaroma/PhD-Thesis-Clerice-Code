@@ -1,6 +1,7 @@
 from .base import LemmatizerBase, Lemma, splitter
 from collatinus_lemmatizer import CollatinusLemmatizer, GensimW2Vec
 from pycollatinus import Lemmatiseur
+from collections import defaultdict
 
 
 _lemmatiseur = Lemmatiseur()
@@ -21,14 +22,14 @@ class Collatinus(LemmatizerBase):
             left_window=3,
             right_window=2
         )
-        self.unknown = []
+        self.unknown = defaultdict(list)
 
     def load(self):
         """ Load the lemmatizer
         """
         pass
 
-    def from_string(self, string):
+    def from_string(self, string, text_id=""):
         """
 
         :param string:
@@ -48,5 +49,5 @@ class Collatinus(LemmatizerBase):
             if lemma:
                 yield Lemma(form=form, lemma=lemma, pos="", morph=morph)
             else:
-                self.unknown.append(form)
+                self.unknown[text_id].append(form)
                 yield Lemma(form=form, lemma=form, pos="", morph="")

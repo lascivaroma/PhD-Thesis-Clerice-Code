@@ -15,7 +15,7 @@ class LemmatizerBase(object):
         """
         return True
 
-    def from_string(self, string):
+    def from_string(self, string, text_id=""):
         """
 
         :param string:
@@ -26,7 +26,7 @@ class LemmatizerBase(object):
 
     def from_file(self, path):
         with open(path) as f:
-            r = self.from_string(f.read())
+            r = self.from_string(f.read(), path)
         yield from r
 
     @staticmethod
@@ -38,6 +38,9 @@ class LemmatizerBase(object):
         """
         return "\n".join(["\t".join(val for val in token) for token in lemma_collection])
 
+    def path(self, file_path):
+        return file_path.replace("/generic/", "/{}/".format(self.dirName))
+
     def output(self, file_path):
         """ Write the output of the lemmatizer to the default directory
 
@@ -46,7 +49,7 @@ class LemmatizerBase(object):
         """
         lemmatized = self.from_file(file_path)
         lemmatized = " ".join([lemma.lemma for lemma in lemmatized])
-        output_path = file_path.replace("/generic/", "/{}/".format(self.dirName))
+        output_path = self.path(file_path)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, "w") as output_io:
             output_io.write(lemmatized)

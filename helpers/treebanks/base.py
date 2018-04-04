@@ -8,8 +8,10 @@ class TreebankCorpus:
     """ Class to read a treebank corpus
 
     :param files: Files that needs to be read (can be a glob pattern)
+    :param name: Name of the corpus
     """
-    def __init__(self, files):
+    def __init__(self, files, name):
+        self.name = name
         if isinstance(files, str):
             files = glob.glob(files)
         self.files = files
@@ -24,6 +26,10 @@ class TreebankCorpus:
 
     @property
     def words(self):
+        """
+
+        :return: {document_id : ["sentences"]}
+        """
         return self._words
 
     @property
@@ -39,12 +45,10 @@ class TreebankCorpus:
         """ Parse the corpus"""
 
     @property
-    def diversity(self):
+    def tokens_by_document(self):
         return {
-            "forms": 0,
-            "forms_unique": 0,
-            "lemmas": 0,
-            "lemmas_unique": 0
+            doc: [len([word for words in value for word in words])]
+            for doc, value in self.lemmas.items()
         }
 
     @staticmethod

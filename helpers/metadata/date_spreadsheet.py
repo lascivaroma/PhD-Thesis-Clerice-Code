@@ -26,8 +26,9 @@ def read_datation_spreadsheet(src="data/raw/datation.tsv"):
                     EndDate=row["Death"],
                     Author=row["Nom FR"]
                 )
-            except Exception:
+            except Exception as E:
                 print(SUBTASK_SEPARATOR+"Text {} has an error".format(row["URN"]))
+                print(E)
     return urns
 
 
@@ -41,19 +42,23 @@ def feed_resolver(metadata_urn, resolver):
     """
     print(TASK_SEPARATOR+"Feeding the resolver with data")
     texts = [str(text.id) for text in resolver.getMetadata().readableDescendants]
+
+    # Hardcoded misses for treebank
+    texts += ["urn:cts:latinLit:phi1221.phi007.perseus-lat2"]
     for urn, informations in metadata_urn.items():
         try:
             obj = resolver.getMetadata(urn)
-
-            node, graph = obj.asNode(), obj.graph
+            texts.pop(texts.index(urn))
+        except :
+            print(SUBTASK_SEPARATOR+"{} was not found in the corpus but is annotated".format(urn))
+        finally:
+            node, graph = rdflib.URIRef(urn), resolver.inventory.graph
             graph.add((node, StartDate, rdflib.Literal(informations.StartDate, datatype=rdflib.namespace.XSD.integer)))
             graph.add((node, EndDate, rdflib.Literal(informations.EndDate, datatype=rdflib.namespace.XSD.integer)))
             graph.add((node, Ignore, rdflib.Literal(informations.Ignore, datatype=rdflib.namespace.XSD.boolean)))
             graph.add((node, SemanticCut, rdflib.Literal(informations.CutAt, datatype=rdflib.namespace.XSD.integer)))
             graph.add((node, rdflib.namespace.DC.term("author"), rdflib.Literal(informations.Author, lang="fre")))
-            texts.pop(texts.index(urn))
-        except :
-            print(SUBTASK_SEPARATOR+"{} was not found in the corpus but is annotated".format(urn))
+
     print(SUBTASK_SEPARATOR+"Texts having no enhanced metadata : "+", ".join(texts))
     return resolver
 

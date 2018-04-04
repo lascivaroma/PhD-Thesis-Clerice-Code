@@ -1,11 +1,13 @@
 import click
+from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
+
 import helpers.download
 import helpers.reader
-from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 import helpers.metadata
 import helpers.exporter
 import helpers.treebanks
 
+import analysis.general_analysis.treebank_analysis
 import analysis.general_analysis.corpus_analysis
 import analysis.field_analysis.embeddings_analysis
 import glob
@@ -23,7 +25,7 @@ def cli():
     pass
 
 
-@cli.command()
+@cli.command("download", help="Download corpora")
 @click.option('--corpus', is_flag=True, help='Update corpus')
 @click.option('--force', is_flag=True, help='Force download')
 @click.option("--treebank", is_flag=True, help="Update treebanks")
@@ -42,7 +44,7 @@ def download(corpus=False, force=False, treebank=False):
         )
 
 
-@cli.command("treebank-to-plaintext")
+@cli.command("treebank-build")
 def treebank_to_plaintext():
     for corpus in helpers.treebanks.Corpora:
         #corpus.parse_plaintext()
@@ -50,7 +52,7 @@ def treebank_to_plaintext():
         print(corpus.diversity)
 
 
-@cli.command()
+@cli.command("metadata-build", help="Build inventory and graph metadata")
 def enhance_metadata():
     """ Enhance the metadata using the spreadsheet and other informations"""
     print("Enhancing the metadata")
@@ -59,7 +61,7 @@ def enhance_metadata():
     helpers.metadata.write_inventory(resolver)
 
 
-@cli.command()
+@cli.command("texts-build", help="Build the text corpus")
 def generate_raw_texts():
     """ Prepare the whole corpus """
     resolver = helpers.reader.make_resolver()
@@ -77,17 +79,22 @@ def stats(corpus=False):
         print("{} Texts".format(len(resolver.getMetadata().readableDescendants)))
 
 
-@cli.command()
-@click.argument('parts', nargs=-1)
-def run_analysis(parts=None):
-    parts = list(parts)
-    if "corpus_analysis" in parts:
-        analysis.general_analysis.corpus_analysis.run()
-    if "embedding_analysis" in parts:
-        analysis.field_analysis.embeddings_analysis.run()
+@cli.command("analyze-corpus", help="Analyse texts corpora")
+def analize_corpus():
+    analysis.general_analysis.corpus_analysis.run()
 
 
-@cli.command()
+@cli.command("analyze-tb", help="Analyse treebanks")
+def analize_tb():
+    analysis.general_analysis.treebank_analysis.run(helpers.treebanks.Corpora)
+
+
+@cli.command("analyze-embeddings", help="Analyse embeddings")
+def analize_corpus():
+    analysis.field_analysis.embeddings_analysis.run()
+
+
+@cli.command("cache-clear", help="Clear cache")
 def clear_cache():
     files = glob.glob(".pickle_dir/*.pickle")
     print(TASK_SEPARATOR+"Deleting {} pickle files".format(len(files)))
@@ -95,14 +102,14 @@ def clear_cache():
         os.remove(file)
 
 
-@cli.command()
+@cli.command("thirdparties-export", help="Export data for third parties tools")
 def export():
     print(TASK_SEPARATOR+"Exporting for other pipelines")
     print(SUBTASK_SEPARATOR + "Exporting for passim")
     helpers.exporter.make_passim_source()
 
 
-@cli.command()
+@cli.command("thirdparties-install", help="Install non-python tools")
 def install_third_parties():
     installs = glob.glob("third_parties/build-*.sh")
     print(TASK_SEPARATOR+"Installing {} 3rd parties pipelines".format(len(installs)))
@@ -114,7 +121,7 @@ def install_third_parties():
     call(["tlmgr", "install"]+deps)
 
 
-@cli.command()
+@cli.command("texts-lemmatize", help="Lemmatize texts")
 def lemmatize():
     import helpers.lemmatizers
 
@@ -155,10 +162,11 @@ def lemmatize():
                 f.write("\n")
 
 
-@cli.command()
+@cli.command("latex-pdf", help="Generate the thesis PDF")
 def pdf():
     call(["make", "all"], cwd=os.getcwd()+"/redaction")
     call(["make", "purge"], cwd=os.getcwd()+"/redaction")
+
 
 if __name__ == "__main__":
     cli()

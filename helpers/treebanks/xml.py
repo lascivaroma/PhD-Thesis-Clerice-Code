@@ -2,7 +2,7 @@ import lxml.etree
 import collections
 import os
 import statistics
-
+from MyCapytain.common.reference import URN
 
 from .base import TreebankCorpus
 from ..printing import SUBSUBTASK_SEPARATOR, SUBTASK_SEPARATOR
@@ -58,10 +58,12 @@ class PerseidsXMLCorpus(TreebankCorpus):
 
                     # We check that the document id has no mapping
                     document_id = Keys_mapping.get(document_id, document_id)
+                    document_id = URN(document_id)
+                    document_id = str(document_id.upTo(URN.VERSION))
 
                     words = " ".join(sentence.xpath(".//word/@form"))
                     if words not in data[document_id]:
-                        yield document_id, sentence, words, " ".join(sentence.xpath(".//word/@lemma"))
+                        yield document_id.replace("lat1", "lat2"), sentence, words, " ".join(sentence.xpath(".//word/@lemma"))
                         data[document_id].append(words)
                     else:
                         if filename not in said_it_was_a_duplicate:

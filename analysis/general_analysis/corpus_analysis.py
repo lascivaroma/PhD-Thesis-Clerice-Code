@@ -93,12 +93,15 @@ def time_analysis_range(graph, texts):
     figure.savefig('results/analysis/corpus_analysis/time_tokens_range.png')
 
 
-def time_analysis(graph, texts):
+def time_analysis(graph, texts, draw=True, print_missing=True):
     """ Analysis the repartition of text size
 
     :param graph: RDF Graph of metadata
     :param texts: Dictionary of texts length {text_id : [TokenCount, ...]}
+    :param draw: Draw the figure
+    :param print_missing: Print if the text is in the graph but is missing
     :return:
+    :rtype: (Series, Series, Series)
     """
     # Get dates for each text
     dates = {k: range(values[0], values[1]+1) for k, values in texts_date(graph).items()}
@@ -111,6 +114,11 @@ def time_analysis(graph, texts):
     # Generate an helper for accumulated tokens
     first_year_tokens = []
 
+    # Check that all texts are in the date informations
+    for text_id in texts:
+        if text_id not in dates:
+            print(text_id + " has no dates informations")
+
     # Feed the tokens !
     for text_id, daterange in dates.items():
         temp_text_count, temp_token = 0, []
@@ -118,7 +126,8 @@ def time_analysis(graph, texts):
             temp_token = texts[text_id]
             temp_text_count = 1
         except KeyError:
-            print(text_id + " was not found in text length dictionary")
+            if print_missing:
+                print(text_id + " was not found in text length dictionary")
 
         _start = True
         if temp_text_count == 1:
@@ -135,25 +144,28 @@ def time_analysis(graph, texts):
         accumulated_tokens[year] = accumulated_tokens.get(year-1, 0) + \
                                    sum([tokens for year_tokens, tokens in first_year_tokens if year_tokens == year])
 
-    serie = Series(data=accumulated_tokens)
-    plot = serie.plot(kind="line", title="Mots accumulés par année")
-    figure = plot.get_figure()
-    figure.savefig('results/analysis/corpus_analysis/accumulated_tokens.png')
+    accumulated_tokens = Series(data=accumulated_tokens)
+    if draw:
+        plot = accumulated_tokens.plot(kind="line", title="Mots accumulés par année")
+        figure = plot.get_figure()
+        figure.savefig('results/analysis/corpus_analysis/accumulated_tokens.png')
 
-    matplot_plot.figure()
-    serie = Series(data=tokens_per_year)
-    plot = serie.plot(kind="line", title="Mots écrits par auteur vivant à une période donnée")
-    figure = plot.get_figure()
-    figure.savefig('results/analysis/corpus_analysis/tokens_per_year.png')
-    del plot, figure
+    tokens_per_year = Series(data=tokens_per_year)
+    if draw:
+        matplot_plot.figure()
+        plot = tokens_per_year.plot(kind="line", title="Mots écrits par auteur vivant à une période donnée")
+        figure = plot.get_figure()
+        figure.savefig('results/analysis/corpus_analysis/tokens_per_year.png')
+        del plot, figure
 
-    matplot_plot.figure()
-    serie = Series(data=text_per_year)
-    plot = serie.plot(kind="line", title="Textes écrits par un auteur vivant à une période donnée")
-    figure = plot.get_figure()
-    figure.savefig('results/analysis/corpus_analysis/texts_per_year.png')
-    del plot, figure
-    matplot_plot.figure()
+    text_per_year = Series(data=text_per_year)
+    if draw:
+        matplot_plot.figure()
+        plot = text_per_year.plot(kind="line", title="Textes écrits par un auteur vivant à une période donnée")
+        figure = plot.get_figure()
+        figure.savefig('results/analysis/corpus_analysis/texts_per_year.png')
+        del plot, figure
+        matplot_plot.figure()
 
     return accumulated_tokens, tokens_per_year, text_per_year
 
@@ -214,6 +226,7 @@ def authors_annex(graph, texts_dict):
                     ]
                 ])+"\n"
             )
+
 
 def run():
     # We get the graph

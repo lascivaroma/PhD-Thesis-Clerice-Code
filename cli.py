@@ -4,6 +4,8 @@ import helpers.reader
 from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 import helpers.metadata
 import helpers.exporter
+import helpers.treebanks
+
 import analysis.general_analysis.corpus_analysis
 import analysis.field_analysis.embeddings_analysis
 import glob
@@ -38,6 +40,14 @@ def download(corpus=False, force=False, treebank=False):
             src="data/raw/treebanks_conllu.csv", tgt="data/raw/treebanks_conllu/", force=force,
             is_capitains=False
         )
+
+
+@cli.command("treebank-to-plaintext")
+def treebank_to_plaintext():
+    for corpus in helpers.treebanks.Corpora:
+        #corpus.parse_plaintext()
+        corpus.parse()
+        print(corpus.diversity)
 
 
 @cli.command()

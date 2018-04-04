@@ -4,11 +4,11 @@ import helpers.reader
 from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 import helpers.metadata
 import helpers.exporter
-import helpers.lemmatizers
 import analysis.general_analysis.corpus_analysis
 import analysis.field_analysis.embeddings_analysis
 import glob
 import os
+import shutil
 from multiprocessing.pool import ThreadPool
 from subprocess import call
 
@@ -24,10 +24,20 @@ def cli():
 @cli.command()
 @click.option('--corpus', is_flag=True, help='Update corpus')
 @click.option('--force', is_flag=True, help='Force download')
-def download(corpus=False, force=False):
+@click.option("--treebank", is_flag=True, help="Update treebanks")
+def download(corpus=False, force=False, treebank=False):
     """ Refresh corpora if need be """
     if corpus:
         helpers.download.download_corpora(force=force)
+    if treebank:
+        helpers.download.download_corpora(
+            src="data/raw/treebanks_xml.csv", tgt="data/raw/treebanks_xml/", force=force,
+            is_capitains=False
+        )
+        helpers.download.download_corpora(
+            src="data/raw/treebanks_conllu.csv", tgt="data/raw/treebanks_conllu/", force=force,
+            is_capitains=False
+        )
 
 
 @cli.command()
@@ -96,21 +106,42 @@ def install_third_parties():
 
 @cli.command()
 def lemmatize():
+    import helpers.lemmatizers
+
     text_files = glob.glob(CORPUS_PATH) + glob.glob(CORPUS_PATH.replace("*.", "."))
     text_files = text_files
     print(TASK_SEPARATOR+"Lemmatizing {} texts".format(len(text_files)))
     lemmatizer = helpers.lemmatizers.Collatinus()
-    unknowns = 0
-    unk = []
+    files = 0
+    with open("data/curated/corpus/collatinus-lemmatizer.unknown.tsv", "w") as f:
+        f.write("Source\tPassage\tForm\n")
+
+    if os.path.isdir(lemmatizer.path("data/curated/corpus/generic/")):
+        print(SUBTASK_SEPARATOR+"Cleaning up old text")
+        shutil.rmtree(lemmatizer.path("data/curated/corpus/generic/"))
+
     with ThreadPool(processes=7) as pool:
         for source in pool.imap_unordered(lemmatizer.output, text_files):
-            diff = len(lemmatizer.unknown) - unknowns
-            unknowns = len(lemmatizer.unknown)
-            unk = [(source.replace("data/curated/corpus/generic/", ""), form) for form in lemmatizer.unknown]
-            print(SUBTASK_SEPARATOR+"{} done [+{} new unknown forms]".format(source, diff))
+            unk = [
+                (source.replace("data/curated/corpus/generic/", ""), form)
+                for form in lemmatizer.unknown[source]
+            ]
+            files += 1
+            print(
+                SUBTASK_SEPARATOR +
+                "{filename} done ({texts_done}/{total_texts}) [+{diff_forms} new unknown forms]".format(
+                    filename=source,
+                    texts_done=files,
+                    total_texts=len(text_files),
+                    diff_forms=len(lemmatizer.unknown[source])
+                )
+            )
 
-            with open("data/curated/corpus/collatinus-lemmatizer.unknown.tsv", "w") as f:
-                f.write("\n".join(u[0]+"\t"+u[1] for u in unk))
+            with open("data/curated/corpus/collatinus-lemmatizer.unknown.tsv", "a") as f:
+                f.write("\n".join(
+                    src.replace(".txt", "").replace("/", "\t")+"\t"+frm
+                    for src, frm in unk
+                ))
                 f.write("\n")
 
 

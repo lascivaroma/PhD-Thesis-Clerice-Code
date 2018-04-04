@@ -33,7 +33,7 @@ def download_corpus(tgt, corpus_name, corpus_version):
     return True, target_dir
 
 
-def download_corpora(src="data/raw/corpora.csv", tgt="data/raw/corpora/", force=False):
+def download_corpora(src="data/raw/corpora.csv", tgt="data/raw/corpora/", force=False, is_capitains=True):
     with open(src) as src_file:
         corpora = [corpus for corpus in csv.DictReader(src_file, delimiter=";")]
         new_corpora = []
@@ -46,7 +46,8 @@ def download_corpora(src="data/raw/corpora.csv", tgt="data/raw/corpora/", force=
                 if status is True:
                     corpus["Current"] = corpus["Version"]
                     print(TASK_SEPARATOR+"Cleaning up the corpus")
-                    clean_up_corpora(path)
+                    if is_capitains:
+                        clean_up_corpora(path)
             new_corpora.append({k: v for k, v in corpus.items()})
 
     # Update the corpus

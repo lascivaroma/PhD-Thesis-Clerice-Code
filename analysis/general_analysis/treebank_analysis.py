@@ -5,17 +5,43 @@ from helpers.metadata import wordcounts
 import matplotlib.pyplot as plt
 
 
-def draw_tokens_representation(series, fname, template="{corpus} ({words} mots)"):
+def draw_tokens_representation(
+        series, fname,
+        title="Mots écrits par auteur vivant à une période donnée", template="{corpus} ({words} mots)",
+        kind="line",
+        colors_index_offset=0):
+
     """ Draw the series in one fig"""
-    fig = plt.figure()
+
+    # These are the "Tableau 20" colors as RGB.
+    COLORS = [(31, 119, 180), (174, 199, 232), (255, 127, 14), (255, 187, 120),
+                 (44, 160, 44), (152, 223, 138), (214, 39, 40), (255, 152, 150),
+                 (148, 103, 189), (197, 176, 213), (140, 86, 75), (196, 156, 148),
+                 (227, 119, 194), (247, 182, 210), (127, 127, 127), (199, 199, 199),
+                 (188, 189, 34), (219, 219, 141), (23, 190, 207), (158, 218, 229)][colors_index_offset:]
+
+    # Scale the RGB values to the [0, 1] range, which is the format matplotlib accepts.
+    for i in range(len(COLORS)):
+        r, g, b = COLORS[i]
+        COLORS[i] = r / 255., g / 255., b / 255.
+
+    fig = plt.figure(figsize=(12, 14))
+
+    index = 0
     for name, totalWord, serie in series:
         ax = serie.plot(
-            kind="area",
-            title="Mots écrits par auteur vivant à une période donnée",
+            kind=kind,
+            title=title,
             legend=True,
-            label=template.format(corpus=name, words=totalWord)
+            label=template.format(corpus=name, words=totalWord),
+            color=COLORS[index]
         )
+        index += 1
         fig.add_axes(ax)
+
+    # Put a legend below current axis
+    fig.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05), fancybox=True, shadow=True, ncol=5)
+
     plt.savefig(fname)
 
 
@@ -34,11 +60,13 @@ def run(corpora):
     data = [
         (
             "Catalogue Latin d'après le Perseus Catalog",
+            len(wc),
             sum([v for li in wc.values() for v in li]),
             *time_analysis(graph, wc, False, False)
         ),
         (
             "Corpus global latin ouvert Capitains",
+            len(texts_dict),
             sum([v for li in texts_dict.values() for v in li]),
             *time_analysis(graph, texts_dict)
         )
@@ -47,6 +75,7 @@ def run(corpora):
         corpus.parse()
         data.append((
             corpus.name,
+            len(corpus.words),
             sum([len(li) for li in corpus.words.values()]),
             *time_analysis(graph, corpus.tokens_by_document, False, False))
         )
@@ -55,24 +84,29 @@ def run(corpora):
     draw_tokens_representation(
         series=[
             (name, words, tokens_per_year)
-            for name, words, accumulated_tokens, tokens_per_year, text_per_year in data
+            for name, texts_count, words, accumulated_tokens, tokens_per_year, text_per_year in data
         ],
         fname="results/analysis/corpus_analysis/treebank_representativite.png"
     )
     draw_tokens_representation(
         series=[
-            (name, words, text_per_year)
-            for name, words, accumulated_tokens, tokens_per_year, text_per_year in data
+            (name, texts_count, text_per_year)
+            for name, texts_count, words, accumulated_tokens, tokens_per_year, text_per_year in data
         ],
-        fname="results/analysis/corpus_analysis/treebank_representativite_texts.png"
+        fname="results/analysis/corpus_analysis/treebank_representativite_texts.png",
+        kind="bar",
+        template="{corpus} ({words} textes)",
+        title="Textes écrits par auteur vivant à une période donnée"
     )
     draw_tokens_representation(
         series=[
             (name, words, tokens_per_year/data[0][3])
-            for name, words, accumulated_tokens, tokens_per_year, text_per_year in data[1:]
+            for name, texts_count, words, accumulated_tokens, tokens_per_year, text_per_year in data[1:]
         ],
         fname="results/analysis/corpus_analysis/treebank_representativite_relatif.png",
-        template="{corpus} ({words} mots)"
+        template="{corpus} ({words} mots)",
+        title="Représentativité du corpus vis-à-vis des décompte du catalogue de Perseus",
+        colors_index_offset=1
     )
 
     template = "| {:<64} | {:<10} |\n"

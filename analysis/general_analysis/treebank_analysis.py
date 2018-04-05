@@ -76,6 +76,15 @@ def run(corpora):
             *time_analysis(graph, texts_dict, draw=False)
         )
     ]
+
+    hypothetical = _Serie(
+        "Hypothetical real words",
+        None,
+        max(pandas.DataFrame([data[0].accumulated_tokens, data[1].accumulated_tokens]).max()),
+        pandas.DataFrame([data[0].accumulated_tokens, data[1].accumulated_tokens]).max(),
+        pandas.DataFrame([data[0].tokens_per_year, data[1].tokens_per_year]).max(),
+        pandas.DataFrame([data[0].text_per_year, data[1].text_per_year]).max(),
+    )
     for corpus in corpora:
         corpus.parse()
         data.append(_Serie(
@@ -116,7 +125,7 @@ def run(corpora):
             (
                 serie.name,
                 serie.word_count,
-                serie.accumulated_tokens/data[0].accumulated_tokens  # Maybe use Max(catalog, capitains) ?
+                serie.accumulated_tokens/hypothetical.accumulated_tokens
             )
             for serie in data[2:]
         ],
@@ -125,6 +134,9 @@ def run(corpora):
         title="Représentativité du corpus vis-à-vis des décompte du catalogue de Perseus (en mots accumulés)",
         colors_index_offset=2
     )
+    print(hypothetical.word_count)
+
+    # BUG DANS LES MOTS ACCUMULES : Catalog devrait être au double de Capitains
 
     template = "| {:<64} | {:<10} |\n"
     for corpus in corpora:

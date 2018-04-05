@@ -3,7 +3,7 @@ import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
 import matplotlib.pyplot as plt
-
+import pandas
 
 _Serie = collections.namedtuple("Serie",
                                 ["name", "text_count", "word_count",
@@ -73,7 +73,7 @@ def run(corpora):
             "Corpus global latin ouvert Capitains",
             len(texts_dict),
             sum([v for li in texts_dict.values() for v in li]),
-            *time_analysis(graph, texts_dict)
+            *time_analysis(graph, texts_dict, draw=False)
         )
     ]
     for corpus in corpora:
@@ -91,7 +91,7 @@ def run(corpora):
             (serie.name, serie.word_count, serie.tokens_per_year)
             for serie in data
         ],
-        fname="results/analysis/corpus_analysis/treebank_representativite.png"
+        fname="results/analysis/treebank_analysis/treebank_representativite.png"
     )
     draw_tokens_representation(
         series=[
@@ -99,24 +99,28 @@ def run(corpora):
             for serie in data
         ],
         title="Mot accumulés",
-        fname="results/analysis/corpus_analysis/treebank_accumulation.png"
+        fname="results/analysis/treebank_analysis/treebank_accumulation.png"
     )
     draw_tokens_representation(
         series=[
             (serie.name, serie.text_count, serie.text_per_year)
             for serie in data
         ],
-        fname="results/analysis/corpus_analysis/treebank_representativite_texts.png",
+        fname="results/analysis/treebank_analysis/treebank_representativite_texts.png",
         kind="bar",
         template="{corpus} ({words} textes)",
         title="Textes écrits par auteur vivant à une période donnée"
     )
     draw_tokens_representation(
         series=[
-            (serie.name, serie.word_count, serie.accumulated_tokens/data[0].accumulated_tokens)
+            (
+                serie.name,
+                serie.word_count,
+                serie.accumulated_tokens/data[0].accumulated_tokens  # Maybe use Max(catalog, capitains) ?
+            )
             for serie in data[2:]
         ],
-        fname="results/analysis/corpus_analysis/treebank_representativite_relatif.png",
+        fname="results/analysis/treebank_analysis/treebank_representativite_relatif.png",
         template="{corpus} ({words} mots)",
         title="Représentativité du corpus vis-à-vis des décompte du catalogue de Perseus (en mots accumulés)",
         colors_index_offset=2
@@ -124,7 +128,7 @@ def run(corpora):
 
     template = "| {:<64} | {:<10} |\n"
     for corpus in corpora:
-        with open("results/analysis/corpus_analysis/treebank_"+corpus.name+".md", "w") as f:
+        with open("results/analysis/treebank_analysis/treebank_"+corpus.name+".md", "w") as f:
             f.write(template.format('Documents', 'Tokens'))
             f.write(template.format("--", "--"))
             for word, tokens in corpus.words.items():

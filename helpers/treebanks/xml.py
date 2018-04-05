@@ -1,7 +1,6 @@
 import lxml.etree
 import collections
 import os
-import statistics
 from MyCapytain.common.reference import URN
 
 from .base import TreebankCorpus

@@ -1,4 +1,10 @@
 import click
+import glob
+import os
+import shutil
+from multiprocessing.pool import ThreadPool
+from subprocess import call
+
 from helpers.printing import TASK_SEPARATOR, SUBTASK_SEPARATOR
 
 import helpers.download
@@ -6,15 +12,11 @@ import helpers.reader
 import helpers.metadata
 import helpers.exporter
 import helpers.treebanks
+import helpers.metadata.wordcounts
 
 import analysis.general_analysis.treebank_analysis
 import analysis.general_analysis.corpus_analysis
 import analysis.field_analysis.embeddings_analysis
-import glob
-import os
-import shutil
-from multiprocessing.pool import ThreadPool
-from subprocess import call
 
 
 CORPUS_PATH = "data/curated/corpus/generic/**/*.txt"
@@ -29,7 +31,8 @@ def cli():
 @click.option('--corpus', is_flag=True, help='Update corpus')
 @click.option('--force', is_flag=True, help='Force download')
 @click.option("--treebank", is_flag=True, help="Update treebanks")
-def download(corpus=False, force=False, treebank=False):
+@click.option("--wordcount", is_flag=True, help="Update Word Counts Metadata")
+def download(corpus=False, force=False, treebank=False, wordcount=False):
     """ Refresh corpora if need be """
     if corpus:
         helpers.download.download_corpora(force=force)
@@ -42,6 +45,16 @@ def download(corpus=False, force=False, treebank=False):
             src="data/raw/treebanks_conllu.csv", tgt="data/raw/treebanks_conllu/", force=force,
             is_capitains=False
         )
+    if wordcount:
+        helpers.download.download_corpora(
+            src="data/raw/metadatas.csv", tgt="data/raw/metadatas/", force=force,
+            is_capitains=False
+        )
+
+
+@cli.command("wordcount-build", help="Build wordcounts informations")
+def wc_build():
+    helpers.metadata.wordcounts.build()
 
 
 @cli.command("treebank-build")

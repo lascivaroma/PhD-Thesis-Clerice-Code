@@ -1,4 +1,7 @@
-from .corpus_analysis import get_graph, get_texts, get_text_length_dict, time_analysis
+from .corpus_analysis import time_analysis
+
+from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
+from helpers.metadata import wordcounts
 import matplotlib.pyplot as plt
 
 
@@ -26,7 +29,20 @@ def run(corpora):
     # And the list of texts as a dictionary of text: text_length
     texts_dict = get_text_length_dict(texts)
 
-    data = [("Corpus global latin ouvert Capitains", sum([v for li in texts_dict.values() for v in li]), *time_analysis(graph, texts_dict))]
+    wc = wordcounts.build()
+
+    data = [
+        (
+            "Catalogue Latin d'après le Perseus Catalog",
+            sum([v for li in wc.values() for v in li]),
+            *time_analysis(graph, wc, False, False)
+        ),
+        (
+            "Corpus global latin ouvert Capitains",
+            sum([v for li in texts_dict.values() for v in li]),
+            *time_analysis(graph, texts_dict)
+        )
+    ]
     for corpus in corpora:
         corpus.parse()
         data.append((

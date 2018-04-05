@@ -1,4 +1,4 @@
-from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
+from helpers.reader.curated import get_graph, get_texts, get_text_length_dict, texts_date, tg_dates, ignored
 from pandas import Series
 from operator import itemgetter
 import matplotlib.pyplot as matplot_plot
@@ -27,50 +27,6 @@ def texts_between(graph, start, end):
     """ + filters + """
         }""")
     return [str(r) for r, *_ in results]
-
-
-def texts_date(graph):
-    """ Get text using a range
-
-    :param graph: Graph to use to retrieve date
-    :return: {TextID : [StartDate, EndDate]}
-    """
-    results = graph.query("""SELECT DISTINCT ?s ?sdate ?edate
-        WHERE {
-            ?s lr:EndDate ?edate .
-            ?s lr:StartDate ?sdate .
-            ?s lr:Ignore false
-        }""")
-    return {str(r): (int(s), int(e)) for r, s, e in results}
-
-
-def ignored(graph):
-    """ Get text using a range
-
-    :param graph: Graph to use to retrieve date
-    :return: [TextId]
-    """
-    results = graph.query("""SELECT DISTINCT ?s
-        WHERE {
-            ?s lr:Ignore true
-        }""")
-    return [str(r) for r, *_ in results]
-
-
-def tg_dates(graph, tg):
-    """ Get text using a range
-
-    :param graph: Graph to use to retrieve date
-    :return: {TextID : [StartDate, EndDate]}
-    """
-    results = graph.query("""SELECT DISTINCT ?sdate ?edate
-        WHERE {
-            <"""+tg+"""> lr:EndDate ?edate .
-            <"""+tg+"""> lr:StartDate ?sdate
-        }""")
-    for s, e in results:
-        return (int(s), int(e))
-    return None
 
 
 def authors_name(graph):

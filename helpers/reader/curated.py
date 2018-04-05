@@ -50,3 +50,47 @@ def get_text_length_dict(texts):
     for text, text_id in texts:
         texts_dicts[text_id].append(get_text_length(text))
     return texts_dicts
+
+
+def texts_date(graph):
+    """ Get text using a range
+
+    :param graph: Graph to use to retrieve date
+    :return: {TextID : [StartDate, EndDate]}
+    """
+    results = graph.query("""SELECT DISTINCT ?s ?sdate ?edate
+        WHERE {
+            ?s lr:EndDate ?edate .
+            ?s lr:StartDate ?sdate .
+            ?s lr:Ignore false
+        }""")
+    return {str(r): (int(s), int(e)) for r, s, e in results}
+
+
+def tg_dates(graph, tg):
+    """ Get textgroup (Authors) dates
+
+    :param graph: Graph to use to retrieve date
+    :return: {TextID : [StartDate, EndDate]}
+    """
+    results = graph.query("""SELECT DISTINCT ?sdate ?edate
+        WHERE {
+            <"""+tg+"""> lr:EndDate ?edate .
+            <"""+tg+"""> lr:StartDate ?sdate
+        }""")
+    for s, e in results:
+        return int(s), int(e)
+    return None
+
+
+def ignored(graph):
+    """ Get ignored texts
+
+    :param graph: Graph to use to retrieve date
+    :return: [TextId]
+    """
+    results = graph.query("""SELECT DISTINCT ?s
+        WHERE {
+            ?s lr:Ignore true
+        }""")
+    return [str(r) for r, *_ in results]

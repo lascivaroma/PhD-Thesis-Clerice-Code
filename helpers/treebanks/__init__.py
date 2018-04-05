@@ -21,7 +21,7 @@ Perseus = ConlluTreebank(
 
 
 Corpora = [
-    #Harrington,
-    #Proiel,
+    Harrington,
+    Proiel,
     Perseus
 ]

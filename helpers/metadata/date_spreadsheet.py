@@ -3,6 +3,8 @@ from csv import DictReader
 import rdflib
 import rdflib.namespace
 import MyCapytain.common.constants
+from MyCapytain.common.reference import URN
+
 from .ns import SemanticCut, StartDate, EndDate, Ignore
 from ..printing import SUBTASK_SEPARATOR, TASK_SEPARATOR, SUBSUBTASK_SEPARATOR
 
@@ -15,6 +17,7 @@ def read_datation_spreadsheet(src="data/raw/datation.tsv"):
     """
     print(TASK_SEPARATOR+"Parsing original csv file")
     urns = {}
+    authors = {}
     with open(src) as src_file:
         reader = DictReader(src_file, delimiter="\t")
         for row in reader:
@@ -29,6 +32,16 @@ def read_datation_spreadsheet(src="data/raw/datation.tsv"):
             except Exception as E:
                 print(SUBTASK_SEPARATOR+"Text {} has an error".format(row["URN"]))
                 print(E)
+            author = URN(row["URN"])
+            author = str(author.upTo(URN.TEXTGROUP))
+            if author not in authors:
+                urns[author] = additional_infos(
+                    CutAt=None,
+                    Ignore=None,
+                    StartDate=row["Birth"],
+                    EndDate=row["Death"],
+                    Author=row["Nom FR"]
+                )
     return urns
 
 
@@ -55,9 +68,12 @@ def feed_resolver(metadata_urn, resolver):
             node, graph = rdflib.URIRef(urn), resolver.inventory.graph
             graph.add((node, StartDate, rdflib.Literal(informations.StartDate, datatype=rdflib.namespace.XSD.integer)))
             graph.add((node, EndDate, rdflib.Literal(informations.EndDate, datatype=rdflib.namespace.XSD.integer)))
-            graph.add((node, Ignore, rdflib.Literal(informations.Ignore, datatype=rdflib.namespace.XSD.boolean)))
-            graph.add((node, SemanticCut, rdflib.Literal(informations.CutAt, datatype=rdflib.namespace.XSD.integer)))
             graph.add((node, rdflib.namespace.DC.term("author"), rdflib.Literal(informations.Author, lang="fre")))
+            if informations.Ignore is not None:
+                graph.add((node, Ignore, rdflib.Literal(informations.Ignore,
+                                                        datatype=rdflib.namespace.XSD.boolean)))
+                graph.add((node, SemanticCut, rdflib.Literal(informations.CutAt,
+                                                             datatype=rdflib.namespace.XSD.integer)))
 
     print(SUBTASK_SEPARATOR+"Texts having no enhanced metadata : "+", ".join(texts))
     return resolver

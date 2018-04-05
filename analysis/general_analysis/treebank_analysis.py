@@ -2,18 +2,18 @@ from .corpus_analysis import get_graph, get_texts, get_text_length_dict, time_an
 import matplotlib.pyplot as plt
 
 
-def draw_tokens_representation(series, names):
+def draw_tokens_representation(series, fname, template="{corpus} ({words} mots)"):
     """ Draw the series in one fig"""
     fig = plt.figure()
-    for name, totalWord, accumulated_tokens, tokens_per_year, text_per_year in series:
-        ax = tokens_per_year.plot(
+    for name, totalWord, serie in series:
+        ax = serie.plot(
             kind="area",
             title="Mots écrits par auteur vivant à une période donnée",
             legend=True,
-            label="{corpus} ({words} mots)".format(corpus=name, words=totalWord)
+            label=template.format(corpus=name, words=totalWord)
         )
         fig.add_axes(ax)
-    plt.savefig("results/analysis/corpus_analysis/treebank_representativite.png")
+    plt.savefig(fname)
 
 
 def run(corpora):
@@ -34,10 +34,30 @@ def run(corpora):
             sum([len(li) for li in corpus.words.values()]),
             *time_analysis(graph, corpus.tokens_by_document, False, False))
         )
-
     # MEME CHOSE AVEC LES POURCENTAGES PAR RAPPORT a TEXTS_DICT
 
-    draw_tokens_representation(data, ("x.png", "y.png", "z.png"))
+    draw_tokens_representation(
+        series=[
+            (name, words, tokens_per_year)
+            for name, words, accumulated_tokens, tokens_per_year, text_per_year in data
+        ],
+        fname="results/analysis/corpus_analysis/treebank_representativite.png"
+    )
+    draw_tokens_representation(
+        series=[
+            (name, words, text_per_year)
+            for name, words, accumulated_tokens, tokens_per_year, text_per_year in data
+        ],
+        fname="results/analysis/corpus_analysis/treebank_representativite_texts.png"
+    )
+    draw_tokens_representation(
+        series=[
+            (name, words, tokens_per_year/data[0][3])
+            for name, words, accumulated_tokens, tokens_per_year, text_per_year in data[1:]
+        ],
+        fname="results/analysis/corpus_analysis/treebank_representativite_relatif.png",
+        template="{corpus} ({words} mots)"
+    )
 
     template = "| {:<64} | {:<10} |\n"
     for corpus in corpora:

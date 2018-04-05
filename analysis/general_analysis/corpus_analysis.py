@@ -44,6 +44,35 @@ def texts_date(graph):
     return {str(r): (int(s), int(e)) for r, s, e in results}
 
 
+def ignored(graph):
+    """ Get text using a range
+
+    :param graph: Graph to use to retrieve date
+    :return: [TextId]
+    """
+    results = graph.query("""SELECT DISTINCT ?s
+        WHERE {
+            ?s lr:Ignore true
+        }""")
+    return [str(r) for r, *_ in results]
+
+
+def tg_dates(graph, tg):
+    """ Get text using a range
+
+    :param graph: Graph to use to retrieve date
+    :return: {TextID : [StartDate, EndDate]}
+    """
+    results = graph.query("""SELECT DISTINCT ?sdate ?edate
+        WHERE {
+            <"""+tg+"""> lr:EndDate ?edate .
+            <"""+tg+"""> lr:StartDate ?sdate
+        }""")
+    for s, e in results:
+        return (int(s), int(e))
+    return None
+
+
 def authors_name(graph):
     """ Get texts names
 
@@ -105,6 +134,7 @@ def time_analysis(graph, texts, draw=True, print_missing=True):
     """
     # Get dates for each text
     dates = {k: range(values[0], values[1]+1) for k, values in texts_date(graph).items()}
+    to_ignore = ignored(graph)
 
     # Create tokens year dict
     tokens_per_year = {year: 0 for year in range(START, END+1)}
@@ -115,9 +145,23 @@ def time_analysis(graph, texts, draw=True, print_missing=True):
     first_year_tokens = []
 
     # Check that all texts are in the date informations
+    # If they do not have date, check that we have Textgroup information
+    textgroups = {}
     for text_id in texts:
-        if text_id not in dates:
-            print(text_id + " has no dates informations")
+        if text_id not in dates and text_id not in to_ignore:
+            tg = URN(text_id)
+            tg = str(tg.upTo(URN.TEXTGROUP))
+            _dates = tg_dates(graph, tg)
+            if _dates:
+                textgroups[text_id] = _dates
+                print("Dates for {} comes from textgroup data".format(text_id))
+            else:
+                print(text_id + " has no dates informations")
+    if len(textgroups):
+        dates.update({
+            k: range(values[0], values[1] + 1)
+            for k, values in textgroups.items()
+        })
 
     # Feed the tokens !
     for text_id, daterange in dates.items():

@@ -14,7 +14,14 @@ Proiel = ConlluTreebank(
 )
 
 
+Perseus = ConlluTreebank(
+    "data/raw/treebanks_conllu/UniversalDependencies_UD_Latin-Perseus/UD_Latin-Perseus-*/*.conllu",
+    name="Perseus UD Treebanks"
+)
+
+
 Corpora = [
-    Harrington,
-    Proiel
+    #Harrington,
+    #Proiel,
+    Perseus
 ]

@@ -24,6 +24,18 @@ Conversion_table = {
 
 
 def conversion(doc_id):
+    # Perseus TB
+    if ".xml" in doc_id:
+        prefix = "latinLit"
+        if "tlg" in doc_id:
+            prefix = "greekLit"
+
+        doc_id = "urn:cts:{pref}:{name}".format(
+            pref=prefix,
+            name=doc_id.replace(".tb.xml", "").replace("@", ":").replace("lat1", "lat2")
+        )
+        return doc_id
+    # Proiel
     if doc_id.startswith("Jerome's Vulgate") or doc_id.startswith("MATT_"):
         doc_id = "urn:cts:greekLit:tlg0031.tlg001.perseus-lat2"
         return doc_id

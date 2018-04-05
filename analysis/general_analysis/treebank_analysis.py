@@ -1,8 +1,13 @@
 from .corpus_analysis import time_analysis
-
+import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
 import matplotlib.pyplot as plt
+
+
+_Serie = collections.namedtuple("Serie",
+                                ["name", "text_count", "word_count",
+                                 "accumulated_tokens", "tokens_per_year", "text_per_year"])
 
 
 def draw_tokens_representation(
@@ -58,13 +63,13 @@ def run(corpora):
     wc = wordcounts.build()
 
     data = [
-        (
+        _Serie(
             "Catalogue Latin d'après le Perseus Catalog",
             len(wc),
             sum([v for li in wc.values() for v in li]),
             *time_analysis(graph, wc, False, False)
         ),
-        (
+        _Serie(
             "Corpus global latin ouvert Capitains",
             len(texts_dict),
             sum([v for li in texts_dict.values() for v in li]),
@@ -73,7 +78,7 @@ def run(corpora):
     ]
     for corpus in corpora:
         corpus.parse()
-        data.append((
+        data.append(_Serie(
             corpus.name,
             len(corpus.words),
             sum([len(li) for li in corpus.words.values()]),
@@ -83,15 +88,23 @@ def run(corpora):
 
     draw_tokens_representation(
         series=[
-            (name, words, tokens_per_year)
-            for name, texts_count, words, accumulated_tokens, tokens_per_year, text_per_year in data
+            (serie.name, serie.word_count, serie.tokens_per_year)
+            for serie in data
         ],
         fname="results/analysis/corpus_analysis/treebank_representativite.png"
     )
     draw_tokens_representation(
         series=[
-            (name, texts_count, text_per_year)
-            for name, texts_count, words, accumulated_tokens, tokens_per_year, text_per_year in data
+            (serie.name, serie.word_count, serie.accumulated_tokens)
+            for serie in data
+        ],
+        title="Mot accumulés",
+        fname="results/analysis/corpus_analysis/treebank_accumulation.png"
+    )
+    draw_tokens_representation(
+        series=[
+            (serie.name, serie.text_count, serie.text_per_year)
+            for serie in data
         ],
         fname="results/analysis/corpus_analysis/treebank_representativite_texts.png",
         kind="bar",
@@ -100,13 +113,13 @@ def run(corpora):
     )
     draw_tokens_representation(
         series=[
-            (name, words, tokens_per_year/data[0][3])
-            for name, texts_count, words, accumulated_tokens, tokens_per_year, text_per_year in data[1:]
+            (serie.name, serie.word_count, serie.accumulated_tokens/data[0].accumulated_tokens)
+            for serie in data[2:]
         ],
         fname="results/analysis/corpus_analysis/treebank_representativite_relatif.png",
         template="{corpus} ({words} mots)",
-        title="Représentativité du corpus vis-à-vis des décompte du catalogue de Perseus",
-        colors_index_offset=1
+        title="Représentativité du corpus vis-à-vis des décompte du catalogue de Perseus (en mots accumulés)",
+        colors_index_offset=2
     )
 
     template = "| {:<64} | {:<10} |\n"

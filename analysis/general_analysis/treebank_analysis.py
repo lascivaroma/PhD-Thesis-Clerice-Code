@@ -2,8 +2,8 @@ from .corpus_analysis import time_analysis
 import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
+from helpers.treebanks import Corpora
 import matplotlib.pyplot as plt
-import pandas
 import copy
 
 
@@ -52,17 +52,13 @@ def draw_tokens_representation(
     plt.savefig(fname)
 
 
-def run(corpora):
-    """ Run a generic analysis"""
-    graph = get_graph()
+def build_series(graph, texts_dict, wc):
+    """ Build data series
 
-    # And the list of texts as a dictionary of text: text_length
-    texts = get_texts()
-
-    # And the list of texts as a dictionary of text: text_length
-    texts_dict = get_text_length_dict(texts)
-
-    wc = wordcounts.build()
+    :param graph: Metadata graph
+    :param texts_dict: Dictionary of Text_ID : [WordCount]
+    :param wc: Word count dictionaries from Perseus catalog (TextId : [WordCount])
+    """
 
     data = [
         _Serie(
@@ -89,9 +85,7 @@ def run(corpora):
         *time_analysis(graph, hypo_dict, draw=False, print_missing=False)
     )
 
-    print(hypothetical.word_count)
-
-    for corpus in corpora:
+    for corpus in Corpora:
         corpus.parse()
         data.append(_Serie(
             corpus.name,
@@ -99,8 +93,15 @@ def run(corpora):
             sum([len(li) for li in corpus.words.values()]),
             *time_analysis(graph, corpus.tokens_by_document, False, False))
         )
-    # MEME CHOSE AVEC LES POURCENTAGES PAR RAPPORT a TEXTS_DICT
+    return data, hypothetical
 
+
+def draw_series_graph(data, hypothetical):
+    """ Draw each graph analysis for each series
+
+    :param data: Series Data
+    :param hypothetical: Hypothetical max count Serie
+    """
     draw_tokens_representation(
         series=[
             (serie.name, serie.word_count, serie.tokens_per_year)
@@ -141,7 +142,25 @@ def run(corpora):
         colors_index_offset=2
     )
 
-    # BUG DANS LES MOTS ACCUMULES : Catalog devrait être au double de Capitains
+
+def run(corpora):
+    """ Run a generic analysis"""
+    graph = get_graph()
+
+    # And the list of texts as a dictionary of text: text_length
+    texts = get_texts()
+
+    # And the list of texts as a dictionary of text: text_length
+    texts_dict = get_text_length_dict(texts)
+
+    # Get the word count from Perseus catalog
+    wc = wordcounts.build()
+
+    # Build Pandas Series
+    data, hypothetical = build_series(graph, texts_dict, wc)
+
+    # Draw graph representation of series
+    draw_series_graph(data, hypothetical)
 
     template = "| {:<64} | {:<10} |\n"
     for corpus in corpora:

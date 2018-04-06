@@ -87,4 +87,4 @@ class ConlluTreebank(TreebankCorpus):
             self._words[doc] += words
             self._lemmas[doc] += lemmas
             for postag in postags:
-                self._types[doc][postag[0]] += 1
+                self._types[doc][postag] += 1

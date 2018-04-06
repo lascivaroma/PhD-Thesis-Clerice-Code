@@ -2,9 +2,10 @@ from .corpus_analysis import time_analysis
 import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
-from helpers.treebanks import Corpora
+from helpers.treebanks import Corpora, flatten_doc_dict
 import matplotlib.pyplot as plt
 import copy
+import pandas
 
 
 _Serie = collections.namedtuple("Serie",
@@ -143,6 +144,17 @@ def draw_series_graph(data, hypothetical):
     )
 
 
+def draw_corpus_POS():
+    """ Draw corpus POS
+    """
+    for corpus in Corpora:
+        serie = pandas.Series(flatten_doc_dict(corpus.types))
+        serie = serie / corpus.diversity["Formes"]
+        fig = plt.figure()
+        serie.plot(kind="bar", title="POS types per Token ("+corpus.name+")")
+        fig.savefig("results/analysis/treebank_analysis/treebank_"+corpus.name+"_POS.png")
+
+
 def run(corpora):
     """ Run a generic analysis"""
     graph = get_graph()
@@ -160,7 +172,10 @@ def run(corpora):
     data, hypothetical = build_series(graph, texts_dict, wc)
 
     # Draw graph representation of series
-    draw_series_graph(data, hypothetical)
+    #draw_series_graph(data, hypothetical)
+
+    # Drawing graphical analysis of each corpus
+    draw_corpus_POS()
 
     template = "| {:<64} | {:<10} |\n"
     for corpus in corpora:

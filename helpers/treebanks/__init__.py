@@ -1,6 +1,6 @@
 from .xml import PerseidsXMLCorpus
 from .conllu import ConlluTreebank
-
+from .utils import flatten_doc_dict
 
 Harrington = PerseidsXMLCorpus(
     "data/raw/treebanks_xml/perseids-project_harrington_trees/harrington_trees-*/CITE_TREEBANK_XML/perseus/lattb/**/*.xml",

@@ -31,6 +31,25 @@ Keys_mapping = {
 }
 
 
+_CONLL_LA_CONV_DICT = {
+    "a": "ADJ",
+    "c": "CCONJ",
+    "d": "ADV",
+    "e": "INTJ",
+    "g": "PART",
+    "i": "INTJ",
+    "l": "DET",
+    "m": "NUM",
+    "n": "NOUN",
+    "p": "PRON",
+    "r": "ADP",
+    "t": "VERB",
+    "u": "PUNCT",
+    "v": "VERB",
+    "x": "X"
+}
+
+
 class PerseidsXMLCorpus(TreebankCorpus):
 
     def parse_sentences(self):
@@ -80,7 +99,7 @@ class PerseidsXMLCorpus(TreebankCorpus):
             self._lemmas[doc] += lemmas.split()
             for postag in s.xpath(".//@postag"):
                 try:
-                    self._types[doc][postag[0]] += 1
+                    self._types[doc][_CONLL_LA_CONV_DICT.get(postag[0], postag[0])] += 1
                 except:
                     # Pass
                     continue

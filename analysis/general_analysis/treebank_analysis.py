@@ -179,6 +179,23 @@ def draw_corpus_POS():
         fig.savefig("results/analysis/treebank_analysis/treebank_"+corpus.name+"_POS.png")
 
 
+def draw_lemma_distribution():
+    """ Draw form / lemma distributions """
+    draw_tokens_representation([
+        (
+            corpus.name,
+            corpus.diversity["Formes Uniques"],
+            pandas.Series(distribution({k: len(v) for k, v in corpus.lemma_forms.items()}))
+        )
+        for corpus in Filtered_Corpora
+    ], fname="results/analysis/treebank_analysis/treebank_distributions_form_lemme_ratio.png",
+        template="{corpus} ({words} formes uniques)",
+        title="Distributions des ratio Formes par Lemmes",
+        colors_index_offset=2,
+        plot_kwargs={"logy": True, "xlim": (1, 100)}, dimension=None
+    )
+
+
 def draw_zipf():
     """ Draw zipf distributions """
     forme_fig = draw_tokens_representation([
@@ -280,17 +297,19 @@ def run(corpora):
     corpus_data, data, filtered_data, hypothetical = build_series(graph, texts_dict, wc)
 
     # Draw graph representation of series
-    #draw_series_graph(corpus_data+data+filtered_data, hypothetical)
+    draw_series_graph(corpus_data+data+filtered_data, hypothetical)
 
     # Drawing graphical analysis of each corpus
-    #draw_corpus_POS()
+    draw_corpus_POS()
 
     # Draw ZIPF distribution analysis
-    #draw_zipf()
+    draw_zipf()
 
     # Build occurences table
-    #write_csv_top(10)
+    write_csv_top(10)
 
+    # Build lemma/form distribution
+    draw_lemma_distribution()
 
     template = "| {:<64} | {:<10} |\n"
 

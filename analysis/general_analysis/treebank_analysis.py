@@ -2,7 +2,7 @@ from .corpus_analysis import time_analysis
 import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
-from helpers.treebanks import Corpora, flatten_doc_dict
+from helpers.treebanks import Corpora, flatten_doc_dict, Filtered_Corpora, doc_token_dict_sum
 import matplotlib.pyplot as plt
 import copy
 import pandas
@@ -76,6 +76,8 @@ def build_series(graph, texts_dict, wc):
         )
     ]
 
+    InitialDataOffset = 2
+
     hypo_dict = copy.deepcopy(wc)
     hypo_dict.update(texts_dict)
 
@@ -91,10 +93,23 @@ def build_series(graph, texts_dict, wc):
         data.append(_Serie(
             corpus.name,
             len(corpus.words),
-            sum([len(li) for li in corpus.words.values()]),
+            doc_token_dict_sum(corpus.words),
             *time_analysis(graph, corpus.tokens_by_document, False, False))
         )
-    return data, hypothetical
+    filtered = []
+    for index, corpus in enumerate(Filtered_Corpora):
+        corpus.parse()
+
+        cwc = doc_token_dict_sum(corpus.words)
+
+        if cwc != data[index+InitialDataOffset].word_count:
+            filtered.append(_Serie(
+                corpus.name,
+                len(corpus.words),
+                cwc,
+                *time_analysis(graph, corpus.tokens_by_document, False, False))
+            )
+    return data, filtered, hypothetical
 
 
 def draw_series_graph(data, hypothetical):
@@ -169,10 +184,10 @@ def run(corpora):
     wc = wordcounts.build()
 
     # Build Pandas Series
-    data, hypothetical = build_series(graph, texts_dict, wc)
+    data, filtered_data, hypothetical = build_series(graph, texts_dict, wc)
 
     # Draw graph representation of series
-    #draw_series_graph(data, hypothetical)
+    draw_series_graph(data+filtered_data, hypothetical)
 
     # Drawing graphical analysis of each corpus
     draw_corpus_POS()

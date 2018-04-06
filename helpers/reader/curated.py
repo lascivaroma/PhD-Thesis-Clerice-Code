@@ -94,3 +94,4 @@ def ignored(graph):
             ?s lr:Ignore true
         }""")
     return [str(r) for r, *_ in results]
+

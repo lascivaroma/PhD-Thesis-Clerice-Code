@@ -65,7 +65,11 @@ class ConlluTreebank(TreebankCorpus):
                     }
 
                     try:
-                        tokens = parse(sentence)[0]
+                        tokens = [
+                            tok
+                            for tok in parse(sentence)[0]
+                            if not self.remove or not self.remove.match(tok["form"])
+                        ]
 
                         document_id = metadata.get("source", metadata.get("sent_id"))
                         document_id = URN(conversion(document_id))

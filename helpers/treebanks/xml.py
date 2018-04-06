@@ -79,10 +79,21 @@ class PerseidsXMLCorpus(TreebankCorpus):
                     document_id = URN(document_id)
                     document_id = str(document_id.upTo(URN.VERSION))
 
-                    words = " ".join(sentence.xpath(".//word/@form"))
-                    if words not in data[document_id]:
-                        yield document_id.replace("lat1", "lat2"), sentence, words, " ".join(sentence.xpath(".//word/@lemma"))
-                        data[document_id].append(words)
+                    tags = [
+                        tag
+                        for tag in sentence.xpath(".//word")
+                        if (not self.remove or not self.remove.match(tag.get("form"))) and
+                           tag.get("lemma")
+                    ]
+
+                    words = [tag.get("form") for tag in tags]
+                    lemmas = [tag.get("lemma") for tag in tags]
+                    postags = [tag.get("postag") for tag in tags]
+                    joined_words = " ".join(words)
+
+                    if joined_words not in data[document_id]:
+                        yield document_id.replace("lat1", "lat2"), tags, words, lemmas, postags
+                        data[document_id].append(joined_words)
                     else:
                         if filename not in said_it_was_a_duplicate:
                             print(SUBSUBTASK_SEPARATOR + filename + " is a duplicate treebank")
@@ -94,10 +105,10 @@ class PerseidsXMLCorpus(TreebankCorpus):
         ))
 
     def parse(self):
-        for doc, s, words, lemmas in self.parse_sentences():
-            self._words[doc] += words.split()
-            self._lemmas[doc] += lemmas.split()
-            for postag in s.xpath(".//@postag"):
+        for doc, s, words, lemmas, postags in self.parse_sentences():
+            self._words[doc] += words
+            self._lemmas[doc] += lemmas
+            for postag in postags:
                 try:
                     self._types[doc][_CONLL_LA_CONV_DICT.get(postag[0], postag[0])] += 1
                 except:

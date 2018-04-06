@@ -2,6 +2,7 @@ import abc
 import glob
 import statistics
 import collections
+import re
 
 
 class TreebankCorpus:
@@ -10,7 +11,7 @@ class TreebankCorpus:
     :param files: Files that needs to be read (can be a glob pattern)
     :param name: Name of the corpus
     """
-    def __init__(self, files, name):
+    def __init__(self, files, name, remove=None):
         self.name = name
         if isinstance(files, str):
             files = glob.glob(files)
@@ -19,6 +20,9 @@ class TreebankCorpus:
         self._words = collections.defaultdict(list)
         self._lemmas = collections.defaultdict(list)
         self._types = collections.defaultdict(lambda: collections.defaultdict(lambda: 0))
+        self.remove = remove
+        if remove:
+            self.remove = re.compile(remove)
 
     @property
     def doc_count(self):

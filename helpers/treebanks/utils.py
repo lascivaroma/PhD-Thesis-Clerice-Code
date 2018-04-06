@@ -11,3 +11,19 @@ def flatten_doc_dict(data):
     for count_dict in data.values():
         new.update(count_dict)
     return new
+
+
+def doc_token_dict_sum(data):
+    """ Token count Dict into count of words {docId : [words]} -> int
+
+    :param data:{docId : [tokenCount]}
+    :type data: dict
+    :return:
+    """
+    return sum([
+        len(tokenCount)
+        for tokenCountList in data.values()
+        for tokenCount in tokenCountList
+    ])
+
+

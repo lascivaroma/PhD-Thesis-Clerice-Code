@@ -6,6 +6,7 @@ from helpers.treebanks import Corpora, flatten_doc_dict, Filtered_Corpora, doc_t
 import matplotlib.pyplot as plt
 import copy
 import pandas
+import csv
 
 
 _Serie = collections.namedtuple("Serie",
@@ -223,6 +224,45 @@ def draw_zipf():
     )
 
 
+def write_csv_top(TOP_X=10):
+    """ Write CSV TOP X words (lemmas and formes)"""
+    CSV = [
+        ["Rank / Corpus"] + [str(i) for i in range(1, TOP_X+1)]
+    ]
+
+    for corpus in Filtered_Corpora:
+        formes, lemmes = corpus.occurence_count
+        top_formes = sorted([
+            (forme, forme_count)
+            for forme, forme_count in formes.items()
+        ], key=lambda x: x[1])[-TOP_X:][::-1]
+        top_lemmes = sorted([
+            (forme, forme_count)
+            for forme, forme_count in formes.items()
+        ], key=lambda x: x[1])[-TOP_X:][::-1]
+        CSV.append(
+            ["Lemmes" + corpus.name] +
+            [
+                "{} ({} occurences = {:.2f} %)".format(
+                    lemme, lemme_count, 100*lemme_count/corpus.diversity["Lemmas"]
+                ) for lemme, lemme_count in top_lemmes
+            ]
+        )
+        CSV.append(
+            ["Formes" + corpus.name] +
+            [
+                "{} ({} occurences = {:.2f} %)".format(
+                    forme, forme_count, 100*forme_count/corpus.diversity["Formes"]
+                ) for forme, forme_count in top_formes
+            ]
+        )
+
+    with open("results/analysis/treebank_analysis/treebank_top_"+str(TOP_X)+"_tokens.csv", "w") as f:
+        csv_writer = csv.writer(f)
+        for row in list(map(list, zip(*CSV))):  # Transpose the list
+            csv_writer.writerow(row)
+
+
 def run(corpora):
     """ Run a generic analysis"""
     graph = get_graph()
@@ -240,13 +280,16 @@ def run(corpora):
     corpus_data, data, filtered_data, hypothetical = build_series(graph, texts_dict, wc)
 
     # Draw graph representation of series
-    draw_series_graph(corpus_data+data+filtered_data, hypothetical)
+    #draw_series_graph(corpus_data+data+filtered_data, hypothetical)
 
     # Drawing graphical analysis of each corpus
-    draw_corpus_POS()
+    #draw_corpus_POS()
 
     # Draw ZIPF distribution analysis
-    draw_zipf()
+    #draw_zipf()
+
+    # Build occurences table
+    write_csv_top(10)
 
 
     template = "| {:<64} | {:<10} |\n"

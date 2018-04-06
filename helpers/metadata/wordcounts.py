@@ -3,6 +3,8 @@ from ..reader.curated import get_graph, tg_dates, ignored
 from MyCapytain.common.reference import URN
 import os
 import glob
+from ..cache import memoize
+
 
 NS = {
     "mods": "http://www.loc.gov/mods/v3"
@@ -31,8 +33,9 @@ def parse_namespace(graph, path, ns="latinLit", ignore=[]):
             continue
 
         dates = tg_dates(graph, textgroup)
-        if not dates and ns == "latinLit":
-            MISSING.append(textgroup)
+        if not dates:
+            if ns == "latinLit":
+                MISSING.append(textgroup)
             continue
 
         for work_dir in glob.glob(os.path.join(textgroup_dir, "**")):
@@ -59,6 +62,7 @@ def parse_namespace(graph, path, ns="latinLit", ignore=[]):
     return token_count
 
 
+@memoize
 def build(path="data/raw/metadatas/PerseusDL_catalog_data/catalog_data-*/mods"):
     """ Build a {textId: [tokenCount]} of all known texts of annotated authors
 

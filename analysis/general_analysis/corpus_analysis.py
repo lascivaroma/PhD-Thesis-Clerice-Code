@@ -7,7 +7,7 @@ from numpy import mean, median
 
 PERIODS = 25
 START, END = -300, 750
-
+PRINT = False
 
 def texts_between(graph, start, end):
     """ Get text using a range
@@ -110,7 +110,8 @@ def time_analysis(graph, texts, draw=True, print_missing=True):
             _dates = tg_dates(graph, tg)
             if _dates:
                 textgroups[text_id] = _dates
-                print("Dates for {} comes from textgroup data".format(text_id))
+                if PRINT:
+                    print("Dates for {} comes from textgroup data".format(text_id))
             else:
                 print(text_id + " has no dates informations")
     if len(textgroups):

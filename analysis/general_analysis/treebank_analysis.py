@@ -4,6 +4,8 @@ from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
 import matplotlib.pyplot as plt
 import pandas
+import copy
+
 
 _Serie = collections.namedtuple("Serie",
                                 ["name", "text_count", "word_count",
@@ -73,18 +75,22 @@ def run(corpora):
             "Corpus global latin ouvert Capitains",
             len(texts_dict),
             sum([v for li in texts_dict.values() for v in li]),
-            *time_analysis(graph, texts_dict, draw=False)
+            *time_analysis(graph, texts_dict, draw=False, print_missing=False)
         )
     ]
 
+    hypo_dict = copy.deepcopy(wc)
+    hypo_dict.update(texts_dict)
+
     hypothetical = _Serie(
-        "Hypothetical real words",
-        None,
-        max(pandas.DataFrame([data[0].accumulated_tokens, data[1].accumulated_tokens]).max()),
-        pandas.DataFrame([data[0].accumulated_tokens, data[1].accumulated_tokens]).max(),
-        pandas.DataFrame([data[0].tokens_per_year, data[1].tokens_per_year]).max(),
-        pandas.DataFrame([data[0].text_per_year, data[1].text_per_year]).max(),
+        "Hypothetical number of words based on maximum values",
+        len(hypo_dict),
+        sum([v for li in hypo_dict.values() for v in li]),
+        *time_analysis(graph, hypo_dict, draw=False, print_missing=False)
     )
+
+    print(hypothetical.word_count)
+
     for corpus in corpora:
         corpus.parse()
         data.append(_Serie(
@@ -131,10 +137,9 @@ def run(corpora):
         ],
         fname="results/analysis/treebank_analysis/treebank_representativite_relatif.png",
         template="{corpus} ({words} mots)",
-        title="Représentativité du corpus vis-à-vis des décompte du catalogue de Perseus (en mots accumulés)",
+        title="Couverture (en %) du corpus latin comptabilisé (Perseus Catalog et Capitains) ",
         colors_index_offset=2
     )
-    print(hypothetical.word_count)
 
     # BUG DANS LES MOTS ACCUMULES : Catalog devrait être au double de Capitains
 

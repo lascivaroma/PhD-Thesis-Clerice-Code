@@ -113,7 +113,7 @@ def draw_series_graph(data, hypothetical):
         series=[
             (serie.name, serie.word_count, serie.accumulated_tokens)
             for serie in data
-        ],
+        ] + [(hypothetical.name, hypothetical.word_count, hypothetical.accumulated_tokens)],
         title="Mot accumulés",
         fname="results/analysis/treebank_analysis/treebank_accumulation.png"
     )

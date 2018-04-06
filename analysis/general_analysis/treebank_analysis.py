@@ -289,7 +289,7 @@ def run(corpora):
     #draw_zipf()
 
     # Build occurences table
-    write_csv_top(10)
+    #write_csv_top(10)
 
 
     template = "| {:<64} | {:<10} |\n"

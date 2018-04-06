@@ -90,5 +90,7 @@ class ConlluTreebank(TreebankCorpus):
         for doc, s, words, lemmas, postags in self.parse_sentences():
             self._words[doc] += words
             self._lemmas[doc] += lemmas
+            for tok in s:
+                self._lemma_forms[tok.get("lemma")].add(tok.get("form"))
             for postag in postags:
                 self._types[doc][postag] += 1

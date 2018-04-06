@@ -19,6 +19,7 @@ class TreebankCorpus:
         self._diversity = None
         self._words = collections.defaultdict(list)
         self._lemmas = collections.defaultdict(list)
+        self._lemma_forms = collections.defaultdict(set)
         self._types = collections.defaultdict(lambda: collections.defaultdict(lambda: 0))
         self.remove = remove
         if remove:
@@ -43,6 +44,10 @@ class TreebankCorpus:
     @property
     def types(self):
         return self._types
+
+    @property
+    def lemma_forms(self):
+        return self._lemma_forms
 
     @abc.abstractmethod
     def parse(self):

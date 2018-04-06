@@ -108,6 +108,8 @@ class PerseidsXMLCorpus(TreebankCorpus):
         for doc, s, words, lemmas, postags in self.parse_sentences():
             self._words[doc] += words
             self._lemmas[doc] += lemmas
+            for tag in s:
+                self._lemma_forms[tag.get("lemma")].add(tag.get("form"))
             for postag in postags:
                 try:
                     self._types[doc][_CONLL_LA_CONV_DICT.get(postag[0], postag[0])] += 1

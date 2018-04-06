@@ -2,7 +2,7 @@ from .corpus_analysis import time_analysis
 import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
-from helpers.treebanks import Corpora, flatten_doc_dict, Filtered_Corpora, doc_token_dict_sum
+from helpers.treebanks import Corpora, flatten_doc_dict, Filtered_Corpora, doc_token_dict_sum, distribution
 import matplotlib.pyplot as plt
 import copy
 import pandas
@@ -17,9 +17,11 @@ def draw_tokens_representation(
         series, fname,
         title="Mots écrits par auteur vivant à une période donnée", template="{corpus} ({words} mots)",
         kind="line",
-        colors_index_offset=0):
+        colors_index_offset=0, plot_kwargs=None, base_fig=None, dimension=(12, 14)):
 
     """ Draw the series in one fig"""
+    if plot_kwargs is None:
+        plot_kwargs = {}
 
     # These are the "Tableau 20" colors as RGB.
     COLORS = [(31, 119, 180), (174, 199, 232), (255, 127, 14), (255, 187, 120),
@@ -33,7 +35,12 @@ def draw_tokens_representation(
         r, g, b = COLORS[i]
         COLORS[i] = r / 255., g / 255., b / 255.
 
-    fig = plt.figure(figsize=(12, 14))
+    fig = base_fig
+    if not fig:
+        if dimension:
+            fig = plt.figure(figsize=dimension)
+        else:
+            fig = plt.figure()
 
     index = 0
     for name, totalWord, serie in series:
@@ -42,7 +49,8 @@ def draw_tokens_representation(
             title=title,
             legend=True,
             label=template.format(corpus=name, words=totalWord),
-            color=COLORS[index]
+            color=COLORS[index],
+            **plot_kwargs
         )
         index += 1
         fig.add_axes(ax)
@@ -51,6 +59,7 @@ def draw_tokens_representation(
     fig.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05), fancybox=True, shadow=True, ncol=5)
 
     plt.savefig(fname)
+    return fig
 
 
 def build_series(graph, texts_dict, wc):
@@ -61,7 +70,7 @@ def build_series(graph, texts_dict, wc):
     :param wc: Word count dictionaries from Perseus catalog (TextId : [WordCount])
     """
 
-    data = [
+    corpus_data = [
         _Serie(
             "Catalogue Latin d'après le Perseus Catalog",
             len(wc),
@@ -76,8 +85,6 @@ def build_series(graph, texts_dict, wc):
         )
     ]
 
-    InitialDataOffset = 2
-
     hypo_dict = copy.deepcopy(wc)
     hypo_dict.update(texts_dict)
 
@@ -88,6 +95,7 @@ def build_series(graph, texts_dict, wc):
         *time_analysis(graph, hypo_dict, draw=False, print_missing=False)
     )
 
+    data = []
     for corpus in Corpora:
         corpus.parse()
         data.append(_Serie(
@@ -102,14 +110,14 @@ def build_series(graph, texts_dict, wc):
 
         cwc = doc_token_dict_sum(corpus.words)
 
-        if cwc != data[index+InitialDataOffset].word_count:
+        if cwc != data[index].word_count:
             filtered.append(_Serie(
                 corpus.name,
                 len(corpus.words),
                 cwc,
                 *time_analysis(graph, corpus.tokens_by_document, False, False))
             )
-    return data, filtered, hypothetical
+    return corpus_data, data, filtered, hypothetical
 
 
 def draw_series_graph(data, hypothetical):
@@ -170,6 +178,51 @@ def draw_corpus_POS():
         fig.savefig("results/analysis/treebank_analysis/treebank_"+corpus.name+"_POS.png")
 
 
+def draw_zipf():
+    """ Draw zipf distributions """
+    forme_fig = draw_tokens_representation([
+        (
+            corpus.name,
+            corpus.diversity["Formes Uniques"],
+            pandas.Series(distribution(corpus.occurence_count[0]))
+        )
+        for corpus in Filtered_Corpora
+    ], fname="results/analysis/treebank_analysis/treebank_distributions.png",
+        template="{corpus} ({words} formes uniques)",
+        title="Distributions des formes",
+        colors_index_offset=2,
+        plot_kwargs={"loglog": True}, dimension=None
+    )
+
+    draw_tokens_representation([
+        (
+            corpus.name,
+            corpus.diversity["Lemmas Uniques"],
+            pandas.Series(distribution(corpus.occurence_count[1]))
+        )
+        for corpus in Filtered_Corpora
+    ], fname="results/analysis/treebank_analysis/treebank_distributions_lemmes_formes.png",
+        template="{corpus} ({words} lemmes uniques)",
+        title="Distributions des lemmes et formes",
+        colors_index_offset=2,
+        plot_kwargs={"loglog": True, "linestyle": "dashed"}, base_fig=forme_fig, dimension=None
+    )
+
+    draw_tokens_representation([
+        (
+            corpus.name,
+            corpus.diversity["Lemmas Uniques"],
+            pandas.Series(distribution(corpus.occurence_count[1]))
+        )
+        for corpus in Filtered_Corpora
+    ], fname="results/analysis/treebank_analysis/treebank_distributions_lemmes.png",
+        template="{corpus} ({words} lemmes uniques)",
+        title="Distributions des lemmes",
+        colors_index_offset=2,
+        plot_kwargs={"loglog": True}, dimension=None
+    )
+
+
 def run(corpora):
     """ Run a generic analysis"""
     graph = get_graph()
@@ -184,15 +237,20 @@ def run(corpora):
     wc = wordcounts.build()
 
     # Build Pandas Series
-    data, filtered_data, hypothetical = build_series(graph, texts_dict, wc)
+    corpus_data, data, filtered_data, hypothetical = build_series(graph, texts_dict, wc)
 
     # Draw graph representation of series
-    draw_series_graph(data+filtered_data, hypothetical)
+    draw_series_graph(corpus_data+data+filtered_data, hypothetical)
 
     # Drawing graphical analysis of each corpus
     draw_corpus_POS()
 
+    # Draw ZIPF distribution analysis
+    draw_zipf()
+
+
     template = "| {:<64} | {:<10} |\n"
+
     for corpus in corpora:
         with open("results/analysis/treebank_analysis/treebank_"+corpus.name+".md", "w") as f:
             f.write(template.format('Documents', 'Tokens'))

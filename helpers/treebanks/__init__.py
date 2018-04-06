@@ -1,41 +1,41 @@
 from .xml import PerseidsXMLCorpus
 from .conllu import ConlluTreebank
-from .utils import flatten_doc_dict, doc_token_dict_sum
+from .utils import flatten_doc_dict, doc_token_dict_sum, distribution
 
 
 Harrington = PerseidsXMLCorpus(
     "data/raw/treebanks_xml/perseids-project_harrington_trees/harrington_trees-*/CITE_TREEBANK_XML/perseus/lattb/**/*.xml",
-    name="Perseids Harrington Latin Treebank"
+    name="Harrington Latin"
 )
 
 
 Harrington_filtered = PerseidsXMLCorpus(
     "data/raw/treebanks_xml/perseids-project_harrington_trees/harrington_trees-*/CITE_TREEBANK_XML/perseus/lattb/**/*.xml",
-    name="Perseids Harrington Latin Treebank (No Punctuation)",
+    name="Harrington Latin (NoPunc)",
     remove="^\W+$"
 )
 
 
 Proiel = ConlluTreebank(
     "data/raw/treebanks_conllu/UniversalDependencies_UD_Latin-PROIEL/UD_Latin-PROIEL-*/*.conllu",
-    name="Proiel UD Treebanks"
+    name="Proiel"
 )
 
 
 Proiel_filtered = ConlluTreebank(
     "data/raw/treebanks_conllu/UniversalDependencies_UD_Latin-PROIEL/UD_Latin-PROIEL-*/*.conllu",
-    name="Proiel UD Treebanks (No Punctuation)",
+    name="Proiel (NoPunc)",
     remove="^\W+$"
 )
 
 
 Perseus = ConlluTreebank(
     "data/raw/treebanks_conllu/UniversalDependencies_UD_Latin-Perseus/UD_Latin-Perseus-*/*.conllu",
-    name="Perseus UD Treebanks"
+    name="Perseus UD"
 )
 Perseus_filtered = ConlluTreebank(
     "data/raw/treebanks_conllu/UniversalDependencies_UD_Latin-Perseus/UD_Latin-Perseus-*/*.conllu",
-    name="Perseus UD Treebanks (No Punctuation)",
+    name="Perseus UD (NoPunc)",
     remove="^\W+$"
 )
 

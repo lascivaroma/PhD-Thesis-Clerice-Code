@@ -95,6 +95,18 @@ class TreebankCorpus:
         }
 
     @property
+    def occurence_count(self):
+        """ Return an occurence count of forms and lemmas
+
+        :return: Forms distributions, Lemma distributions
+        """
+        return collections.Counter(
+            [word for doc in self.words.values() for word in doc]
+        ), collections.Counter(
+            [word for doc in self.lemmas.values() for word in doc]
+        )
+
+    @property
     def documents_diversity(self):
         return {
             # Statistiques par document

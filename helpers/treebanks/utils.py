@@ -27,3 +27,13 @@ def doc_token_dict_sum(data):
     ])
 
 
+def distribution(occurence):
+    """ Reverse a distribution dict {lemma: occurence count} in a {occurence_count: amount of lemma with occ count}
+
+    :param distribution_dict:
+    :return:
+    """
+    x = collections.Counter()
+    for key, counter in occurence.items():
+        x[counter] += 1
+    return x

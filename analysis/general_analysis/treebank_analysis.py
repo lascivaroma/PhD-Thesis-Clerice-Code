@@ -2,7 +2,7 @@ from .corpus_analysis import time_analysis
 import collections
 from helpers.reader.curated import get_graph, get_texts, get_text_length_dict
 from helpers.metadata import wordcounts
-from helpers.treebanks import Corpora, flatten_doc_dict, Filtered_Corpora, doc_token_dict_sum, distribution
+from helpers.treebanks import Corpora, flatten_doc_dict, Filtered_Corpora, doc_token_dict_sum, distribution, idict
 import matplotlib.pyplot as plt
 import copy
 import pandas
@@ -18,7 +18,8 @@ def draw_tokens_representation(
         series, fname,
         title="Mots écrits par auteur vivant à une période donnée", template="{corpus} ({words} mots)",
         kind="line",
-        colors_index_offset=0, plot_kwargs=None, base_fig=None, dimension=(12, 14)):
+        colors_index_offset=0, plot_kwargs=None, base_fig=None, dimension=(12, 14),
+        ylabel=None, xlabel=None):
 
     """ Draw the series in one fig"""
     if plot_kwargs is None:
@@ -54,11 +55,21 @@ def draw_tokens_representation(
             **plot_kwargs
         )
         index += 1
+
+        if xlabel:
+            ax.set_xlabel(xlabel)
+            xlabel = None
+        if ylabel:
+            ax.set_ylabel(ylabel)
+            ylabel = None
+
         fig.add_axes(ax)
 
     # Put a legend below current axis
     fig.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05), fancybox=True, shadow=True, ncol=5)
 
+
+    # Labels
     plt.savefig(fname)
     return fig
 
@@ -132,7 +143,10 @@ def draw_series_graph(data, hypothetical):
             (serie.name, serie.word_count, serie.tokens_per_year)
             for serie in data
         ],
-        fname="results/analysis/treebank_analysis/treebank_representativite.png"
+        fname="results/analysis/treebank_analysis/treebank_representativite.png",
+        title="Représentatitivité des mots annotés",
+        ylabel="Nombre de mots",
+        xlabel="Année contemporaire à l'auteur"
     )
     draw_tokens_representation(
         series=[
@@ -140,7 +154,9 @@ def draw_series_graph(data, hypothetical):
             for serie in data
         ] + [(hypothetical.name, hypothetical.word_count, hypothetical.accumulated_tokens)],
         title="Mot accumulés",
-        fname="results/analysis/treebank_analysis/treebank_accumulation.png"
+        fname="results/analysis/treebank_analysis/treebank_accumulation.png",
+        ylabel="Nombre de mots accumulés depuis le premier auteur",
+        xlabel="Année contemporaire à l'auteur"
     )
     draw_tokens_representation(
         series=[
@@ -150,7 +166,10 @@ def draw_series_graph(data, hypothetical):
         fname="results/analysis/treebank_analysis/treebank_representativite_texts.png",
         kind="bar",
         template="{corpus} ({words} textes)",
-        title="Textes écrits par auteur vivant à une période donnée"
+        title="Représentatitivité des textes annotés",
+        ylabel="Nombre de textes présents",
+        xlabel="Année contemporaire à l'auteur",
+        plot_kwargs={"xticks": [x for x in range(-250, 800, 50)]}
     )
     draw_tokens_representation(
         series=[
@@ -163,8 +182,10 @@ def draw_series_graph(data, hypothetical):
         ],
         fname="results/analysis/treebank_analysis/treebank_representativite_relatif.png",
         template="{corpus} ({words} mots)",
-        title="Couverture (en %) du corpus latin comptabilisé (Perseus Catalog et Capitains) ",
-        colors_index_offset=2
+        title="Représentativité des corpus annotés",
+        colors_index_offset=2,
+        ylabel="Portion du corpus comptabilisé (Capitains + Perseus Catalog) en % de mots",
+        xlabel="Année"
     )
 
 
@@ -185,14 +206,19 @@ def draw_lemma_distribution():
         (
             corpus.name,
             corpus.diversity["Formes Uniques"],
-            pandas.Series(distribution({k: len(v) for k, v in corpus.lemma_forms.items()}))
+            pandas.Series(idict(
+                distribution(
+                        {k: len(v) for k, v in corpus.lemma_forms.items()}
+                )
+            ))
         )
         for corpus in Filtered_Corpora
     ], fname="results/analysis/treebank_analysis/treebank_distributions_form_lemme_ratio.png",
         template="{corpus} ({words} formes uniques)",
-        title="Distributions des ratio Formes par Lemmes",
+        title="Diversité morphologique annotée",
         colors_index_offset=2,
-        plot_kwargs={"logy": True, "xlim": (1, 100)}, dimension=None
+        plot_kwargs={"logx": True, "xlim": (1, None), "ylim": (1, 100)}, dimension=None,
+        ylabel="Nombre de formes", xlabel="Nombre de lemmes"
     )
 
 
@@ -202,42 +228,45 @@ def draw_zipf():
         (
             corpus.name,
             corpus.diversity["Formes Uniques"],
-            pandas.Series(distribution(corpus.occurence_count[0]))
+            pandas.Series(idict(distribution(corpus.occurence_count[0])))
         )
         for corpus in Filtered_Corpora
     ], fname="results/analysis/treebank_analysis/treebank_distributions.png",
         template="{corpus} ({words} formes uniques)",
         title="Distributions des formes",
         colors_index_offset=2,
-        plot_kwargs={"loglog": True}, dimension=None
+        plot_kwargs={"loglog": True}, dimension=None,
+        ylabel="Fréquence du mot", xlabel="Rang du mot"
     )
 
     draw_tokens_representation([
         (
             corpus.name,
             corpus.diversity["Lemmas Uniques"],
-            pandas.Series(distribution(corpus.occurence_count[1]))
+            pandas.Series(idict(distribution(corpus.occurence_count[1])))
         )
         for corpus in Filtered_Corpora
     ], fname="results/analysis/treebank_analysis/treebank_distributions_lemmes_formes.png",
         template="{corpus} ({words} lemmes uniques)",
         title="Distributions des lemmes et formes",
         colors_index_offset=2,
-        plot_kwargs={"loglog": True, "linestyle": "dashed"}, base_fig=forme_fig, dimension=None
+        plot_kwargs={"loglog": True, "linestyle": "dashed"}, base_fig=forme_fig, dimension=None,
+        ylabel="Distribution des formes et lemmes", xlabel="Rang de la forme ou de la valeur"
     )
 
     draw_tokens_representation([
         (
             corpus.name,
             corpus.diversity["Lemmas Uniques"],
-            pandas.Series(distribution(corpus.occurence_count[1]))
+            pandas.Series(idict(distribution(corpus.occurence_count[1])))
         )
         for corpus in Filtered_Corpora
     ], fname="results/analysis/treebank_analysis/treebank_distributions_lemmes.png",
         template="{corpus} ({words} lemmes uniques)",
         title="Distributions des lemmes",
         colors_index_offset=2,
-        plot_kwargs={"loglog": True}, dimension=None
+        plot_kwargs={"loglog": True}, dimension=None,
+        ylabel="Distribution des lemmes", xlabel="Rang du lemme"
     )
 
 

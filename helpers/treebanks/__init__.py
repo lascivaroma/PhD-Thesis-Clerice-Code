@@ -1,6 +1,6 @@
 from .xml import PerseidsXMLCorpus
 from .conllu import ConlluTreebank
-from .utils import flatten_doc_dict, doc_token_dict_sum, distribution
+from .utils import flatten_doc_dict, doc_token_dict_sum, distribution, idict
 
 
 Harrington = PerseidsXMLCorpus(

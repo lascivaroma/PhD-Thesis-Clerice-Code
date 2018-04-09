@@ -37,3 +37,7 @@ def distribution(occurence):
     for key, counter in occurence.items():
         x[counter] += 1
     return x
+
+
+def idict(dico):
+    return {v: k for k, v in dico.items()}

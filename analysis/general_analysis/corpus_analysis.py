@@ -207,9 +207,15 @@ def authors_annex(graph, texts_dict):
             }
         reversed_authors[author]["ids"].append(tg)
         reversed_authors[author]["texts"].append(ed_id)
-        reversed_authors[author]["passages"].append(len(texts_dict[ed_id]))
-        reversed_authors[author]["tokens"].append(sum(texts_dict[ed_id]))
-        reversed_authors[author]["tokens_notflat"] += texts_dict[ed_id]
+        if ed_id in texts_dict:
+            reversed_authors[author]["passages"].append(len(texts_dict[ed_id]))
+            reversed_authors[author]["tokens"].append(sum(texts_dict[ed_id]))
+            reversed_authors[author]["tokens_notflat"] += texts_dict[ed_id]
+        else:
+            reversed_authors[author]["passages"].append(0)
+            reversed_authors[author]["tokens"].append(0)
+            reversed_authors[author]["tokens_notflat"] += [0]
+
     with open("results/analysis/corpus_analysis/authors.tsv", "w") as f:
         f.write("\t".join(["Auteur", "Nombre de textes", "Nombre de passages", "Nombre de mots", "Médiane de taille de passage", "Moyenne de taille de passage"])+"\n")
         for aname in sorted(list(reversed_authors.keys())):
@@ -235,18 +241,22 @@ def run():
 
     # And the list of texts as a dictionary of text: text_length
     texts = get_texts()
-
+    print("Texts retrieved")
     # And the list of texts as a dictionary of text: text_length
     texts_dict = get_text_length_dict(texts)
+    print("Texts lengths retrieved")
 
     # Run time analysis
     accumulated_tokens, tokens_per_year, text_per_year = time_analysis(graph, texts_dict)
+    print("Texts time analysis done")
 
     # Passage Size Analysis
     passages_repartition = passage_size_analysis(texts_dict)
+    print("Passage repartition analysis done")
 
     # Generation of annexes
     authors_annexes = authors_annex(graph, texts_dict)
+    print("Annexes d'auteur construites")
 
 
 if __name__ == "__main__":

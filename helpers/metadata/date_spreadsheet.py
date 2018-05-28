@@ -30,6 +30,7 @@ def read_datation_spreadsheet(src="data/raw/datation.tsv"):
                     Author=row["Nom FR"]
                 )
             except Exception as E:
+                print(row)
                 print(SUBTASK_SEPARATOR+"Text {} has an error".format(row["URN"]))
                 print(E)
             author = URN(row["URN"])

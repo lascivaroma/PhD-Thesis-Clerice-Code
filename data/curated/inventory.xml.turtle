@@ -26,41 +26,20 @@
     lr:SemanticCut 0 ;
     lr:StartDate 347 .
 
-<urn:cts:latinLit:phi0119.phi001.perseus-lat2> dc:author "Plaute"@fre ;
-    lr:EndDate -184 ;
-    lr:Ignore false ;
-    lr:SemanticCut 0 ;
-    lr:StartDate -254 .
-
 <urn:cts:latinLit:phi0474.phi035.perseus-lat1> dc:author "Cicéron"@fre ;
     lr:EndDate -43 ;
     lr:Ignore false ;
     lr:SemanticCut 0 ;
     lr:StartDate -106 .
 
-<urn:cts:latinLit:phi0914.phi001> a :CtsCollection ;
-    rdfs:label "The History of Rome"@eng ;
-    :title "The History of Rome"@eng ;
-    dc:language "lat" ;
-    dts:capabilities [ ] ;
-    dts:isA :CtsCollection ;
-    dts:model dts:collection ;
-    skos:prefLabel "The History of Rome"@eng .
-
-<urn:cts:latinLit:phi1017.phi015.perseus-lat2> dc:author "Sénèque"@fre ;
-    lr:EndDate 65 ;
+<urn:cts:latinLit:phi0474.phi044.perseus-lat1> dc:author "Cicéron"@fre ;
+    lr:EndDate -43 ;
     lr:Ignore false ;
-    lr:SemanticCut 1 ;
-    lr:StartDate -1 .
+    lr:SemanticCut 0 ;
+    lr:StartDate -106 .
 
 <urn:cts:latinLit:phi1221> dc:author "Auguste (Res Gestae)"@fre ;
     lr:EndDate 14 ;
-    lr:StartDate -63 .
-
-<urn:cts:latinLit:phi1221.phi007.perseus-lat1> dc:author "Auguste"@fre ;
-    lr:EndDate 14 ;
-    lr:Ignore false ;
-    lr:SemanticCut 0 ;
     lr:StartDate -63 .
 
 <urn:cts:latinLit:phi1221.phi007.perseus-lat2> dc:author "Auguste (Res Gestae)"@fre ;
@@ -68,6 +47,16 @@
     lr:Ignore false ;
     lr:SemanticCut 0 ;
     lr:StartDate -63 .
+
+<urn:cts:latinLit:stoa0264> dc:author "Solin"@fre ;
+    lr:EndDate 300 ;
+    lr:StartDate 200 .
+
+<urn:cts:latinLit:stoa0264.stoa001.digilibLT-lat1> dc:author "Solin"@fre ;
+    lr:EndDate 300 ;
+    lr:Ignore false ;
+    lr:SemanticCut 1 ;
+    lr:StartDate 200 .
 
 <urn:cts:greekLit:tlg0526> a :CtsCollection ;
     rdfs:label "Flavius Iosephus"@eng ;
@@ -106,6 +95,32 @@
     lr:Ignore false ;
     lr:SemanticCut 1 ;
     lr:StartDate 601 .
+
+<urn:cts:latinLit:phi0119.phi001> a :CtsCollection ;
+    rdfs:label "Amphitruo"@lat ;
+    :title "Amphitruo"@lat ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:phi0119> ;
+    skos:prefLabel "Amphitruo"@lat .
+
+<urn:cts:latinLit:phi0119.phi001.perseus-lat2> a :CtsCollection ;
+    rdfs:label "Amphitruo, Comoediae Vol 1-2"@eng ;
+    :description "Plautus, Titus Maccius, creator; Leo, Friedrich, 1851-1914, editor"@eng ;
+    :label "Amphitruo, Comoediae Vol 1-2"@eng ;
+    dc:author "Plaute"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:phi0119.phi001> ;
+    skos:prefLabel "Amphitruo, Comoediae Vol 1-2"@eng ;
+    lr:EndDate -184 ;
+    lr:Ignore false ;
+    lr:SemanticCut 0 ;
+    lr:StartDate -254 .
 
 <urn:cts:latinLit:phi0119.phi002> a :CtsCollection ;
     rdfs:label "Asinaria"@lat ;
@@ -757,18 +772,6 @@
     lr:SemanticCut 0 ;
     lr:StartDate -190 .
 
-<urn:cts:latinLit:phi0448> a :CtsCollection ;
-    rdfs:label "Caesar, Julius."@eng ;
-    :groupname "Caesar, Julius."@eng ;
-    dc:author "César"@fre ;
-    dts:capabilities [ ] ;
-    dts:isA :CtsCollection ;
-    dts:model dts:collection ;
-    dts:parent <default> ;
-    skos:prefLabel "Caesar, Julius."@eng ;
-    lr:EndDate -44 ;
-    lr:StartDate -100 .
-
 <urn:cts:latinLit:phi0448.phi001> a :CtsCollection ;
     rdfs:label "Gallic War"@eng ;
     :title "Gallic War"@eng ;
@@ -798,6 +801,32 @@
     skos:prefLabel """
                 Gallic War, C. Iuli Caesaris Commentarii rerum in Gallia gestarum VII A. Hirti Commentarius VIII
             """@lat ;
+    lr:EndDate -44 ;
+    lr:Ignore false ;
+    lr:SemanticCut 1 ;
+    lr:StartDate -100 .
+
+<urn:cts:latinLit:phi0448.phi002> a :CtsCollection ;
+    rdfs:label "Civil War"@eng ;
+    :title "Civil War"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:phi0448> ;
+    skos:prefLabel "Civil War"@eng .
+
+<urn:cts:latinLit:phi0448.phi002.perseus-lat2> a :CtsCollection ;
+    rdfs:label "De Bello Civili"@lat ;
+    :description "Caesar, Julius, creator. C. Iuli Caesaris Commentariorum Pars Posterior Qua Continentur Libri III De Bello Civili. Du Pontet, Renatus, editor. Oxford: Clarendon Press, 1901."@mul ;
+    :label "De Bello Civili"@lat ;
+    dc:author "César"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:phi0448.phi002> ;
+    skos:prefLabel "De Bello Civili"@lat ;
     lr:EndDate -44 ;
     lr:Ignore false ;
     lr:SemanticCut 1 ;
@@ -3079,26 +3108,26 @@
     lr:StartDate -55 .
 
 <urn:cts:latinLit:phi0660.phi003> a :CtsCollection ;
-    rdfs:label "Elegiae"@lat ;
-    :title "Elegiae"@lat ;
+    rdfs:label "Sulpicia Elegiae"@lat ;
+    :title "Sulpicia Elegiae"@lat ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:collection ;
     dts:parent <urn:cts:latinLit:phi0660> ;
-    skos:prefLabel "Elegiae"@lat .
+    skos:prefLabel "Sulpicia Elegiae"@lat .
 
 <urn:cts:latinLit:phi0660.phi003.perseus-lat2> a :CtsCollection ;
-    rdfs:label "Elegiae, Elegiae"@eng ;
+    rdfs:label "Carmina Omnia"@eng ;
     :description "Sulpicia, 1st cent. B.C, attributed author; Mahoney, Anne, editor"@eng ;
-    :label "Elegiae, Elegiae"@eng ;
+    :label "Carmina Omnia"@eng ;
     dc:author "Tibulle"@fre ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:resource ;
     dts:parent <urn:cts:latinLit:phi0660.phi003> ;
-    skos:prefLabel "Elegiae, Elegiae"@eng ;
+    skos:prefLabel "Carmina Omnia"@eng ;
     lr:EndDate -19 ;
     lr:Ignore false ;
     lr:SemanticCut 1 ;
@@ -3285,7 +3314,7 @@
     dts:parent <urn:cts:latinLit:phi0836.phi002> ;
     skos:prefLabel "De Medicina, De medicina"@eng ;
     lr:EndDate 50 ;
-    lr:Ignore false ;
+    lr:Ignore true ;
     lr:SemanticCut 1 ;
     lr:StartDate 0 .
 
@@ -3301,7 +3330,7 @@
     dts:parent <urn:cts:latinLit:phi0836.phi002> ;
     skos:prefLabel "De Medicina, A. Cornelii Celsi De medicina libri octo"@eng ;
     lr:EndDate 50 ;
-    lr:Ignore false ;
+    lr:Ignore true ;
     lr:SemanticCut 1 ;
     lr:StartDate 0 .
 
@@ -3638,6 +3667,49 @@
     lr:Ignore false ;
     lr:SemanticCut 0 ;
     lr:StartDate 50 .
+
+<urn:cts:latinLit:phi0914> a :CtsCollection ;
+    rdfs:label "Titus Livius (Livy)"@eng ;
+    :groupname "Titus Livius (Livy)"@eng ;
+    dc:author "Tite-Live"@fre ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Titus Livius (Livy)"@eng ;
+    lr:EndDate 17 ;
+    lr:StartDate -59 .
+
+<urn:cts:latinLit:phi0914.phi001> a :CtsCollection ;
+    rdfs:label "The History of Rome"@eng,
+        "Ab urbe condita"@lat ;
+    :title "The History of Rome"@eng,
+        "Ab urbe condita"@lat ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:phi0914> ;
+    skos:prefLabel "The History of Rome"@eng,
+        "Ab urbe condita"@lat .
+
+<urn:cts:latinLit:phi0914.phi001.perseus-lat2> a :CtsCollection ;
+    rdfs:label "Ab urbe condita"@lat ;
+    :description """Titi Livi ab urbe condita libri editionem priman curavit
+            Guilelmus Weissenborn editio altera auam curavit Mauritius Mueller
+            Pars I-IV. Libri I-XL. Editio Stereotypica. 1884-1911."""@lat ;
+    :label "Ab urbe condita"@lat ;
+    dc:author "Tite-Live"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:phi0914.phi001> ;
+    skos:prefLabel "Ab urbe condita"@lat ;
+    lr:EndDate 17 ;
+    lr:Ignore false ;
+    lr:SemanticCut 2 ;
+    lr:StartDate -59 .
 
 <urn:cts:latinLit:phi0917> a :CtsCollection ;
     rdfs:label "Lucan"@eng ;
@@ -3984,6 +4056,44 @@
     lr:Ignore false ;
     lr:SemanticCut 0 ;
     lr:StartDate -43 .
+
+<urn:cts:latinLit:phi0969> a :CtsCollection ;
+    rdfs:label "Persius"@eng ;
+    :groupname "Persius"@eng ;
+    dc:author "Perse"@fre ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Persius"@eng ;
+    lr:EndDate 62 ;
+    lr:StartDate 34 .
+
+<urn:cts:latinLit:phi0969.phi001> a :CtsCollection ;
+    rdfs:label "Satires"@eng ;
+    :title "Satires"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:phi0969> ;
+    skos:prefLabel "Satires"@eng .
+
+<urn:cts:latinLit:phi0969.phi001.perseus-lat2> a :CtsCollection ;
+    rdfs:label "Saturae"@lat ;
+    :description "Persius, creator; Juvenal and Persius. Ramsay, G. G., editor and translator. London: William Heinemann, 1918."@eng ;
+    :label "Saturae"@lat ;
+    dc:author "Perse"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:phi0969.phi001> ;
+    skos:prefLabel "Saturae"@lat ;
+    lr:EndDate 62 ;
+    lr:Ignore false ;
+    lr:SemanticCut 1 ;
+    lr:StartDate 34 .
 
 <urn:cts:latinLit:phi0972> a :CtsCollection ;
     rdfs:label "Petronius Arbiter"@eng ;
@@ -4581,6 +4691,32 @@
     lr:SemanticCut 2 ;
     lr:StartDate -1 .
 
+<urn:cts:latinLit:phi1017.phi015> a :CtsCollection ;
+    rdfs:label "Epistulae"@lat ;
+    :title "Epistulae"@lat ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:phi1017> ;
+    skos:prefLabel "Epistulae"@lat .
+
+<urn:cts:latinLit:phi1017.phi015.perseus-lat2> a :CtsCollection ;
+    rdfs:label "Epistulae, Ad Lucilium epistulae morales Volume I-III"@eng ;
+    :description "Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D, creator; Gummere, Richard M. (Richard Mott), 1883-, editor"@eng ;
+    :label "Epistulae, Ad Lucilium epistulae morales Volume I-III"@eng ;
+    dc:author "Sénèque"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:phi1017.phi015> ;
+    skos:prefLabel "Epistulae, Ad Lucilium epistulae morales Volume I-III"@eng ;
+    lr:EndDate 65 ;
+    lr:Ignore false ;
+    lr:SemanticCut 1 ;
+    lr:StartDate -1 .
+
 <urn:cts:latinLit:phi1020.phi001> a :CtsCollection ;
     rdfs:label "Thebais"@eng ;
     :title "Thebais"@eng ;
@@ -4963,26 +5099,29 @@
     lr:StartDate 117 .
 
 <urn:cts:latinLit:phi1254.phi001> a :CtsCollection ;
-    rdfs:label "Noctes Atticae"@lat ;
-    :title "Noctes Atticae"@lat ;
+    rdfs:label "Attic Nights"@eng,
+        "Noctes Atticae"@lat ;
+    :title "Attic Nights"@eng,
+        "Noctes Atticae"@lat ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:collection ;
     dts:parent <urn:cts:latinLit:phi1254> ;
-    skos:prefLabel "Noctes Atticae"@lat .
+    skos:prefLabel "Attic Nights"@eng,
+        "Noctes Atticae"@lat .
 
-<urn:cts:latinLit:phi1254.phi001.perseus-lat1> a :CtsCollection ;
-    rdfs:label "Noctes Atticae, Attic nights"@eng ;
-    :description "Gellius, Aulus, creator; Rolfe, John Carew, 1859-1943, editor"@eng ;
-    :label "Noctes Atticae, Attic nights"@eng ;
+<urn:cts:latinLit:phi1254.phi001.perseus-lat2> a :CtsCollection ;
+    rdfs:label "Noctes Atticae"@eng ;
+    :description "The Attic Nights of Aulus Gellius, in Three Volumes. Gellius, Aulus, creator; Rolfe, John C., translator and editor. Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd. 1927."@eng ;
+    :label "Noctes Atticae"@eng ;
     dc:author "Aulu-Gelle"@fre ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:resource ;
     dts:parent <urn:cts:latinLit:phi1254.phi001> ;
-    skos:prefLabel "Noctes Atticae, Attic nights"@eng ;
+    skos:prefLabel "Noctes Atticae"@eng ;
     lr:EndDate 199 ;
     lr:Ignore false ;
     lr:SemanticCut 1 ;
@@ -5507,16 +5646,16 @@
     skos:prefLabel "Agricola"@lat .
 
 <urn:cts:latinLit:phi1351.phi001.perseus-lat1> a :CtsCollection ;
-    rdfs:label "Agricola, Cornelli Taciti opera minora"@eng ;
-    :description "Tacitus, Cornelius, creator; Furneaux, Henry, 1829-1900, editor"@eng ;
-    :label "Agricola, Cornelli Taciti opera minora"@eng ;
+    rdfs:label "De Vita Iulii Agricolae"@lat ;
+    :description "Opera Minora. Tacitus, Cornelius; Furneaux, Henry, editor. Oxford, Clarendon Press. 1900."@eng ;
+    :label "De Vita Iulii Agricolae"@lat ;
     dc:author "Tacite"@fre ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:resource ;
     dts:parent <urn:cts:latinLit:phi1351.phi001> ;
-    skos:prefLabel "Agricola, Cornelli Taciti opera minora"@eng ;
+    skos:prefLabel "De Vita Iulii Agricolae"@lat ;
     lr:EndDate 117 ;
     lr:Ignore false ;
     lr:SemanticCut 0 ;
@@ -5533,44 +5672,42 @@
     skos:prefLabel "Germania"@lat .
 
 <urn:cts:latinLit:phi1351.phi002.perseus-lat1> a :CtsCollection ;
-    rdfs:label "Germania, Cornelli Taciti opera minora"@eng ;
-    :description "Tacitus, Cornelius, creator; Furneaux, Henry, 1829-1900, editor"@eng ;
-    :label "Germania, Cornelli Taciti opera minora"@eng ;
+    rdfs:label "De Origine et Situ Germanorum Liber"@lat ;
+    :description "Opera Minora. Tacitus, Cornelius; Furneaux, Henry, editor. Oxford, Clarendon Press. 1900."@mul ;
+    :label "De Origine et Situ Germanorum Liber"@lat ;
     dc:author "Tacite"@fre ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:resource ;
     dts:parent <urn:cts:latinLit:phi1351.phi002> ;
-    skos:prefLabel "Germania, Cornelli Taciti opera minora"@eng ;
+    skos:prefLabel "De Origine et Situ Germanorum Liber"@lat ;
     lr:EndDate 117 ;
     lr:Ignore false ;
     lr:SemanticCut 0 ;
     lr:StartDate 56 .
 
 <urn:cts:latinLit:phi1351.phi004> a :CtsCollection ;
-    rdfs:label "Historiae"@eng ;
-    :title "Historiae"@eng ;
+    rdfs:label "Historiae"@lat ;
+    :title "Historiae"@lat ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:collection ;
     dts:parent <urn:cts:latinLit:phi1351> ;
-    skos:prefLabel "Historiae"@eng .
+    skos:prefLabel "Historiae"@lat .
 
 <urn:cts:latinLit:phi1351.phi004.perseus-lat2> a :CtsCollection ;
-    rdfs:label "Historiae"@eng ;
-    :description """
-            Historiae, Cornelli Taciti Historiarvm libri
-        """@eng ;
-    :label "Historiae"@eng ;
+    rdfs:label "Historiae"@lat ;
+    :description "Cornelii Taciti Historiarum Libri. Tacitus, Cornelius; Fisher, Charles Dennis, editor. Oxford, Clarendon Press. 1911."@mul ;
+    :label "Historiae"@lat ;
     dc:author "Tacite"@fre ;
     dc:language "lat" ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:resource ;
     dts:parent <urn:cts:latinLit:phi1351.phi004> ;
-    skos:prefLabel "Historiae"@eng ;
+    skos:prefLabel "Historiae"@lat ;
     lr:EndDate 117 ;
     lr:Ignore false ;
     lr:SemanticCut 1 ;
@@ -9904,6 +10041,36 @@
     lr:SemanticCut 1 ;
     lr:StartDate 365 .
 
+<urn:cts:latinLit:stoa0077a> a :CtsCollection ;
+    rdfs:label "Cassius Felix"@lat ;
+    :groupname "Cassius Felix"@lat ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Cassius Felix"@lat .
+
+<urn:cts:latinLit:stoa0077a.stoa001> a :CtsCollection ;
+    rdfs:label "De medicina"@eng ;
+    :title "De medicina"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:stoa0077a> ;
+    skos:prefLabel "De medicina"@eng .
+
+<urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1> a :CtsCollection ;
+    rdfs:label "De medicina"@lat ;
+    :description "Edition from DigilibLT dlt000079"@lat ;
+    :label "De medicina"@lat ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:stoa0077a.stoa001> ;
+    skos:prefLabel "De medicina"@lat .
+
 <urn:cts:latinLit:stoa0089.stoa001> a :CtsCollection ;
     rdfs:label "Carminum minorum corpusculum"@lat ;
     :title "Carminum minorum corpusculum"@lat ;
@@ -12726,6 +12893,58 @@
     lr:SemanticCut 1 ;
     lr:StartDate 347 .
 
+<urn:cts:latinLit:stoa0167.stoa001> a :CtsCollection ;
+    rdfs:label "Epitoma historiarum Philippicarum"@eng ;
+    :title "Epitoma historiarum Philippicarum"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:stoa0167> ;
+    skos:prefLabel "Epitoma historiarum Philippicarum"@eng .
+
+<urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1> a :CtsCollection ;
+    rdfs:label "Epitoma historiarum Philippicarum"@lat ;
+    :description "Edition from DigilibLT dlt000321"@lat ;
+    :label "Epitoma historiarum Philippicarum"@lat ;
+    dc:author "Justin"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:stoa0167.stoa001> ;
+    skos:prefLabel "Epitoma historiarum Philippicarum"@lat ;
+    lr:EndDate 299 ;
+    lr:Ignore false ;
+    lr:SemanticCut 2 ;
+    lr:StartDate 200 .
+
+<urn:cts:latinLit:stoa0167.stoa002> a :CtsCollection ;
+    rdfs:label "Prologi historiarum Philippicarum Pompei Trogi"@eng ;
+    :title "Prologi historiarum Philippicarum Pompei Trogi"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:stoa0167> ;
+    skos:prefLabel "Prologi historiarum Philippicarum Pompei Trogi"@eng .
+
+<urn:cts:latinLit:stoa0167.stoa002.digilibLT-lat1> a :CtsCollection ;
+    rdfs:label "Prologi historiarum Philippicarum Pompei Trogi"@lat ;
+    :description "Edition from DigilibLT dlt000544"@lat ;
+    :label "Prologi historiarum Philippicarum Pompei Trogi"@lat ;
+    dc:author "Justin"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:stoa0167.stoa002> ;
+    skos:prefLabel "Prologi historiarum Philippicarum Pompei Trogi"@lat ;
+    lr:EndDate 299 ;
+    lr:Ignore false ;
+    lr:SemanticCut 0 ;
+    lr:StartDate 200 .
+
 <urn:cts:latinLit:stoa0169a> a :CtsCollection ;
     rdfs:label "Juvencus, Caius Vettius Aquilinus"@eng ;
     :groupname "Juvencus, Caius Vettius Aquilinus"@eng ;
@@ -14046,6 +14265,36 @@
     lr:SemanticCut 1 ;
     lr:StartDate 376 .
 
+<urn:cts:latinLit:stoa0224> a :CtsCollection ;
+    rdfs:label "Paulus Diaconus"@lat ;
+    :groupname "Paulus Diaconus"@lat ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Paulus Diaconus"@lat .
+
+<urn:cts:latinLit:stoa0224.stoa004> a :CtsCollection ;
+    rdfs:label "Excerpta ex libris Pompei Festi de verborum significatu"@lat ;
+    :title "Excerpta ex libris Pompei Festi de verborum significatu"@lat ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:stoa0224> ;
+    skos:prefLabel "Excerpta ex libris Pompei Festi de verborum significatu"@lat .
+
+<urn:cts:latinLit:stoa0224.stoa004.alim-lat1> a :CtsCollection ;
+    rdfs:label "Excerpta ex libris Pompei Festi de verborum significatu"@lat ;
+    :description "Print edition by: W.M. Lindsay"@mul ;
+    :label "Excerpta ex libris Pompei Festi de verborum significatu"@lat ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:stoa0224.stoa004> ;
+    skos:prefLabel "Excerpta ex libris Pompei Festi de verborum significatu"@lat .
+
 <urn:cts:latinLit:stoa0224b.stoa001> a :CtsCollection ;
     rdfs:label "De Vita Sancti Martini"@eng ;
     :title "De Vita Sancti Martini"@eng ;
@@ -15354,44 +15603,6 @@
     lr:SemanticCut 0 ;
     lr:StartDate -1 .
 
-<urn:cts:latinLit:stoa0264> a :CtsCollection ;
-    rdfs:label "Iulius Solinus"@lat ;
-    :groupname "Iulius Solinus"@lat ;
-    dc:author "Solin"@fre ;
-    dts:capabilities [ ] ;
-    dts:isA :CtsCollection ;
-    dts:model dts:collection ;
-    dts:parent <default> ;
-    skos:prefLabel "Iulius Solinus"@lat ;
-    lr:EndDate 300 ;
-    lr:StartDate 200 .
-
-<urn:cts:latinLit:stoa0264.stoa001> a :CtsCollection ;
-    rdfs:label "Collectanea Rerum Memorabilium"@eng ;
-    :title "Collectanea Rerum Memorabilium"@eng ;
-    dc:language "lat" ;
-    dts:capabilities [ ] ;
-    dts:isA :CtsCollection ;
-    dts:model dts:collection ;
-    dts:parent <urn:cts:latinLit:stoa0264> ;
-    skos:prefLabel "Collectanea Rerum Memorabilium"@eng .
-
-<urn:cts:latinLit:stoa0264.stoa001.digilibLT-lat1> a :CtsCollection ;
-    rdfs:label "Collectanea Rerum Memorabilium"@lat ;
-    :description "Edition from DigilibLT dlt000473"@lat ;
-    :label "Collectanea Rerum Memorabilium"@lat ;
-    dc:author "Solin"@fre ;
-    dc:language "lat" ;
-    dts:capabilities [ ] ;
-    dts:isA :CtsCollection ;
-    dts:model dts:resource ;
-    dts:parent <urn:cts:latinLit:stoa0264.stoa001> ;
-    skos:prefLabel "Collectanea Rerum Memorabilium"@lat ;
-    lr:EndDate 300 ;
-    lr:Ignore false ;
-    lr:SemanticCut 1 ;
-    lr:StartDate 200 .
-
 <urn:cts:latinLit:stoa0270.stoa001> a :CtsCollection ;
     rdfs:label "Chronica"@eng ;
     :title "Chronica"@eng ;
@@ -16552,6 +16763,58 @@
     lr:SemanticCut 0 ;
     lr:StartDate 500 .
 
+<urn:cts:latinLit:stoa0287.stoa001> a :CtsCollection ;
+    rdfs:label "Epitoma rei militaris"@eng ;
+    :title "Epitoma rei militaris"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:stoa0287> ;
+    skos:prefLabel "Epitoma rei militaris"@eng .
+
+<urn:cts:latinLit:stoa0287.stoa001.digilibLT-lat1> a :CtsCollection ;
+    rdfs:label "Epitoma rei militaris"@lat ;
+    :description "Edition from DigilibLT dlt000501"@lat ;
+    :label "Epitoma rei militaris"@lat ;
+    dc:author "Végèce"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:stoa0287.stoa001> ;
+    skos:prefLabel "Epitoma rei militaris"@lat ;
+    lr:EndDate 499 ;
+    lr:Ignore false ;
+    lr:SemanticCut 2 ;
+    lr:StartDate 400 .
+
+<urn:cts:latinLit:stoa0287.stoa002> a :CtsCollection ;
+    rdfs:label "Digesta artis mulomedicinae"@eng ;
+    :title "Digesta artis mulomedicinae"@eng ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <urn:cts:latinLit:stoa0287> ;
+    skos:prefLabel "Digesta artis mulomedicinae"@eng .
+
+<urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1> a :CtsCollection ;
+    rdfs:label "Digesta artis mulomedicinae"@lat ;
+    :description "Edition from DigilibLT dlt000502"@lat ;
+    :label "Digesta artis mulomedicinae"@lat ;
+    dc:author "Végèce"@fre ;
+    dc:language "lat" ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:resource ;
+    dts:parent <urn:cts:latinLit:stoa0287.stoa002> ;
+    skos:prefLabel "Digesta artis mulomedicinae"@lat ;
+    lr:EndDate 499 ;
+    lr:Ignore false ;
+    lr:SemanticCut 2 ;
+    lr:StartDate 400 .
+
 <urn:cts:latinLit:stoa0289.stoa001> a :CtsCollection ;
     rdfs:label "Historiae Romanae"@lat ;
     :title "Historiae Romanae"@lat ;
@@ -17026,6 +17289,18 @@
     lr:SemanticCut 0 ;
     lr:StartDate 300 .
 
+<urn:cts:latinLit:phi0448> a :CtsCollection ;
+    rdfs:label "Caesar, Julius."@eng ;
+    :groupname "Caesar, Julius."@eng ;
+    dc:author "César"@fre ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Caesar, Julius."@eng ;
+    lr:EndDate -44 ;
+    lr:StartDate -100 .
+
 <urn:cts:latinLit:phi0631.phi001> a :CtsCollection ;
     rdfs:label "Catilinae Coniuratio"@lat ;
     :title "Catilinae Coniuratio"@lat ;
@@ -17047,14 +17322,17 @@
     skos:prefLabel "Bellum Iugurthinum"@lat .
 
 <urn:cts:latinLit:phi0660> a :CtsCollection ;
-    rdfs:label "Tibullus"@eng ;
-    :groupname "Tibullus"@eng ;
+    rdfs:label "Tibullus"@eng,
+        "Corpus Tibullianum"@lat ;
+    :groupname "Tibullus"@eng,
+        "Corpus Tibullianum"@lat ;
     dc:author "Tibulle"@fre ;
     dts:capabilities [ ] ;
     dts:isA :CtsCollection ;
     dts:model dts:collection ;
     dts:parent <default> ;
-    skos:prefLabel "Tibullus"@eng ;
+    skos:prefLabel "Tibullus"@eng,
+        "Corpus Tibullianum"@lat ;
     lr:EndDate -19 ;
     lr:StartDate -55 .
 
@@ -17198,6 +17476,18 @@
     skos:prefLabel "Jerome Saint d. 419 or 20"@eng ;
     lr:EndDate 419 ;
     lr:StartDate 347 .
+
+<urn:cts:latinLit:stoa0167> a :CtsCollection ;
+    rdfs:label "Prologi historiarum Philippicarum Pompei Trogi"@lat ;
+    :groupname "Prologi historiarum Philippicarum Pompei Trogi"@lat ;
+    dc:author "Justin"@fre ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Prologi historiarum Philippicarum Pompei Trogi"@lat ;
+    lr:EndDate 299 ;
+    lr:StartDate 200 .
 
 <urn:cts:latinLit:stoa0186> a :CtsCollection ;
     rdfs:label "Macrobe"@eng,
@@ -17548,6 +17838,18 @@
     dts:parent <urn:cts:latinLit:stoa0275> ;
     skos:prefLabel "Scorpiace"@eng,
         "Scorpiace"@lat .
+
+<urn:cts:latinLit:stoa0287> a :CtsCollection ;
+    rdfs:label "Flavius Vegetius Renatus"@lat ;
+    :groupname "Flavius Vegetius Renatus"@lat ;
+    dc:author "Végèce"@fre ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Flavius Vegetius Renatus"@lat ;
+    lr:EndDate 499 ;
+    lr:StartDate 400 .
 
 <urn:cts:latinLit:stoa0289> a :CtsCollection ;
     rdfs:label "Velleius Paterculus"@lat ;
@@ -18063,18 +18365,6 @@
     lr:EndDate 122 ;
     lr:StartDate 70 .
 
-<urn:cts:latinLit:phi1017> a :CtsCollection ;
-    rdfs:label "Seneca, Lucius Annaeus (Plays)"@eng ;
-    :groupname "Seneca, Lucius Annaeus (Plays)"@eng ;
-    dc:author "Sénèque"@fre ;
-    dts:capabilities [ ] ;
-    dts:isA :CtsCollection ;
-    dts:model dts:collection ;
-    dts:parent <default> ;
-    skos:prefLabel "Seneca, Lucius Annaeus (Plays)"@eng ;
-    lr:EndDate 65 ;
-    lr:StartDate -1 .
-
 <urn:cts:latinLit:stoa0114a> a :CtsCollection ;
     rdfs:label "Ennodius, Magnus Felix Saint 474-521"@eng ;
     :groupname "Ennodius, Magnus Felix Saint 474-521"@eng ;
@@ -18086,6 +18376,18 @@
     skos:prefLabel "Ennodius, Magnus Felix Saint 474-521"@eng ;
     lr:EndDate 521 ;
     lr:StartDate 473 .
+
+<urn:cts:latinLit:phi1017> a :CtsCollection ;
+    rdfs:label "Seneca, Lucius Annaeus (Plays)"@eng ;
+    :groupname "Seneca, Lucius Annaeus (Plays)"@eng ;
+    dc:author "Sénèque"@fre ;
+    dts:capabilities [ ] ;
+    dts:isA :CtsCollection ;
+    dts:model dts:collection ;
+    dts:parent <default> ;
+    skos:prefLabel "Seneca, Lucius Annaeus (Plays)"@eng ;
+    lr:EndDate 65 ;
+    lr:StartDate -1 .
 
 <urn:cts:latinLit:stoa0089> a :CtsCollection ;
     rdfs:label "Claudianus, Claudius."@eng ;
@@ -18232,1261 +18534,1281 @@
     dts:model dts:collection ;
     skos:prefLabel "Default collection"@eng .
 
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0270.stoa003.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa080.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0249a.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi016.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi041.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa038a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa020.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa027.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa021.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292b.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa010.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0200.stoa001.latinlibrary-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1212.phi002.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo017.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa060.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa007.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa016.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa011.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa014.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa055.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa029.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa080a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa074.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0222a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0249a.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi039.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292b.stoa001.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa007.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0159.stoa004.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa077c.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa035.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa009.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa017.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040a.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi053.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa017.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0893.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0134.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa020.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi029.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo020.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292p.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0270p.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa015.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa070a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi055.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi059.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0170a.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0208a.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa054.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa022.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0278a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa053.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa025.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0893.phi006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi072.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa007.opp-lat3> .
-
-[] dts:implements <urn:cts:latinLit:stoa0034.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0180a.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0041a.stoa003.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0244d.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo016.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa032.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa014.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi018.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa042.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0121g.stoa003.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0134.phi005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi040.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa028.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa064.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa026.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0223.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa030.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0270.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa070.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa011.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa014.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa052.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1257.phi001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0690.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa018.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0917.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0119.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa010.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa034.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa050.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo018.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1242.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa032.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa048.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo023.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa024.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0121g.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa033.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1020.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa029.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa014a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0120c.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo021.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0120a.stoa003.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215b.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi057.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1294.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa016.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa005.opp-lat1> .
 
 [] dts:implements <urn:cts:latinLit:stoa0104p.stoa021.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa020.opp-lat2> .
+[] dts:implements <urn:cts:latinLit:phi1038.phi001.perseus-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa006.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0119.phi013.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa037a.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0119.phi009.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0233d.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0223.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa014.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa009.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa006.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0120a.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa011.opp-lat3> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa014.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa020.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa004.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0276.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0117.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1351.phi002.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa077.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045a.stoa001.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa019.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215b.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0270.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa003.opp-lat4> .
-
-[] dts:implements <urn:cts:latinLit:stoa0121g.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1318.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1056.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0096.stoa003.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1002.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0631.phi002.perseus-lat4> .
-
-[] dts:implements <urn:cts:latinLit:phi0660.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0836.phi002.perseus-lat6> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo011.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa002.opp-lat1> .
 
 [] dts:implements <urn:cts:latinLit:phi2331.phi020.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0203.stoa001.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0975.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi047.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi021.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa077d.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1038.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa010.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo024.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi023.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi016.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0169a.stoa002.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa044.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149p.stoa001.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0096.stoa003.opp-lat2> .
 
 [] dts:implements <urn:cts:latinLit:phi0836.phi002.perseus-lat5> .
 
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa019.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa057a.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0631.phi001.perseus-lat3> .
+[] dts:implements <urn:cts:latinLit:stoa0292p.stoa001.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0588.abo009.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0588.abo023.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0119.phi014.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0893.phi003.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi2331.phi019.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa002.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0028e.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0247.stoa001.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa018.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi045.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa028.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0117.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1014.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0186.stoa001.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi019.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa028.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa022.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0180a.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi036.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0353.stoa002.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0893.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0217a.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292d.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa011.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149c.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0353.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0123a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa021.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1276.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi025.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa044.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0209.stoa002.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0203.stoa001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0023.stoa001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi015.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa026.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi022.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0111.stoa001.opp-lat3> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi046.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa018.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0028e.stoa001.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1212.phi003.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa015.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215c.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149p.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa062.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa003.opp-lat3> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa015.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0233h.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa015.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo019.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa056c.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0224b.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi038.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1351.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0076c.stoa002.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa025.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0830.phi001.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa027.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa046.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa041.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa012.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa040.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0224b.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0120a.stoa002.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa038.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo022.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa057.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0218.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi027.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa019.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0297.stoa001.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa016.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa011.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0213c.stoa001.latinlibrary-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa024b.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0893.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa001a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi020.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0245a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0209.stoa001.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo016.perseus-lat2> .
-
-[] dts:implements <urn:cts:greekLit:tlg0526.tlg003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa013.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa066c.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa039.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0076c.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi056.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0249a.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0448.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi051.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi052.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi042.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0134.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0293i.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa011.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi018.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1020.phi003.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa003.opp-lat2> .
 
 [] dts:implements <urn:cts:latinLit:stoa0022.stoa021.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0959.phi007.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0234f.stoa001.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040a.stoa002.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi037.perseus-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0180a.stoa004.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa042.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa015.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi043.perseus-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0134.phi001.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa013.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi1348.abo021.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa009.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa024.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi011.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi1002.phi001.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi049.perseus-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0474.phi051.perseus-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0041a.stoa004.digilibLT-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa018.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0478.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0180a.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa029.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa006.opp-lat1> .
 
 [] dts:implements <urn:cts:latinLit:stoa0022.stoa034.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa003.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa007.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0119.stoa003.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0209.stoa002.thayer-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi1348.abo020.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa007.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0215c.stoa003.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa060.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa006.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa025.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa037a.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa017.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0180a.stoa003.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0276.stoa003.opp-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa008.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0292a.stoa004.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0474.phi012.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0134.phi002.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0217a.stoa001.digilibLT-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa023.opp-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0969.phi001.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi2331.phi009.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa024.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0978.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa021.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104c.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215a.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi050.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0690.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0162.stoa024.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi048.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa063.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1014.phi002.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo025.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa072.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0134.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa042a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0117.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa001.opp-lat3> .
-
-[] dts:implements <urn:cts:latinLit:stoa0096.stoa004.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa015.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa023.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa056.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0620.phi001.perseus-lat3> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0860.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa031.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215c.stoa002.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi1318.phi001.perseus-lat1> .
 
 [] dts:implements <urn:cts:latinLit:stoa0120d.stoa001.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi1017.phi007.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi2331.phi013.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa008.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0893.phi002.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi054.perseus-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa009.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0223a.stoa001.opp-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0917.phi001.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0264.stoa001.digilibLT-lat1> .
+[] dts:implements <urn:cts:latinLit:phi1351.phi001.perseus-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa011.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa018.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0180a.stoa005.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa012.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi024.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa019.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa001.opp-lat3> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa051.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi024.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa037c.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi017.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa042.opp-lat1> .
 
 [] dts:implements <urn:cts:latinLit:phi0474.phi007.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0076c.stoa001.opp-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0959.phi007.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa030.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0077a.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0233d.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0631.phi001.perseus-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0224b.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0353.stoa002.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0180a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa056b.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa029.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi018.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa011.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0276.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0860.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa006.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149p.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0845.phi002.perseus-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0190a.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1212.phi002.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa012.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0227b.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0241d.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi020.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo012.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo019.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi018.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa021.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa054.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa029.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa056.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1014.phi003.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0287.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa020.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa018.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa001.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0023.stoa001.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi037.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi029.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa014.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0167.stoa002.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0117.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0631.phi001.perseus-lat4> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa014.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi026.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa039.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi012.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa015b.opp-lat1> .
+
+[] dts:implements <urn:cts:greekLit:tlg0526.tlg003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa013.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215c.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa019.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa010.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0247.stoa001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa029a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1294.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0120a.stoa003.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0223a.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa011.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1257.phi001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045a.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa038.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa046.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa052.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa011.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0223.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0120a.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi057.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1351.phi002.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa028.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0117.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0209.stoa001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0233h.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1020.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa020.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi040.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0224c.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149p.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0329c.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa040.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215c.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa035.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa015.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa056a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi058.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0245a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa021.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0096.stoa004.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0270.stoa003.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0631.phi002.perseus-lat4> .
+
+[] dts:implements <urn:cts:latinLit:phi0631.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0914.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi045.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa013.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0121g.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa064.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0631.phi007.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040a.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa077d.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo022.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0213c.stoa001.latinlibrary-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa018.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0249a.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0297.stoa001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi050.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa020.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo021.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa001a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0120c.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa003.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0224b.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215c.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo018.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa014a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi021.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0830.phi001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0836.phi002.perseus-lat6> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa019.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0041a.stoa002.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa033a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0180a.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0270p.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0134.phi006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi022.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0123a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0893.phi005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi047.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo018.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa011.opp-lat4> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa006.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0836.phi002.perseus-lat4> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi038.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0169a.stoa002.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi017.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo017.perseus-lat2> .
 
 [] dts:implements <urn:cts:latinLit:stoa0040.stoa023.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0117p.stoa001.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa025.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0234e.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa016.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa022.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa006.opp-lat2> .
 
 [] dts:implements <urn:cts:latinLit:phi0119.phi005.perseus-lat2> .
 
 [] dts:implements <urn:cts:latinLit:phi0119.phi006.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0660.phi003.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa020.opp-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0550.phi001.perseus-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa008.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0631.phi008.thayer-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0249a.stoa002.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0959.phi001.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa012.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0180a.stoa002.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0119.phi007.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa025.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0041a.stoa005.digilibLT-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0329.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa035.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa029a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0836.phi002.perseus-lat4> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa021a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa006.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0195a.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0631.phi002.perseus-lat3> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo017.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa028.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa023.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa006.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa003.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0121g.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi030.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa012.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0270.stoa002.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149b.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0631.phi007.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0134.phi006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa054.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi008.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo019.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0289.stoa001.thayer-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292e.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0149p.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa009.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa020.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0329c.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1212.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0251.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0007.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0187b.stoa003.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa030.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi016.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0241d.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi9500.phi035.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0690.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa007.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa010.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1014.phi003.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1345.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0893.phi005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa012.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa007.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa008.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0224c.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104a.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0245c.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0234f.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0121g.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0234e.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0187b.stoa001.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0631.phi001.perseus-lat4> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi018.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1020.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0215b.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi010.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo022.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa013.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa013.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa056a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa057a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0171.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa006.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0058.stoa003.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi058.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0054.stoa001a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa037.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa004.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0117.stoa003.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa005.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0180a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa015.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa017.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0187b.stoa002.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo015.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0631.phi003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0972.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0234e.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa005.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0276.stoa010.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0276.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0104p.stoa016.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa054.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa031a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0045.stoa014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0224b.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi015.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1017.phi006.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa008.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi012.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1014.phi004.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0089.stoa002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo021.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa018.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0249a.stoa003.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0255.stoa011.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi028.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo003.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292e.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa001.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa033a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0119.stoa001.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1351.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi026.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0959.phi009.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0238.stoa001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0474.phi002.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa035a.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa036.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi1035.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi013.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0292p.stoa002.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa019.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa027.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa025.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1254.phi001.perseus-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi0893.phi001.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0845.phi002.perseus-lat3> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa0071.digilibLT-lat1> .
-
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa015b.opp-lat1> .
-
-[] dts:implements <urn:cts:latinLit:phi1348.abo015.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0588.abo018.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi014.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0472.phi001.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0588.abo022.perseus-lat2> .
 
 [] dts:implements <urn:cts:latinLit:stoa0252.stoa003.opp-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0887.phi001.thayer-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa042.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa011.opp-lat4> .
+[] dts:implements <urn:cts:latinLit:phi2331.phi023.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:phi0911.phi001.thayer-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa021.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0684.phi002.thayer-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa001.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0474.phi017.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi017.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi2331.phi004.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:phi0119.phi019.perseus-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0252.stoa006.opp-lat2> .
-
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa010.opp-lat2> .
+[] dts:implements <urn:cts:latinLit:phi2331.phi012.perseus-lat2> .
 
 [] dts:implements <urn:cts:latinLit:stoa0122a.stoa001.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0089a.stoa002.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0249a.stoa003.opp-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa027.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0631.phi002.perseus-lat3> .
 
-[] dts:implements <urn:cts:latinLit:stoa0233d.stoa001.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0911.phi001.thayer-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.opp-lat3> .
+[] dts:implements <urn:cts:latinLit:stoa0149p.stoa001.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi0119.phi015.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:phi0588.abo008.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0275.stoa026.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0972.phi001.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa056b.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0233d.stoa002.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:stoa0227b.stoa001.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0474.phi006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa010.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0660.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo013.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0120a.stoa002.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi056.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi072.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0028e.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi030.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0278a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa031a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa048.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa029.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa054.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292b.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa009.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa025.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0276.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa013.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa070a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa063.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa026.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa015.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0076c.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa010.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa007.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi041.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0975.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0187b.stoa003.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa020.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa014.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi048.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0448.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0119.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0690.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo007.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0195a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0448.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa015.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0111.stoa001.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa025.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa032.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1242.phi001.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi055.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1276.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa053.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa080.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0134.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa027.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa027.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0887.phi001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa013.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0121g.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa044.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa080a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo025.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi039.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0251.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo020.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa012.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0134.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1020.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa023.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa074.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa004.opp-lat2> .
 
 [] dts:implements <urn:cts:latinLit:phi0959.phi005.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa003.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0114a.stoa003.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi1017.phi013.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0022.stoa025.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:phi0690.phi001.perseus-lat2> .
 
-[] dts:implements <urn:cts:latinLit:stoa0040.stoa024.opp-lat1> .
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa036.opp-lat1> .
 
-[] dts:implements <urn:cts:latinLit:phi1348.abo014.perseus-lat2> .
+[] dts:implements <urn:cts:latinLit:stoa0289.stoa001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa014.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa002.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa027.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa007.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa011.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1020.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa012.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa024b.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292b.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi027.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0203.stoa001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi042.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa019.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215b.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa050.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa034.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa056c.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa055.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0684.phi002.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292p.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa012.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215b.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa037.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo020.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa017.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi024.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa015.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0203.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0041a.stoa004.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0134.phi005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292e.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi007.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa016.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1345.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo024.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0134.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa017.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0186.stoa001.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa009.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0119.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0054.stoa001a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1014.phi001.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1056.phi001.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0167.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa019.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa010.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0234e.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0270.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0249a.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi025.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa057.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa014.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi019.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi043.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1014.phi004.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0180a.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0270.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo017.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa009.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0119.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa033.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa017.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa021a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0117p.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa030.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa026.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi049.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa011.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0180a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0076c.stoa001.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0028e.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0223.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa028.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa011.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa006.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0022.stoa051.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292d.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0170a.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi024.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0620.phi001.perseus-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa003.opp-lat4> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi059.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0978.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292a.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104c.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0041a.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0244d.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0034.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi017.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa042a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa008.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0478.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa016.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo015.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0159.stoa004.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa031.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0121g.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149b.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0276.stoa003.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa041.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi013.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa070.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi053.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0893.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi016.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0276.stoa010.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0353.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo013.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa037c.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa035a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa001.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0117.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0292e.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa077.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa016.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi017.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa009.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0196.stoa001.latinlibrary-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0224.stoa004.alim-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa032.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0472.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104p.stoa013.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1212.phi001.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0222a.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa077c.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0252.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0270.stoa002.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo019.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0117.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa0071.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa026.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0187b.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi005.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi9500.phi035.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa011.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa023.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa062.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi019.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa005.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0238.stoa004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa025.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0287.stoa002.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa028.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0329.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa013.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi008.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa066c.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa007.opp-lat3> .
+
+[] dts:implements <urn:cts:latinLit:stoa0187b.stoa002.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa008.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0224b.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi054.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa007.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0215b.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0007.stoa002.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa054.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1014.phi002.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa035.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa028.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0121g.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi036.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1035.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa025.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0631.phi008.thayer-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0149c.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0893.phi006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa044.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0041a.stoa003.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi028.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa003.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa025.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0959.phi010.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi016.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1212.phi003.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi019.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0690.phi002.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0119.phi016.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa027.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi006.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1351.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa006.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa017.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0893.phi004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0162.stoa024.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa004.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo016.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi018.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0089.stoa011.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0121g.stoa003.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa003.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0076c.stoa002.opp-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa023.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo016.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0200.stoa001.latinlibrary-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0171.stoa007.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0218.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0660.phi003.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0275.stoa010.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi2331.phi007.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0255.stoa007.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0245c.stoa001.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0208a.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0104a.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1348.abo012.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0114a.stoa013.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa019.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0293i.stoa001.digilibLT-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi1254.phi001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa038a.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0058.stoa001.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:stoa0040.stoa072.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi046.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0162.stoa004.opp-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0474.phi052.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:stoa0045.stoa022.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi1017.phi014.perseus-lat2> .
+
+[] dts:implements <urn:cts:latinLit:phi0550.phi001.perseus-lat1> .
+
+[] dts:implements <urn:cts:latinLit:phi0588.abo014.perseus-lat2> .
 

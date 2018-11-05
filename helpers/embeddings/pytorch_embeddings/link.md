@@ -1,0 +1,1 @@
+Utilisé et récent : https://github.com/jeffchy/pytorch-word-embedding/blob/master/CBOW.py

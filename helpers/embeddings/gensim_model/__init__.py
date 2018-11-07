@@ -15,11 +15,14 @@ class GensimIterator:
 
 class GensimW2Vec(BaseEmbedding):
     def compile(self):
+        corpus = GensimIterator(self.corpus_path)
         self.__model__ = Word2Vec(
-            sentences=GensimIterator(self.corpus_path),
             size=100, window=5, min_count=1, workers=7,
             hs=1, negative=0  # Needed for lemmatisation
         )
+        self.model.build_vocab(corpus)                 # can be a non-repeatable, 1-pass generator
+        self.model.train(corpus, total_examples=self.model.corpus_count, epochs=self.model.iter)
+        self.model.train()
         self.persist()
 
     def persist(self):
@@ -49,6 +52,7 @@ class GensimFasttext(GensimW2Vec):
             size=100, window=5, min_count=4, workers=3, min_n=4, max_n=6,
             hs=1, negative=0
         )
+        self.__model__.train()
         self.persist()
 
     def persist(self):

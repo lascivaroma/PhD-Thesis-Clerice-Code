@@ -1,7 +1,9 @@
+#!./these_env/bin/python
 import click
 import glob
 import os
 import shutil
+import typing as t
 from multiprocessing.pool import ThreadPool
 from subprocess import call
 
@@ -27,16 +29,19 @@ def cli():
     pass
 
 
-@cli.command("download", help="Download corpora")
-@click.option('--corpus', is_flag=True, help='Update corpus')
+@cli.group("corpus")
+def corpus_group():
+    """ Group of function to deal with corpora """
+
+
+@corpus_group.command("download")
+@click.argument('targets', type=click.Choice(['corpus', 'treebank', 'perseus-catalog']), nargs=-1)
 @click.option('--force', is_flag=True, help='Force download')
-@click.option("--treebank", is_flag=True, help="Update treebanks")
-@click.option("--wordcount", is_flag=True, help="Update Word Counts Metadata")
-def download(corpus=False, force=False, treebank=False, wordcount=False):
-    """ Refresh corpora if need be """
-    if corpus:
+def download(targets: t.List[str], force=False):
+    """ Refresh targets corpora if need be """
+    if "corpus" in targets:
         helpers.download.download_corpora(force=force)
-    if treebank:
+    if "treebank" in targets:
         helpers.download.download_corpora(
             src="data/raw/treebanks_xml.csv", tgt="data/raw/treebanks_xml/", force=force,
             is_capitains=False
@@ -45,84 +50,103 @@ def download(corpus=False, force=False, treebank=False, wordcount=False):
             src="data/raw/treebanks_conllu.csv", tgt="data/raw/treebanks_conllu/", force=force,
             is_capitains=False
         )
-    if wordcount:
+    if "perseus-catalog" in targets:
         helpers.download.download_corpora(
             src="data/raw/metadatas.csv", tgt="data/raw/metadatas/", force=force,
             is_capitains=False
         )
 
 
-@cli.command("wordcount-build", help="Build wordcounts informations")
-def wc_build():
-    helpers.metadata.wordcounts.build()
+@corpus_group.command("build")
+@click.argument('targets', type=click.Choice(['texts', 'treebank', 'metadata', 'wordcount']),
+                nargs=-1)
+def corpus_build(targets: t.List[str]):
+    """ Get TARGETS corpora built in plain text """
+    # We do texts first
 
-
-@cli.command("treebank-build")
-def treebank_to_plaintext():
-    for corpus in helpers.treebanks.Corpora:
-        #corpus.parse_plaintext()
-        corpus.parse()
-        print(corpus.diversity)
-
-
-@cli.command("metadata-build", help="Build inventory and graph metadata")
-def enhance_metadata():
-    """ Enhance the metadata using the spreadsheet and other informations"""
-    print("Enhancing the metadata")
-    metadata = helpers.metadata.read_datation_spreadsheet()
-    resolver = helpers.metadata.feed_resolver(metadata, helpers.reader.make_resolver())
-    helpers.metadata.write_inventory(resolver)
-
-
-@cli.command("texts-build", help="Build the text corpus")
-def generate_raw_texts():
-    """ Prepare the whole corpus """
-    resolver = helpers.reader.make_resolver()
-    metadata = helpers.metadata.read_datation_spreadsheet()
-    resolver = helpers.metadata.feed_resolver(metadata, resolver)
-    helpers.reader.create_raw_text(resolver=resolver)
-
-
-@cli.command()
-@click.option('--corpus', is_flag=True, help='Stats of corpus')
-def stats(corpus=False):
-    """ Refresh corpora if need be """
-    if corpus:
+    if "texts" in targets:
         resolver = helpers.reader.make_resolver()
-        print("{} Texts".format(len(resolver.getMetadata().readableDescendants)))
+        metadata = helpers.metadata.read_datation_spreadsheet()
+        resolver = helpers.metadata.feed_resolver(metadata, resolver)
+        helpers.reader.create_raw_text(resolver=resolver)
+
+    # Then we update the metadata
+    if "metadata" in targets:
+        print("Enhancing the metadata")
+        metadata = helpers.metadata.read_datation_spreadsheet()
+        resolver = helpers.metadata.feed_resolver(metadata, helpers.reader.make_resolver())
+        helpers.metadata.write_inventory(resolver)
+
+    # We could do the treebank
+    if "treebank" in targets:
+        for corpus in helpers.treebanks.Corpora:
+            corpus.parse()
+            print(corpus.diversity)
+
+    # We can also build the wordcounts
+    if "wordcount" in targets:
+        helpers.metadata.wordcounts.build()
 
 
-@cli.command("analyze-corpus", help="Analyse texts corpora")
+@corpus_group.command("lemmatize", help="Lemmatize texts")
+@click.argument('lemmatizers', type=click.Choice(['collatinus', 'pie']), nargs=-1)
+def lemmatize(lemmatizers=[]):
+    """ Lemmatize using LEMMATIZERS"""
+    import helpers.lemmatizers
+    text_files = glob.glob(CORPUS_PATH) + glob.glob(CORPUS_PATH.replace("*.", "."))
+    if "collatinus" in lemmatizers:
+        helpers.lemmatizers.run_collatinus(text_files=text_files, target_path="data/curated/corpus/generic/")
+
+
+@corpus_group.command()
+def infos():
+    """ Retrieve statistics and information about the corpus """
+    resolver = helpers.reader.make_resolver()
+    print("{} Texts".format(len(resolver.getMetadata().readableDescendants)))
+
+
+@cli.group("analysis")
+def analysis():
+    """ Command related to build analysis or experiences """
+
+
+@analysis.command("corpus", help="Analyse texts corpora")
 def analize_corpus():
     analysis.general_analysis.corpus_analysis.run()
 
 
-@cli.command("analyze-tb", help="Analyse treebanks")
+@analysis.command("treebanks", help="Analyse treebanks")
 def analize_tb():
     analysis.general_analysis.treebank_analysis.run(helpers.treebanks.Corpora)
 
 
-@cli.command("analyze-embeddings", help="Analyse embeddings")
-def analize_corpus():
+@analysis.command("embeddings", help="Analyse embeddings")
+def analize_embs():
     analysis.field_analysis.embeddings_analysis.run()
 
 
 @cli.command("cache-clear", help="Clear cache")
 def clear_cache():
+    """ Clear the cache from resolvers """
     files = glob.glob(".pickle_dir/*.pickle")
     print(TASK_SEPARATOR+"Deleting {} pickle files".format(len(files)))
     for file in files:
         os.remove(file)
 
 
-@cli.command("thirdparties-export", help="Export data for third parties tools")
+@cli.group("thirdparties")
+def third_parties():
+    """ Interactions with third parties """
+
+
+@third_parties.command("export", help="Export data for third parties tools")
 def export():
     print(TASK_SEPARATOR+"Exporting for other pipelines")
     print(SUBTASK_SEPARATOR + "Exporting for passim")
     helpers.exporter.make_passim_source()
 
 
-@cli.command("thirdparties-install", help="Install non-python tools")
+@third_parties.command("install", help="Install non-python tools")
 def install_third_parties():
     installs = glob.glob("third_parties/build-*.sh")
     print(TASK_SEPARATOR+"Installing {} 3rd parties pipelines".format(len(installs)))
@@ -132,47 +156,6 @@ def install_third_parties():
     print(TASK_SEPARATOR+"Installing LaTeX dependencies".format(len(installs)))
     deps = ["babel", "babel-french", "biblatex", "tocbibind", "minitoc", "nomencl", "multirow", "lipsum"]
     call(["tlmgr", "install"]+deps)
-
-
-@cli.command("texts-lemmatize", help="Lemmatize texts")
-def lemmatize():
-    import helpers.lemmatizers
-
-    text_files = glob.glob(CORPUS_PATH) + glob.glob(CORPUS_PATH.replace("*.", "."))
-    text_files = text_files
-    print(TASK_SEPARATOR+"Lemmatizing {} texts".format(len(text_files)))
-    lemmatizer = helpers.lemmatizers.Collatinus()
-    files = 0
-    with open("data/curated/corpus/collatinus-lemmatizer.unknown.tsv", "w") as f:
-        f.write("Source\tPassage\tForm\n")
-
-    if os.path.isdir(lemmatizer.path("data/curated/corpus/generic/")):
-        print(SUBTASK_SEPARATOR+"Cleaning up old text")
-        shutil.rmtree(lemmatizer.path("data/curated/corpus/generic/"))
-
-    with ThreadPool(processes=7) as pool:
-        for source in pool.imap_unordered(lemmatizer.output, text_files):
-            unk = [
-                (source.replace("data/curated/corpus/generic/", ""), form)
-                for form in lemmatizer.unknown[source]
-            ]
-            files += 1
-            print(
-                SUBTASK_SEPARATOR +
-                "{filename} done ({texts_done}/{total_texts}) [+{diff_forms} new unknown forms]".format(
-                    filename=source,
-                    texts_done=files,
-                    total_texts=len(text_files),
-                    diff_forms=len(lemmatizer.unknown[source])
-                )
-            )
-
-            with open("data/curated/corpus/collatinus-lemmatizer.unknown.tsv", "a") as f:
-                f.write("\n".join(
-                    src.replace(".txt", "").replace("/", "\t")+"\t"+frm
-                    for src, frm in unk
-                ))
-                f.write("\n")
 
 
 @cli.command("latex-pdf", help="Generate the thesis PDF")

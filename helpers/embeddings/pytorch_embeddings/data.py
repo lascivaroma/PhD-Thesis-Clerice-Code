@@ -14,9 +14,10 @@ from tqdm import tqdm
 
 
 class Iterator:
-    def __init__(self, files, window: typing.Tuple[int, int]):
+    def __init__(self, files, window: typing.Tuple[int, int], min_chars=3):
         self.w_left, self.w_right = window
         self.files = glob.glob(files) + glob.glob(files.replace("*.", "."))
+        self.min_chars = min_chars
 
     def __len__(self):
         return len(self.files)
@@ -24,7 +25,7 @@ class Iterator:
     def __iter__(self):
         for file in self.files:
             with open(file) as fread:
-                yield fread.read().split()
+                yield [tok for tok in fread.read().split() if len(tok) >= self.min_chars]
 
     def get_unit(
             self,

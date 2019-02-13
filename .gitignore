@@ -3,11 +3,14 @@ data/raw/**/*
 data/curated/corpus/generic
 data/curated/passim
 data/models
+dataset.pickle
+.models
 .pickle_dir/*
 third_parties/**/*
 !third_parties/build-*.sh
 # Python
 *.pkl
+these_env
 # Compiled python modules.
 *.pyc
 .idea

@@ -90,12 +90,17 @@ def corpus_build(targets: t.List[str]):
 
 @corpus_group.command("lemmatize", help="Lemmatize texts")
 @click.argument('lemmatizers', type=click.Choice(['collatinus', 'pie']), nargs=-1)
-def lemmatize(lemmatizers=[]):
+@click.option("--debug", is_flag=True)
+def lemmatize(lemmatizers=[], debug=False):
     """ Lemmatize using LEMMATIZERS"""
     import helpers.lemmatizers
     text_files = glob.glob(CORPUS_PATH) + glob.glob(CORPUS_PATH.replace("*.", "."))
+    if debug:
+        text_files = text_files[-10:]
     if "collatinus" in lemmatizers:
         helpers.lemmatizers.run_collatinus(text_files=text_files, target_path="data/curated/corpus/generic/")
+    if "pie" in lemmatizers:
+        helpers.lemmatizers.run_pie_web(text_files=text_files, target_path="data/curated/corpus/generic/", threads=1)
 
 
 @corpus_group.command()
@@ -106,21 +111,21 @@ def infos():
 
 
 @cli.group("analysis")
-def analysis():
+def ana():
     """ Command related to build analysis or experiences """
 
 
-@analysis.command("corpus", help="Analyse texts corpora")
+@ana.command("corpus", help="Analyse texts corpora")
 def analize_corpus():
     analysis.general_analysis.corpus_analysis.run()
 
 
-@analysis.command("treebanks", help="Analyse treebanks")
+@ana.command("treebanks", help="Analyse treebanks")
 def analize_tb():
     analysis.general_analysis.treebank_analysis.run(helpers.treebanks.Corpora)
 
 
-@analysis.command("embeddings", help="Analyse embeddings")
+@ana.command("embeddings", help="Analyse embeddings")
 def analize_embs():
     analysis.field_analysis.embeddings_analysis.run()
 
@@ -162,6 +167,18 @@ def install_third_parties():
 def pdf():
     call(["make", "all"], cwd=os.getcwd()+"/redaction")
     call(["make", "purge"], cwd=os.getcwd()+"/redaction")
+
+
+@cli.group()
+def install():
+    """ Install tools """
+
+@install.command()
+def cltk():
+    """ Install CLTK data """
+    from cltk.corpus.utils.importer import CorpusImporter
+    corpus_importer = CorpusImporter('latin')
+    corpus_importer.import_corpus('latin_models_cltk')
 
 
 if __name__ == "__main__":

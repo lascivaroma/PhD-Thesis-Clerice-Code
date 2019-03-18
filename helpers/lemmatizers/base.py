@@ -26,8 +26,7 @@ class LemmatizerBase(object):
 
     def from_file(self, path):
         with open(path) as f:
-            r = self.from_string(f.read(), path)
-        yield from r
+            yield from self.from_string(f.read(), path)
 
     @staticmethod
     def lemma_to_string(lemma_collection):
@@ -47,11 +46,10 @@ class LemmatizerBase(object):
         :param file_path:
         :return:
         """
-        lemmatized = self.from_file(file_path)
-        lemmatized = " ".join([lemma.lemma for lemma in lemmatized])
+        lemmatized = [tok for tok in self.from_file(file_path)]
+        simplified = " ".join([lemma.lemma for lemma in lemmatized])
         output_path = self.path(file_path)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, "w") as output_io:
-            output_io.write(lemmatized)
+            output_io.write(simplified)
 
-        return file_path

@@ -7,3 +7,5 @@ pycollatinus
 git+ssh://git@github.com/PonteIneptique/collatinus-lemmatizer.git#egg=collatinus_lemmatizer
 conllu==1.2.1
 gensim==3.7.1
+https://github.com/PonteIneptique/pie/archive/setup_py.zip
+cltk

@@ -3,7 +3,7 @@ import os
 
 
 class BaseEmbedding:
-    def __init__(self, model_path, corpus_path="data/curated/corpus/generic/**/*.txt"):
+    def __init__(self, model_path, corpus_path="data/curated/corpus/pie-http/**/*.txt"):
         self.model_path = model_path
         self.corpus_path = corpus_path
         self.__model__ = None

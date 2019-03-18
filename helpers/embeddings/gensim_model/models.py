@@ -22,7 +22,6 @@ class GensimW2Vec(BaseEmbedding):
         )
         self.model.build_vocab(corpus)                 # can be a non-repeatable, 1-pass generator
         self.model.train(corpus, total_examples=self.model.corpus_count, epochs=self.model.iter)
-        self.model.train()
         self.persist()
 
     def persist(self):
@@ -47,19 +46,19 @@ class GensimW2Vec(BaseEmbedding):
 
 class GensimFasttext(GensimW2Vec):
     def compile(self):
-        self.__model__ = FastText(
+        self.model = FastText(
             sentences=GensimIterator(self.corpus_path),
             size=100, window=5, min_count=4, workers=3, min_n=4, max_n=6,
             hs=1, negative=0
         )
-        self.__model__.train()
+        self.model.train()
         self.persist()
 
     def persist(self):
         self.model.save(self.model_path)
 
     def load(self):
-        self.__model__ = Word2Vec.load(self.model_path)
+        self.model = FastText.load(self.model_path)
 
     def most_similar(self, word):
         return self.model.wv.most_similar([word])

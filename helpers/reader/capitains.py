@@ -56,7 +56,8 @@ def make_resolver(directories=None, additional_metadata=None):
 
 
 def create_raw_text(resolver, tgt="data/curated/corpus/generic", step=20):
-    regex = re.compile('[^\w ]')
+    regex = re.compile('[^\w\s\.\;]')
+    ponctu = re.compile("\.\;")
     normalize = re.compile('\s+')
     print(TASK_SEPARATOR+"Creating the corpus raw texts")
     if os.path.isdir(tgt):
@@ -100,7 +101,7 @@ def create_raw_text(resolver, tgt="data/curated/corpus/generic", step=20):
                 }
             for file, content in contents.items():
                 with open(subtarget+"/"+file+".txt", "w") as f:
-                    f.write(normalize.sub(" ", regex.sub(" ", content.strip())))
+                    f.write(normalize.sub(" ", regex.sub(" ", ponctu.sub(" . ", content.strip()))))
         i += 1
     print(SUBTASK_SEPARATOR+"{}/{} texts done".format(i, i))
     print(SUBTASK_SEPARATOR+"{}/{} texts not converted because they lacked SemanticCut information".format(y, i))

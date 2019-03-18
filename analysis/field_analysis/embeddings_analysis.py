@@ -6,21 +6,20 @@ WORDS = ["lascivus"]
 
 def test_eval(model):
     model.load_or_compile()
+
     print("Bellum")
-    print(model.most_similar(word="bellum"))
+    print(model.most_similar(word="bellvm"))
     print("Lasciva")
-    print(model.most_similar(word="lasciva"))
+    print(model.most_similar(word="lascivvs"))
     print("Mentula")
-    print(model.most_similar(word="mentula"))
-    print("Mentulam")
-    print(model.most_similar(word="mentulam"))
+    print(model.most_similar(word="mentvla"))
     # Interesting !
     print("Lasciva+Mentula")
-    print(model.vector_comparison(positive=["lasciva", "mentula"]))
+    print(model.vector_comparison(positive=["lascivvs", "mentvla"]))
     print("Lascivus-Vir")
-    print(model.vector_comparison(positive=["lascivus"], negative=["vir"]))
+    print(model.vector_comparison(positive=["lascivvs"], negative=["vir"]))
     print("Lascivus+Vir")
-    print(model.vector_comparison(positive=["lascivus", "vir"]))
+    print(model.vector_comparison(positive=["lascivvs", "vir"]))
 
 
 def run():

@@ -1,3 +1,6 @@
+embedding_stability_orders.csv
+mallet.composition.txt
+topic-state.gz
 *.wv
 # Corpus data
 data/raw/**/*

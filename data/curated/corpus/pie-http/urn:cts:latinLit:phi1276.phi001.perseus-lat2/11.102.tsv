@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+magnorum,magnvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+artificum,artifex,NOM3,Case=Gen|Numb=Plur
+frangebat,frango,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+miles,miles,NOM3,Case=Nom|Numb=Sing

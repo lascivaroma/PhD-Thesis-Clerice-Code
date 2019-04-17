@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Nota,nota,NOM1,Case=Nom|Numb=Sing
+bonae,bonvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+secreta,secretvm,NOM2,Case=Nom|Numb=Sing
+deae,dea,NOM1,Case=Gen|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+tibia,tibia,NOM1,Case=Abl|Numb=Sing
+lumbos,lvmbvs,NOM2,Case=Acc|Numb=Plur

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Semper,semper,NOM7,Case=Nom|Numb=Sing
+pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+eris,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+si,si,CONsub,MORPH=empty
+pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Aemiliane,aemilianvs,NOM2,Case=Voc|Numb=Sing
+.,qvintvs,ADJcar,Case=Nom|Numb=Sing
+Dantur,dantvr,NOM3,Case=Nom|Numb=Plur
+opes,ops,NOM3,Case=Acc|Numb=Plur
+nullis,nvllvs,PROind,Case=Abl|Numb=Plur
+nunc,nvnc,ADV,Deg=Pos
+nisi,nisi,CONsub,MORPH=empty
+diuitibus,dives,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

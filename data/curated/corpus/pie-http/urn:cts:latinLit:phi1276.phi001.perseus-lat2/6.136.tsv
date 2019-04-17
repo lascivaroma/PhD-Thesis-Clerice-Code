@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Optima,optima,NOM1,Case=Nom|Numb=Sing
+set,sed,CONcoo,MORPH=empty
+quare,qvare,ADVrel,MORPH=empty
+Censennia,censennia,NOM1,Case=Nom|Numb=Sing
+teste,testis,NOM3,Case=Abl|Numb=Sing
+marito,maritvs,NOM2,Case=Abl|Numb=Sing

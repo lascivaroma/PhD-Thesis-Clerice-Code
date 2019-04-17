@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Haec,hiec,NOM3,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+torta,torqveo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+uenerunt,venio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+condita,condo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+meta,meta,NOM1,Case=Nom|Numb=Plur
+Si,sivs,NOM2,Case=Nom|Numb=Sing
+maiora,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp
+forent,svm,VER,Numb=Plur|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+cottana,cottanvm,NOM2,Case=Nom|Numb=Plur
+ficus,ficvs,NOM2,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Nom|Numb=Plur

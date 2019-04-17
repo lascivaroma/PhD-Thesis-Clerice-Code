@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Chrysippus,chrysippvs,NOM2,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+dicet,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+idem,idem,PROdem,Case=Nom|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+mite,mitis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Thaletis,thaletis,NOM3,Case=Nom|Numb=Sing

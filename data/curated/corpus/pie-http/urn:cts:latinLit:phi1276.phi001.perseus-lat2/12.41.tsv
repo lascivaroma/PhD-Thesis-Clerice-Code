@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+infecit,inficio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+natura,natvra,NOM1,Case=Nom|Numb=Sing
+pecus,pecvs,NOM3,Case=Nom|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+et,et,CONcoo,MORPH=empty
+egregius,egregivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fons,fons,NOM3,Case=Nom|Numb=Sing

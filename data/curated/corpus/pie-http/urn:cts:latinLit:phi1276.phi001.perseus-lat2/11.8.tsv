@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+scripturas,scribo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act
+leges,lex,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+regia,regivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uerba,verbvm,NOM2,Case=Acc|Numb=Plur
+lanistae,lanista,NOM1,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Defendet,defendeo,VER,Numb=Sing|Tense=Pres|Voice=Act|Person=3
+manus,manvs,NOM4,Case=Acc|Numb=Plur
+haec,hic,PROdem,Case=Nom|Numb=Sing
+scapulas,scapvla,NOM1,Case=Acc|Numb=Plur
+mordente,mordeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+molesto,molestvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Pulice,pvlices,NOM2,Case=Voc|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+quid,qvis,PROind,Case=Nom|Numb=Sing
+pulice,pvlex,NOM3,Case=Abl|Numb=Sing
+sordidius,sordidvs,ADJqua,Numb=Sing|Deg=Comp
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

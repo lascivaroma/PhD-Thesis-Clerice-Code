@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tale,talis,PROdem,Case=Acc|Numb=Sing
+super,svper,PRE,MORPH=empty
+cenam,cena,NOM1,Case=Acc|Numb=Sing
+facinus,facinvs,NOM3,Case=Acc|Numb=Sing
+narraret,narro,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+Vlixes,vlixes,NOM7,Case=Nom|Numb=Sing

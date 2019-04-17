@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+progenies,progenies,NOM5,Case=Nom|Numb=Sing
+stimulante,stimvlo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+fame,fames,NOM3,Case=Abl|Numb=Sing
+festinat,festino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+illam,ille,PROdem,Case=Acc|Numb=Sing

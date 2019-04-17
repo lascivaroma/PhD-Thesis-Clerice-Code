@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+fictilibus,fictile,NOM3,Case=Abl|Numb=Plur
+cenare,ceno,VER,Mood=Inf|Tense=Pres|Voice=Act
+pudet,pvdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quod,qvi,PROrel,Case=Acc
+turpe,tvrpis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+negabis,nego,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

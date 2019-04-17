@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+dictu,dico,VER,Mood=SupUm|Voice=Act
+foedum,foedvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+uisu,video,VER,Mood=SupUm|Voice=Act
+-que,qvove,CONcoo,MORPH=empty
+haec,hic,PROdem,Case=Acc|Numb=Plur
+limina,limen,NOM3,Case=Acc|Numb=Plur
+tangat,tango,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ciuis,civis,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+egregius,egregivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+patriae,patria,NOM1,Case=Dat|Numb=Sing
+contingis,contingo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ouanti,ovo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

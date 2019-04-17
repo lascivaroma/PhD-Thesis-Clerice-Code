@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+gratam,gratvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+requiem,reqvies,NOM5,Case=Acc|Numb=Sing
+dona,dono,NOM2,Case=Acc|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+quando,qvando,ADVint,MORPH=empty
+licebit,licet,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

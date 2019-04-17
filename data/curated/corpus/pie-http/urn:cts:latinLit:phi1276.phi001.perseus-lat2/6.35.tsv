@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pusio,pvsio,NOM3,Case=Nom|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+noctu,noctv,ADV,Deg=Pos
+non,non,ADVneg,MORPH=empty
+litigat,litigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+exigit,exigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+te,tv,PROper,Case=Abl|Numb=Sing

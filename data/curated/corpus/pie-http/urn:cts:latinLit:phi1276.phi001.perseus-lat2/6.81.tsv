@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nobilis,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Euryalum,evryalvs,NOM2,Case=Acc|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+murmillonem,mirmillo,NOM3,Case=Acc|Numb=Sing
+exprimat,exprimo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+infans,infans,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

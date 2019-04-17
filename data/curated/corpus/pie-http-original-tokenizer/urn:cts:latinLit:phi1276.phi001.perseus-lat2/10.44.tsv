@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+illinc,illinc,ADV,Deg=Pos
+cornicines,cornicen,NOM3,Case=Acc|Numb=Plur
+hinc,hinc,ADV,Deg=Pos
+praecedentia,praecedo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+longi,longvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

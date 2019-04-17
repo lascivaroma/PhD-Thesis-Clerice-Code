@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+luctum,lvctvs,NOM4,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+curam,cvra,NOM1,Case=Acc|Numb=Sing
+effugies,effvgio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+tempora,tempvs,NOM3,Case=Acc|Numb=Plur
+uitae,vita,NOM1,Case=Gen|Numb=Sing

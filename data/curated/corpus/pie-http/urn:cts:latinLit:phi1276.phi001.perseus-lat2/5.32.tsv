@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cardiaco,cardiacvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+numquam,nvmqvam,ADVneg,MORPH=empty
+cyathum,cyathvs,NOM2,Case=Acc|Numb=Sing
+missurus,mitto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+amico,amicvs,NOM2,Case=Dat|Numb=Sing
+;,o,PRE,MORPH=empty

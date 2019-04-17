@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+imperat,impero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty
+uiro,vir,NOM2,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+set,sed,CONcoo,MORPH=empty
+mox,mox,ADV,Deg=Pos
+haec,hic,PROdem,Case=Acc|Numb=Plur
+regna,regnvm,NOM2,Case=Acc|Numb=Plur
+relinquit,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

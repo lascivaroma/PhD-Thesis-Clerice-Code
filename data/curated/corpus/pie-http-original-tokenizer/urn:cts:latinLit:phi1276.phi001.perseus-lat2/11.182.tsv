@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tales,talis,PROdem,Case=Acc|Numb=Plur
+uersus,versvs,NOM4,Case=Acc|Numb=Plur
+qua,qvis,PROint,Case=Abl|Numb=Sing
+uoce,vox,NOM3,Case=Abl|Numb=Sing
+legantur,lego,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3

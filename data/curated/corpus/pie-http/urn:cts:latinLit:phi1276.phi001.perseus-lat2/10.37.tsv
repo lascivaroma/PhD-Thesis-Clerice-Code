@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+extantem,exsto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+medii,medivs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+sublimem,svblimis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+puluere,pvlvis,NOM3,Case=Abl|Numb=Sing
+circi,circvs,NOM2,Case=Gen|Numb=Sing

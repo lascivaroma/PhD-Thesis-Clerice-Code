@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uentus,ventvs,NOM2,Case=Nom|Numb=Sing
+adest,assvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+inopi,inops,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+miserabilis,miserabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+arte,ars,NOM3,Case=Abl|Numb=Sing
+cucurrit,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

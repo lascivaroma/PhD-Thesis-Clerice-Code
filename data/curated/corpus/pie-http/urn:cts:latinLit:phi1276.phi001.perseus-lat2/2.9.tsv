@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tristibus,tristis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+obscaenis,obscenvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+castigas,castigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+turpia,tvrpis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+sis,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

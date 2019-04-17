@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Quaeris,qvaeris,NOM2,Case=Dat|Numb=Plur
+cur,cvr,ADVint,MORPH=empty
+nolim,nolo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+te,tv,PROper,Case=Acc|Numb=Sing
+ducere,dvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+Galla,galla,NOM1,Case=Nom|Numb=Sing
+Diserta,diserta,NOM1,Case=Nom|Numb=Sing
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Saepe,saepe,NOM7,Case=Voc|Numb=Sing
+soloecismum,soloecismvs,NOM2,Case=Acc|Numb=Sing
+mentula,mentvla,NOM1,Case=Nom|Numb=Sing
+nostra,noster,PROpos,Case=Acc|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

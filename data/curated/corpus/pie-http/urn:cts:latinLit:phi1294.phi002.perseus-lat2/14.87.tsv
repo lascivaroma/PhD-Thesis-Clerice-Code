@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Accipe,accipe,NOM2,Case=Nom|Numb=Sing
+lunata,lvnatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+scriptum,scribo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+testudine,testvdo,NOM3,Case=Abl|Numb=Sing
+sigma,sigma,NOM2,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur
+Octo,octo,NOM2,Case=Dat|Numb=Sing
+capit,capio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,INJ,MORPH=empty
+ueniat,venio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quisquis,qvisqvis,PROrel,Case=Nom|Numb=Sing
+amicus,amicvs,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Terpsichoren,terpsichores,NOM7,Case=Acc|Numb=Sing
+odit,odi,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+facunda,facvndvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+nuda,nvdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+senectus,senectvs,NOM3,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

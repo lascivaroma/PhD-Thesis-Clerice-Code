@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Iure,ivrvs,NOM3,Case=Voc|Numb=Sing
+colis,colo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+proprium,proprivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+natalem,natalis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+pulcher,pvlcher,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Arator,arator,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing
+Qui,qvis,PROrel,Case=Gen|Numb=Sing
+si,si,CONsub,MORPH=empty
+non,non,ADVneg,MORPH=empty
+coleres,colo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2
+numquid,nvmqvid,ADVint,MORPH=empty
+arator,arator,NOM3,Case=Nom|Numb=Sing
+eras,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2

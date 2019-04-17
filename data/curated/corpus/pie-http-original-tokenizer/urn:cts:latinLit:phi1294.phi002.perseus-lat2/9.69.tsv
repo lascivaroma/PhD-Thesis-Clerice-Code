@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Nom|Numb=Sing
+futuis,fvtvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+Polycharme,polycharmvs,NOM2,Case=Voc|Numb=Sing
+soles,sol,VER,Case=Acc|Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep
+in,in,PRE,MORPH=empty
+fine,finis,NOM3,Case=Abl|Numb=Sing
+cacare,caco,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+pedicaris,pedico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quid,qvis,PROint,Case=Acc|Numb=Sing
+Polycharme,polycharmvs,NOM7,Case=Voc|Numb=Sing
+facis,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uindicta,vindicta,NOM1,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+grauior,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+quam,qvam,ADVrel,MORPH=empty
+iniuria,inivria,NOM1,Case=Nom|Numb=Sing
+dignum,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty

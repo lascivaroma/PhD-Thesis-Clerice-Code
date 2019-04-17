@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+porticus,porticvs,NOM4,Case=Acc|Numb=Plur
+existunt,exsisto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+promittant,promitto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+hecatombe,hecatom,INJ,MORPH=empty
+-ne,one,CONsub,MORPH=empty

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+laeta,laetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+sed,sed,CONcoo,MORPH=empty
+ostendens,ostendo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Clitumni,clitvmnvs,NOM2,Case=Gen|Numb=Sing
+pascua,pascvvm,NOM2,Case=Acc|Numb=Plur
+sanguis,sangvis,NOM3,Case=Nom|Numb=Sing

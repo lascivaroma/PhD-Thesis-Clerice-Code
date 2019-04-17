@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+praemia,praemivm,NOM2,Case=Acc|Numb=Plur
+si,si,CONsub,MORPH=empty
+tollas,tollo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+patriam,patria,NOM1,Case=Acc|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+obruit,obrvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+olim,olim,ADV,Deg=Pos

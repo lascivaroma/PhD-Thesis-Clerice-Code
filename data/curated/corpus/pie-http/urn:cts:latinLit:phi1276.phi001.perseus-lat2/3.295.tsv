@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+mihi,ego,PROper,Case=Dat|Numb=Sing
+respondes,respondeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+aut,avt,CONcoo,MORPH=empty
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+aut,avt,CONcoo,MORPH=empty
+accipe,accipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+calcem,calx,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

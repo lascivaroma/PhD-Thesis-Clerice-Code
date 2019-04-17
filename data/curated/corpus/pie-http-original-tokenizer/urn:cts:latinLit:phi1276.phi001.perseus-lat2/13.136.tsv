@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+decies,deciens,ADJadv.mul,MORPH=empty
+lectis,lectvs,VER,Case=Abl|Numb=Plur|Voice=Pass
+diuersa,diversvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+parte,pars,NOM3,Case=Abl|Numb=Sing
+tabellis,tabella,NOM1,Case=Abl|Numb=Plur

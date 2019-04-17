@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+orator,orator,NOM3,Case=Nom|Numb=Sing
+quoque,qvoqve,ADV,Deg=Pos
+maximus,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+et,et,CONcoo,MORPH=empty
+iaculator,iacvlator,NOM3,Case=Nom|Numb=Sing

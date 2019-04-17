@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nocte,nox,NOM3,Numb=Sing
+iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+sudare,svdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+tumultu,tvmvltvs,NOM4,Case=Abl|Numb=Sing

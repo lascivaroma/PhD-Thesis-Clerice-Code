@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+curentur,cvro,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+dubii,dvbivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+medicis,medicvs,NOM2,Case=Abl|Numb=Plur
+maioribus,maiores,NOM3,Case=Abl|Numb=Plur
+aegri,aeger,NOM2,Case=Nom|Numb=Plur

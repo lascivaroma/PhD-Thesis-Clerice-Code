@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+integer,integer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty
+ambiguae,ambigvvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+si,si,CONsub,MORPH=empty
+quando,qvando,ADV,Deg=Pos
+citabere,cito,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=2
+testis,testis,NOM3,Case=Nom|Numb=Sing

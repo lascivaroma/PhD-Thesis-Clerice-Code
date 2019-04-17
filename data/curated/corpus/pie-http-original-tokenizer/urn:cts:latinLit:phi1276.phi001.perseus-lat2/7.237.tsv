@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+exigite,exigo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+ut,vt,CONsub,MORPH=empty
+mores,mos,NOM3,Case=Acc|Numb=Plur
+teneros,tener,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+ceu,cev,ADVint,MORPH=empty
+pollice,pollex,NOM3,Case=Abl|Numb=Sing
+ducat,dvco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

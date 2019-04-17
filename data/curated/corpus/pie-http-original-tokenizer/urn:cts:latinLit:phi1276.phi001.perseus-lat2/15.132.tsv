@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+humano,hvmanvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+generi,genvs,NOM3,Case=Dat|Numb=Sing
+dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
+se,svi,PROref,Case=Acc|Numb=Sing
+natura,natvra,NOM1,Case=Abl|Numb=Sing
+fatetur,fateor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3

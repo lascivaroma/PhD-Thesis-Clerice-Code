@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+uinum,vinvm,NOM2,Case=Nom|Numb=Sing
+Tiberi,tiberis,NOM3,Case=Dat|Numb=Sing
+deuectum,deveho,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+quinque,qvinqve,ADJcar,Case=Ind
+lagonae,lagena,NOM1,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

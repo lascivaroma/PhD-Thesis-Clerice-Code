@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dum,dvm,CONsub,MORPH=empty
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+excelsi,excelsvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+manibus,manvs,NOM4,Case=Abl|Numb=Plur
+sublata,tollo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+ministri,minister,NOM2,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

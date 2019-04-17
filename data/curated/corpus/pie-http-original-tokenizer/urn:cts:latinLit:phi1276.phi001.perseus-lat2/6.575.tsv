@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+consulitur,consvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+castra,castra,NOM2,Case=Acc|Numb=Plur
+uiro,vir,NOM2,Case=Dat|Numb=Sing
+patriamque,patria,NOM1,Case=Acc|Numb=Sing
+petente,peto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

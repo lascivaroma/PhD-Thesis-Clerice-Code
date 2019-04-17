@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+parcetur,parco,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+misero,miser,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+trepidum,trepidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvovs,ADV,Deg=Pos
+magistrum,magister,NOM2,Case=Nom|Numb=Sing

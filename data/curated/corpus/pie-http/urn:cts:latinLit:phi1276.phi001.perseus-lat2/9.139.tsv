@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quando,qvando,ADVint,MORPH=empty
+ego,ego,PROper,Case=Nom|Numb=Sing
+figam,figo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+quo,qvis,PROint,Case=Abl|Numb=Sing
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+mihi,ego,PROper,Case=Dat|Numb=Sing
+tuta,tvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+senectus,senectvs,NOM3,Case=Nom|Numb=Sing

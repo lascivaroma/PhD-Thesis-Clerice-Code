@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nona,nonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aetas,aetas,NOM3,Case=Nom|Numb=Sing
+agitur,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+peioraque,malvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp
+saecula,saecvlvm,NOM2,Case=Acc|Numb=Plur
+ferri,fero,VER,Mood=Inf|Tense=Pres|Voice=Pass

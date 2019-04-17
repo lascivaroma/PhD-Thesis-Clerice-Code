@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Ansere,anser,NOM2,Case=Abl|Numb=Sing
+Romano,romanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+quamuis,qvamvis,CONsub,MORPH=empty
+satur,satvr,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Hannibal,hannibal,NOM3,Case=Nom|Numb=Sing
+esset,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+Ipse,ipse,NOM7,Case=Nom|Numb=Sing
+suas,svvs,PROpos.ref,Case=Acc|Numb=Plur
+numquam,nvmqvam,ADVneg,MORPH=empty
+barbarus,barbarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+edit,edo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+aues,avis,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

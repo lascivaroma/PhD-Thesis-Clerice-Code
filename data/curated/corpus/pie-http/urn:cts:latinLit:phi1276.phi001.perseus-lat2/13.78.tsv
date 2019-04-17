@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+Solis,sol,NOM3,Case=Gen|Numb=Sing
+radios,radivs,NOM2,Case=Acc|Numb=Plur
+Tarpeia,tarpeivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+-que,qvoqve,ADV,MORPH=empty
+fulmina,fvlmen,NOM3,Case=Acc|Numb=Plur
+iurat,ivro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

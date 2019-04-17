@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+A,aeqvaginta,PROdem,Case=Abl|Numb=Sing
+seruo,servvs,NOM2,Case=Dat|Numb=Sing
+scis,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+te,tv,PROper,Case=Acc|Numb=Sing
+genitum,gigno,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Perf|Voice=Pass
+blande,blande,ADV,Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+fateris,fateor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+dicis,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+dominum,dominvs,NOM2,Case=Acc|Numb=Sing
+Sosibiane,sosibianvs,NOM2,Case=Voc|Numb=Sing
+patrem,pater,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

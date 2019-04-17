@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+O,o,INJ,Case=Nom|Numb=Sing
+Corydo,corydo,NOM3,Case=Voc|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+Corydo,corydo,NOM3,Case=Nom|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+secretum,secretvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+diuitis,dives,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+ullum,vllvs,PROind,Case=Acc|Numb=Sing

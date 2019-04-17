@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+expectes,exspecto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+eadem,idem,PROdem,Case=Acc|Numb=Sing
+a,ab,PRE,MORPH=empty
+summo,svpervs,ADJqua,Case=Abl|Numb=Sing|Deg=Sup
+minimoque,minimoqve,ADV,Deg=Sup
+poeta,poeta,NOM1,Case=Nom|Numb=Sing

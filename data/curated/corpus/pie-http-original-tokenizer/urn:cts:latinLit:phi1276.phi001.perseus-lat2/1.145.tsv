@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+it,eo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+noua,novvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+tristis,tristis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+per,per,PRE,MORPH=empty
+cunctas,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+fabula,fabvla,NOM1,Case=Nom|Numb=Sing
+cenas,cena,NOM1,Case=Acc|Numb=Plur

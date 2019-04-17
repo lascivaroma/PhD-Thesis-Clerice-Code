@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pendentis,pendeo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+-que,qvove,CONcoo,MORPH=empty
+dei,devs,NOM2,Case=Gen|Numb=Sing
+perituro,pereo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+ostenderet,ostendo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+hosti,hostis,NOM3,Case=Dat|Numb=Sing

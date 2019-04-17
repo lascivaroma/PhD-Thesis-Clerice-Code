@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Cyaneis,cyanevs,NOM2,Case=Abl|Numb=Plur|Deg=Pos
+plenos,plenvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+tempestatibus,tempestas,NOM3,Case=Abl|Numb=Plur
+utres,vter,NOM3,Case=Acc|Numb=Plur

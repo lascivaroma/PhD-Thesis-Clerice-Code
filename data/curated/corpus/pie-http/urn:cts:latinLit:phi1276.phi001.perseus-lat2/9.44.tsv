@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+legitimum,legitimvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+atque,atqve,CONcoo,MORPH=empty
+illic,illic,ADV,Deg=Pos
+hesternae,hesternvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+occurrere,occvrro,VER,Mood=Inf|Tense=Pres|Voice=Act
+cenae,cena,NOM1,Case=Dat|Numb=Sing

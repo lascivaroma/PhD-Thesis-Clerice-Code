@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+protinus,protinvs,ADV,Deg=Pos
+ad,ad,PRE,MORPH=empty
+censum,censvs,NOM4,Case=Acc|Numb=Sing
+de,de,PRE,MORPH=empty
+moribus,mos,NOM3,Case=Abl|Numb=Plur
+ultima,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

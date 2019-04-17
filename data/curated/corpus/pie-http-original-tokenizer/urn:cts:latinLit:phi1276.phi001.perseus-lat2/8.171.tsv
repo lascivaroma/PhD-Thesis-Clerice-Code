@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+securum,secvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ualet,valeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Sing
+aetas,aetas,NOM3,Case=Nom|Numb=Sing
+mitte,mitto,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+Ostia,ostia,NOM1,Case=Voc|Numb=Sing
+Caesar,caesar,NOM3,Case=Voc|Numb=Sing

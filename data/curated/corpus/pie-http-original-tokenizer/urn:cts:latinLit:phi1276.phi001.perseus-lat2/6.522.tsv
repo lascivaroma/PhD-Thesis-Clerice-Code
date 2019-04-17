@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hibernum,hibernvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fracta,frango,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+glacie,glacies,NOM5,Case=Abl|Numb=Sing
+descendet,descendo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+amnem,amnis,NOM3,Case=Acc|Numb=Sing

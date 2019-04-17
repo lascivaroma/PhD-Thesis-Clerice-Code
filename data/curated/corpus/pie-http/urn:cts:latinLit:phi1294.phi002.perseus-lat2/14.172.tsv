@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Ad,ad,NOM7,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+reptanti,repto,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+puer,pver,NOM2,Case=Voc|Numb=Sing
+insidiose,insidiose,ADV,Deg=Pos
+lacertae,lacerta,NOM1,Case=Gen|Numb=Sing
+Parce,parcvs,NOM2,Case=Voc|Numb=Sing|Deg=Pos
+cupit,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+digitis,digitvs,NOM2,Case=Abl|Numb=Plur
+illa,ille,PROdem,Case=Nom|Numb=Plur
+perire,pereo,VER,Mood=Inf|Tense=Pres|Voice=Act
+tuis,tvvs,PROpos,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

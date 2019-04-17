@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+somnum,somnvs,NOM2,Case=Acc|Numb=Sing
+digitis,digitvs,NOM2,Case=Abl|Numb=Plur
+nam,nam,CONcoo,MORPH=empty
+quae,qvis,PROint,Case=Nom|Numb=Sing
+terra,terra,NOM1,Case=Nom|Numb=Sing
+-que,qvivis,CONcoo,MORPH=empty
+mari,mare,NOM3,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,Deg=Pos

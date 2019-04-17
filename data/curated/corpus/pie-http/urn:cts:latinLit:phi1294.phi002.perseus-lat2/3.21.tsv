@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Proscriptum,proscriptvs,NOM2,Case=Acc|Numb=Sing
+famulus,famvlvs,NOM2,Case=Nom|Numb=Sing
+seruauit,servo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+fronte,frons,NOM3,Case=Abl|Numb=Sing
+notatus,noto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Non,non,ADVint,MORPH=empty
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Sing
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+uita,vita,NOM1,Case=Abl|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+inuidia,invidia,NOM1,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Sing

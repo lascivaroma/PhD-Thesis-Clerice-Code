@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uatibus,vates,NOM3,Case=Abl|Numb=Plur
+occurras,occvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+periturae,pereo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+parcere,parco,VER,Mood=Inf|Tense=Pres|Voice=Act
+chartae,charta,NOM1,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

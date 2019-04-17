@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+partes,pars,NOM3,Case=Acc|Numb=Plur
+monstrum,monstrvm,NOM2,Case=Acc|Numb=Sing
+nulla,nvllvs,PROind,Case=Abl|Numb=Sing
+uirtute,virtvs,NOM3,Case=Abl|Numb=Sing
+redemptum,redimo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

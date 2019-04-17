@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Zenonis,zenon,NOM3,Case=Gen|Numb=Sing
+praecepta,praeceptvm,NOM2,Case=Acc|Numb=Plur
+monent,moneo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+enim,enim,CONcoo,MORPH=empty
+omnia,omnis,PROind,Case=Nom|Numb=Plur
+quaedam,qvidam,PROind,Case=Acc|Numb=Plur

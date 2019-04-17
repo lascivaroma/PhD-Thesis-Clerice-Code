@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+qualia,qvalis,PROrel,Case=Acc|Numb=Plur
+perpetuus,perpetvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Phaeacum,phaeaces,ADJqua,Case=Gen|Numb=Plur
+autumnus,avtvmnvs,NOM2,Case=Nom|Numb=Sing
+habebat,habeo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

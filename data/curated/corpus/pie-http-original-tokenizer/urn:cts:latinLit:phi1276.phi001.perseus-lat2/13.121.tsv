@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+cynicos,cynicvs,NOM2,Case=Acc|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+stoica,stoicvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+dogmata,dogma,NOM2,Case=Acc|Numb=Plur
+legit,lego,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

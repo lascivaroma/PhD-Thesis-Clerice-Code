@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+spumat,spvmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aper,aper,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing
+post,post,PRE,MORPH=empty
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+tradentur,trado,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+tubera,tvber,NOM3,Case=Nom|Numb=Plur
+si,si,CONsub,MORPH=empty
+uer,ver,NOM3,Case=Acc|Numb=Sing

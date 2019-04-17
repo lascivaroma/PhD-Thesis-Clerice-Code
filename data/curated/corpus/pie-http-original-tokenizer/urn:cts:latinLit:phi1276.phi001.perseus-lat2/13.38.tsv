@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quondam,qvondam,ADV,Deg=Pos
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+indigenae,indigena,NOM1,Case=Nom|Numb=Plur
+uiuebant,vivo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+more,mos,NOM3,Case=Abl|Numb=Sing
+priusquam,privsqvam,CONsub,MORPH=empty

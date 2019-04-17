@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aequora,aeqvor,NOM3,Case=Acc|Numb=Plur
+transiliet,transilio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+longe,longe,ADV,Deg=Pos
+Calpe,calpe,NOM7,Case=Nom|Numb=Sing
+relicta,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

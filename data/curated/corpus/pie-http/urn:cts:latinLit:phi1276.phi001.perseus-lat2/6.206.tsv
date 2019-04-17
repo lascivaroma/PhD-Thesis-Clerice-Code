@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+simplicitas,simplicitas,NOM3,Case=Nom|Numb=Sing
+uxoria,vxorivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+deditus,deditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uni,vnvs,ADJcar,Case=Dat|Numb=Sing

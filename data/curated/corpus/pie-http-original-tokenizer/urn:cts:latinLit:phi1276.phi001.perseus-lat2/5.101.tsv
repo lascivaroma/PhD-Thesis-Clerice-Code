@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+dum,dvm,CONsub,MORPH=empty
+sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+siccat,sicco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+madidas,madidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+in,in,PRE,MORPH=empty
+carcere,carcer,NOM3,Case=Abl|Numb=Sing
+pinnas,penna,NOM1,Case=Acc|Numb=Plur

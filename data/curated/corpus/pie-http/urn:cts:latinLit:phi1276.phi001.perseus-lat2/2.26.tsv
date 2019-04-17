@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+fur,fvr,NOM3,Case=Nom|Numb=Sing
+displiceat,displiceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Verri,verres,NOM3,Case=Dat|Numb=Sing
+homicida,homicida,NOM1,Case=Nom|Numb=Sing
+Miloni,milo,NOM3,Case=Dat|Numb=Sing

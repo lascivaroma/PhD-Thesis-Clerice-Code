@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Caedicio,caedicivs,NOM2,Case=Dat|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Fusco,fvscvs,NOM2,Case=Dat|Numb=Sing
+iam,iam,ADV,Deg=Pos
+micturiente,mictvrio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+parati,paratvs,ADJqua,Numb=Plur|Deg=Pos|Voice=Pass

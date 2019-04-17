@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+horum,hic,PROdem,Case=Gen|Numb=Plur
+si,si,CONsub,MORPH=empty
+nihil,nihil,PROind,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+auiam,avia,NOM1,Case=Acc|Numb=Sing
+resupinat,resvpino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+amici,amicvs,NOM2,Case=Gen|Numb=Plur

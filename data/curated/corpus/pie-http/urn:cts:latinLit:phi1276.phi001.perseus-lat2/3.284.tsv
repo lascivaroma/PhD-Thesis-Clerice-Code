@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uitari,vito,VER,Mood=Inf|Tense=Pres|Voice=Pass
+iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+comitum,comes,NOM3,Case=Gen|Numb=Plur
+longissimus,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+ordo,ordo,NOM3,Case=Nom|Numb=Sing

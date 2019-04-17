@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Fingimus,fingo,NOM2,Case=Nom|Numb=Sing
+haec,hic,PROdem,Case=Nom|Numb=Plur
+altum,altvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+satura,satvr,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sumente,svmo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+cothurnum,cothvrnvs,NOM2,Case=Acc|Numb=Sing

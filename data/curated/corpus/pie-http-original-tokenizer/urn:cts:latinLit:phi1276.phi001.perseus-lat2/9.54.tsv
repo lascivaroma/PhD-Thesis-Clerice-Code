@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Dic,dic,NOM7,Case=Nom|Numb=Sing|Deg=Pos
+passer,passer,NOM3,Case=Voc|Numb=Sing
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+tot,tot,PROdem,Case=Ind
+montis,mons,NOM3,Case=Acc|Numb=Plur
+tot,tot,PROdem,Case=Ind
+praedia,praedivm,NOM2,Case=Acc|Numb=Plur
+seruas,servo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

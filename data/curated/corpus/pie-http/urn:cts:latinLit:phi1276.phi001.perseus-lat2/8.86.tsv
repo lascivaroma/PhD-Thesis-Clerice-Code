@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Gaurana,gavranvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+Cosmi,cosmvs,NOM2,Case=Gen|Numb=Sing
+toto,totvs,PROind,Case=Abl|Numb=Sing
+mergatur,mergo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+aeno,aenvm,NOM2,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

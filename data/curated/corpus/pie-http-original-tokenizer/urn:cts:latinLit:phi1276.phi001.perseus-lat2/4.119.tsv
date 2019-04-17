@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+magis,magis,ADV,Deg=Comp
+rhombum,rhombos,NOM2,Case=Acc|Numb=Sing
+stupuit,stvpeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+plurima,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+dixit,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Caelatus,caelatvs,NOM2,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Anniane,annianvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+Serpens,serpens,NOM3,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+patera,patera,NOM1,Case=Abl|Numb=Sing
+Myronos,myronvs,NOM2,Case=Acc|Numb=Plur
+arte,ars,NOM3,Case=Abl|Numb=Sing
+Vaticana,vaticanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+bibis,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+bibis,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uenenum,venenvm,NOM2,Case=Acc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

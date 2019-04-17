@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Surgite,svrgites,NOM3,Case=Abl|Numb=Sing
+iam,iam,ADV,Deg=Pos
+uendit,vendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+ientacula,ientacvlvm,NOM2,Case=Acc|Numb=Plur
+pistor,pistor,NOM3,Case=Nom|Numb=Sing
+Cristatae,cristates,NOM1,Case=Gen|Numb=Sing
+-que,qvivis,CONcoo,MORPH=empty
+sonant,sono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+undique,vndiqve,ADV,Deg=Pos
+lucis,lvx,NOM3,Case=Gen|Numb=Sing
+aues,avis,NOM3,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

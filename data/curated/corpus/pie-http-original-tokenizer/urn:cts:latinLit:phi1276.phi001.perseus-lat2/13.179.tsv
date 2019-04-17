@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inuidiosa,invidiosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+minimus,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+solacia,solacivm,NOM2,Case=Acc|Numb=Plur
+sanguis,sangvis,NOM3,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aspice,aspicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quid,qvis,PROint,Case=Acc|Numb=Sing
+faciant,facio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+commercia,commercivm,NOM2,Case=Acc|Numb=Plur
+uenerat,venio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+obses,obses,NOM3,Numb=Sing|Tense=Pres|Person=2

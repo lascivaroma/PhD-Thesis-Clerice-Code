@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+diducit,didvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+scopulos,scopvlvs,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+montem,mons,NOM3,Case=Acc|Numb=Sing
+rumpit,rvmpo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aceto,acetvm,NOM2,Case=Abl|Numb=Sing

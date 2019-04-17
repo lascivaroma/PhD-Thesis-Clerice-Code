@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Flet,fleo,NOM7,Numb=Sing|Person=3
+Philomela,philomela,NOM1,Case=Nom|Numb=Sing
+nefas,nefas,NOM6,Case=Ind
+incesti,incestvm,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+Tereos,terevs,NOM7,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+Muta,mvta,NOM1,Case=Nom|Numb=Sing
+puella,pvella,NOM1,Case=Nom|Numb=Sing
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+garrula,garrvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+auis,avis,NOM3,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

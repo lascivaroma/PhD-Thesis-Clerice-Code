@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Nulla,nvlla,NOM1,Case=Nom|Numb=Sing
+fere,fere,ADV,Deg=Pos
+causa,cavsa,NOM1,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+qua,qvi,PROrel,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+femina,femina,NOM1,Case=Nom|Numb=Sing
+litem,lis,NOM3,Case=Acc|Numb=Sing

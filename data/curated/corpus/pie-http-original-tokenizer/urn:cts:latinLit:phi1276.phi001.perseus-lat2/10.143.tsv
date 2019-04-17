@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+gloria,gloria,NOM1,Case=Nom|Numb=Sing
+paucorum,pavci,NOM2,Case=Gen|Numb=Plur
+et,et,CONcoo,MORPH=empty
+laudis,lavs,NOM3,Case=Gen|Numb=Sing
+titulique,titvlvs,PROind,Case=Nom|Numb=Sing
+cupido,cvpido,NOM3,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+haut,havd,ADVneg,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+inuideas,invideo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+uati,vates,NOM3,Case=Dat|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+pulpita,pvlpitvm,NOM2,Case=Acc|Numb=Plur
+pascunt,pasco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

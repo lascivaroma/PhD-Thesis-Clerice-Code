@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+interpres,interpres,NOM3,Case=Nom|Numb=Sing
+legum,lex,NOM3,Case=Gen|Numb=Plur
+Solymarum,solymae,NOM2,Case=Gen|Numb=Plur
+et,et,CONcoo,MORPH=empty
+magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sacerdos,sacerdos,NOM3,Case=Nom|Numb=Sing

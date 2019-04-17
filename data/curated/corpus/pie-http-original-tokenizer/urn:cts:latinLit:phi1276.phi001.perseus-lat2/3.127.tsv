@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pauperis,pavper,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+hic,hic,PROdem,Numb=Sing
+meritum,meritvm,VER,Case=Acc|Numb=Sing|Tense=Perf
+si,si,CONsub,MORPH=empty
+curet,cvro,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nocte,nox,NOM3,MORPH=empty
+togatus,togatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

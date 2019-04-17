@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+semiuir,semivo,NOM2,Numb=Sing|Mood=Ind|Tense=Pres|Person=1
+obscaeno,obscenvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+facies,facies,NOM5,Case=Nom|Numb=Sing
+reuerenda,revereor,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Dep
+minori,parvvs,ADJqua,Case=Dat|Numb=Sing|Deg=Comp

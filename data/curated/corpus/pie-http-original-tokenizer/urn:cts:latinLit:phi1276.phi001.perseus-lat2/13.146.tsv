@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+dolo,dolvs,NOM2,Case=Abl|Numb=Sing
+primos,primvs,ADJord,Case=Acc|Numb=Plur|Deg=Sup
+cum,cvm,PRE,MORPH=empty
+ianua,ianva,NOM1,Case=Abl|Numb=Sing
+colligit,colligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ignes,ignis,NOM3,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

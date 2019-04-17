@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+centum,centvm,ADJcar,Case=Ind
+conuiuae,conviva,NOM1,Case=Nom|Numb=Plur
+sequitur,seqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+sua,svvs,PROpos.ref,Case=Nom|Numb=Sing
+quemque,qvisqve,PROind,Case=Acc|Numb=Sing
+culina,cvlina,NOM1,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

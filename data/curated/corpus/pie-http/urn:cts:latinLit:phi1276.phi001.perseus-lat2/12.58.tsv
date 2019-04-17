@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+confisus,confido,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+ligno,lignvm,NOM2,Case=Abl|Numb=Sing
+digitis,digitvs,NOM2,Case=Abl|Numb=Plur
+a,ab,PRE,MORPH=empty
+morte,mors,NOM3,Case=Abl|Numb=Sing
+remotus,removeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass

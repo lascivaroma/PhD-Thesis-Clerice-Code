@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Captiuo,captivvs,NOM2,Case=Abl|Numb=Sing
+stultus,stvltvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+congaudet,congavdo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=SemDep|Person=3
+stemmate,stemma,NOM3,Case=Abl|Numb=Sing
+uatis,vates,NOM3,Case=Gen|Numb=Sing
+.,qvadranta,ADJcar,Case=Acc|Numb=Plur
+Non,non,ADVint,Case=Nom
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Virgilius,virgilivs,NOM2,Case=Nom|Numb=Sing
+dicitur,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+iste,iste,PROdem,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

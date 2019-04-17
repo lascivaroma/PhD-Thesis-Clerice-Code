@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Parua,parvvs,NOM1,Case=Nom|Numb=Sing
+suburbani,svbvrbanvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+munuscula,mvnvscvlvm,NOM2,Case=Acc|Numb=Plur
+mittimus,mitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+horti,hortvs,NOM2,Case=Nom|Numb=Plur
+Faucibus,favcis,NOM3,Case=Dat|Numb=Plur
+oua,ovvm,NOM2,Case=Acc|Numb=Plur
+tuis,tvvs,PROpos,Case=Dat|Numb=Plur
+poma,pomvm,NOM2,Case=Acc|Numb=Plur
+Seuere,severvs,NOM2,Case=Voc|Numb=Sing
+gulae,gvla,NOM1,Case=Gen|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

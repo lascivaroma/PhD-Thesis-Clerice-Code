@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+coronatum,corono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+et,et,CONcoo,MORPH=empty
+petulans,petvlans,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+madidum,madidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvovs,ADV,MORPH=empty
+Tarentum,tarentvm,NOM2,Case=Acc|Numb=Sing

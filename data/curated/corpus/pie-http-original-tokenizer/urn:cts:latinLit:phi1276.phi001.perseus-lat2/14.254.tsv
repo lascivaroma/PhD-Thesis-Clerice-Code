@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+alias,alivs,PROind,Case=Acc|Numb=Plur
+tractare,tracto,VER,Mood=Inf|Tense=Pres|Voice=Act
+rosas,rosa,NOM1,Case=Acc|Numb=Plur
+medicamen,medicamen,NOM3,Case=Nom|Numb=Sing
+habendum,habeo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

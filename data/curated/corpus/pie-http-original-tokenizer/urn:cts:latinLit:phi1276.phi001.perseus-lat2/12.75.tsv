@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Tandem,tandes,NOM3,Case=Acc|Numb=Sing
+intrat,intro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+positas,pono,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+inclusa,inclvdo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+per,per,PRE,MORPH=empty
+aequora,aeqvor,NOM3,Case=Acc|Numb=Plur
+moles,moles,NOM3,Case=Nom|Numb=Plur

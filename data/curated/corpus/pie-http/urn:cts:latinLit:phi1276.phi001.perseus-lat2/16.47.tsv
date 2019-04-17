@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+digredimur,digredior,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
+lenta,lentvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvavis,CONcoo,MORPH=empty
+fori,forvm,NOM2,Case=Gen|Numb=Sing
+pugnamus,pvgno,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+harena,arena,NOM1,Case=Abl|Numb=Sing

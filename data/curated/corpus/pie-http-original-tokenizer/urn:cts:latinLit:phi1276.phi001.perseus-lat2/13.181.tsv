@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nempe,nempe,ADV,Deg=Pos
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+indocti,indoctvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+praecordia,praecordia,NOM2,Case=Nom|Numb=Plur
+nullis,nvllvs,PROind,Case=Abl|Numb=Plur

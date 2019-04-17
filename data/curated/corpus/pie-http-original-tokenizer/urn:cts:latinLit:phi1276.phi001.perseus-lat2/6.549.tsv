@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+testamentum,testamentvm,NOM2,Case=Nom|Numb=Sing
+ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+calidae,calidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+pulmone,pvlmo,NOM3,Case=Abl|Numb=Sing
+columbae,colvmba,NOM1,Case=Nom|Numb=Plur

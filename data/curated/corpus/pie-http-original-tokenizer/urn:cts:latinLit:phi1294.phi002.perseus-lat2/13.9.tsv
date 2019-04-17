@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Accipe,accipvs,NOM2,Case=Voc|Numb=Sing
+Niliacam,niliacvs,ADJqua,Case=Acc|Numb=Sing
+Pelusia,pelvsivm,NOM1,Case=Acc|Numb=Sing
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+lentem,lens,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Vilior,vilior,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+alica,alicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+carior,carvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+illa,ille,PROdem,Case=Nom|Numb=Sing
+faba,faba,NOM1,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

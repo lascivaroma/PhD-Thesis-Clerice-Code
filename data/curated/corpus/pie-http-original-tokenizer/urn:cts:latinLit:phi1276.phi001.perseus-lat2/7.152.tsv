@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+quaecumque,qvicvmqve,PROrel,Case=Acc|Numb=Plur
+sedens,sedeo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+modo,modo,ADV,Deg=Pos
+legerat,lego,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Sing
+eadem,idem,PROdem,Case=Nom|Numb=Plur
+stans,sto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

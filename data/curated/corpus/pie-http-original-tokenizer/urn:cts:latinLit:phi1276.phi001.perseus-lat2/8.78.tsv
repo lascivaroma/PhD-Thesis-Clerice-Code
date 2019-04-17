@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+stratus,sterno,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+humi,hvmvs,NOM2,Case=Loc|Numb=Sing
+palmes,palmes,NOM3,Case=Nom|Numb=Sing
+uiduas,vidvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+desiderat,desidero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ulmos,vlmvs,NOM2,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+Cremerae,cremera,NOM1,Case=Loc|Numb=Sing
+legio,legio,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Cannis,cannae,NOM2,Case=Dat|Numb=Plur
+consumpta,consvmo,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+iuuentus,ivventvs,NOM3,Case=Nom|Numb=Sing

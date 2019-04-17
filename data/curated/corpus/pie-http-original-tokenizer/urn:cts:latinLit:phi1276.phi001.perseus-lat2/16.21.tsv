@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+consensu,consensvs,NOM4,Case=Abl|Numb=Sing
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+efficiunt,efficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+curabilis,cvrabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ut,vt,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

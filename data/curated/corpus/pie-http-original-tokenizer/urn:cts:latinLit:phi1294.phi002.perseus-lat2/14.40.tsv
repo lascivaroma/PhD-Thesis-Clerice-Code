@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Ancillam,ancilla,NOM1,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+sors,sors,NOM3,Case=Nom|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+lucernae,lvcerna,NOM1,Case=Gen|Numb=Sing
+Totas,totas,NOM7,Case=Nom|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+uigil,vigil,ADJmul,Case=Nom|Numb=Sing|Deg=Pos
+exigit,exigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tenebras,tenebrae,NOM1,Case=Acc|Numb=Plur
+.,qvadrantae,ADJcar,Case=Acc|Numb=Plur

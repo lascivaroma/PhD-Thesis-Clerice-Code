@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uos,vos,PROper,Case=Nom|Numb=Plur
+estis,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+fratres,frater,NOM3,Case=Nom|Numb=Plur
+dominus,dominvs,NOM2,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+rex,rex,NOM3,Case=Nom|Numb=Sing

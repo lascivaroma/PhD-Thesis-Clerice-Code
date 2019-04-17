@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Quid,qvis,PROint,Case=Acc|Numb=Sing
+narrat,narro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tua,tvvs,PROpos,Case=Nom|Numb=Sing
+moecha,moecha,NOM1,Case=Abl|Numb=Sing
+Non,non,NOM3,MORPH=empty
+puellam,pvella,NOM1,Case=Acc|Numb=Sing
+Dixi,dixis,NOM2,Case=Gen|Numb=Sing
+Gongylio,gongylivs,NOM2,Case=Dat|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Quid,qvis,PROint,Case=Nom|Numb=Sing
+ergo,ergo,CONcoo,MORPH=empty
+linguam,lingva,NOM1,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

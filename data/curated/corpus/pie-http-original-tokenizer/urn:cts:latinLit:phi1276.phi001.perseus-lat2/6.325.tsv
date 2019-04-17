@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+uerum,vervm,NOM2,Case=Acc|Numb=Sing
+quibus,qvi,PROrel,Case=Abl|Numb=Plur
+incendi,incendo,VER,Mood=Ind|Tense=Pres|Voice=Pass
+iam,iam,ADV,Deg=Pos
+frigidus,frigidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aeuo,aevvm,NOM2,Case=Abl|Numb=Sing

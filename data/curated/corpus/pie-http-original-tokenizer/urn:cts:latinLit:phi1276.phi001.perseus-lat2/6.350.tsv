@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+silicem,silex,NOM3,Case=Acc|Numb=Sing
+pedibus,pes,NOM3,Case=Abl|Numb=Plur
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+conterit,contero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+atrum,ater,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

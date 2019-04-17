@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+alter,alter,PROind,Case=Nom|Numb=Sing
+emendus,emo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+namque,namqve,CONcoo,MORPH=empty
+hic,hic,PROdem,Case=Nom|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ambo,ambo,ADJcar,Case=Nom|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+filia,filia,NOM1,Case=Nom|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+numquam,nvmqvam,ADVneg,MORPH=empty
+maternos,maternvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+moechos,moechvs,NOM2,Case=Acc|Numb=Plur

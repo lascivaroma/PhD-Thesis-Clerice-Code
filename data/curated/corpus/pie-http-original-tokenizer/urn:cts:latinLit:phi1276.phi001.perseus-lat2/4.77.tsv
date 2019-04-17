@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Pegasus,pegasvs,NOM2,Case=Nom|Numb=Sing
+attonitae,attonitvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+positus,pono,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+modo,modo,ADV,Deg=Pos
+uilicus,villicvs,NOM2,Case=Nom|Numb=Sing
+urbi,vrbs,NOM3,Case=Dat|Numb=Sing
+.,pes,ADJcar,Case=Dat|Numb=Plur

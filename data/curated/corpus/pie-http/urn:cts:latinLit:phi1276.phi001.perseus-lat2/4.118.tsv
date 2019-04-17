@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+blanda,blandvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+deuexae,devexvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+iactaret,iacto,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+basia,basivm,NOM2,Case=Acc|Numb=Plur
+raedae,raeda,NOM1,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

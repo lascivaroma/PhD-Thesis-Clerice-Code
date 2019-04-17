@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Diuersa,diversvs,NOM1,Case=Nom|Numb=Sing
+infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+lambit,lambo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+olfacit,olfacio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Eunus,evnvs,NOM2,Case=Nom|Numb=Sing
+dissimilem,dissimilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+olfactum,olfactvs,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+naris,naris,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+oris,os,NOM3,Case=Abl|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

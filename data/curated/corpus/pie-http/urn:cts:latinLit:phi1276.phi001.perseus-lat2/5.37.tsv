@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Brutorum,brvtvs,NOM2,Case=Gen|Numb=Plur
+et,et,CONcoo,MORPH=empty
+Cassi,cassivs,NOM2,Case=Gen|Numb=Plur
+natalibus,natales,NOM3,Case=Dat|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur
+Ipse,ipse,NOM7,Case=Voc|Numb=Sing
+capaces,capax,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

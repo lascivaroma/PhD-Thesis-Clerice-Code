@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+praebebit,praebeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+uati,vates,NOM3,Case=Dat|Numb=Sing
+crebrum,creber,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+poppysma,poppysma,NOM1,Case=Nom|Numb=Sing
+roganti,rogo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

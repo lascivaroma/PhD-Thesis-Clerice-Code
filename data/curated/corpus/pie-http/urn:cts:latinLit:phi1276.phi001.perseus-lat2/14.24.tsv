@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+mire,mire,ADV,Deg=Pos
+adficiunt,afficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+inscripta,inscribo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+ergastula,ergastvlvm,NOM2,Case=Acc|Numb=Plur
+carcer,carcer,NOM3,Case=Nom|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+tulerit,fero,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+Gracchos,gracchvs,NOM2,Case=Acc|Numb=Plur
+de,de,PRE,MORPH=empty
+seditione,seditio,NOM3,Case=Abl|Numb=Sing
+querentes,qveror,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Dep

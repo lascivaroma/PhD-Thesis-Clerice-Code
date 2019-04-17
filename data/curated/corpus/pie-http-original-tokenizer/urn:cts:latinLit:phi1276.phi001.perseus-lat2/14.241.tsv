@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+sulcis,svlcvs,NOM2,Case=Abl|Numb=Plur
+legiones,legio,NOM3,Case=Nom|Numb=Plur
+dentibus,dens,NOM3,Case=Abl|Numb=Plur
+anguis,angvis,NOM3,Case=Nom|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+post,post,PRE,MORPH=empty
+meritum,meritvm,NOM2,Case=Acc|Numb=Sing
+sane,sane,ADV,Deg=Pos
+mirandum,miror,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Dep
+atque,atqve,CONcoo,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+soli,solvs,PROind,Case=Gen|Numb=Sing

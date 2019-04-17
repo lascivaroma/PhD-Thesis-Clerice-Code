@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+iudice,ivdex,NOM3,Case=Abl|Numb=Sing
+rumpe,rvmpo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+miser,miser,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+tensum,tendo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+iecur,iecvr,NOM3,Case=Voc|Numb=Sing
+ut,vt,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+lasso,lassvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos

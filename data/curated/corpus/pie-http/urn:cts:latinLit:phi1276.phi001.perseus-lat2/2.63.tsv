@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dat,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ueniam,venia,NOM1,Case=Acc|Numb=Sing
+coruis,corvvs,NOM2,Case=Dat|Numb=Plur
+uexat,vexo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+censura,censvra,NOM1,Case=Abl|Numb=Sing
+columbas,colvmba,NOM1,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

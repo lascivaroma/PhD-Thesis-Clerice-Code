@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+qui,qvi,PROint,Case=Nom|Numb=Sing
+iuris,ivs,NOM3,Case=Gen|Numb=Sing
+nodos,nodvs,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+legum,lex,NOM3,Case=Gen|Numb=Plur
+aenigmata,aenigma,NOM2,Case=Acc|Numb=Plur
+soluat,solvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

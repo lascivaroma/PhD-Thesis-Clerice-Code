@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+inde,inde,ADV,Deg=Pos
+habuit,habeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+tanto,tantvs,PROdem,Case=Abl|Numb=Sing
+maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+famae,fama,NOM1,Case=Gen|Numb=Sing
+sitis,sitis,ADJqua,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quam,qvam,ADVrel,MORPH=empty

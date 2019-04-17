@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+scilicet,scilicet,ADV,Deg=Pos
+arguitur,argvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+quod,qvod,CONsub,MORPH=empty
+laeuae,laeva,NOM1,Case=Gen|Numb=Sing
+parte,pars,NOM3,Case=Abl|Numb=Sing
+mamillae,mamilla,NOM1,Case=Gen|Numb=Sing

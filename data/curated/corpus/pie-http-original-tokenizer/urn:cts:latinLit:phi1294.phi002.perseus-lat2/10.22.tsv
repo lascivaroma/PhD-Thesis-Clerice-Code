@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Cur,cvr,NOM7,Case=Nom|Numb=Sing
+spleniato,splenio,VER,Case=Abl|Numb=Sing|Tense=Perf
+saepe,saepe,ADV,Deg=Pos
+prodeam,prodeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+mento,mentvm,NOM2,Case=Abl|Numb=Sing
+Albaue,albavvs,NOM2,Case=Voc|Numb=Sing
+pictus,pingo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+sana,sanvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+labra,labrvm,NOM2,Case=Acc|Numb=Plur
+cerussa,cervssvs,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+Philaeni,philaeni,NOM2,Case=Gen|Numb=Sing
+quaeris,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+basiare,basio,VER,Mood=Inf|Tense=Pres|Voice=Act
+te,tv,PROper,Case=Acc|Numb=Sing
+nolo,nolo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

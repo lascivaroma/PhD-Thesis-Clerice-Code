@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+egregios,egregivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+equites,eqves,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+castra,castra,NOM2,Case=Acc|Numb=Plur
+domestica,domesticvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+;,o,PRE,MORPH=empty
+quidni,qvidni,ADVint.neg,MORPH=empty

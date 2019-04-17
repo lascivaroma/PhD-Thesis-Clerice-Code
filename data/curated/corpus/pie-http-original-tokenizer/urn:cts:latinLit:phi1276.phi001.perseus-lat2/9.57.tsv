@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+suspectumque,svspectvs,ADV,Deg=Pos
+iugum,ivgvm,NOM2,Case=Nom|Numb=Sing
+Cumis,cvmae,NOM1,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+Gaurus,gavrvs,NOM2,Case=Nom|Numb=Sing
+inanis,inanis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

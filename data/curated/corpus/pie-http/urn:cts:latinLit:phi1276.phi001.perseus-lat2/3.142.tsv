@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iugera,ivgervm,NOM3,Case=Acc|Numb=Plur
+quam,qvam,ADVint,MORPH=empty
+multa,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+paropside,paropsis,NOM3,Case=Abl|Numb=Sing
+cenat,ceno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

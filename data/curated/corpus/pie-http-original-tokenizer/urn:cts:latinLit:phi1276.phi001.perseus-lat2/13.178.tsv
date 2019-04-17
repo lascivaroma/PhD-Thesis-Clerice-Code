@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+depositum,depositvm,VER,Case=Nom|Numb=Sing|Tense=Perf|Voice=Pass
+tibi,tv,PROper,Case=Dat|Numb=Sing
+sospes,sospes,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+corpore,corpvs,NOM3,Case=Abl|Numb=Sing
+t,tv,PROper,MORPH=empty
+runco,rvncvs,NOM2,Case=Abl|Numb=Sing

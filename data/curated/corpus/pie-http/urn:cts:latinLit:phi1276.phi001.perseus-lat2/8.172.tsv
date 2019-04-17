@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mitte,mitto,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+sed,sed,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+legatum,legatvs,NOM2,Case=Acc|Numb=Sing
+quaere,qvaero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+popina,popina,NOM1,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+concubitu,concvbitvs,NOM4,Case=Abl|Numb=Sing
+sacris,sacrvm,NOM2,Case=Abl|Numb=Plur
+obseruandis,observo,VER,Case=Abl|Numb=Plur|Mood=Adj|Voice=Pass
+-que,qvove,ADV,MORPH=empty
+diebus,dies,NOM5,Case=Abl|Numb=Plur

@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+mentis,mens,NOM3,Case=Gen|Numb=Sing
+causa,cavsa,NOM1,Case=Nom|Numb=Sing
+malae,malvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+tamen,tamen,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+origo,origo,NOM3,Case=Nom|Numb=Sing
+penes,penes,PRE,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+steriles,sterilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+atque,atqve,CONcoo,MORPH=empty
+homines,homo,NOM3,Case=Acc|Numb=Plur
+in,in,PRE,MORPH=empty
+uentre,venter,NOM3,Case=Abl|Numb=Sing
+necandos,neco,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass

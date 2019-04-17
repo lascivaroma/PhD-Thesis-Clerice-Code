@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+post,post,PRE,MORPH=empty
+omnis,omnis,PROind,Case=Acc|Numb=Plur
+herbas,herba,NOM1,Case=Acc|Numb=Plur
+post,post,PRE,MORPH=empty
+cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+animalia,animal,NOM3,Case=Acc|Numb=Plur
+quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing

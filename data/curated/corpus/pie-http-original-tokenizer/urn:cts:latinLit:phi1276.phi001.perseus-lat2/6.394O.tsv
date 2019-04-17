@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+purum,pvrvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+te,tv,PROper,Case=Acc|Numb=Sing
+contendo,contendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+uirum,vir,NOM2,Case=Acc|Numb=Sing
+contendo,contendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+fateris,fateor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2

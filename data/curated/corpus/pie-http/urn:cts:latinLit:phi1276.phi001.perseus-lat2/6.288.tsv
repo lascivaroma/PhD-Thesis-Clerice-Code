@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quondam,qvondam,ADV,Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+uitiis,vitivm,NOM2,Case=Abl|Numb=Plur
+contingi,contingo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+parua,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+sinebant,sino,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+at,at,CONcoo,MORPH=empty
+uindicta,vindicta,NOM1,Case=Nom|Numb=Sing
+bonum,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uita,vita,NOM1,Case=Abl|Numb=Sing
+iucundius,ivcvndvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

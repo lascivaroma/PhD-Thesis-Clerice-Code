@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Vt,vter,ADJcar,MORPH=empty
+spectet,specto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ludos,lvdvs,NOM2,Case=Acc|Numb=Plur
+conducit,condvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Ogulnia,ogvlnia,NOM1,Case=Nom|Numb=Sing
+uestem,vestis,NOM3,Case=Acc|Numb=Sing

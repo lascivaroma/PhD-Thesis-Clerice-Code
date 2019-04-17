@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+caulibus,cavlis,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+pomis,pomvm,NOM2,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+aperto,apertvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uiueret,vivo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+horto,hortvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

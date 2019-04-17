@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+intrauit,intro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+calidum,calidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ueteri,vetvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+centone,cento,NOM3,Case=Abl|Numb=Sing
+lupanar,lvpanar,NOM3,Case=Nom|Numb=Sing

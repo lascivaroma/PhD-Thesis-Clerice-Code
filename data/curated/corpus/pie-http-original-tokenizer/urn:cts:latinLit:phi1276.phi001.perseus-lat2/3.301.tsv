@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+liceat,licet,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+paucis,pavcvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+dentibus,dens,NOM3,Case=Abl|Numb=Plur
+inde,inde,ADV,Deg=Pos
+reuerti,revertor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

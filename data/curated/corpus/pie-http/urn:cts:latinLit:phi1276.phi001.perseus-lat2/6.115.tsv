@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+respice,respicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+riuales,rivalis,NOM3,Case=Acc|Numb=Plur
+diuorum,divvs,NOM2,Case=Gen|Numb=Plur
+Claudius,clavdivs,NOM2,Case=Nom|Numb=Sing
+audi,avdio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

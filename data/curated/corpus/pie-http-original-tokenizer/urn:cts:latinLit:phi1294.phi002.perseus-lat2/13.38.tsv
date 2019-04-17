@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Subripuit,svbripio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+pastor,pastor,NOM3,Case=Nom|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+nondum,nondvm,ADVneg,MORPH=empty
+stantibus,sto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+haedis,haedvs,ADJqua,Case=Abl|Numb=Plur
+De,de,NOM2,Case=Abl|Numb=Sing
+primo,primvs,ADJord,Case=Abl|Numb=Sing|Deg=Sup
+matrum,mater,NOM3,Case=Gen|Numb=Plur
+lacte,lac,NOM3,Case=Abl|Numb=Sing
+colustra,colvstra,NOM1,Case=Abl|Numb=Sing
+damus,do,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

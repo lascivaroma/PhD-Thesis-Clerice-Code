@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uernula,vernvla,NOM1,Case=Nom|Numb=Sing
+tres,tres,ADJcar,Case=Nom|Numb=Plur
+domini,dominvs,NOM2,Case=Nom|Numb=Plur
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+magnis,magnvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+fratribus,frater,NOM3,Case=Abl|Numb=Plur
+horum,hic,PROdem,Case=Gen|Numb=Plur

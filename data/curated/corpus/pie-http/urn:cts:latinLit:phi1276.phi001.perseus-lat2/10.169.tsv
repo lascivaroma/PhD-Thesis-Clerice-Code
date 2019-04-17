@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+aestuat,aestvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+angusto,angvstvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+limite,limes,NOM3,Case=Abl|Numb=Sing
+mundi,mvndvs,NOM2,Case=Gen|Numb=Sing

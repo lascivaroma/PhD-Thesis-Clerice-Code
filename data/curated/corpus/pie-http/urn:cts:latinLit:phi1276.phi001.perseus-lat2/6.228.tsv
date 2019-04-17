@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+uela,velvm,NOM2,Case=Acc|Numb=Plur
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+adhuc,adhvc,ADV,Deg=Pos
+uirides,viridis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+in,in,PRE,MORPH=empty
+limine,limen,NOM3,Case=Abl|Numb=Sing
+ramos,ramvs,NOM2,Case=Acc|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

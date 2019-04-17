@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Penelope,penelope,NOM7,Case=Nom|Numb=Sing
+melius,bene,ADV,Deg=Comp
+leuius,leviter,ADV,Deg=Comp
+torquetis,torqveo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Arachne,arachne,NOM3,Case=Voc|Numb=Sing

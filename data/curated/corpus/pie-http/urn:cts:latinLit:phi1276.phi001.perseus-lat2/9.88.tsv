@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+legatum,legatvs,NOM2,Case=Acc|Numb=Sing
+omne,omnis,PROind,Case=Acc|Numb=Sing
+capis,capio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+nec,nec,CONcoo,MORPH=empty
+non,non,ADVneg,MORPH=empty
+et,et,CONcoo,MORPH=empty
+dulce,dvlcis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+caducum,cadvcvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

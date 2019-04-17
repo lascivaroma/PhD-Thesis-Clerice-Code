@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+uentres,venter,NOM3,Case=Acc|Numb=Plur
+abeant,abeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ut,vt,CONsub,MORPH=empty
+credas,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+falcibus,falx,NOM3,Case=Abl|Numb=Plur
+actum,ago,VER,Case=Acc|Numb=Sing|Mood=Sub|Tense=Perf|Voice=Pass
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

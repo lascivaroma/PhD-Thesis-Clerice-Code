@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dein,deinde,ADV,Deg=Pos
+clamore,clamor,NOM3,Case=Abl|Numb=Sing
+pari,par,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+concurritur,concvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+uice,vicis,NOM3,Case=Abl|Numb=Sing
+teli,telvm,NOM2,Case=Gen|Numb=Sing

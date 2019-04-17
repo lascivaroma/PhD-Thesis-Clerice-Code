@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+temptarent,tento,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+foedum,foedvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+alii,alivs,PROind,Case=Nom|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+turpe,tvrpis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+putarent,pvto,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3

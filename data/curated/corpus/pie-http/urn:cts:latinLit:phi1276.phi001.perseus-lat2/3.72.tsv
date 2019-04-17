@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uiscera,viscvs,NOM3,Case=Acc|Numb=Plur
+magnarum,magnvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+domuum,domvs,NOM4,Case=Gen|Numb=Plur
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+futuri,svm,ADJqua,Case=Nom|Numb=Plur|Tense=Fut|Voice=Act

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+exiguus,exigvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+cibus,cibvs,NOM2,Case=Nom|Numb=Sing
+mersa,mergo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+rate,ratis,NOM3,Case=Abl|Numb=Sing
+naufragus,navfragvs,NOM2,Case=Nom|Numb=Sing
+assem,as,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dignus,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Aricinos,aricinvs,NOM2,Case=Acc|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+mendicaret,mendico,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+axes,axis,NOM3,Case=Acc|Numb=Plur

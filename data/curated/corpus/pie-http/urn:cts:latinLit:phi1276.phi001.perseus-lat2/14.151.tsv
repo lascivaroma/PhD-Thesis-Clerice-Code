@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quot,qvot,PROint,Case=Ind
+uenales,venalis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+iniuria,inivria,NOM1,Case=Nom|Numb=Sing
+fecerit,facio,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+agros,ager,NOM2,Case=Acc|Numb=Plur

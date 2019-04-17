@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+In,vnvs,ADJcar,Case=Nom
+omnibus,omnis,PROind,Case=Abl|Numb=Plur
+Vacerra,vacerra,NOM1,Case=Nom|Numb=Sing
+quod,qvi,PROrel,Numb=Sing
+conclauibus,conclave,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+Consumit,consvmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+horas,hora,NOM1,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+die,dies,NOM5,Case=Abl|Numb=Sing
+toto,totvs,PROind,Case=Abl|Numb=Sing
+sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Cenaturit,cenatvro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Vacerra,vacerra,NOM1,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+cacaturit,caco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

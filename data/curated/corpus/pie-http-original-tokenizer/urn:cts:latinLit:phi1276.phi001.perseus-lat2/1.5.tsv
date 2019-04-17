@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Telephus,telephvs,NOM2,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+summi,svpervs,ADJqua,Case=Gen|Numb=Sing|Deg=Sup
+plena,plenvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+iam,iam,ADV,Deg=Pos
+margine,margo,NOM3,Case=Abl|Numb=Sing
+libri,liber,NOM2,Case=Gen|Numb=Sing

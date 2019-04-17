@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tres,tres,ADJcar,Case=Acc|Numb=Plur
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+heredes,heres,NOM3,Case=Acc|Numb=Plur
+libet,libet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+expectare,exspecto,VER,Mood=Inf|Tense=Pres|Voice=Act
+quis,qvis,PROint,Case=Nom|Numb=Sing
+aegram,aeger,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

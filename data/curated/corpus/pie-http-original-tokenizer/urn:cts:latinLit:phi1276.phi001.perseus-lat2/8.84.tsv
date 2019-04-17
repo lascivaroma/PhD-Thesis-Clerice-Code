@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+propter,propter,PRE,MORPH=empty
+uitam,vita,NOM1,Case=Acc|Numb=Sing
+uiuendi,vivo,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+perdere,perdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+causas,cavsa,NOM1,Case=Acc|Numb=Plur

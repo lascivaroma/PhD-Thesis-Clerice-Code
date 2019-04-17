@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+monstrare,monstro,VER,Mood=Inf|Tense=Pres|Voice=Act
+uias,via,NOM1,Case=Acc|Numb=Plur
+eadem,idem,PROdem,Case=Acc|Numb=Plur
+nisi,nisi,CONsub,MORPH=empty
+sacra,sacrvm,NOM2,Case=Acc|Numb=Plur
+colenti,colo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

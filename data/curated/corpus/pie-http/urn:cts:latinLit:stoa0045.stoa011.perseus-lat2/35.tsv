@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Pedite,pedite,NOM7,Case=Voc|Numb=Sing
+sursum,svrsvm,ADV,Deg=Pos
+flumina,flvmen,NOM3,Case=Acc|Numb=Plur
+inuestigatum,investigo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+dolo,dolvs,NOM2,Case=Abl|Numb=Sing
+leporem,lepor,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+tantae,tantvs,PROdem,Case=Nom|Numb=Plur
+tenuere,teneo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+morae,mora,NOM1,Case=Gen|Numb=Plur
+rumore,rvmor,NOM3,Case=Abl|Numb=Sing
+sub,svb,PRE,MORPH=empty
+omni,omnis,PROind,Case=Abl|Numb=Sing

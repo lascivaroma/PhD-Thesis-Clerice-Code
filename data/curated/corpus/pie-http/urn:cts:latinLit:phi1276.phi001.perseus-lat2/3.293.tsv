@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cuius,qvis,PROint,Case=Gen|Numb=Sing
+conche,conchis,NOM3,Case=Abl|Numb=Sing
+tumes,tvmeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quis,qvis,PROint,Case=Nom|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+sectile,sectilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+porrum,porrvs,NOM2,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+deterior,deterior,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+totos,totvs,PROind,Case=Acc|Numb=Plur
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+illic,illic,ADV,Deg=Pos
+femina,femina,NOM1,Case=Nom|Numb=Sing
+mores,mos,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

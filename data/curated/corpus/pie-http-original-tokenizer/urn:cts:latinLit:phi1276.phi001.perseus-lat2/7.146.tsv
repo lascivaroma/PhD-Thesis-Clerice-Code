@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quando,qvando,ADVint,MORPH=empty
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Basilo,basilvs,NOM2,Case=Dat|Numb=Sing
+flentem,fleo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+producere,prodvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+matrem,mater,NOM3,Case=Acc|Numb=Sing

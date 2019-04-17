@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quinque,qvinqve,ADJcar,Case=Ind
+per,per,PRE,MORPH=empty
+autumnos,avtvmnvs,NOM2,Case=Acc|Numb=Plur
+titulo,titvlvs,NOM2,Case=Abl|Numb=Sing
+res,res,NOM5,Case=Nom|Numb=Plur
+digna,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sepulchri,sepvlcrvm,NOM2,Case=Gen|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

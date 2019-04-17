@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aspiciat,aspicio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+sine,sine,PRE,MORPH=empty
+labe,labes,NOM3,Case=Abl|Numb=Sing
+domum,domvs,NOM6,Case=Acc|Numb=Sing
+uitioque,vitioqve,ADV,Deg=Pos
+carentem,careo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

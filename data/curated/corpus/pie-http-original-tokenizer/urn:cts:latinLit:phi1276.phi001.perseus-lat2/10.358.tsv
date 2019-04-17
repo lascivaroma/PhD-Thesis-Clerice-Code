@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+spatium,spativm,NOM2,Case=Acc|Numb=Sing
+uitae,vita,NOM1,Case=Gen|Numb=Sing
+extremum,exter,ADJqua,Case=Acc|Numb=Sing|Deg=Sup
+inter,inter,PRE,MORPH=empty
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+ponat,pono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

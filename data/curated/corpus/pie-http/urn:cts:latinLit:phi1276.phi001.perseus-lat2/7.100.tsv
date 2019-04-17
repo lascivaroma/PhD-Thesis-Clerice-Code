@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing
+quippe,qvippe,ADV,MORPH=empty
+modo,modvs,NOM2,Case=Abl|Numb=Sing|Deg=Pos
+millensima,millesimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+pagina,pagina,NOM1,Case=Nom|Numb=Sing
+surgit,svrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

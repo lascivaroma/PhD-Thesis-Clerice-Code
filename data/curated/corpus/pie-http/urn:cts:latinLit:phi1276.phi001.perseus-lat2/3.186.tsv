@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+metit,meto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+barbam,barba,NOM1,Case=Acc|Numb=Sing
+crinem,crinis,NOM3,Case=Acc|Numb=Sing
+hic,hic,PROdem,Numb=Sing
+deponit,depono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+amati,amo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+;,o,PRE,MORPH=empty

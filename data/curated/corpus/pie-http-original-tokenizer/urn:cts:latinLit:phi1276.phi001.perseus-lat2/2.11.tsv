@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hispida,hispidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+membra,membrvm,NOM2,Case=Nom|Numb=Plur
+quidem,qvidem,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+durae,dvrvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+per,per,PRE,MORPH=empty
+bracchia,brachivm,NOM2,Case=Acc|Numb=Plur
+saetae,saeta,NOM1,Case=Nom|Numb=Plur

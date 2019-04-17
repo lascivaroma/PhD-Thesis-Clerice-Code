@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Hic,hic,NOM2,Case=Nom|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+Vmbricius,vmbricivs,NOM2,Case=Nom|Numb=Sing
+quando,qvando,ADVint,MORPH=empty
+artibus,ars,NOM3,Case=Abl|Numb=Plur
+inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+honestis,honestvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+Lachesis,lachesis,NOM3,Case=Nom|Numb=Sing
+gaudent,gavdeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+si,si,CONsub,MORPH=empty
+pascitur,pasco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+inguine,ingven,NOM3,Case=Abl|Numb=Sing
+uenter,venter,NOM3,Case=Nom|Numb=Sing

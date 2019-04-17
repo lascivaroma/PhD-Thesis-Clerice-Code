@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Moechus,moechvs,NOM2,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+poteras,possvm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2
+tamen,tamen,ADV,Deg=Pos
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+Paula,pavla,NOM1,Case=Voc|Numb=Sing
+negare,nego,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Ecce,ecce,NOM2,Case=Voc|Numb=Sing
+uir,vir,NOM2,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+numquid,nvmqvid,ADVint,MORPH=empty
+Paula,pavla,NOM1,Case=Voc|Numb=Sing
+negare,nego,VER,Mood=Inf|Tense=Pres|Voice=Act
+potes,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

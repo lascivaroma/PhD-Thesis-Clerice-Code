@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dissimilem,dissimilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+quippe,qvippe,CONcoo,MORPH=empty
+ille,ille,PROdem,Case=Nom|Numb=Sing
+deis,devs,NOM2,Case=Abl|Numb=Plur
+auctoribus,avctor,NOM3,Case=Abl|Numb=Plur
+ultor,vltor,NOM3,Case=Nom|Numb=Sing

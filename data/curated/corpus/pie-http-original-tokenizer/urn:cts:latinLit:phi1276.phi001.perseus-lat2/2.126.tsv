@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sudauit,svdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+clupeis,clvpevs,NOM2,Case=Abl|Numb=Plur
+ancilibus,ancile,NOM3,Case=Abl|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+o,o,INJ,MORPH=empty
+pater,pater,NOM3,Case=Voc|Numb=Sing
+urbis,vrbs,NOM3,Case=Gen|Numb=Sing

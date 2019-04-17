@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pallorem,pallor,NOM3,Case=Acc|Numb=Sing
+ac,ac,CONcoo,MORPH=empty
+maciem,macies,NOM5,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+tenuis,tenvis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+miserantibus,miseror,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Dep
+artus,artvs,NOM4,Case=Acc|Numb=Plur

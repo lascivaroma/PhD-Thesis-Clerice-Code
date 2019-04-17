@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quem,qvis,PROint,Case=Acc|Numb=Sing
+rides,rideo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+aliis,alivs,PROind,Case=Dat|Numb=Plur
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+mimum,mimvs,NOM2,Case=Acc|Numb=Sing
+sponsio,sponsio,NOM3,Case=Nom|Numb=Sing
+fiat,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

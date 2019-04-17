@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+traxerat,traho,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+attonitos,attonitvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+festinare,festino,VER,Mood=Inf|Tense=Pres|Voice=Act
+coactos,cogo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

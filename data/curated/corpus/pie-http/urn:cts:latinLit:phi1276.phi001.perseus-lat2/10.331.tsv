@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+destinat,destino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+optimus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+hic,hic,PROdem,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+formosissimus,formosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+idem,idem,PROdem,Case=Nom|Numb=Sing

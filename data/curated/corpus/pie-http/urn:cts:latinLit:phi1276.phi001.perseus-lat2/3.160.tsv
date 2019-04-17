@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+gener,gener,NOM2,Case=Nom|Numb=Sing
+hic,hic,PROdem,Case=Nom|Numb=Sing
+placuit,placeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+censu,censvs,NOM4,Case=Abl|Numb=Sing
+minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+atque,atqve,CONcoo,MORPH=empty
+puellae,pvella,NOM1,Case=Nom|Numb=Plur

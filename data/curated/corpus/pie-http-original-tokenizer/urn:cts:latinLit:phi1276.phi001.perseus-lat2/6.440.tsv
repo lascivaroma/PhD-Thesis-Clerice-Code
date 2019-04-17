@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+altera,alter,PROind,Case=Nom|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+mulier,mvlier,NOM3,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+uerborum,verbvm,NOM2,Case=Gen|Numb=Plur
+tanta,tantvs,PROdem,Case=Nom|Numb=Sing
+cadit,cado,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uis,vis,NOM3,Case=Nom|Numb=Sing

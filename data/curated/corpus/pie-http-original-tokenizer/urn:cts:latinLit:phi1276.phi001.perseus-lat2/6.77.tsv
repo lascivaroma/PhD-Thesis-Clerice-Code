@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+Glaphyrus,glaphyrvs,NOM2,Case=Nom|Numb=Sing
+fiat,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+pater,pater,NOM3,Case=Nom|Numb=Sing
+Ambrosiusque,ambrosivs,NOM2,Case=Nom|Numb=Sing
+choraules,choravles,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

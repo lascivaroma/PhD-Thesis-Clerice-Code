@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quaeris,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Trebius,trebivs,NOM2,Case=Nom|Numb=Sing
+propter,propter,PRE,MORPH=empty
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+rumpere,rvmpo,VER,Mood=Inf|Tense=Pres|Voice=Act
+somnum,somnvs,NOM2,Case=Acc|Numb=Sing

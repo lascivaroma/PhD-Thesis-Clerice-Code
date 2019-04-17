@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+spectat,specto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+triscurria,triscvrrivm,NOM1,Case=Acc|Numb=Plur
+patriciorum,patricivs,NOM2,Case=Gen|Numb=Plur

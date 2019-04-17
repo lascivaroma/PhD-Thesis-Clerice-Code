@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+scis,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+certe,certe,ADV,Deg=Pos
+quibus,qvis,PROint,Case=Abl|Numb=Plur
+ista,iste,PROdem,Case=Nom|Numb=Sing
+modis,modvs,NOM2,Case=Abl|Numb=Plur
+quam,qvam,ADVint,MORPH=empty
+saepe,saepe,ADV,Deg=Pos
+rogaris,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

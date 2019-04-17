@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quamuis,qvamvis,CONsub,MORPH=empty
+iurato,ivratvs,VER,Case=Dat|Numb=Sing|Deg=Pos
+metuam,metvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+tibi,tv,PROper,Case=Dat|Numb=Sing
+credere,credo,VER,Mood=Inf|Tense=Pres|Voice=Act
+testi,testis,NOM3,Case=Dat|Numb=Sing
+.,pes,ADJcar,Case=Acc|Numb=Plur

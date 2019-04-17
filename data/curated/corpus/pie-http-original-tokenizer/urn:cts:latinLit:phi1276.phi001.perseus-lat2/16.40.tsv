@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+debitor,debitor,NOM3,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+sumptos,svmo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+pergit,pergo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+non,non,ADVneg,MORPH=empty
+reddere,reddo,VER,Mood=Inf|Tense=Pres|Voice=Act
+nummos,nvmvs,NOM2,Case=Acc|Numb=Plur

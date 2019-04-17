@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hic,hic,ADV,MORPH=empty
+alta,altvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Sicyone,sicyon,NOM3,Case=Abl|Numb=Sing
+ast,at,CONcoo,MORPH=empty
+hic,hic,PROdem,Case=Nom|Numb=Sing|Deg=Pos
+Amydone,amydon,NOM3,Case=Abl|Numb=Sing
+relicta,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

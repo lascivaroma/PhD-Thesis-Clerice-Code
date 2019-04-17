@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quando,qvando,ADVint,MORPH=empty
+ad,ad,PRE,MORPH=empty
+me,ego,PROper,Case=Acc|Numb=Sing
+uenient,venio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+et,et,CONcoo,MORPH=empty
+exorabile,exorabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+numen,nvmen,NOM3,Case=Nom|Numb=Sing

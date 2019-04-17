@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+-ne,ne,ADVint,MORPH=empty
+salutari,salvto,VER,Mood=Inf|Tense=Pres|Voice=Pass
+sicut,sicvt,ADVrel,MORPH=empty
+Seianus,seianvs,NOM2,Case=Nom|Numb=Sing
+habere,habeo,VER,Mood=Inf|Tense=Pres|Voice=Act

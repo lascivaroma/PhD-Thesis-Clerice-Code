@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Acc|Numb=Plur
+peperit,pario,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+timidus,timidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+praegustet,praegvsto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+papas,papas,NOM1,Case=Acc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

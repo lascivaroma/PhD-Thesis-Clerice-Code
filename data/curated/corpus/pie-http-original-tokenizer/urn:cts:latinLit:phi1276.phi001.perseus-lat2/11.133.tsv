@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+materia,materia,NOM1,Case=Abl|Numb=Sing
+quin,qvin,CONsub,MORPH=empty
+ipsa,ipse,PROdem,Case=Nom|Numb=Plur
+manubria,manvbrivm,NOM2,Case=Nom|Numb=Plur
+cultellorum,cvltellvs,NOM2,Case=Gen|Numb=Plur

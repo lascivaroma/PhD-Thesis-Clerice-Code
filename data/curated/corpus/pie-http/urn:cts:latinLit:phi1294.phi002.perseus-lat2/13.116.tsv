@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Potabis,potabis,NOM3,Case=Gen|Numb=Sing
+liquidum,liqvidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Signina,signinvs,NOM1,Case=Nom|Numb=Sing
+morantia,moror,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+uentrem,venter,NOM3,Case=Acc|Numb=Sing
+Ne,ne,PROind,MORPH=empty
+nimium,nimivm,ADV,Deg=Pos
+sistant,sisto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+parca,parcvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sitis,sitis,NOM3,Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

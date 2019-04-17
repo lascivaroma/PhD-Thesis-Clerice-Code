@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tu,tv,PROper,Case=Nom|Numb=Sing
+scabie,scabies,NOM5,Case=Abl|Numb=Sing
+frueris,frvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+mali,malvm,NOM2,Case=Gen|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+in,in,PRE,MORPH=empty
+aggere,agger,NOM3,Case=Abl|Numb=Sing
+rodit,rodo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

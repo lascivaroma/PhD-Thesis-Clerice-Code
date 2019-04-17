@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+Curios,cvrivs,NOM2,Case=Acc|Numb=Plur
+iam,iam,ADV,Deg=Pos
+dimidios,dimidivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+umerosque,hvmeroscvs,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+minorem,parvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp

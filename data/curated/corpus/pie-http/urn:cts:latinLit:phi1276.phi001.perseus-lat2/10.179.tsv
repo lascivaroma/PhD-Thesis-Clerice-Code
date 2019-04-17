@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+qualis,qvalis,PROrel,Case=Nom|Numb=Sing
+rediit,redeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Salamine,salamis,NOM3,Case=Abl|Numb=Sing
+relicta,relinqvo,VER,Case=Abl|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

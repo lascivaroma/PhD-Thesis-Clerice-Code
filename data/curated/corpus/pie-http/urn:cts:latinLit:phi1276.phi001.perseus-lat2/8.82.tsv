@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+falsus,falsvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+admoto,admoveo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+dictet,dicto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+periuria,perivrivm,NOM2,Case=Acc|Numb=Plur
+tauro,tavrvs,NOM2,Case=Abl|Numb=Sing

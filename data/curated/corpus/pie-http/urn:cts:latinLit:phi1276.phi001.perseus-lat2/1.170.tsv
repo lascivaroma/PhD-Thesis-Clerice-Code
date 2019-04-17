@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+paenitet,paeniteo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+experiar,experior,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1
+quid,qvis,PROint,Case=Nom|Numb=Sing
+concedatur,concedo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+in,in,PRE,MORPH=empty
+illos,ille,PROdem,Case=Acc|Numb=Plur

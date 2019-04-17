@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+seruorum,servvs,NOM2,Case=Gen|Numb=Plur
+uentres,venter,NOM3,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+frugi,frvgi,ADJqua,Case=Ind|Deg=Pos
+cenula,cenvla,NOM1,Case=Nom|Numb=Sing
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

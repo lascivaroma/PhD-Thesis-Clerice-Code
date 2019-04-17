@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Paulus,pavlvs,NOM2,Case=Nom|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+Cossus,cossvs,NOM2,Case=Nom|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+Drusus,drvsvs,NOM2,Case=Nom|Numb=Sing
+moribus,mos,NOM3,Case=Abl|Numb=Plur
+esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2

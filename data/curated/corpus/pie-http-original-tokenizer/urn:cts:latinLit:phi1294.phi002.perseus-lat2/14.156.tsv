@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Nos,nos,NOM2,Case=Nom|Numb=Plur
+Lacedaemoniae,lacedaemonia,NOM1,Case=Gen|Numb=Sing|Deg=Pos
+pastor,pastor,NOM3,Case=Nom|Numb=Sing
+donauit,dono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+amicae,amica,NOM1,Case=Gen|Numb=Sing
+Deterior,deterior,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+Ledae,leda,NOM1,Case=Gen|Numb=Sing
+purpura,pvrpvra,NOM1,Case=Nom|Numb=Sing
+matris,mater,NOM3,Case=Gen|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

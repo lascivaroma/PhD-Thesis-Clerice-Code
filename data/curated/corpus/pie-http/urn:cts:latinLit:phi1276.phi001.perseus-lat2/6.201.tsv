@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+amaturus,amo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+ducendi,dvco,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+nulla,nvllvs,PROind,Case=Nom|Numb=Sing
+uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

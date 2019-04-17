@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+de,de,PRE,MORPH=empty
+Tiburtino,tibvrtinvm,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+pinguissimus,pingvis,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+agro,ager,NOM2,Case=Abl|Numb=Sing

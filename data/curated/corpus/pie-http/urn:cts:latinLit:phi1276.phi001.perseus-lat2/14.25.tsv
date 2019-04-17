@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+rusticus,rvsticvs,NOM2,Case=Nom|Numb=Sing
+expectas,exspecto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ut,vt,CONsub,MORPH=empty
+non,non,ADVneg,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+adultera,advltera,NOM1,Case=Nom|Numb=Sing
+Largae,larga,NOM1,Case=Gen|Numb=Sing

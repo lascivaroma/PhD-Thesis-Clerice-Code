@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+a,ab,PRE,MORPH=empty
+carbone,carbo,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+forcipibus,forceps,NOM3,Case=Abl|Numb=Plur
+gladios,gladivs,NOM2,Case=Acc|Numb=Plur
+-que,qvove,CONcoo,MORPH=empty
+paranti,paro,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

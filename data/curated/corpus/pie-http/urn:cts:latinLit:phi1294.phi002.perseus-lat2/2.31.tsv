@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Saepe,saepe,NOM2,Case=Voc|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+Chrestinam,chrestinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+futui,fvtvvs,NOM2,Numb=Plur|Mood=Ind|Person=1
+.,qvadrantae,ADJcar,Case=Acc|Numb=Plur
+Det,detes,NOM7,Case=Nom|Numb=Sing
+quam,qvam,PROrel,MORPH=empty
+bene,bene,ADV,Deg=Pos
+quaeris,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Supra,svpra,NOM1,Case=Voc|Numb=Sing
+quod,qvi,PROrel,Numb=Sing
+fieri,fio,VER,Mood=Inf|Tense=Pres|Voice=Act
+nil,nihil,PROind,Case=Ind
+Mariane,marianvs,NOM2,Case=Voc|Numb=Sing
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

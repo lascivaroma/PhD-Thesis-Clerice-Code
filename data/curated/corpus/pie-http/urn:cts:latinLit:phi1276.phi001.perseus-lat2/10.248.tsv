@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nimirum,nimirvm,ADV,Deg=Pos
+qui,qvis,PROrel,Case=Nom|Numb=Plur
+tot,tot,PROdem,Case=Ind
+per,per,PRE,MORPH=empty
+saecula,saecvlvm,NOM2,Case=Acc|Numb=Plur
+mortem,mors,NOM3,Case=Acc|Numb=Sing

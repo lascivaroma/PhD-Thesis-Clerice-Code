@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Ventris,venter,NOM3,Case=Gen|Numb=Sing
+onus,onvs,NOM3,Case=Acc|Numb=Sing
+misero,miser,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+pudet,pvdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+excipis,excipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+auro,avrvm,NOM2,Case=Abl|Numb=Sing
+Basse,bassvs,NOM2,Case=Voc|Numb=Sing
+bibis,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uitro,vitrvm,NOM2,Case=Abl|Numb=Sing
+carius,carvs,ADV,Deg=Comp
+ergo,ergo,CONcoo,MORPH=empty
+cacas,caco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

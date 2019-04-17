@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Poma,poma,NOM1,Case=Nom|Numb=Sing
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+Cybeles,cybele,NOM7,Case=Nom|Numb=Sing
+procul,procvl,ADV,Deg=Pos
+hinc,hinc,ADV,Deg=Pos
+discede,discedo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+uiator,viator,NOM3,Case=Voc|Numb=Sing
+Ne,ne,NOM3,Case=Ind
+cadat,cado,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+miserum,miser,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+nostra,noster,PROpos,Case=Abl|Numb=Sing
+ruina,rvina,NOM1,Case=Abl|Numb=Sing
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Pax,pax,NOM3,Case=Nom|Numb=Sing
+me,ego,PROper,Case=Acc|Numb=Sing
+certa,certvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ducis,dvx,NOM3,Case=Gen|Numb=Sing
+placidos,placidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+curuauit,cvrvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+usus,vsvs,NOM4,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Agricolae,agricola,NOM1,Case=Gen|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+sum,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+militis,miles,NOM3,Case=Gen|Numb=Sing
+ante,ante,PRE,Deg=Pos
+fui,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+.,qvintvs,ADJcar,Case=Dat|Numb=Sing

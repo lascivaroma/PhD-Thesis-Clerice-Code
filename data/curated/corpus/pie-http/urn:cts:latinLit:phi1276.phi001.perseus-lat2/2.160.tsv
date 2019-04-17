@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+litora,litvs,NOM3,Case=Acc|Numb=Plur
+Iuuernae,ivvernvs,NOM1,Case=Gen|Numb=Sing
+promouimus,promoveo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+et,et,CONcoo,MORPH=empty
+modo,modo,ADV,Deg=Pos
+captas,capio,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Perf|Voice=Pass

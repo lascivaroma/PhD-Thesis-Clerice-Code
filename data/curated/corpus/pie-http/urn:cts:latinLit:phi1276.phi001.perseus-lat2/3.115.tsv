@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+gymnasia,gymnasivm,NOM2,Case=Acc|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+audi,avdio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+facinus,facinvs,NOM3,Case=Acc|Numb=Sing
+maioris,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp
+abollae,abolla,NOM1,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

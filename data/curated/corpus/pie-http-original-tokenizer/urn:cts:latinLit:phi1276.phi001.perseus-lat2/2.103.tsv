@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+historia,historia,NOM1,Case=Nom|Numb=Sing
+speculum,specvlvm,NOM2,Case=Nom|Numb=Sing
+ciuilis,civilis,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+sarcina,sarcina,NOM1,Case=Nom|Numb=Sing
+belli,bellvm,NOM2,Case=Gen|Numb=Sing
+;,o,PRE,MORPH=empty

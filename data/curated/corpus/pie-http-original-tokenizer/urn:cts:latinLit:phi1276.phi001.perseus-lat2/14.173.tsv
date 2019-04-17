@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Inde,indvs,NOM7,Case=Voc|Numb=Sing
+fere,fere,ADV,Deg=Pos
+scelerum,scelvs,NOM3,Case=Gen|Numb=Plur
+causae,cavsa,NOM1,Case=Nom|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+plura,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+uenena,venenvm,NOM2,Case=Acc|Numb=Plur

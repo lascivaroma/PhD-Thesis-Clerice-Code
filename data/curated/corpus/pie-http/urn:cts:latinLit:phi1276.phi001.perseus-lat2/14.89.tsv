@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+culmina,cvlmen,NOM3,Case=Acc|Numb=Plur
+uillarum,villa,NOM1,Case=Gen|Numb=Plur
+graecis,graecvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+longe,longe,ADV,Deg=Pos
+-que,qvove,ADV,MORPH=empty
+petitis,peto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2

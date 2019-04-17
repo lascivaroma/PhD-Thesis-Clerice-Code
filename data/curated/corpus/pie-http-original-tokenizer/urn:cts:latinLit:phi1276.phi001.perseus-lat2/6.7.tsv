@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pellibus,pellis,NOM3,Case=Abl|Numb=Plur
+haut,havd,ADVneg,MORPH=empty
+similis,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+Cynthia,cynthia,NOM1,Case=Voc|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+cuius,qvi,PROrel,Case=Gen|Numb=Sing

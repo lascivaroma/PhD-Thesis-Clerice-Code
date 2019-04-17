@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hic,hic,PROdem,Deg=Pos
+leue,levis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+argentum,argentvm,NOM2,Case=Acc|Numb=Sing
+uasa,vas,NOM2,Case=Acc|Numb=Plur
+aspera,asper,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+tergeat,tergeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+alter,alter,PROind,Case=Nom|Numb=Sing

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Nec,nec,NOM3,Case=Nom|Numb=Sing
+dotes,dos,NOM3,Case=Acc|Numb=Plur
+similae,similis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+numerare,nvmero,VER,Mood=Inf|Tense=Pres|Voice=Act
+nec,nec,CONcoo,MORPH=empty
+usus,vsvs,NOM4,Case=Nom|Numb=Sing
+Pistori,pistor,NOM3,Case=Dat|Numb=Sing
+totiens,totiens,ADV,Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+apta,aptvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+coco,coqvvs,NOM2,Case=Abl|Numb=Sing
+.,vndenvs,ADJcar,Case=Ind|Numb=Sing

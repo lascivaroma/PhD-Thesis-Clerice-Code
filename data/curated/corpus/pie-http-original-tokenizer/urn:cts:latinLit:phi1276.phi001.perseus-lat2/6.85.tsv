@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inmemor,immemor,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+illa,ille,PROdem,Case=Nom|Numb=Sing
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+coniugis,conivx,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+sororis,soror,NOM3,Case=Gen|Numb=Sing

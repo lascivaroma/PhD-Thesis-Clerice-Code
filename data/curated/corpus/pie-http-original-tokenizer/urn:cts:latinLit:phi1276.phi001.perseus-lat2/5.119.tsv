@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+o,o,INJ,MORPH=empty
+Libye,libye,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+disiunge,diivngo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+boues,bos,NOM3,Case=Acc|Numb=Plur
+dum,dvm,CONsub,MORPH=empty
+tubera,tvber,NOM3,Case=Acc|Numb=Plur
+mittas,mitto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

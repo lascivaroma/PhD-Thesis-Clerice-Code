@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Pacis,pax,NOM3,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+aduectae,adveho,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+secreta,secretvm,NOM2,Case=Nom|Numb=Plur
+Palatia,palativm,ADJqua,Case=Nom|Numb=Sing
+matris,mater,NOM3,Case=Gen|Numb=Sing

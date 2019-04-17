@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+turgida,tvrgidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+prodest,prosvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+condita,condo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+pyxide,pyxis,NOM3,Case=Abl|Numb=Sing
+Lyde,lydvs,NOM7,Case=Voc|Numb=Sing

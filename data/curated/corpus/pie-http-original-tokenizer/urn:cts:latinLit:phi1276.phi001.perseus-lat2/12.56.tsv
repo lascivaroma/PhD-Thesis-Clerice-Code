@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+praesidia,praesidivm,NOM2,Case=Acc|Numb=Plur
+adferimus,affero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+nauem,navis,NOM3,Case=Acc|Numb=Sing
+factura,facio,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Fut|Voice=Act
+minorem,parvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp

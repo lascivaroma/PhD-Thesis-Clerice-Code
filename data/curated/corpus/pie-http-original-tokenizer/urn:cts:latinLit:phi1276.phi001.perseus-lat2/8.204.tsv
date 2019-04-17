@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+postquam,postqvam,CONsub,MORPH=empty
+uibrata,vibro,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+pendentia,pendeo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+retia,rete,NOM3,Case=Acc|Numb=Plur
+dextra,dextera,NOM1,Case=Abl|Numb=Sing

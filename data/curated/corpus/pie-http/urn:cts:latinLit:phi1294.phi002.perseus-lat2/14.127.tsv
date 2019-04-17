@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Haec,haec,NOM3,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+turbato,tvrbatvs,ADJqua,Case=Abl|Numb=Sing|Tense=Fut
+Canusina,canvsinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+simillima,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+mulso,mvlsvm,VER,Case=Abl|Numb=Sing|Voice=Pass
+Munus,mvnvs,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Nom|Numb=Sing
+Gaude,gavdvs,ADJqua,Case=Voc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+cito,cito,ADV,Deg=Pos
+fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+anus,anvs,NOM4,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

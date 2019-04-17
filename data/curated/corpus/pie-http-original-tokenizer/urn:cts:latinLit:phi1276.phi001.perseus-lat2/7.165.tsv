@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quantum,qvantvm,ADVrel,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+stipulare,stipvlor,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+protinus,protinvs,ADV,Deg=Pos
+accipe,accipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quid,qvis,PROint,Case=Acc|Numb=Sing
+do,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1

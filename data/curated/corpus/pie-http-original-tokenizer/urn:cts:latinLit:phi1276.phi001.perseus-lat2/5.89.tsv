@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+canna,canna,NOM1,Case=Nom|Numb=Sing
+Micipsarum,micipsa,NOM1,Case=Gen|Numb=Plur
+prora,prora,NOM1,Case=Abl|Numb=Sing
+subuexit,svbveho,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+acuta,acvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

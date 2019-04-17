@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uulneribus,vvlnvs,NOM3,Case=Abl|Numb=Plur
+;,o,PRE,MORPH=empty
+merces,merces,NOM3,Case=Acc|Numb=Sing
+haec,hic,PROdem,Case=Nom|Numb=Sing
+sanguinis,sangvis,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+laboris,labor,NOM3,Case=Gen|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+saecula,saecvlvm,NOM2,Case=Acc|Numb=Plur
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+quondam,qvondam,ADV,Deg=Pos
+sub,svb,PRE,MORPH=empty
+regibus,rex,NOM3,Case=Abl|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+tribunis,tribvnvs,NOM2,Case=Abl|Numb=Plur

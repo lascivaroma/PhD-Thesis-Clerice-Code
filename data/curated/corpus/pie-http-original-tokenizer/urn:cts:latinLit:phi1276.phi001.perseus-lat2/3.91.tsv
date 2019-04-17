@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+sonat,sono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quo,qvi,PROrel,Numb=Sing
+mordetur,mordeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+gallina,gallina,NOM1,Case=Nom|Numb=Sing
+marito,maritvs,NOM2,Case=Abl|Numb=Sing

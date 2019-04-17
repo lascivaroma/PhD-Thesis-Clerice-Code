@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+credite,credo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+me,ego,PROper,Case=Acc|Numb=Sing
+uobis,vos,PROper,Case=Dat|Numb=Plur
+folium,folivm,NOM2,Case=Acc|Numb=Sing
+recitare,recito,VER,Mood=Inf|Tense=Pres|Voice=Act
+Sibyllae,sibylla,NOM1,Case=Gen|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dentibus,dens,NOM3,Case=Abl|Numb=Plur
+ex,ex,PRE,MORPH=empty
+illis,ille,PROdem,Case=Abl|Numb=Plur
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+mittit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+porta,porta,NOM1,Case=Nom|Numb=Sing
+Syenes,syene,NOM7,Case=Nom|Numb=Sing

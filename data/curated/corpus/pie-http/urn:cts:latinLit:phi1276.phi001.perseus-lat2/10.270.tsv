@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+praebet,praebeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ab,ab,PRE,MORPH=empty
+ingrato,ingratvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+iam,iam,ADV,Deg=Pos
+fastiditus,fastidio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+aratro,aratrvm,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

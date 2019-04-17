@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Abstineas,abstinea,ADJqua,Case=Acc|Numb=Plur
+igitur,igitvr,CONcoo,MORPH=empty
+damnandis,damno,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Pass
+.,qvintvs,ADJcar,Case=Dat|Numb=Plur
+huius,hic,PROdem,Case=Gen|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+uel,vel,ADV,MORPH=empty

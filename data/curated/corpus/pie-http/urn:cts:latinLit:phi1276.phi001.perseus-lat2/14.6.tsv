@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+melius,bene,ADV,Deg=Comp
+de,de,PRE,MORPH=empty
+se,svi,PROref,Case=Abl|Numb=Sing
+cuiquam,qvisqvam,PROind,Case=Dat|Numb=Sing
+sperare,spero,VER,Mood=Inf|Tense=Pres|Voice=Act
+propinquo,propinqvvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos

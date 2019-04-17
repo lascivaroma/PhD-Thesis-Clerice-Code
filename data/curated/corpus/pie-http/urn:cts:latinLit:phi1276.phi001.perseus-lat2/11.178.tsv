@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+cum,cvm,CONsub,MORPH=empty
+faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hilares,hilaris,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+nitidi,nitidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+-que,qvavis,CONcoo,MORPH=empty
+uocantur,voco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

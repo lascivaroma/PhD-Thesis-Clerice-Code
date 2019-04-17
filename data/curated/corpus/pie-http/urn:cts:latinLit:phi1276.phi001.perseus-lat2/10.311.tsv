@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+maiora,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+expectant,exspecto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+discrimina,discrimen,NOM3,Case=Nom|Numb=Plur
+fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+adulter,advlter,NOM2,Case=Nom|Numb=Sing

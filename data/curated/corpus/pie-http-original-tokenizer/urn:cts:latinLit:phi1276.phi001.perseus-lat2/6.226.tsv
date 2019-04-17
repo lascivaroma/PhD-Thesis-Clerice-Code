@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+auolat,avolo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+spreti,sperno,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+repetit,repeto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uestigia,vestigivm,NOM2,Case=Acc|Numb=Plur
+lecti,lectvs,NOM2,Case=Gen|Numb=Plur
+;,o,PRE,MORPH=empty

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+oscula,oscvlvm,NOM2,Case=Acc|Numb=Plur
+delectent,delecto,VER,Numb=Plur|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+desperatio,desperatio,NOM3,Case=Nom|Numb=Sing
+barbae,barba,NOM1,Case=Gen|Numb=Sing

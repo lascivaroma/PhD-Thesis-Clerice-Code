@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+profer,profero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+Galla,galla,NOM1,Case=Voc|Numb=Sing
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+noli,nolo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+uexare,vexo,VER,Mood=Inf|Tense=Pres|Voice=Act
+quiescit,qviesco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

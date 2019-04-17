@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tempore,tempvs,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+exiguae,exigvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+furtis,fvrtvm,NOM2,Case=Abl|Numb=Plur
+inbutus,imbvo,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ofellae,ofella,NOM1,Case=Dat|Numb=Plur
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

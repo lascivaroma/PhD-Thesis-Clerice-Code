@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quodcumque,qvicvmqve,PROrel,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+minus,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+autem,avtem,CONcoo,MORPH=empty
+quam,qvam,ADVrel,MORPH=empty
+rhetoris,rhetor,NOM3,Case=Gen|Numb=Sing
+aera,aes,NOM7,Case=Nom|Numb=Sing

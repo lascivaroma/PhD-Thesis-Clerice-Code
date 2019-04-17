@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+lasciui,lascivvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ludebant,lvdo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+ruris,rvs,NOM3,Case=Gen|Numb=Sing
+alumni,alvmnvs,NOM2,Case=Gen|Numb=Sing

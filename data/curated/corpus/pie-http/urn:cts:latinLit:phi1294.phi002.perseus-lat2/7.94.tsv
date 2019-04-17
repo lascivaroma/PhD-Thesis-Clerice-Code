@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Vnguentum,vngventes,NOM3,Case=Gen|Numb=Plur
+fuerat,svm,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+quod,qvod,CONsub,Case=Acc
+onyx,onyx,NOM3,Case=Nom|Numb=Sing
+modo,modo,ADV,Deg=Pos
+parua,parvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+gerebat,gero,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+Olfecit,olficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+postquam,postqvam,CONsub,MORPH=empty
+Papylus,papylvs,NOM2,Case=Nom|Numb=Sing
+ecce,ecce,INJ,MORPH=empty
+garum,garvm,NOM2,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

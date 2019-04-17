@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Omnes,omnes,NOM7,Case=Nom|Numb=Plur
+eunuchos,evnvchvs,NOM2,Case=Acc|Numb=Plur
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Almo,almo,NOM3,Case=Abl|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+arrigit,arrigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+Et,et,CONcoo,MORPH=empty
+queritur,qveror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+pariat,pario,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quod,qvod,CONsub,MORPH=empty
+sua,svvs,PROpos.ref,Case=Abl|Numb=Sing
+Polla,polla,NOM1,Case=Abl|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

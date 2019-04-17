@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pone,pone,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+seram,sera,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cohibe,cohibeo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+quis,qvis,PROint,Case=Nom|Numb=Sing
+custodiat,cvstodio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ipsos,ipse,PROdem,Case=Acc|Numb=Plur

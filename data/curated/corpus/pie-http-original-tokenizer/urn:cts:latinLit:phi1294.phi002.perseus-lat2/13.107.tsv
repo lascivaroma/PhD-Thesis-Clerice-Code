@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Haec,haect,NOM3,Case=Nom|Numb=Sing
+de,de,PRE,MORPH=empty
+uitifera,vitifer,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uenisse,venio,VER,Mood=Inf|Tense=Perf|Voice=Act
+picata,pico,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Vienna,vienna,NOM1,Case=Abl|Numb=Sing
+Ne,ne,ADVint,Case=Ind
+dubites,dvbito,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+misit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Romulus,romvlvs,NOM2,Case=Nom|Numb=Sing
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Gallia,gallia,NOM1,Case=Nom|Numb=Sing
+Santonico,santonicvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uestit,vestio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+te,tv,PROper,Case=Acc|Numb=Sing
+bardocucullo,bardocvcvllvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing
+Cercopithecorum,cercopitheci,NOM2,Case=Gen|Numb=Plur
+paenula,paenvla,NOM1,Case=Nom|Numb=Sing
+nuper,nvper,ADV,Deg=Pos
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Nom|Numb=Sing

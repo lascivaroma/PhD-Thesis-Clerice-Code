@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pallida,pallidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+labra,labrvm,NOM2,Case=Acc|Numb=Plur
+cibum,cibvs,NOM2,Case=Acc|Numb=Sing
+accipiunt,accipio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+digitis,digitvs,NOM2,Case=Abl|Numb=Plur
+alienis,alienvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

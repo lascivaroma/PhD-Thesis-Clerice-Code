@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+gurgitibus,gvrges,NOM3,Case=Abl|Numb=Plur
+mitis,mitis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+lactis,lac,NOM3,Case=Gen|Numb=Sing
+uertice,vertex,NOM3,Case=Abl|Numb=Sing
+torrens,torrens,ADJqua,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

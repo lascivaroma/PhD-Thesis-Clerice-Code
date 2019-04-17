@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tam,tam,ADV,Deg=Pos
+ieiuna,ieivnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fames,fames,NOM3,Case=Nom|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+possit,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+honestius,honeste,ADJqua,Case=Nom|Deg=Comp
+illic,illic,ADV,Deg=Pos

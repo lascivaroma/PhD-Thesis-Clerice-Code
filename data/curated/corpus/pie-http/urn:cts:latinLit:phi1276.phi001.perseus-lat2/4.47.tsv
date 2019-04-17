@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+emere,emo,VER,Mood=Inf|Tense=Pres|Voice=Act
+auderet,avdeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=SemDep|Person=3
+cum,cvm,CONsub,MORPH=empty
+plena,plenvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+litora,litvs,NOM3,Case=Acc|Numb=Plur
+multo,mvlto,ADV,Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inuoluitque,involvitvs,VER,Numb=Sing|Tense=Pres|Voice=Act
+sinu,sinvs,NOM4,Case=Abl|Numb=Sing
+domibus,domvs,NOM4,Case=Abl|Numb=Plur
+tunc,tvnc,ADV,Deg=Pos
+porrigit,porrigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+altis,altvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Nemo,nemo,NOM3,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+studiis,stvdivm,NOM2,Case=Abl|Numb=Plur
+indignum,indignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+laborem,labor,NOM3,Case=Acc|Numb=Sing

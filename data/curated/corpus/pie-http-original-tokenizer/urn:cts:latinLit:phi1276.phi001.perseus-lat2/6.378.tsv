@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tondendum,tondeo,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+eunucho,evnvchvs,NOM2,Case=Dat|Numb=Sing
+Bromium,bromivs,NOM2,Case=Acc|Numb=Sing
+committere,committo,VER,Mood=Inf|Tense=Pres|Voice=Act
+noli,nolo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

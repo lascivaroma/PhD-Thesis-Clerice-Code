@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sumitur,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ex,ex,PRE,MORPH=empty
+libro,liber,NOM2,Case=Abl|Numb=Sing
+;,o,INJ,MORPH=empty
+si,si,CONsub,MORPH=empty
+prurit,prvrio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+frictus,frico,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+ocelli,ocellvs,NOM2,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uilicus,villicvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+rimae,rima,NOM1,Case=Gen|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+texit,tego,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+hiatum,hiatvs,NOM4,Case=Acc|Numb=Sing

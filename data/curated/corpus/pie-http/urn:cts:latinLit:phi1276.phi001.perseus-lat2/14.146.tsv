@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nocte,nocte,NOM3,Numb=Sing
+boues,bos,NOM3,Case=Nom|Numb=Plur
+macri,macer,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+lasso,lassvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvoqve,ADV,Deg=Pos
+famelica,famelicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+collo,collvm,NOM2,Case=Abl|Numb=Sing

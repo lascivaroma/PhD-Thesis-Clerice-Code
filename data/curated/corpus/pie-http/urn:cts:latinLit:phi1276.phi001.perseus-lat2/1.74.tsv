@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+aliquid,aliqvis,PROind,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+probitas,probitas,NOM3,Case=Nom|Numb=Sing
+laudatur,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+alget,algeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

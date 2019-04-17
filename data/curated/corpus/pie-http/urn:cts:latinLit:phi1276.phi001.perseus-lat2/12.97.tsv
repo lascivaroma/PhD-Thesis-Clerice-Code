@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+tam,tam,ADV,Deg=Pos
+sterili,sterilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+;,o,INJ,MORPH=empty
+uerum,vervm,NOM2,Numb=Sing
+haec,hic,PROdem,Case=Nom|Numb=Sing
+nimia,nimivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+inpensa,impensa,NOM2,Case=Nom|Numb=Sing
+coturnix,cotvrnix,NOM3,Case=Nom|Numb=Sing

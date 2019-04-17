@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+cito,cito,ADV,Deg=Pos
+uult,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+fieri,fio,VER,Mood=Inf|Tense=Pres|Voice=Act
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+reuerentia,reverentia,NOM1,Case=Nom|Numb=Sing
+legum,lex,NOM3,Case=Gen|Numb=Plur

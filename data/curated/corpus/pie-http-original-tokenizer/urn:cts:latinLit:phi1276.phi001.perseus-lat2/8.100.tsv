@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+plena,plenvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+omnis,omnis,PROind,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+stabat,sto,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+aceruus,acervvs,NOM2,Case=Nom|Numb=Sing

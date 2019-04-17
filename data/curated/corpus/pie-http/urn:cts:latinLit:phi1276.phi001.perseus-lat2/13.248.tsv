@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nominis,nomen,NOM3,Case=Gen|Numb=Sing
+inuisi,invisvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+tandem,tandem,ADV,Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+fatebere,fateor,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=2
+laetus,laetvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

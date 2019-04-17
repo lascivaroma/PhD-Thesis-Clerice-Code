@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+tradidit,trado,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+arcano,arcanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+quodcumque,qvicvmqve,PROrel,Case=Acc|Numb=Sing
+uolumine,volvmen,NOM3,Case=Abl|Numb=Sing
+Moyses,moyses,NOM7,Case=Nom|Numb=Sing

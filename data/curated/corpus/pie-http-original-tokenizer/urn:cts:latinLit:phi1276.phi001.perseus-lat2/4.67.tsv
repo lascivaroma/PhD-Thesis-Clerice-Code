@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iste,iste,PROdem,Case=Nom|Numb=Sing
+dies,dies,NOM5,Case=Nom|Numb=Sing
+propera,propero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+stomachum,stomachvs,NOM2,Case=Acc|Numb=Sing
+laxare,laxo,VER,Mood=Inf|Tense=Pres|Voice=Act
+sagina,sagina,NOM1,Case=Abl|Numb=Sing

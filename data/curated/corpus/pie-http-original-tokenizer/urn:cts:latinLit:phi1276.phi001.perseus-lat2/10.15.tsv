@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+temporibus,tempvs,NOM3,Case=Abl|Numb=Plur
+diris,dirvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+igitur,igitvr,CONcoo,MORPH=empty
+iussuque,ivssvlvs,ADV,Deg=Pos
+Neronis,nero,NOM3,Case=Gen|Numb=Sing

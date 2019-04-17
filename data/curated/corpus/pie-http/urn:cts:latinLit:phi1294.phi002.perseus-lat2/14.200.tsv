@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Non,non,ADVint,MORPH=empty
+sibi,svi,PROref,Case=Dat|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+domino,dominvs,NOM2,Case=Dat|Numb=Sing
+uenatur,venor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+uertragus,vertragvs,NOM2,Case=Nom|Numb=Sing
+acer,acer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Inlaesum,inlaesvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+leporem,lepor,NOM3,Case=Acc|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+dente,dens,NOM3,Case=Abl|Numb=Sing
+feret,fero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

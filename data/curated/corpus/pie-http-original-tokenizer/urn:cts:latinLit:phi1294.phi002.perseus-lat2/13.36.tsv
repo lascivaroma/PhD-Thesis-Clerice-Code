@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Haec,haec,NOM7,Case=Nom|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+Picenis,picenvs,ADJqua,Case=Abl|Numb=Plur
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+subducta,svbdvco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+trapetis,trapeta,NOM1,Case=Abl|Numb=Plur
+Inchoat,inchoo,VER,Numb=Sing|Tense=Pres|Voice=Act|Person=3
+atque,atqve,CONcoo,MORPH=empty
+eadem,idem,PROdem,Case=Acc|Numb=Sing
+finit,finio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+oliua,oliva,NOM1,Case=Nom|Numb=Sing
+dapes,daps,NOM3,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

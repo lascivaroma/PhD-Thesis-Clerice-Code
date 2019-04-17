@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+delectant,delecto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hebetes,hebes,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+lasso,lassvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+lictore,lictor,NOM3,Case=Abl|Numb=Sing
+secures,secvris,NOM3,Case=Acc|Numb=Plur

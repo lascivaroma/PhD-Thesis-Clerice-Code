@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+electro,electrvm,NOM2,Case=Abl|Numb=Sing
+signisque,signisqve,ADJqua,Case=Nom|Numb=Plur
+suis,svvs,PROpos.ref,Case=Abl|Numb=Plur
+Phrygiaque,phrygiaqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+columna,colvmna,NOM1,Case=Abl|Numb=Sing

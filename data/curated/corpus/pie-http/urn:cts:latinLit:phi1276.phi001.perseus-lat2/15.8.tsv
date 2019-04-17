@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+oppida,oppidvm,NOM2,Case=Nom|Numb=Plur
+tota,totvs,PROind,Case=Nom|Numb=Plur
+canem,canis,NOM3,Case=Acc|Numb=Sing
+uenerantur,veneror,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+Dianam,diana,NOM1,Case=Acc|Numb=Sing

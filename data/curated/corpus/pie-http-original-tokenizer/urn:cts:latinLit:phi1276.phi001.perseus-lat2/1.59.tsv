@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+bona,bonvm,NOM2,Case=Acc|Numb=Plur
+donauit,dono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+praesepibus,praesaepe,NOM3,Case=Dat|Numb=Plur
+et,et,CONcoo,MORPH=empty
+caret,careo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+omni,omnis,PROind,Case=Abl|Numb=Sing

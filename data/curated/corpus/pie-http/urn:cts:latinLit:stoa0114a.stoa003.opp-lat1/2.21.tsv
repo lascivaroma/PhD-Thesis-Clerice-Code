@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Delia,delia,NOM1,Case=Nom|Numb=Sing
+ceruus,cervvs,NOM2,Case=Nom|Numb=Sing
+aper,aper,NOM2,Case=Nom|Numb=Sing
+tigris,tigris,NOM3,Case=Nom|Numb=Sing
+leo,leo,NOM3,Case=Nom|Numb=Sing
+bucula,bvcvlvm,NOM2,Case=Acc|Numb=Plur
+pardus,pardvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Adportant,apporto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mensis,mensis,NOM3,Case=Acc|Numb=Plur
+fercula,fercvlvm,NOM2,Case=Nom|Numb=Plur
+docte,doctvs,ADJqua,Case=Voc|Deg=Pos
+tuis,tvvs,PROpos,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

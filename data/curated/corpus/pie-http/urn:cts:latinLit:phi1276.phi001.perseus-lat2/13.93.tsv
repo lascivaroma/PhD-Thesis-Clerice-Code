@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Isis,isis,NOM7,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+irato,iratvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+feriat,ferio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+mea,mevs,PROpos,Case=Acc|Numb=Plur
+lumina,lvmen,NOM3,Case=Acc|Numb=Plur
+sistro,sistrvm,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Siccus,siccvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sobrius,sobrivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Aper,aper,NOM2,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+ad,ad,PRE,MORPH=empty
+me,ego,PROper,Case=Acc|Numb=Sing
+Seruum,servvs,NOM2,Case=Acc|Numb=Sing
+sic,sic,ADV,Deg=Pos
+ego,ego,PROper,Case=Nom|Numb=Sing
+laudo,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+non,non,ADVneg,MORPH=empty
+amicum,amicvs,NOM2,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

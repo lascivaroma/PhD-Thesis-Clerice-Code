@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ecce,ecce,INJ,MORPH=empty
+alius,alivs,PROind,Case=Nom|Numb=Sing
+quanto,qvantvs,PROint,Case=Abl|Numb=Sing
+porrexit,porrigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+murmure,mvrmvr,NOM3,Case=Abl|Numb=Sing
+panem,panis,NOM3,Case=Acc|Numb=Sing

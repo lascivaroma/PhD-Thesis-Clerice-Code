@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pectore,pectvs,NOM3,Case=Abl|Numb=Sing
+plus,mvltvs,ADV,Case=Acc|Deg=Comp
+agitat,agito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uerae,vervs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+paratur,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+harenae,arena,NOM1,Case=Gen|Numb=Sing

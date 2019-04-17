@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+acer,acer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+indomitus,indomitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+libertatis,libertas,NOM3,Case=Gen|Numb=Sing
+-que,qvisqve,CONcoo,MORPH=empty
+magister,magister,NOM2,Case=Nom|Numb=Sing

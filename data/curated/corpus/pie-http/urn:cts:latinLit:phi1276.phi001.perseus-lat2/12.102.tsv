@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quatenus,qvatenvs,ADVint,MORPH=empty
+hic,hic,ADV,MORPH=empty
+non,non,ADVneg,MORPH=empty
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+uenales,venalis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+elephanti,elephantvs,NOM2,Case=Nom|Numb=Plur

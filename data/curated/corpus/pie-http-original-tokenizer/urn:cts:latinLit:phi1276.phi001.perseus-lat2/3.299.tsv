@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+irati,iratvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+libertas,libertas,NOM3,Case=Nom|Numb=Sing
+pauperis,pavper,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+haec,hic,PROdem,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

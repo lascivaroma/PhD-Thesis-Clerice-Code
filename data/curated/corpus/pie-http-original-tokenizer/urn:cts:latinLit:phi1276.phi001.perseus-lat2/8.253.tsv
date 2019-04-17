@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nobilis,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ornatur,orno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+lauro,lavrvs,NOM2,Case=Abl|Numb=Sing
+collega,collega,NOM1,Case=Nom|Numb=Sing
+secunda,secvndvs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
+.,qvadranta,ADJcar,Case=Gen|Numb=Sing

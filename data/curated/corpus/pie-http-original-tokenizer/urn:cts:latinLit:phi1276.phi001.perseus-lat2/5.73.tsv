@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inprobulum,improbvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+superest,svpersvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+illic,illic,ADV,Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+ponere,pono,VER,Mood=Inf|Tense=Pres|Voice=Act
+cogat,cogo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

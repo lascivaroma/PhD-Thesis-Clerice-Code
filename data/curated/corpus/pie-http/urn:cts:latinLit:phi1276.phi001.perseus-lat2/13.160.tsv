@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+una,vnvs,ADJcar,Case=Nom|Numb=Sing
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+paucos,pavcvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+consume,consvmo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+dies,dies,NOM5,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty

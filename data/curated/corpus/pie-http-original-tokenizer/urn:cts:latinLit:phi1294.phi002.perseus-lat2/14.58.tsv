@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Rusticus,rvsticvs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+nescis,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quid,qvis,PROint,Case=Acc|Numb=Sing
+Graeco,graecvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+nomine,nomen,NOM3,Case=Abl|Numb=Sing
+dicar,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=1
+Spuma,spvma,NOM1,Case=Abl|Numb=Sing
+uocor,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
+nitri,nitrvm,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Graecus,graecvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+aphronitrum,aphroniter,NOM2,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

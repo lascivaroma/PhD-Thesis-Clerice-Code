@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Si,si,NOM2,Numb=Sing
+quis,qvis,PROind,Case=Nom|Numb=Sing
+plorator,plorator,NOM3,Case=Nom|Numb=Sing
+collo,collvm,NOM2,Case=Abl|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uernula,vernvla,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+pendet,pendeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+Haec,haec,NOM3,Case=Nom|Numb=Sing
+quatiat,qvatio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+tenera,tener,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+garrula,garrvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sistra,sistrvm,NOM2,Case=Acc|Numb=Plur
+manu,manvs,NOM4,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

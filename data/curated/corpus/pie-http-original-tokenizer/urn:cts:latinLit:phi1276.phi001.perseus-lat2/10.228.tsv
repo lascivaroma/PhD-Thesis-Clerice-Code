@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+perdidit,perdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing
+oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+luscis,lvscvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+inuidet,invideo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+huius,hic,PROdem,Case=Gen|Numb=Sing

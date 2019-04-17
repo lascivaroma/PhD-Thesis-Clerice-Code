@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+contra,contra,PRE,MORPH=empty
+paganum,paganvs,NOM2,Case=Acc|Numb=Sing
+possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quam,qvam,ADVint,MORPH=empty
+uera,vervm,NOM2,Case=Acc|Numb=Plur
+loquentem,loqvor,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep

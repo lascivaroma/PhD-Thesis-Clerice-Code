@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+hic,hic,ADV,MORPH=empty
+scutica,scvtica,NOM1,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+tortoribus,tortor,NOM3,Case=Abl|Numb=Plur
+annua,annvvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+praestent,praesto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

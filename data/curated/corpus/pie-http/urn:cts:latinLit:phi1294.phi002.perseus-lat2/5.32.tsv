@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Quadrantem,qvadrans,NOM3,Case=Acc|Numb=Sing
+Crispus,crispvs,NOM2,Case=Nom|Numb=Sing
+tabulis,tabvla,NOM1,Case=Abl|Numb=Plur
+Faustine,favstinvs,NOM2,Case=Voc|Numb=Sing
+supremis,svpervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
+Non,non,NOM3,MORPH=empty
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+uxori,vxor,NOM3,Case=Dat|Numb=Sing
+.,pentvm,ADJcar,Case=Acc|Numb=Plur
+Cui,cvivs,NOM2,Case=Nom|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty
+Sibi,sibivs,NOM2,Case=Dat|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+doctus,doctvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+ad,ad,PRE,MORPH=empty
+calicem,calix,NOM3,Case=Acc|Numb=Sing
+uigilanti,vigilo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+stertere,sterto,VER,Mood=Inf|Tense=Pres|Voice=Act
+naso,nasvs,NOM2,Case=Abl|Numb=Sing

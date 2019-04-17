@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+excipit,excipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+solus,solvs,PROind,Case=Nom|Numb=Sing
+trepidantem,trepido,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+protegit,protego,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+urbem,vrbs,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

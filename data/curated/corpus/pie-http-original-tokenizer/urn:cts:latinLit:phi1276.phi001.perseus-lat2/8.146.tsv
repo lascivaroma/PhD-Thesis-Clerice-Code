@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Praeter,praeter,NOM2,Case=Nom|Numb=Sing
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+cineres,cinis,NOM3,Case=Acc|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+ossa,os,NOM3,Case=Acc|Numb=Plur
+uolucri,volvcer,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

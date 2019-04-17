@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iumenta,ivmentvm,NOM2,Case=Nom|Numb=Plur
+ad,ad,PRE,MORPH=empty
+uirides,viridis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+huius,hic,PROdem,Case=Gen|Numb=Sing
+mittentur,mitto,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+aristas,arista,NOM1,Case=Acc|Numb=Plur

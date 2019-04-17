@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Heredem,heres,NOM3,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+me,ego,PROper,Case=Acc|Numb=Sing
+Catulle,catvllvs,NOM2,Case=Voc|Numb=Sing
+dicis,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Non,non,ADVint,MORPH=empty
+credam,credo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+nisi,nisi,CONsub,MORPH=empty
+legero,lego,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+Catulle,catvllvs,NOM2,Case=Voc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

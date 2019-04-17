@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+reticulumque,reticvlvmqve,ADV,Deg=Pos
+comis,coma,ADJqua,Case=Abl|Numb=Sing
+aura,avra,NOM1,Case=Nom|Numb=Sing
+tum,tvm,ADV,Deg=Pos
+ingentibus,ingens,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+implet,impleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

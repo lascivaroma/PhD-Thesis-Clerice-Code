@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+currere,cvrro,VER,Mood=Inf|Tense=Pres|Voice=Act
+cum,cvm,CONsub,MORPH=empty
+praetor,praetor,NOM3,Case=Nom|Numb=Sing
+lictorem,lictor,NOM3,Case=Acc|Numb=Sing
+impellat,impello,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+ire,eo,VER,Mood=Inf|Tense=Pres|Voice=Act

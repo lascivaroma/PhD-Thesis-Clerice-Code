@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+omnes,omnis,PROind,Case=Acc|Numb=Plur
+implet,impleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+numeros,nvmervs,NOM2,Case=Acc|Numb=Plur
+dignissima,dignvs,ADJqua,Case=Nom|Numb=Plur|Deg=Sup
+prorsus,prorsvs,ADV,Deg=Pos

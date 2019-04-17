@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Vnde,vnde,NOM2,Case=Voc|Numb=Sing
+haec,hic,PROdem,Case=Acc|Numb=Plur
+monstra,monstrvm,NOM2,Case=Acc|Numb=Plur
+tamen,tamen,ADV,Deg=Pos
+uel,vel,CONcoo,MORPH=empty
+quo,qvis,PROint,Case=Abl|Numb=Sing
+de,de,PRE,MORPH=empty
+fonte,fons,NOM3,Case=Abl|Numb=Sing
+requiris,reqviro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

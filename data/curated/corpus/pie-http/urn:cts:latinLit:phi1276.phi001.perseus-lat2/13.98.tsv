@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Archige,archiges,NOM3,Case=Abl|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+;,o,PRE,MORPH=empty
+quid,qvis,PROint,Case=Abl|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+uelocis,velox,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+gloria,gloria,NOM1,Case=Nom|Numb=Sing
+plantae,planta,NOM1,Case=Nom|Numb=Sing

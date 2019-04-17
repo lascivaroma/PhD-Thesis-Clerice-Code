@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+taedia,taedivm,NOM2,Case=Nom|Numb=Plur
+tunc,tvnc,ADV,Deg=Pos
+subeunt,svbeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+animos,animvs,NOM2,Case=Acc|Numb=Plur
+tunc,tvnc,ADV,Deg=Pos
+se,svi,PROref,Case=Acc|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+suam,svvs,PROpos.ref,Case=Acc|Numb=Sing
+-que,qvove,ADV,Deg=Pos

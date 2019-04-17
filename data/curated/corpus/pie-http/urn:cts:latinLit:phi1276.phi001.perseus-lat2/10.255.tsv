@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quod,qvis,PROrel,Case=Nom|Numb=Sing
+facinus,facinvs,NOM3,Case=Nom|Numb=Sing
+dignum,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tam,tam,ADV,Deg=Pos
+longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+admiserit,admitto,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+aeuo,aevvm,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

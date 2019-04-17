@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Nom|Numb=Sing
+sint,svm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+crura,crvs,NOM3,Case=Nom|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+similent,similo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quae,qvi,PROrel,Case=Acc|Numb=Plur
+cornua,cornv,NOM4,Case=Acc|Numb=Plur
+lunae,lvna,NOM1,Case=Gen|Numb=Sing
+In,invs,ADJcar,Case=Nom|Numb=Sing
+rhytio,rhytivm,NOM2,Case=Abl|Numb=Sing
+poteras,possvm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2
+Phoebe,phoebe,NOM7,Case=Voc|Numb=Sing
+lauare,lavo,VER,Mood=Inf|Tense=Pres|Voice=Act
+pedes,pes,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

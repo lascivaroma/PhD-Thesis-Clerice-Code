@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+pueri,pver,NOM2,Case=Nom|Numb=Plur
+credunt,credo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nisi,nisi,CONsub,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+nondum,nondvm,ADVneg,MORPH=empty
+aere,aes,NOM3,Case=Abl|Numb=Sing
+lauantur,lavo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

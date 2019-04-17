@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
+habent,habeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+telorum,telvm,NOM2,Case=Gen|Numb=Plur
+armamentaria,armamentarivm,NOM2,Case=Acc|Numb=Plur
+caeli,caelvm,NOM2,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Oceanum,oceanvs,NOM2,Case=Acc|Numb=Sing
+quotiens,qvotiens,ADVrel,MORPH=empty
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+de,de,PRE,MORPH=empty
+moribus,mos,NOM3,Case=Abl|Numb=Plur
+audent,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3

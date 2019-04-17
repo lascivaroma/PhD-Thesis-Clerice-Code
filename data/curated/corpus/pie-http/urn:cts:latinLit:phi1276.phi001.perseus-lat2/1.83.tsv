@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+paulatim,pavlatim,ADV,Deg=Pos
+-que,qvove,ADV,MORPH=empty
+anima,anima,NOM1,Case=Abl|Numb=Sing
+caluerunt,caleo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mollia,mollis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+saxa,saxvm,NOM2,Case=Nom|Numb=Plur

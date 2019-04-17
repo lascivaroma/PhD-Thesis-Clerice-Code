@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uestibulis,vestibvlvm,NOM2,Case=Abl|Numb=Plur
+abeunt,abeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ueteres,vetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+lassi,lassvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+-que,qvovs,ADV,MORPH=empty
+clientes,cliens,NOM3,Case=Nom|Numb=Plur

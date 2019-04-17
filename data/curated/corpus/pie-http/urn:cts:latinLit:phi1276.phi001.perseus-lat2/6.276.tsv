@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tu,tv,PROper,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+uruca,vrvca,NOM1,Case=Voc|Numb=Sing
+places,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+fletum,fletvs,NOM4,Case=Acc|Numb=Sing
+-que,qvisqve,CONcoo,MORPH=empty
+labellis,labellvm,NOM2,Case=Abl|Numb=Plur

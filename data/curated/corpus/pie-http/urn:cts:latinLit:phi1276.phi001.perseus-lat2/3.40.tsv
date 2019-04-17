@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+extollit,extollo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quotiens,qvotiens,ADVrel,MORPH=empty
+uoluit,volo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Fortuna,fortvna,NOM1,Case=Nom|Numb=Sing
+iocari,iocor,VER,Mood=Inf|Tense=Pres|Voice=Pass

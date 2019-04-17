@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+balteus,baltevs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+manicae,manica,NOM1,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+cristae,crista,NOM1,Case=Gen|Numb=Sing
+crurisque,crvs,NOM3,Case=Gen|Numb=Sing
+sinistri,sinister,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+o,o,INJ,MORPH=empty
+demens,demens,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+ita,ita,ADV,Deg=Pos
+seruus,servvs,NOM2,Case=Nom|Numb=Sing
+homo,homo,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nil,nihil,PROind,Case=Ind
+fecerit,facio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2

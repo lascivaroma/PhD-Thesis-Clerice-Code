@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+argentum,argentvm,NOM2,Case=Acc|Numb=Sing
+uetus,vetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+stantem,sto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+extra,extra,PRE,MORPH=empty
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+caprum,caper,NOM2,Case=Acc|Numb=Sing

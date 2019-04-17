@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+eadem,idem,PROdem,Case=Acc|Numb=Plur
+uobis,vos,PROper,Case=Dat|Numb=Plur
+poni,pono,VER,Mood=Inf|Tense=Pres|Voice=Pass
+modo,modo,ADV,Deg=Pos
+uina,vinvm,NOM2,Case=Acc|Numb=Plur
+querebar,qveror,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Dep|Person=1

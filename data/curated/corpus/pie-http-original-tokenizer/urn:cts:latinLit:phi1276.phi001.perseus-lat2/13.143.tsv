@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+rem,res,NOM5,Case=Acc|Numb=Sing
+pateris,patior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+modicam,modicvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+mediocri,mediocris,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+bile,bilis,NOM3,Case=Abl|Numb=Sing
+ferendam,fero,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass

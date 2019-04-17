@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+nudis,nvdvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+longum,longvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ostendit,ostendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ceruicibus,cervix,NOM3,Case=Dat|Numb=Plur
+aurum,avrvm,NOM2,Case=Acc|Numb=Sing

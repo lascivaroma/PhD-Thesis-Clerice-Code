@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uel,vel,CONcoo,MORPH=empty
+quo,qvo,PROint,MORPH=empty
+Tydides,tydides,NOM7,Case=Nom|Numb=Sing
+percussit,percvtio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+pondere,pondvs,NOM3,Case=Abl|Numb=Sing
+coxam,coxa,NOM1,Case=Acc|Numb=Sing

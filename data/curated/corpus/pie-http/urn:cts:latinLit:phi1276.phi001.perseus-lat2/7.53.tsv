@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Sed,sed,NOM7,Case=Voc|Numb=Sing
+uatem,vates,NOM3,Case=Acc|Numb=Sing
+egregium,egregivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+non,non,ADVneg,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+publica,pvblicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uena,vena,NOM1,Case=Nom|Numb=Sing

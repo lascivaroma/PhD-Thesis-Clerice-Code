@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+solitus,soleo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=SemDep
+mediae,medivs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+cryptam,crypta,NOM1,Case=Acc|Numb=Sing
+penetrare,penetro,VER,Mood=Inf|Tense=Pres|Voice=Act
+Suburae,svbvra,NOM1,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

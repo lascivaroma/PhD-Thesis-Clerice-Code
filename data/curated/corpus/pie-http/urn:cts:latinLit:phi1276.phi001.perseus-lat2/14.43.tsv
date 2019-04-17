@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+nec,nec,CONcoo,MORPH=empty
+Brutus,brvtvs,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+Bruti,brvtvs,NOM2,Case=Gen|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+auunculus,avvncvlvs,NOM2,Case=Nom|Numb=Sing
+usquam,vsqvam,ADV,Deg=Pos

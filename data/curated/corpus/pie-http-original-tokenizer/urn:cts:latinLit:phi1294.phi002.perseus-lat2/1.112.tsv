@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+nossem,nosco,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=1
+dominum,dominvs,NOM2,Case=Acc|Numb=Sing
+regemque,rex,NOM3,Case=Acc|Numb=Sing
+uocabam,voco,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1
+Nunc,nvnc,NOM3,Case=Voc
+bene,bene,ADV,Deg=Pos
+te,tv,PROper,Case=Acc|Numb=Sing
+noui,nosco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+iam,iam,ADV,Deg=Pos
+mihi,ego,PROper,Case=Dat|Numb=Sing
+Priscus,priscvs,NOM2,Case=Nom|Numb=Sing
+eris,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

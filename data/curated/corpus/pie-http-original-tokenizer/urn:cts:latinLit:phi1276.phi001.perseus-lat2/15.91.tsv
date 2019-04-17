@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+stetit,sto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+absumpto,absvmo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+iam,iam,ADV,Deg=Pos
+toto,totvs,PROind,Case=Abl|Numb=Sing
+corpore,corpvs,NOM3,Case=Abl|Numb=Sing
+ductis,dvco,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

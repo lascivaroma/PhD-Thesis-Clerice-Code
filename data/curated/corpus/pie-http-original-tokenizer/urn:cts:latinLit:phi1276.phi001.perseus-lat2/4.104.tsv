@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Nec,nec,NOM3,Case=Nom|Numb=Sing
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
+quamuis,qvamvis,CONsub,MORPH=empty
+ignobilis,ignobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ibat,eo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

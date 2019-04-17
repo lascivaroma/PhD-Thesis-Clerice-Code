@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sponsio,sponsio,NOM3,Case=Nom|Numb=Sing
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+cultae,colo,ADJqua,Case=Dat|Numb=Plur
+decet,decet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+assedisse,assideo,VER,Mood=Inf|Tense=Perf|Voice=Act
+puellae,pvella,NOM1,Case=Nom|Numb=Plur

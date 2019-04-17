@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Pergamo,pergamvs,NOM2,Case=Dat|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+has,hic,PROdem,Case=Acc|Numb=Plur
+misit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Curuo,cvrvvs,NOM2,Case=Abl|Numb=Sing
+destringere,destringo,VER,Mood=Inf|Tense=Pres|Voice=Act
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
+Non,non,ADVint,MORPH=empty
+tam,tam,ADV,Deg=Pos
+saepe,saepe,ADV,Deg=Pos
+teret,tero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+lintea,lintevm,NOM2,Case=Acc|Numb=Plur
+fullo,fvllo,NOM2,Case=Abl|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

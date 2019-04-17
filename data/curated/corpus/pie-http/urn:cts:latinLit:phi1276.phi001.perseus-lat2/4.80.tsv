@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+temporibus,tempvs,NOM3,Case=Abl|Numb=Plur
+diris,dirvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+tractanda,tracto,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+putabat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+inermi,inermis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

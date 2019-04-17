@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+gurgite,gvrges,NOM3,Case=Abl|Numb=Sing
+de,de,PRE,MORPH=empty
+Siculo,sicvlvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+dum,dvm,CONsub,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing
+continet,contineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Auster,avster,NOM2,Case=Nom|Numb=Sing

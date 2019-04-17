@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ocius,ociter,ADV,Deg=Comp
+Archigenen,archigenes,NOM7,Case=Acc|Numb=Sing
+quaere,qvaero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+atque,atqve,CONcoo,MORPH=empty
+eme,emo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quod,qvod,CONsub,MORPH=empty
+Mithridates,mithridates,NOM7,Case=Nom|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+planipedes,planipes,NOM3,Case=Acc|Numb=Plur
+audit,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Fabios,fabivs,NOM2,Case=Acc|Numb=Plur
+ridere,rideo,VER,Mood=Inf|Tense=Pres|Voice=Act
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing

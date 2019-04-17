@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+dormiret,dormio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+stulta,stvltvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+clementia,clementia,NOM1,Case=Nom|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+tot,tot,PROdem,Case=Ind
+ubique,vbiqve,ADV,Deg=Pos

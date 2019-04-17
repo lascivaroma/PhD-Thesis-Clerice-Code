@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+suspectus,svspectvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tamquam,tamqvam,CONsub,MORPH=empty
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+suas,svvs,PROpos.ref,Case=Acc|Numb=Plur
+incenderit,incendo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+aedes,aedes,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

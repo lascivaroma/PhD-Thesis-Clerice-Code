@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+solo,solvm,NOM2,Case=Abl|Numb=Sing
+propior,propior,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quod,qvod,CONsub,MORPH=empty
+amicos,amicvs,NOM2,Case=Acc|Numb=Plur
+coniugis,conivx,NOM3,Case=Gen|Numb=Sing
+odit,odi,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

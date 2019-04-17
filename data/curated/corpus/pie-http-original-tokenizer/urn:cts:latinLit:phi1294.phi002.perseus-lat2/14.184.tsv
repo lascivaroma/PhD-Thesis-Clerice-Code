@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Ilias,ilias,NOM7,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Priami,priamvs,NOM2,Case=Gen|Numb=Sing
+regnis,regnvm,NOM2,Case=Abl|Numb=Plur
+inimicus,inimicvs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+Vlixes,vlixes,NOM7,Case=Nom|Numb=Sing
+Multiplici,mvltiplicvs,NOM2,Case=Gen|Numb=Sing
+pariter,pariter,ADV,Deg=Pos
+condita,condo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+pelle,pellis,NOM3,Case=Abl|Numb=Sing
+latent,lateo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

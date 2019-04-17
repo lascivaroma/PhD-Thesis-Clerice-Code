@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+eliceret,elicio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+risum,risvs,NOM4,Case=Acc|Numb=Sing
+citharoedi,citharoedvs,NOM2,Case=Gen|Numb=Sing
+cauda,cavda,NOM1,Case=Abl|Numb=Sing
+magistri,magister,NOM2,Case=Gen|Numb=Sing
+;,o,PRE,MORPH=empty

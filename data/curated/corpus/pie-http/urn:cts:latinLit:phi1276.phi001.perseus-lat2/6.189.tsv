@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+sermone,sermo,NOM3,Case=Abl|Numb=Sing
+pauent,paveo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+iram,ira,NOM1,Case=Acc|Numb=Sing
+gaudia,gavdivm,NOM2,Case=Acc|Numb=Plur
+curas,cvra,NOM1,Case=Acc|Numb=Plur|Voice=Act

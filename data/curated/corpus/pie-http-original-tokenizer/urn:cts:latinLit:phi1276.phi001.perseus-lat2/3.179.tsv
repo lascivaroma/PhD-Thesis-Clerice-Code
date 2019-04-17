@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sufficiunt,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tunicae,tvnica,NOM1,Case=Nom|Numb=Plur
+summis,svpervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
+aedilibus,aedilis,NOM3,Case=Abl|Numb=Plur
+albae,albvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

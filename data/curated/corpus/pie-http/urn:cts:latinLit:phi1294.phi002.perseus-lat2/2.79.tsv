@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Inuitas,invitas,NOM1,Case=Acc|Numb=Plur
+tunc,tvnc,ADV,Deg=Pos
+me,ego,PROper,Case=Acc|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+scis,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Nasica,nasica,NOM1,Case=Abl|Numb=Sing
+uocasse,voco,VER,Mood=Inf|Tense=Perf|Voice=Act
+.,vnvs,ADJcar,Case=Ind|Numb=Plur
+Excusatum,excvsatvs,NOM2,Case=Acc|Numb=Sing
+habeas,habeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+me,ego,PROper,Case=Acc|Numb=Sing
+rogo,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+ceno,ceno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+domi,domvs,NOM2,Case=Loc|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+silua,silva,NOM1,Case=Nom|Numb=Sing
+comae,coma,NOM1,Case=Nom|Numb=Sing
+nullus,nvllvs,PROind,Case=Nom|Numb=Sing
+tota,totvs,PROind,Case=Abl|Numb=Sing
+nitor,nitor,NOM3,Case=Nom|Numb=Sing|Voice=Dep
+in,in,PRE,MORPH=empty
+cute,cvtis,NOM3,Case=Abl|Numb=Sing
+qualem,qvalis,PROint,Case=Acc|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+grauius,graviter,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
+cultro,cvlter,NOM2,Case=Abl|Numb=Sing
+timet,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hostia,hostia,NOM1,Case=Nom|Numb=Sing
+quis,qvis,PROint,Case=Nom|Numb=Sing
+modo,modo,ADV,Deg=Pos
+casus,casvs,NOM4,Case=Acc|Numb=Plur

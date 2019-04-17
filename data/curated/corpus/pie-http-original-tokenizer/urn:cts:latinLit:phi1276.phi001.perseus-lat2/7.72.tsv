@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+antiquo,antiqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Rubrenus,rvbrenvs,NOM2,Case=Nom|Numb=Sing
+Lappa,lappas,NOM1,Case=Nom|Numb=Sing
+cothurno,cothvrnvs,NOM2,Case=Abl|Numb=Sing

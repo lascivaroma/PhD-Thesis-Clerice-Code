@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+palleat,palleo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ut,vt,CONsub,MORPH=empty
+nudis,nvdvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+pressit,premo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+calcibus,calx,NOM3,Case=Abl|Numb=Plur
+anguem,angvis,NOM3,Case=Acc|Numb=Sing

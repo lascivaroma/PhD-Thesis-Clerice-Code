@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+finge,fingo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+tamen,tamen,ADV,Deg=Pos
+gladios,gladivs,NOM2,Case=Acc|Numb=Plur
+inde,inde,ADV,Deg=Pos
+atque,atqve,CONcoo,MORPH=empty
+hinc,hinc,ADV,Deg=Pos
+pulpita,pvlpitvm,NOM2,Case=Acc|Numb=Plur
+poni,pono,VER,Mood=Inf|Tense=Pres|Voice=Pass

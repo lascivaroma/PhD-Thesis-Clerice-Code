@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Scribit,scribo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+auersa,aversvs,ADJqua,Case=Abl|Numb=Plur
+Picens,picens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+epigrammata,epigramma,NOM2,Case=Acc|Numb=Plur
+charta,charta,NOM1,Case=Acc|Numb=Sing
+Et,et,CONcoo,MORPH=empty
+dolet,doleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+auerso,aversvs,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+illa,ille,PROdem,Case=Nom|Numb=Sing
+deo,devs,NOM2,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

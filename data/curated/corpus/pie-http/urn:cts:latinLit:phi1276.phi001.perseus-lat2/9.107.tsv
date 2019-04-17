@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+ad,ad,PRE,MORPH=empty
+cantum,cantvs,NOM4,Case=Acc|Numb=Sing
+galli,gallvs,NOM2,Case=Gen|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing
+secundi,secvndvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

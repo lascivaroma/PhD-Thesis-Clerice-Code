@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inpune,impvne,ADV,Deg=Pos
+ergo,ergo,CONcoo,MORPH=empty
+mihi,ego,PROper,Case=Dat|Numb=Sing
+recitauerit,recito,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing
+togatas,togata,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

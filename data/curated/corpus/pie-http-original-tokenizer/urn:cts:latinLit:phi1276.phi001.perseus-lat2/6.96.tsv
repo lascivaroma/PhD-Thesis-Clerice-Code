@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pectore,pectvs,NOM3,Case=Abl|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+tremulis,tremvlvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+possunt,possvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+insistere,insisto,VER,Mood=Inf|Tense=Pres|Voice=Act
+plantis,planta,NOM1,Case=Abl|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iratis,iratvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+at,at,CONcoo,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+uictrix,victrix,NOM3,Case=Voc|Numb=Sing
+prouincia,provincia,NOM1,Case=Voc|Numb=Sing
+ploras,ploro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

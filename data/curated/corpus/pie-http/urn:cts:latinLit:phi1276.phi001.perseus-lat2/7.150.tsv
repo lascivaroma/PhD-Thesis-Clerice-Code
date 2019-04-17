@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Declamare,declamaris,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+doces,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+o,o,INJ,MORPH=empty
+ferrea,ferrevs,ADJqua,Case=Voc|Numb=Plur|Deg=Pos
+pectora,pectvs,NOM3,Case=Acc|Numb=Plur
+Vetti,vettivs,NOM2,Case=Voc|Numb=Sing

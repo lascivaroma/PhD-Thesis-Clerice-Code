@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Contentus,contentvs,NOM2,Case=Nom|Numb=Sing
+fama,fama,NOM1,Case=Nom|Numb=Sing
+iaceat,iaceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Lucanus,lvcanvs,NOM2,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+hortis,hortvs,NOM2,Case=Abl|Numb=Plur

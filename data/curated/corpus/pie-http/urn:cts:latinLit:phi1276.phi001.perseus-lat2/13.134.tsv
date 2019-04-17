@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ploratur,ploro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+lacrimis,lacrima,NOM1,Case=Abl|Numb=Plur
+amissa,amitto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+pecunia,pecvnia,NOM1,Case=Nom|Numb=Sing
+ueris,vervs,NOM2,Case=Abl|Numb=Plur|Deg=Pos
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

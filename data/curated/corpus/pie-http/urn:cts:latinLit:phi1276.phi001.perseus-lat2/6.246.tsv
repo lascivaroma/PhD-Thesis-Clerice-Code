@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Endromidas,endromidae,NOM7,Case=Acc|Numb=Plur
+Tyrias,tyrivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+femineum,feminevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ceroma,ceroma,NOM1,Case=Nom|Numb=Sing

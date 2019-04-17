@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ne,ne,ADVneg,MORPH=empty
+mullum,mvllvs,NOM2,Case=Acc|Numb=Sing
+cupias,cvpio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+cum,cvm,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+gobio,gobio,NOM2,Case=Dat|Numb=Sing
+tantum,tantvm,PROdem,Numb=Sing|Deg=Pos

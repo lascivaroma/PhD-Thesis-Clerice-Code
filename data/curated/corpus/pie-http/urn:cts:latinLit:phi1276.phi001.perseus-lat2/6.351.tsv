@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quam,qvam,ADVint,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+longorum,longvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+uehitur,veho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ceruice,cervix,NOM3,Case=Abl|Numb=Sing
+Syrorum,syri,NOM2,Case=Gen|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+inputo,impvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
+morbum,morbvs,NOM2,Case=Acc|Numb=Sing
+incessu,incessvs,NOM4,Case=Abl|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+fatetur,fateor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

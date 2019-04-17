@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ardet,ardeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adoratum,adoro,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+populo,popvlvs,NOM2,Case=Dat|Numb=Sing
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+crepat,crepo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+inuidiam,invidia,NOM1,Case=Acc|Numb=Sing
+facerent,facio,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+nolenti,nolo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+surgere,svrgo,VER,Mood=Inf|Tense=Pres|Voice=Act
+Nilo,nilvs,NOM2,Case=Dat|Numb=Sing

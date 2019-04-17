@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ante,ante,PRE,MORPH=empty
+omnes,omnis,PROind,Case=Nom|Numb=Plur
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Scantinia,scantinia,NOM1,Case=Nom|Numb=Sing
+respice,respicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+primum,primvm,ADJord,Deg=Sup

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+electro,electrvm,NOM2,Case=Abl|Numb=Sing
+signis,signvm,NOM2,Case=Abl|Numb=Plur
+-que,qvove,CONcoo,MORPH=empty
+suis,svvs,PROpos.ref,Case=Abl|Numb=Plur
+Phrygia,phrygia,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+columna,colvmna,NOM1,Case=Abl|Numb=Sing

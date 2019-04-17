@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quantum,qvantvm,PROint,Case=Acc|Numb=Sing
+Socratici,socratici,NOM2,Case=Nom|Numb=Plur
+ceperunt,capio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ante,ante,PRE,MORPH=empty
+penates,penates,NOM3,Case=Nom|Numb=Plur
+;,o,PRE,MORPH=empty

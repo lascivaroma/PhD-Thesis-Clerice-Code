@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+haut,havd,ADVneg,MORPH=empty
+inpunitum,impvnitvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+quondam,qvondam,ADV,Deg=Pos
+fore,svm,VER,Mood=Inf|Tense=Fut|Voice=Act
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+dubitaret,dvbito,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

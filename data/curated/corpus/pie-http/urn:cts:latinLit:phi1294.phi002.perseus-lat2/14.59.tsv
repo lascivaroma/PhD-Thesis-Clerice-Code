@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Balsama,balsama,NOM2,Case=Nom|Numb=Plur
+me,ego,PROper,Case=Acc|Numb=Sing
+capiunt,capio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+unguenta,vngventvm,NOM2,Case=Nom|Numb=Plur
+uirorum,vir,NOM2,Case=Gen|Numb=Plur
+Delicias,delicivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Cosmi,cosmvs,NOM2,Case=Gen|Numb=Sing
+uos,vos,PROper,Case=Nom|Numb=Plur
+redolete,redoleo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+nurus,nvrvs,NOM4,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

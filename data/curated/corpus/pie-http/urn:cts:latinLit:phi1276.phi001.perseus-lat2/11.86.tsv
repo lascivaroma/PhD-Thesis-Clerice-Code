@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cognatorum,cognatvs,NOM2,Case=Gen|Numb=Plur
+aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
+titulo,titvlvs,NOM2,Case=Abl|Numb=Sing
+ter,ter,ADJadv.mul,MORPH=empty
+consulis,consvl,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty

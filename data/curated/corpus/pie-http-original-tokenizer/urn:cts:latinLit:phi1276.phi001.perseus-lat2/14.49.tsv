@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+peccaturo,pecco,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+obstet,obsto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+filius,filivs,NOM2,Case=Nom|Numb=Sing
+infans,infans,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

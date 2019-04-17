@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+proxima,propior,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+patimur,patior,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
+Tyrrhenum,tyrrhenvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+crescere,cresco,VER,Mood=Inf|Tense=Pres|Voice=Act
+piscem,piscis,NOM3,Case=Acc|Numb=Sing

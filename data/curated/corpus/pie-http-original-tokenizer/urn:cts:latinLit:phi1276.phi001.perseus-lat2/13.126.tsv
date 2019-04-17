@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+nullum,nvllvs,PROind,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+terris,terra,NOM1,Case=Abl|Numb=Plur
+tam,tam,ADV,Deg=Pos
+detestabile,detestabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+factum,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

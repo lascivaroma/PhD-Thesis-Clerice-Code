@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+Capitolinis,capitolinvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+generosior,generosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+et,et,CONcoo,MORPH=empty
+Marcellis,marcellvs,NOM2,Case=Dat|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+plena,plenvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ipso,ipse,PROdem,Case=Abl|Numb=Sing
+post,post,PRE,MORPH=empty
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+delator,delator,NOM3,Case=Nom|Numb=Sing
+amici,amicvs,NOM2,Case=Gen|Numb=Sing

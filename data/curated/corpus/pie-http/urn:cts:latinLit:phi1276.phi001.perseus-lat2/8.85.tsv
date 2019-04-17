@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dignus,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+morte,mors,NOM3,Case=Abl|Numb=Sing
+perit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cenet,ceno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+licet,licet,CONsub,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ostrea,ostrevm,NOM2,Case=Acc|Numb=Plur
+centum,centvm,ADJcar,Case=Ind

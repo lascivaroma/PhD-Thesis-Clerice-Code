@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+multos,mvlti,NOM2,Case=Acc|Numb=Plur
+adhibet,adhibeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+liceat,licet,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+modo,modo,ADV,Deg=Pos
+uiuere,vivo,VER,Mood=Inf|Tense=Pres|Voice=Act
+fient,fio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3

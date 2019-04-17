@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+grammaticus,grammaticvs,NOM2,Case=Nom|Numb=Sing
+rhetor,rhetor,NOM3,Case=Nom|Numb=Sing
+geometres,geometres,NOM7,Case=Nom|Numb=Sing
+pictor,pictor,NOM3,Case=Nom|Numb=Sing
+aliptes,alipio,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=2

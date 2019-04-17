@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+miserere,misereor,VER,Mood=Imp|Tense=Pres|Voice=Dep|Person=2
+iterum,itervm,ADV,Deg=Pos
+quamquam,qvamqvam,CONsub,MORPH=empty
+sint,svm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+cetera,cetervs,ADJqua,Case=Nom|Numb=Plur
+sortis,sors,NOM3,Case=Gen|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Africa,africa,NOM1,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+placuit,placeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mercedem,merces,NOM3,Case=Acc|Numb=Sing
+ponere,pono,VER,Mood=Inf|Tense=Pres|Voice=Act
+linguae,lingva,NOM1,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

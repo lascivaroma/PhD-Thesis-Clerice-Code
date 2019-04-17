@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Pauper,pavper,NOM3,Case=Nom|Numb=Sing
+uideri,video,VER,Mood=Inf|Tense=Pres|Voice=Pass
+Cinna,cinna,NOM1,Case=Nom|Numb=Sing
+uult,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,INJ,MORPH=empty
+et,et,CONcoo,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Dat|Numb=Sing

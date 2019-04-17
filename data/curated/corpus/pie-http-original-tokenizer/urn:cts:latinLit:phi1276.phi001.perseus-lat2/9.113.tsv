@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nolentem,nolo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+miseram,miser,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+uinosus,vinosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+inebriet,inebrio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+aurem,avris,NOM3,Case=Acc|Numb=Sing

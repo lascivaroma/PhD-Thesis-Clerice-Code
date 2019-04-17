@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tot,tot,PROdem,Case=Ind
+bellorum,bellvm,NOM2,Case=Gen|Numb=Plur
+animae,anima,NOM1,Case=Nom|Numb=Plur
+quotiens,qvotiens,ADVint,MORPH=empty
+hinc,hinc,ADV,Deg=Pos
+talis,talis,PROdem,Case=Nom|Numb=Plur
+ad,ad,PRE,MORPH=empty
+illos,ille,PROdem,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pelle,pellis,NOM3,Case=Abl|Numb=Sing|Mood=Imp
+patet,pateo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uel,vel,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+consuto,consvo,VER,Case=Abl|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+uulnere,vvlnvs,NOM3,Case=Abl|Numb=Sing
+crassum,crassvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

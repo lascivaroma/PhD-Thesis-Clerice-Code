@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Gurgitis,gvrges,NOM3,Case=Gen|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+Fabii,fabivs,NOM2,Case=Gen|Numb=Sing
+quae,qvis,PROint,Case=Nom|Numb=Sing
+ludia,lvdia,NOM2,Case=Nom|Numb=Sing
+sumpserit,svmo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+umquam,vmqvam,ADV,Deg=Pos

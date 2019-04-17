@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Lodices,lodices,NOM7,Case=Nom|Numb=Sing
+mittet,mitto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+docti,doctvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+terra,terra,NOM1,Case=Nom|Numb=Sing
+Catulli,catvllvs,NOM2,Case=Gen|Numb=Sing
+Nos,nos,NOM2,Case=Nom|Numb=Plur
+Helicaonia,helicaonia,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+de,de,PRE,MORPH=empty
+regione,regio,NOM3,Case=Abl|Numb=Sing
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

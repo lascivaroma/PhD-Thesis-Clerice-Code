@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+seruorum,servvs,NOM2,Case=Gen|Numb=Plur
+uentres,venter,NOM3,Case=Acc|Numb=Plur
+modio,modivs,NOM2,Case=Abl|Numb=Sing
+castigat,castigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+iniquo,iniqvvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos

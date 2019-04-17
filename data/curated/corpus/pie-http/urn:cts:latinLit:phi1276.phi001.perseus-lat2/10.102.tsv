@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+frangere,frango,VER,Mood=Inf|Tense=Pres|Voice=Act
+pannosus,pannosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uacuis,vacvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+aedilis,aedilis,NOM3,Case=Nom|Numb=Sing
+Vlubris,vlvbrae,NOM1,Case=Abl|Numb=Plur

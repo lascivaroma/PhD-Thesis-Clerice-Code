@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Acc|Numb=Sing
+fugit,fvgio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+sexu,sexvs,NOM4,Case=Abl|Numb=Sing
+uires,vis,NOM3,Case=Acc|Numb=Plur
+amat,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Plur
+tamen,tamen,ADV,Deg=Pos
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing

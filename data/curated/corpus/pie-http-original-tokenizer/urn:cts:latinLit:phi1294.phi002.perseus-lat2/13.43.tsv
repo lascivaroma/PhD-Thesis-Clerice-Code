@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Lecta,lecta,NOM1,Case=Nom|Numb=Sing
+suburbanis,svbvrbanvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+mittuntur,mitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+apyrina,apyrinvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ramis,ramvs,NOM2,Case=Abl|Numb=Plur
+Et,et,CONcoo,MORPH=empty
+uernae,vernvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+tubures,tvbvr,NOM3,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur
+Quid,qvis,PROint,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+Libycis,libycvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

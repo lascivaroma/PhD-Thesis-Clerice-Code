@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+balantem,balor,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
+et,et,CONcoo,MORPH=empty
+Laribus,lar,NOM3,Case=Dat|Numb=Plur
+cristam,crista,NOM1,Case=Acc|Numb=Sing
+promittere,promitto,VER,Mood=Inf|Tense=Pres|Voice=Act
+galli,gallvs,NOM2,Case=Gen|Numb=Sing

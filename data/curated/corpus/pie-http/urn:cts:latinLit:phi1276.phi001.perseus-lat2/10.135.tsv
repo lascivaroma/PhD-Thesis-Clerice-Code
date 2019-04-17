@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+curtum,cvrtvs,NOM4,Case=Acc|Numb=Sing
+temone,temo,NOM3,Case=Abl|Numb=Sing
+iugum,ivgvm,NOM2,Case=Nom|Numb=Sing
+uictae,vinco,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvovs,CONcoo,MORPH=empty
+triremis,triremis,NOM3,Case=Nom|Numb=Sing

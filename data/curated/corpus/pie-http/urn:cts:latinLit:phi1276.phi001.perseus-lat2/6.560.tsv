@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inde,inde,ADV,Deg=Pos
+fides,fides,NOM5,Case=Nom|Numb=Sing
+artis,ars,NOM3,Case=Gen|Numb=Sing
+sonuit,sono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+si,si,CONsub,MORPH=empty
+dextera,dextera,NOM1,Case=Nom|Numb=Sing
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+a,ab,PRE,MORPH=empty
+Cannis,cannivs,NOM2,Case=Abl|Numb=Plur
+an,an,ADVint,MORPH=empty
+post,post,PRE,MORPH=empty
+nimbos,nimbvs,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+fulmina,fvlmen,NOM3,Case=Acc|Numb=Plur
+cautus,cavtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

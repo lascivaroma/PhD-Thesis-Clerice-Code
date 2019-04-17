@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+numquam,nvmqvam,ADVneg,MORPH=empty
+aliud,alivs,PROind,Case=Acc|Numb=Sing
+natura,natvra,NOM1,Case=Nom|Numb=Sing
+aliud,alivs,PROind,Case=Acc|Numb=Sing
+sapientia,sapientia,NOM1,Case=Nom|Numb=Sing
+dicit,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

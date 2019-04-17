@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+frondibus,frons,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+culmo,cvlmvs,NOM2,Case=Abl|Numb=Sing
+uicinarum,vicinvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+ferarum,fera,NOM1,Case=Gen|Numb=Plur

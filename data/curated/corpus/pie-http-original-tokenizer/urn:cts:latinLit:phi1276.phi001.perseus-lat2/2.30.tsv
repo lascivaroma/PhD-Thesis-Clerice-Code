@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+concubitu,concvbitvs,NOM4,Case=Abl|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+leges,lex,NOM3,Case=Acc|Numb=Plur
+reuocabat,revoco,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+amaras,amarvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

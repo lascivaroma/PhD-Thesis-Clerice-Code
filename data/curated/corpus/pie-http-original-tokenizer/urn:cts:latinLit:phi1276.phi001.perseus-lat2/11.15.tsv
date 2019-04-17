@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+numquam,nvmqvam,ADVneg,MORPH=empty
+animo,animvs,NOM2,Case=Abl|Numb=Sing
+pretiis,pretivm,NOM2,Case=Abl|Numb=Plur
+opstantibus,obsto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+;,o,PRE,MORPH=empty
+interius,intra,ADJqua,Deg=Comp
+si,si,CONsub,MORPH=empty

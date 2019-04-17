@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+more,mos,NOM3,Case=Abl|Numb=Sing
+Numae,nvma,NOM1,Case=Gen|Numb=Sing
+caedit,caedo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Iouis,ivppiter,NOM3,Case=Gen|Numb=Sing
+ante,ante,PRE,MORPH=empty
+altaria,altar,NOM3,Case=Acc|Numb=Plur
+iurat,ivro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

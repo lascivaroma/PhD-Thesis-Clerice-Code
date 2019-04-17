@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+autumnum,avtvmnvs,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+crudi,crvdvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+posuere,pono,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+pericula,pericvlvm,NOM2,Case=Acc|Numb=Plur
+suci,svcvs,NOM2,Case=Gen|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

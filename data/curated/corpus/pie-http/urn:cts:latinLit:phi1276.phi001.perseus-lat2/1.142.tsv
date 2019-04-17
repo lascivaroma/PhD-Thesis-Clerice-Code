@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+poena,poena,NOM1,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+praesens,praesens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+deponis,depono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+amictus,amictvs,NOM4,Numb=Sing

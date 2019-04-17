@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Attica,atticvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+nectareum,nectarevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+turbatis,tvrbatvs,VER,Case=Abl|Numb=Plur
+mella,mel,NOM3,Case=Acc|Numb=Plur
+Falernum,falernvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Misceri,miscerivs,NOM2,Case=Loc|Numb=Sing
+decet,decet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+a,ab,PRE,MORPH=empty
+Ganymede,ganymedes,NOM3,Case=Abl|Numb=Sing
+merum,mervm,NOM2,Case=Acc|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

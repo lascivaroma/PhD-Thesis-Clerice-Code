@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+credidit,credo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+huic,hic,PROdem,Case=Dat|Numb=Sing
+quisquam,qvisqvam,PROind,Case=Nom|Numb=Sing
+uellet,volo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+seruire,servio,VER,Mood=Inf|Tense=Pres|Voice=Act
+deorum,devs,NOM2,Case=Gen|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tunc,tvnc,ADV,Deg=Pos
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+facient,facio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+optata,optatvs,VER,Case=Acc|Numb=Plur|Mood=Par|Voice=Pass
+tonitrua,tonitrvvm,NOM2,Case=Acc|Numb=Plur
+cenas,cena,NOM1,Case=Acc|Numb=Plur

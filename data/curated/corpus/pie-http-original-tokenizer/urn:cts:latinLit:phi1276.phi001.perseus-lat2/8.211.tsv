@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Libera,libera,NOM1,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+dentur,do,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+populo,popvlvs,NOM2,Case=Dat|Numb=Sing
+suffragia,svffragivm,NOM2,Case=Nom|Numb=Plur
+quis,qvis,PROint,Case=Nom|Numb=Plur
+tam,tam,ADV,Deg=Pos

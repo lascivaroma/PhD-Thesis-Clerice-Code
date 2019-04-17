@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+barbato,barbatvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+cuicumque,qvicvmqve,PROrel,Case=Dat|Numb=Sing
+puer,pver,NOM2,Case=Nom|Numb=Sing
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+uideret,video,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

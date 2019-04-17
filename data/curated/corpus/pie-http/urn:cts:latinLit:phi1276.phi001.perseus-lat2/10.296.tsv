@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+corporis,corpvs,NOM3,Case=Gen|Numb=Sing
+egregii,egregivs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+miseros,miser,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+trepidos,trepidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+parentes,parens,NOM3,Case=Acc|Numb=Plur

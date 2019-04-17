@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+turpe,tvrpis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+magis,magis,ADV,Deg=Comp
+nostris,nostri,PROpos,Case=Dat|Numb=Plur
+nescire,nescio,VER,Mood=Inf|Tense=Pres|Voice=Act
+Latine,latinvs,NOM2,Case=Voc|Numb=Sing
+;,o,PRE,MORPH=empty

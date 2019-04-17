@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+abicit,abicio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+saeua,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dignum,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ueraque,vervsqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Charybdi,charybdis,NOM3,Case=Dat|Numb=Sing

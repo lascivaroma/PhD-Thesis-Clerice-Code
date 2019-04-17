@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Ne,ne,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+pallentes,pallens,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+moueant,moveo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+fastidia,fastidivm,NOM2,Case=Nom|Numb=Plur
+caules,cavlis,NOM3,Case=Nom|Numb=Plur
+Nitrata,nitratas,NOM1,Case=Nom|Numb=Sing
+uiridis,viridis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+brassica,brassicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fiat,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+aqua,aqva,NOM1,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

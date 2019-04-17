@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+numinis,nvmen,NOM3,Case=Gen|Numb=Sing
+Idaei,idaevs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+procedat,procedo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uel,vel,CONcoo,MORPH=empty
+Numa,nvma,NOM1,Case=Nom|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Sing

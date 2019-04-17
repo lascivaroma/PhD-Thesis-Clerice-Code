@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iugeribus,ivgervm,NOM3,Case=Abl|Numb=Plur
+campi,campvs,NOM2,Case=Gen|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+neglegis,negligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Officium,officivs,NOM2,Case=Acc|Numb=Sing
+cras,cras,ADV,Deg=Pos

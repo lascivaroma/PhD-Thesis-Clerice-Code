@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Acc|Numb=Plur
+mandat,mando,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+norunt,nosco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+alii,alivs,PROind,Case=Nom|Numb=Plur
+;,,PRE,MORPH=empty
+me,ego,PROper,Case=Abl|Numb=Sing
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+ministro,minister,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

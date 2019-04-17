@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Experiere,experier,NOM3,Case=Voc|Numb=Sing
+hodie,hodie,ADV,Deg=Pos
+numquid,nvmqvid,ADVint,MORPH=empty
+pulcherrima,pvlcher,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+dictu,dico,VER,Mood=SupUm|Voice=Act

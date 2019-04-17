@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+facient,facio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+alii,alivs,PROind,Case=Nom|Numb=Plur
+cum,cvm,CONsub,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+multicia,mvlticia,NOM2,Case=Acc|Numb=Plur
+sumas,svmo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

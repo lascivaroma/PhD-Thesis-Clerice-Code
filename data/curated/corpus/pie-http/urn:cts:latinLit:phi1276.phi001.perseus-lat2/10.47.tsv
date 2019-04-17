@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tunc,tvnc,ADV,Deg=Pos
+quoque,qvoqve,ADV,Deg=Pos
+materiam,materia,NOM1,Case=Acc|Numb=Sing
+risus,risvs,NOM4,Case=Nom|Numb=Sing
+inuenit,invenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+omnis,omnis,PROind,Case=Acc|Numb=Plur

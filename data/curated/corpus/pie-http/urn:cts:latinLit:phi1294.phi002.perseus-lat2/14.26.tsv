@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Chattica,chatticvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Teutonicos,tevtonici,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+accendit,accendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+spuma,spvma,NOM1,Case=Abl|Numb=Sing
+capillos,capillvs,NOM2,Case=Acc|Numb=Plur
+Captiuis,captivvs,ADJqua,Case=Abl|Numb=Plur
+poteris,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+cultior,cvltvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+comis,coma,NOM1,Case=Abl|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

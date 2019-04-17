@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aegrotante,aegroto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+uiro,vir,NOM2,Case=Abl|Numb=Sing
+medicis,medicvs,NOM2,Case=Abl|Numb=Plur
+quid,qvis,PROint,Case=Acc|Numb=Sing
+tristibus,tristis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+erga,erga,PRE,MORPH=empty

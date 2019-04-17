@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+templorum,templvm,NOM2,Case=Gen|Numb=Plur
+quoque,qvoqve,ADV,Deg=Pos
+maiestas,maiestas,NOM3,Case=Nom|Numb=Sing
+praesentior,praesens,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+et,et,CONcoo,MORPH=empty
+uox,vox,NOM3,Case=Nom|Numb=Sing

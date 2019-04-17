@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+segmenta,segmentvm,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+longos,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+habitus,habitvs,NOM4,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+flammea,flammevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+sumit,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

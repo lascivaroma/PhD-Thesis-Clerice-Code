@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+creditor,creditor,NOM3,Case=Nom|Numb=Sing
+introitum,introitvs,NOM4,Case=Acc|Numb=Sing
+solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+expectare,exspecto,VER,Mood=Inf|Tense=Pres|Voice=Act
+macelli,macellvm,NOM2,Case=Gen|Numb=Sing

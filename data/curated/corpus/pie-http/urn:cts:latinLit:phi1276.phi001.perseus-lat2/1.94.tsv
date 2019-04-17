@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+totidem,totidem,PROdem,Case=Ind|Deg=Pos
+erexit,erigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+uillas,villa,NOM1,Case=Acc|Numb=Plur
+quis,qvis,PROint,Case=Nom|Numb=Plur
+fercula,fercvlvm,NOM2,Case=Acc|Numb=Plur
+septem,septem,ADJcar,Case=Ind

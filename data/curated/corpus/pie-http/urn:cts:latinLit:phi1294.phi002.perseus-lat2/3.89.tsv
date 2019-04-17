@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Vtere,vtervs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+lactucis,lactvcvs,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+mollibus,mollis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+utere,vtor,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Dep|Person=2
+maluis,malo,VER,Case=Abl|Numb=Plur|Voice=Act|Person=2
+Nam,nam,NOM1,Case=Acc
+faciem,facies,NOM5,Case=Acc|Numb=Sing
+durum,dvrvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Phoebe,phoebvs,NOM7,Case=Voc|Numb=Sing
+cacantis,caco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+habes,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

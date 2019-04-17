@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uocem,vox,NOM3,Case=Acc|Numb=Sing
+adyti,adytvm,NOM2,Case=Gen|Numb=Sing
+dignam,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+templo,templvm,NOM2,Case=Abl|Numb=Sing
+ueramque,veramqve,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+probauit,probo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

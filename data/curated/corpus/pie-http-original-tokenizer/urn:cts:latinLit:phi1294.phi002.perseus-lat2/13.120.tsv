@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+De,des,NOM7,Case=Voc|Numb=Sing
+Spoletinis,spoletinvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cariosa,cariosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+lagonis,lago,NOM3,Case=Gen|Numb=Sing
+Malueris,malver,NOM3,Case=Gen|Numb=Sing
+quam,qvam,PROrel,MORPH=empty
+si,si,CONsub,MORPH=empty
+musta,mvstvm,NOM2,Case=Acc|Numb=Plur
+Falerna,falernvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+bibas,bibo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

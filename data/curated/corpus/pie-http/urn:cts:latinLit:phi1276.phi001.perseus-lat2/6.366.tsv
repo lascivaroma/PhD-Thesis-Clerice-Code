@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Sunt,svm,VER,Numb=Plur|Tense=Pres|Voice=Act|Person=3
+quas,qvi,PROrel,Case=Acc|Numb=Plur
+eunuchi,evnvchvs,NOM2,Case=Nom|Numb=Plur
+inbelles,imbellis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ac,ac,CONcoo,MORPH=empty
+mollia,mollis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+semper,semper,ADV,Deg=Pos

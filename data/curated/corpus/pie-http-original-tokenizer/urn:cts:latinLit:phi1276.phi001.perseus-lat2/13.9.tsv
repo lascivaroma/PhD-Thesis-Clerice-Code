@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Acc|Numb=Plur
+pateris,patior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+;,o,PRE,MORPH=empty
+casus,casvs,NOM4,Case=Acc|Numb=Plur
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+hic,hic,PROdem,Numb=Sing
+cognitus,cognosco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+ac,ac,CONcoo,MORPH=empty
+iam,iam,ADV,Deg=Pos

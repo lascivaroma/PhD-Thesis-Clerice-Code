@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+maiestas,maiestas,NOM3,Case=Nom|Numb=Sing
+tandemque,tandemqve,ADV,Deg=Pos
+redit,redeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+pulpita,pvlpitvm,NOM2,Case=Acc|Numb=Plur
+notum,notvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

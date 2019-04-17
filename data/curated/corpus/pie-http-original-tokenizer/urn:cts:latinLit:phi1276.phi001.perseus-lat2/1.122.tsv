@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+languida,langvidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uel,vel,CONcoo,MORPH=empty
+praegnas,praegnans,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+circumducitur,circvmdvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

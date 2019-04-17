@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pone,pono,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+domum,domvs,NOM6,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+seruos,servvs,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+quidquid,qvisqvis,PROrel,Case=Nom|Numb=Sing
+frangitur,frango,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+illis,ille,PROdem,Case=Dat|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nutricem,nvtrix,NOM3,Case=Acc|Numb=Sing
+Anchisae,anchises,NOM1,Case=Gen|Numb=Sing
+nomen,nomen,NOM3,Case=Acc|Numb=Sing
+patriam,patria,NOM1,Case=Acc|Numb=Sing
+-que,qvavis,ADV,MORPH=empty
+nouercae,noverca,NOM1,Case=Gen|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+flammeolo,flammeolvs,NOM2,Case=Abl|Numb=Sing
+Tyriusque,tyrivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+palam,palam,ADV,Deg=Pos
+genialis,genialis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+hortis,hortvs,NOM2,Case=Abl|Numb=Plur

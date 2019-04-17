@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+poscimus,posco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+obrepit,obrepo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+non,non,ADVneg,MORPH=empty
+intellecta,intelligo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+senectus,senectvs,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

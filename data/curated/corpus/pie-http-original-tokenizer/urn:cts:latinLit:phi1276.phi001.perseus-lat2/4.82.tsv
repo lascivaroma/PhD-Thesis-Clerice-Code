@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cuius,qvis,PROint,Case=Gen|Numb=Sing
+erant,svm,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+mores,mos,NOM3,Case=Nom|Numb=Plur
+qualis,qvalis,PROint,Case=Nom|Numb=Sing
+facundia,facvndia,NOM1,Case=Nom|Numb=Sing
+mite,mitis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

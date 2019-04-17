@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nos,nos,PROper,Case=Nom|Numb=Plur
+urbem,vrbs,NOM3,Case=Acc|Numb=Sing
+colimus,colo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tibicine,tibicen,NOM3,Case=Abl|Numb=Sing
+fultam,fvlcio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

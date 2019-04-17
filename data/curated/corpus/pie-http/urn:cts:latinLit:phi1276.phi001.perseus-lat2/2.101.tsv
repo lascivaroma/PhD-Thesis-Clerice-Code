@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+armatum,armatvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+iam,iam,ADV,Deg=Pos
+tolli,tollo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+uexilla,vexillvm,NOM2,Case=Acc|Numb=Plur
+iuberet,ivbeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

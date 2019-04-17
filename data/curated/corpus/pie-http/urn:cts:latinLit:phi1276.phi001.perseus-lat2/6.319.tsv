@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+meri,mervm,NOM2,Case=Gen|Numb=Sing
+ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+per,per,PRE,MORPH=empty
+crura,crvs,NOM3,Case=Acc|Numb=Plur
+madentia,madeo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+torrens,torrens,NOM3,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hanc,hic,PROdem,Case=Acc|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+repetit,repeto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uoluitque,volvo,VER,Numb=Sing|Tense=Pres|Voice=Act
+Palaemonis,palaemon,NOM3,Case=Gen|Numb=Sing
+artem,ars,NOM3,Case=Acc|Numb=Sing

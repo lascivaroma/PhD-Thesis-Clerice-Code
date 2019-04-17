@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Fabricio,fabricivs,NOM2,Case=Dat|Numb=Sing
+patriam,patria,NOM1,Case=Acc|Numb=Sing
+ut,vt,CONsub,MORPH=empty
+rhombi,rhombos,NOM2,Case=Gen|Numb=Sing
+memoraret,memoro,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+annos,annvs,NOM2,Case=Acc|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

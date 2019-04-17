@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+conponunt,compono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipsae,ipse,PROdem,Case=Nom|Numb=Plur
+per,per,PRE,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing
+formant,formo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+-que,qvove,CONcoo,MORPH=empty
+libellos,libellvs,NOM2,Case=Acc|Numb=Plur

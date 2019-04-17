@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+constituit,constitvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+solitoque,solitoqve,ADV,Deg=Pos
+decentius,decenter,ADV,Deg=Comp
+optat,opto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

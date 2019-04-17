@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Nom|Numb=Sing
+fieret,fio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+tristis,tristis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+soluendis,solvo,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Pass
+auctio,avctio,NOM3,Case=Nom|Numb=Sing
+nummis,nvmvs,NOM2,Case=Abl|Numb=Plur
+Haec,haecvs,ADJqua,Case=Nom|Numb=Sing
+quadringentis,qvadringenti,ADJcar,Case=Abl|Numb=Plur
+milibus,mille,ADJcar,Case=Abl|Numb=Plur
+empta,emo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing

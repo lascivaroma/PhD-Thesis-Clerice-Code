@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ipsi,ipse,PROdem,Case=Nom|Numb=Plur
+magna,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+sonant,sono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+tum,tvm,ADV,Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+creditor,creditor,NOM3,Case=Nom|Numb=Sing
+audit,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

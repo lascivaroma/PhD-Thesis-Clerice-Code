@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+contra,contra,PRE,MORPH=empty
+fortunam,fortvna,NOM1,Case=Acc|Numb=Sing
+armati,armatvs,ADJqua,Case=Gen|Numb=Plur
+contra,contra,ADV,MORPH=empty
+-que,qvove,CONcoo,MORPH=empty
+pudorem,pvdor,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

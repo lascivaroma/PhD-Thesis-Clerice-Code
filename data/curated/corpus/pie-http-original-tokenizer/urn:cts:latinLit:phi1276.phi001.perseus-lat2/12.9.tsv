@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ducere,dvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uexat,vexo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nascenti,nascor,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
+robora,robvr,NOM3,Case=Acc|Numb=Plur
+cornu,cornv,NOM4,Case=Abl|Numb=Sing

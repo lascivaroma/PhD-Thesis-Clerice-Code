@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+furor,fvror,NOM3,Case=Nom|Numb=Sing
+baut,bavt,CONcoo,MORPH=empty
+dubius,dvbivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+manifesta,manifestvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+phrenesis,phrenesis,NOM1,Case=Abl|Numb=Plur

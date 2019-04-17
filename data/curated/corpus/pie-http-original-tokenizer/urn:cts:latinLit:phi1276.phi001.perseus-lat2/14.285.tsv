@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+manibus,manvs,NOM4,Case=Abl|Numb=Plur
+uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
+Eumenidum,evmenides,NOM3,Case=Gen|Numb=Plur
+ferretur,fero,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+igni,ignis,NOM3,Case=Abl|Numb=Sing

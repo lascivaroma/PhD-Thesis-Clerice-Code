@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ardet,ardeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adhuc,adhvc,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+iam,iam,ADV,Deg=Pos
+accurrit,accvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+marmora,marmor,NOM3,Case=Acc|Numb=Plur
+donet,dono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

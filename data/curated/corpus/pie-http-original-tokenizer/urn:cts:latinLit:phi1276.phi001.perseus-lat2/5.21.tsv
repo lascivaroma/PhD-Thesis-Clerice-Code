@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tota,totvs,PROind,Case=Nom|Numb=Sing
+salutatrix,salvtatrix,NOM3,Case=Nom|Numb=Sing
+iam,iam,ADV,Deg=Pos
+turba,tvrba,NOM1,Case=Nom|Numb=Sing
+peregerit,perago,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+orbem,orbis,NOM3,Case=Acc|Numb=Sing

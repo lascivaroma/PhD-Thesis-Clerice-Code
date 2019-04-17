@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fictilis,fictilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing
+uiolatus,violo,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+Iuppiter,ivppiter,NOM3,Case=Nom|Numb=Sing
+auro,avrvm,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Abl|Numb=Plur

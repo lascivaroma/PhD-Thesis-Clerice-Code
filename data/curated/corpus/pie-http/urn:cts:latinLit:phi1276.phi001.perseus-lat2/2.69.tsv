@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+damnetur,damno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+si,si,CONsub,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+etiam,etiam,ADV,Deg=Pos
+Carfinia,carfinia,NOM1,Case=Nom|Numb=Sing
+talem,talis,PROdem,Case=Acc|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+quippe,qvippe,CONcoo,Deg=Pos
+indignatur,indignor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+ueteri,vetvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+parere,pareo,VER,Mood=Inf|Tense=Pres|Voice=Act
+clienti,cliens,NOM3,Case=Dat|Numb=Sing

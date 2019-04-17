@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hic,hic,ADV,Case=Nom|Deg=Pos
+ubi,vbi,CONsub,MORPH=empty
+nocturnae,noctvrnvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+Numa,nvma,NOM1,Case=Nom|Numb=Sing
+constituebat,constitvo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+amicae,amica,NOM1,Case=Gen|Numb=Sing

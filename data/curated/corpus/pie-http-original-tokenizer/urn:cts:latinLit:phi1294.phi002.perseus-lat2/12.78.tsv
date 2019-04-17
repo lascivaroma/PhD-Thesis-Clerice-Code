@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Nil,nil,NOM3,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+scripsi,scribo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+Bithynice,bithynice,NOM2,Case=Voc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Credere,credo,VER,Mood=Inf|Tense=Pres|Voice=Act
+non,non,ADVneg,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Et,et,CONcoo,MORPH=empty
+iurare,ivro,VER,Mood=Inf|Tense=Pres|Voice=Act
+iubes,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Malo,malvs,NOM2,Case=Dat|Numb=Sing
+satis,satis,ADJqua,Deg=Pos
+facere,facio,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+turribus,tvrris,NOM3,Case=Abl|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+una,vnvs,ADJcar,Case=Abl|Numb=Sing
+portarum,porta,NOM1,Case=Gen|Numb=Plur
+claue,clavis,NOM3,Case=Abl|Numb=Sing
+teneri,teneo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

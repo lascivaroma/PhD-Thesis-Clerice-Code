@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+scrofa,scrofa,NOM1,Case=Nom|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+laetis,laetvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+Phrygibus,phryges,NOM3,Case=Dat|Numb=Plur
+mirabile,mirabilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+sumen,svmen,NOM3,Case=Acc|Numb=Sing

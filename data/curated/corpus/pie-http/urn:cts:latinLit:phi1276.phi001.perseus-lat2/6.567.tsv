@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+efferat,effero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+patruos,patrvvs,NOM2,Case=Acc|Numb=Plur
+an,an,ADVint,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uicturus,vivo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+adulter,advlter,NOM2,Case=Nom|Numb=Sing

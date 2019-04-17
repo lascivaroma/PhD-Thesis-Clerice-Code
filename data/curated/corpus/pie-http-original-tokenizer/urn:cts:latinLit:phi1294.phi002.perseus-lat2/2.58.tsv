@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Pexatus,pexatvs,NOM2,Case=Nom|Numb=Sing
+pulchre,pvlchre,ADV,Deg=Pos
+rides,rideo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+mea,mevs,PROpos,Case=Abl|Numb=Sing
+Zoile,zoilvs,NOM7,Case=Voc|Numb=Sing
+trita,tero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Plur
+trita,tero,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+quidem,qvidem,ADV,Deg=Pos
+Zoile,zoilvs,NOM2,Case=Nom|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+mea,mevs,PROpos,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvinqvaginta,ADJcar,Case=Nom|Numb=Plur

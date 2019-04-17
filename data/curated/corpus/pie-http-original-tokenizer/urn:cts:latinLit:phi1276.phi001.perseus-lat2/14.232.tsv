@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+te,tv,PROper,Case=Abl|Numb=Sing
+contempto,contemno,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+rapitur,rapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+metisque,metisqve,CONcoo,MORPH=empty
+relictis,relinqvo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+.,vnvs,ADJcar,Case=Dat|Numb=Plur

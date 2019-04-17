@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+spirantisque,spiro,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+crocos,crocvs,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+urna,vrna,NOM1,Case=Abl|Numb=Sing
+perpetuum,perpetvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+uer,ver,NOM3,Case=Acc|Numb=Sing

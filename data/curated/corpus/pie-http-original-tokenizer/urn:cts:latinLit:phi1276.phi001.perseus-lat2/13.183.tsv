@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quantulacumque,qvantvlvscvmqve,PROrel,Case=Nom|Numb=Sing
+adeo,adeo,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+occasio,occasio,NOM3,Case=Nom|Numb=Sing
+sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+irae,ira,NOM1,Case=Dat|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

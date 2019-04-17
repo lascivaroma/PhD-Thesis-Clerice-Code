@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+circumagat,circvmago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+madidas,madidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+a,ab,PRE,MORPH=empty
+tempestate,tempestas,NOM3,Case=Abl|Numb=Sing
+cohortes,cohors,NOM3,Case=Acc|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

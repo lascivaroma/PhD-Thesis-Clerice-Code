@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nummus,nvmvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+e,ex,PRE,MORPH=empty
+pleno,plenvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tollatur,tollo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+semper,semper,ADV,Deg=Pos
+aceruo,acervvs,NOM2,Case=Dat|Numb=Sing

@@ -1,0 +1,5 @@
+form,lemma,pos,morph
+incipiunt,incipio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+torquere,torqveo,VER,Mood=Inf|Tense=Pres|Voice=Act
+domestica,domesticvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+seditioni,seditio,NOM3,Case=Dat|Numb=Sing

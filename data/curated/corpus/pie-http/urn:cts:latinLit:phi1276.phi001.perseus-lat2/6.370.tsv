@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inguina,ingven,NOM3,Case=Nom|Numb=Plur
+traduntur,trado,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+medicis,medicvs,NOM2,Case=Abl|Numb=Plur
+iam,iam,ADV,Deg=Pos
+pectine,pecten,NOM3,Case=Abl|Numb=Sing
+nigro,niger,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+illic,illic,ADV,Deg=Pos
+heu,hev,INJ,MORPH=empty
+miseri,miser,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+traducimur,tradvco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+arma,arma,NOM2,Case=Nom|Numb=Plur
+quidem,qvidem,ADV,Deg=Pos
+ultra,vltra,ADV,Deg=Pos

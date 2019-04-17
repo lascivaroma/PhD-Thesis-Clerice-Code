@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+indulsit,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Caesar,caesar,NOM3,Case=Nom|Numb=Sing
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+Claudius,clavdivs,NOM2,Case=Nom|Numb=Sing
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+cuius,qvi,PROrel,Case=Gen|Numb=Sing

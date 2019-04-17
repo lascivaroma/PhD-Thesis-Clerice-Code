@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Ex,ex,NOM3,Case=Nom|Numb=Sing
+quo,qvi,PROrel,Numb=Sing
+Deucalion,devcalion,NOM7,Case=Nom|Numb=Sing
+nimbis,nimbvs,NOM2,Case=Abl|Numb=Plur
+tollentibus,tollo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+aequor,aeqvor,NOM3,Case=Nom|Numb=Sing

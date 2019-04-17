@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+magnae,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+mentis,mens,NOM3,Case=Gen|Numb=Sing
+opus,opvs,NOM3,Case=Nom
+nec,nec,CONcoo,MORPH=empty
+de,de,PRE,MORPH=empty
+lodice,lodix,NOM3,Case=Abl|Numb=Sing
+paranda,paro,VER,Case=Abl|Numb=Sing|Mood=Adj|Voice=Pass

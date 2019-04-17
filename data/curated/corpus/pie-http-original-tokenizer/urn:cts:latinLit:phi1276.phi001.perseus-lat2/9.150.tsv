@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+Siculos,sicvli,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+cantus,cantvs,NOM4,Case=Acc|Numb=Plur
+effugit,effvgio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+remige,remex,NOM3,Case=Abl|Numb=Sing
+surdo,svrdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

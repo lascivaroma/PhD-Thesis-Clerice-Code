@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cogitur,cogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+in,in,PRE,MORPH=empty
+frontem,frons,NOM3,Case=Acc|Numb=Sing
+uelut,velvt,ADVrel,MORPH=empty
+acri,acer,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+ducta,dvco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Falerno,falernvm,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Sing

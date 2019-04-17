@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Tristis,tristis,NOM3,Case=Nom|Numb=Sing
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Gen|Numb=Sing
+Sciat,scio,NOM7,Numb=Sing|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+Fortuna,fortvna,NOM1,Case=Nom|Numb=Sing
+caueto,caveo,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2
+Ingratum,ingrates,NOM3,Case=Acc|Numb=Plur
+dicet,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+te,tv,PROper,Case=Acc|Numb=Sing
+Lupe,lvpes,NOM3,Case=Voc|Numb=Sing
+si,si,CONsub,MORPH=empty
+scierit,scio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

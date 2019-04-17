@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Crine,crinvs,NOM7,Case=Voc|Numb=Sing
+ruber,rvber,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+niger,niger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ore,os,NOM3,Case=Abl|Numb=Sing
+breuis,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+pede,pes,NOM3,Case=Abl|Numb=Sing
+lumine,lvmen,NOM3,Case=Abl|Numb=Sing
+laesus,laedo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Rem,res,NOM3,Case=Acc|Numb=Sing
+magnam,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+praestas,praesto,VER,Numb=Sing|Tense=Pres|Voice=Act|Person=2
+Zoile,zoilvs,NOM2,Case=Voc|Numb=Sing
+si,si,CONsub,MORPH=empty
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

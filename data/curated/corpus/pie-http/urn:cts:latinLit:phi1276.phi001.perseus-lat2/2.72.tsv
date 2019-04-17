@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+en,en,INJ,MORPH=empty
+habitum,habitvs,NOM4,Case=Acc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+quo,qvo,ADVint,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+leges,lex,NOM3,Case=Acc|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+iura,ivs,NOM3,Case=Acc|Numb=Plur
+ferentem,fero,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

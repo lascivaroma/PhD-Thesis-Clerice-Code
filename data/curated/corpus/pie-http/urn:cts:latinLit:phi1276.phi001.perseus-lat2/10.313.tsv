@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+lex,lex,NOM3,Case=Nom|Numb=Sing
+irae,ira,NOM1,Case=Gen|Numb=Sing
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+felicior,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+astro,astrvm,NOM2,Case=Abl|Numb=Sing

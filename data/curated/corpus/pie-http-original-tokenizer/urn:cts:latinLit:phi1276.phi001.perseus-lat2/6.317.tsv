@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+maenades,maenas,NOM3,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+o,o,INJ,MORPH=empty
+quantus,qvantvs,PROint,Case=Nom|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+illis,ille,PROdem,Case=Dat|Numb=Plur
+mentibus,mens,NOM3,Case=Abl|Numb=Plur
+ardor,ardor,NOM3,Case=Nom|Numb=Sing

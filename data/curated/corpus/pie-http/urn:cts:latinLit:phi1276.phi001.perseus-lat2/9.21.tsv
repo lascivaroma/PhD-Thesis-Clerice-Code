@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+propositum,propositvm,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+uitae,vita,NOM1,Case=Gen|Numb=Sing
+contrarius,contrarivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ire,eo,VER,Mood=Inf|Tense=Pres|Voice=Act
+priori,prior,ADJord,Case=Dat|Numb=Sing|Deg=Comp
+.,pentvm,ADJcar,Case=Dat|Numb=Plur

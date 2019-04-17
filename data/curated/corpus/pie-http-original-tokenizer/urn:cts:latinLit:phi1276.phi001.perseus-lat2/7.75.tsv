@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Quintillae,qvintilla,NOM1,Case=Gen|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+donet,dono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+defuit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+illi,ille,PROdem,Case=Dat|Numb=Sing

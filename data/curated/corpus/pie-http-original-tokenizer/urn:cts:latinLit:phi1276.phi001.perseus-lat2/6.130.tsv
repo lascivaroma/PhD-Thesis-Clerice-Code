@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+lassata,lasso,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+uiris,vir,NOM2,Case=Dat|Numb=Plur
+necdum,necdvm,ADVneg,MORPH=empty
+satiata,satio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+recessit,recedo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

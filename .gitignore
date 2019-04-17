@@ -1,3 +1,4 @@
+*.wv
 # Corpus data
 data/raw/**/*
 data/curated/corpus/generic

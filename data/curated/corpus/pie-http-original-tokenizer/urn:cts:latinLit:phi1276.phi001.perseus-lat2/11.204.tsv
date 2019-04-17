@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+effugiatque,effvgio,VER,Mood=Imp|Tense=Pres|Voice=Act|Person=3
+togam,toga,NOM1,Case=Acc|Numb=Sing
+iam,iam,ADV,Deg=Pos
+nunc,nvnc,ADV,Deg=Pos
+in,in,PRE,MORPH=empty
+balnea,balinevm,NOM2,Case=Acc|Numb=Plur
+salua,salvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

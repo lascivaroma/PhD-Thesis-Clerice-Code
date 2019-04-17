@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+porthmea,porthmevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+sperat,spero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+caenosi,caenosvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+gurgitis,gvrges,NOM3,Case=Gen|Numb=Sing
+alnum,alnvs,NOM2,Case=Acc|Numb=Sing

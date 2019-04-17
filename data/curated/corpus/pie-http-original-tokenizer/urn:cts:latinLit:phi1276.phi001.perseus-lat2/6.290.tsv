@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uexatae,vexo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+duraeque,dvra,ADV,Deg=Pos
+manus,manvs,NOM4,Case=Nom|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+proximus,propior,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+urbi,vrbs,NOM3,Case=Dat|Numb=Sing

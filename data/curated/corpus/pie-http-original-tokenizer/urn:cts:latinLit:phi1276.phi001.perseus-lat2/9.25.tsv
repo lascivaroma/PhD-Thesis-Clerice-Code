@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+notior,notvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+Aufidio,avfidivs,NOM2,Case=Dat|Numb=Sing
+moechus,moechvs,NOM2,Case=Nom|Numb=Sing
+celebrare,celebro,VER,Mood=Inf|Tense=Pres|Voice=Act
+solebas,soleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=2

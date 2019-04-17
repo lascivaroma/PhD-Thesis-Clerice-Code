@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty
+pro,pro,PRE,MORPH=empty
+totis,totvs,PROind,Case=Abl|Numb=Plur
+legionibus,legio,NOM3,Case=Abl|Numb=Plur
+hi,hic,PROdem,Case=Nom|Numb=Plur
+tamen,tamen,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+pro,pro,PRE,MORPH=empty

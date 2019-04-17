@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Cecropiam,cecropia,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+soliti,soleo,ADJqua,Case=Nom|Numb=Plur|Deg=Pos|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
+Baptae,bapta,NOM1,Case=Dat|Numb=Sing
+lassare,lasso,VER,Mood=Inf|Tense=Pres|Voice=Act
+Cotyto,cotytvs,NOM2,Case=Dat|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Nom|Numb=Plur
+ibi,ibi,ADV,Deg=Pos
+si,si,CONsub,MORPH=empty
+non,non,ADVneg,MORPH=empty
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+exstat,exsto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sacrilegus,sacrilegvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Sing

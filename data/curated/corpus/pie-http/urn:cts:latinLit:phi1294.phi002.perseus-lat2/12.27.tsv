@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Poto,poto,NOM2,Case=Abl|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+sextantes,sextor,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+tu,tv,PROper,Case=Nom|Numb=Sing
+potas,poto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Cinna,cinna,NOM1,Case=Voc|Numb=Sing
+deunces,devncio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Et,et,CONcoo,MORPH=empty
+quereris,qveror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+quod,qvi,PROrel,Case=Acc
+non,non,ADVneg,MORPH=empty
+Cinna,cinna,NOM1,Case=Nom|Numb=Sing
+bibamus,bibo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+idem,idem,PROdem,Case=Nom|Numb=Sing

@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+plebeium,plebeivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+circo,circvs,NOM2,Case=Abl|Numb=Sing
+positum,pono,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+aggere,agger,NOM3,Case=Abl|Numb=Sing
+fatum,fatvm,NOM2,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty

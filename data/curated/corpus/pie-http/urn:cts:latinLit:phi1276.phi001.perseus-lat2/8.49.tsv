@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nobilis,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+indocti,indoctvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+;,o,INJ,MORPH=empty
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+de,de,PRE,MORPH=empty
+plebe,plebs,NOM6,Case=Abl|Numb=Sing
+togata,togatvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

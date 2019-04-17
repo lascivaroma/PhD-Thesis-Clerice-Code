@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dicitur,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+poenas,poena,NOM1,Case=Acc|Numb=Plur
+alieni,alienvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+pendere,pendeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+somni,somnvs,NOM2,Case=Gen|Numb=Sing

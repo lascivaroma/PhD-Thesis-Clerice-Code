@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tot,tot,PROdem,Case=Ind
+premit,premo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ordinibus,ordo,NOM3,Case=Abl|Numb=Plur
+tot,tot,PROdem,Case=Ind
+adhuc,adhvc,ADV,Deg=Pos
+conpagibus,compages,NOM3,Case=Abl|Numb=Plur
+altum,altvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

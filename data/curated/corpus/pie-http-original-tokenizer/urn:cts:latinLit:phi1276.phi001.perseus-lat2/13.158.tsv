@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+usque,vsqve,ADV,Deg=Pos
+a,ab,PRE,MORPH=empty
+lucifero,lvcifer,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+donec,donec,CONsub,MORPH=empty
+lux,lvx,NOM3,Case=Nom|Numb=Sing
+occidat,occido,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+audit,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+feruens,ferveo,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cauet,caveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+coccina,coccinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+laena,laena,NOM1,Case=Abl|Numb=Sing

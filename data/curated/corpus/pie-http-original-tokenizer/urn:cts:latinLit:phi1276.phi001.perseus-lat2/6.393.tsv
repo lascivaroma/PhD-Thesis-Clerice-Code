@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+mihi,ego,PROper,Case=Dat|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+quaeso,qvaeso,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+die,dies,NOM5,Case=Abl|Numb=Sing
+antiquissime,antiqve,ADV,Case=Voc|Deg=Sup
+diuom,divvs,NOM2,Case=Gen|Numb=Plur

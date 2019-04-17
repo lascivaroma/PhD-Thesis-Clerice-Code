@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+depositum,depositvm,VER,Case=Acc|Numb=Sing|Tense=Perf|Voice=Pass
+retinere,retineo,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+fraudem,fravs,NOM3,Case=Acc|Numb=Sing
+iure,ivre,NOM3,Case=Abl
+tueri,tveor,VER,Mood=Inf|Tense=Pres|Voice=Dep

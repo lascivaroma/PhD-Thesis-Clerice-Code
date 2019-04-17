@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Flaminiam,flaminivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+puer,pver,NOM2,Case=Nom|Numb=Sing
+Automedon,avtomedon,NOM7,Case=Nom|Numb=Sing
+nam,nam,CONcoo,MORPH=empty
+lora,lorvm,NOM2,Case=Acc|Numb=Plur
+tenebat,teneo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

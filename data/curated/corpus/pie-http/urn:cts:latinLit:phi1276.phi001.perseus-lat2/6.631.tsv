@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+liuida,lividvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+materno,maternvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+feruent,ferveo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adipata,adipatvs,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Dep
+ueneno,venenvm,NOM2,Case=Abl|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

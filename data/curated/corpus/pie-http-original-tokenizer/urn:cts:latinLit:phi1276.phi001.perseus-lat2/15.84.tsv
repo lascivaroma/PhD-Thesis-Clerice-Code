@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Hic,hic,NOM7,Case=Nom|Numb=Sing
+gaudere,gavdeo,VER,Mood=Inf|Tense=Pres|Voice=SemDep
+libet,libet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+uiolauerit,violo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+ignem,ignis,NOM3,Case=Acc|Numb=Sing

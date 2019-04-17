@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Tam,tam,ADV,Case=Acc
+saepe,saepe,ADV,Deg=Pos
+nostrum,noster,PROpos,Case=Gen|Numb=Sing
+decipi,decipio,VER,Mood=Inf|Tense=Pres|Voice=Pass
+Fabullinum,fabvllinvs,NOM2,Case=Acc|Numb=Sing|Deg=Pos
+Miraris,miraris,NOM3,Case=Gen|Numb=Sing
+Aule,avlvs,NOM2,Case=Voc|Numb=Sing
+semper,semper,ADV,Deg=Pos
+homo,homo,NOM3,Case=Nom|Numb=Sing
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tiro,tiro,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

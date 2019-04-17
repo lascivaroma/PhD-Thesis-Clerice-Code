@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iustitia,ivstitia,NOM1,Case=Nom|Numb=Sing
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+Crispi,crispvs,NOM2,Case=Gen|Numb=Sing
+iucunda,ivcvndvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+senectus,senectvs,NOM3,Case=Nom|Numb=Sing

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+uetet,veto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+iam,iam,ADV,Deg=Pos
+iam,iam,ADV,Deg=Pos
+priuignum,privignvs,NOM2,Case=Acc|Numb=Sing
+occidere,occido,VER,Mood=Inf|Tense=Pres|Voice=Act
+fas,fas,NOM6,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

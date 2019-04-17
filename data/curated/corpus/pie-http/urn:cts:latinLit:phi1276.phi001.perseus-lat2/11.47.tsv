@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+coram,coram,PRE,MORPH=empty
+dominis,dominvs,NOM2,Case=Abl|Numb=Plur
+consumitur,consvmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+;,o,INJ,MORPH=empty
+inde,inde,ADV,Deg=Pos
+ubi,vbi,ADVrel,MORPH=empty
+paulum,pavlvm,ADJqua,Numb=Sing|Deg=Pos

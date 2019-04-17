@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uulnere,vvlnvs,NOM3,Case=Abl|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+Graccho,gracchvs,NOM2,Case=Abl|Numb=Sing
+iussus,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+pugnare,pvgno,VER,Mood=Inf|Tense=Pres|Voice=Act
+secutor,secvtor,NOM3,Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+N,nonvs,ADJcar,Case=Ind

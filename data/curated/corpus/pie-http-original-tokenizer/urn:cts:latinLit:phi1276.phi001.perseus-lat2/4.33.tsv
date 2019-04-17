@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uendere,vendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+municipes,mvniceps,NOM3,Case=Acc|Numb=Plur
+fracta,frango,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+de,de,PRE,MORPH=empty
+merce,merx,NOM3,Case=Abl|Numb=Sing
+siluros,silvrvs,NOM2,Case=Acc|Numb=Plur

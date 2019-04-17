@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+miles,miles,NOM3,Case=Nom|Numb=Sing
+tutor,tvtor,NOM3,Case=Nom|Numb=Sing
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+arbiter,arbiter,NOM2,Case=Nom|Numb=Sing
+idem,idem,PROdem,Case=Nom|Numb=Sing

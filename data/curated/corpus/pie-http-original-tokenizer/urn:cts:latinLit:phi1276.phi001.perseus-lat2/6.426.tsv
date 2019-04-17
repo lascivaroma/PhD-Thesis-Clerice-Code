@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+oenophorum,oenophorvm,NOM2,Case=Acc|Numb=Sing
+sitiens,sitio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+plena,plenvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quod,qvod,CONsub,MORPH=empty
+tenditur,tendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+urna,vrna,NOM1,Case=Nom|Numb=Sing

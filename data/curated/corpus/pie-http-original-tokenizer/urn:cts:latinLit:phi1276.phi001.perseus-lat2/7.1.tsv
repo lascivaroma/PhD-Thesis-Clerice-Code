@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Et,et,CONcoo,MORPH=empty
+spes,spes,NOM5,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ratio,ratio,NOM3,Case=Nom|Numb=Sing
+studiorum,stvdivm,NOM2,Case=Gen|Numb=Plur
+in,in,PRE,MORPH=empty
+Caesare,caesar,NOM3,Case=Abl|Numb=Sing
+tantum,tantvm,PROdem,Deg=Pos
+;,o,PRE,MORPH=empty

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uendit,vendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+acersccomes,acerscecomes,NOM7,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+nullum,nvllvs,PROind,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+coniuge,conivx,NOM3,Case=Abl|Numb=Sing
+crimen,crimen,NOM3,Case=Nom|Numb=Sing

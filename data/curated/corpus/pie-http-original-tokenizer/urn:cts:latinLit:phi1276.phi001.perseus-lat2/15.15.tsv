@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Alcinoo,alcinovs,NOM2,Case=Dat|Numb=Sing
+bilem,bilis,NOM3,Case=Acc|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+risum,risvs,NOM4,Case=Acc|Numb=Sing
+fortasse,fortasse,ADV,Deg=Pos
+quibusdam,qvidam,PROind,Case=Abl|Numb=Plur

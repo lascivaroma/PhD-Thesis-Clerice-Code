@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+prouehit,proveho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+pulchro,pvlcher,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+reddit,reddo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sua,svvs,PROpos.ref,Case=Acc|Numb=Plur
+dona,donvm,NOM2,Case=Acc|Numb=Plur
+labori,labor,NOM3,Case=Dat|Numb=Sing

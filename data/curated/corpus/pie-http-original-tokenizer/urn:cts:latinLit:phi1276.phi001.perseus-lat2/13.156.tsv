@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+clauditur,clavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+aduersis,adversvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+innoxia,innoxivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+simia,simia,NOM2,Case=Nom|Numb=Plur
+fatis,fatvm,NOM2,Case=Abl|Numb=Plur

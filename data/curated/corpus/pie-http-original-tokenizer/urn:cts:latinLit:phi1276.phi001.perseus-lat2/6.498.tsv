@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+emerita,emereor,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+cessat,cesso,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+acu,acvs,NOM4,Case=Abl|Numb=Sing
+;,ob,PRE,MORPH=empty
+sententia,sententia,NOM1,Case=Abl|Numb=Sing
+prima,primvs,ADJord,Case=Abl|Numb=Sing|Deg=Sup

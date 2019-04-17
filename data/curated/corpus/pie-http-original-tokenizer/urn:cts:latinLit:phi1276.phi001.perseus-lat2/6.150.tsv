@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pastores,pastor,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+ouem,ovis,NOM3,Case=Acc|Numb=Sing
+Canusinam,canvsinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ulmosque,vlmvsqve,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Falernas,falernvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+;,o,PRE,MORPH=empty

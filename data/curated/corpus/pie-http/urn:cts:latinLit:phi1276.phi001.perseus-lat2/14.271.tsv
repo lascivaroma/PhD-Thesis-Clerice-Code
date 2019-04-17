@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+passum,patior,NOM4,Case=Acc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep
+et,et,CONcoo,MORPH=empty
+municipes,mvniceps,NOM3,Case=Acc|Numb=Plur
+Iouis,ivppiter,NOM3,Case=Gen|Numb=Sing
+aduexisse,adveho,VER,Mood=Inf|Tense=Perf|Voice=Act
+lagonas,lagena,NOM1,Case=Acc|Numb=Plur

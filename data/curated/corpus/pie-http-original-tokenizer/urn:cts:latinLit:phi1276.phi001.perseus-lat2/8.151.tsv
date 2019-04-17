@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+fuerit,svm,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+clara,clarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Lateranus,lateranvs,NOM2,Case=Nom|Numb=Sing
+luce,lvx,NOM3,Case=Abl|Numb=Sing
+flagellum,flagellvm,NOM2,Case=Acc|Numb=Sing

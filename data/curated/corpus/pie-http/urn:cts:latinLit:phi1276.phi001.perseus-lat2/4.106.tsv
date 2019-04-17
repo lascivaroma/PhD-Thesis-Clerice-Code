@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+inprobior,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+saturam,satvra,NOM1,Case=Acc|Numb=Sing
+scribente,scribo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+cinaedo,cinaedvs,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

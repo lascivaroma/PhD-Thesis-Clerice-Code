@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+egregium,egregivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sanctum,sancio,ADJqua,Case=Acc|Numb=Sing|Deg=Pos|Voice=Pass
+-que,qvovs,ADV,MORPH=empty
+uirum,vir,NOM2,Case=Acc|Numb=Sing
+si,si,CONsub,MORPH=empty
+cerno,cerno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+bimembri,bimembrvs,NOM2,Case=Gen|Numb=Sing

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quamuis,qvamvis,CONsub,MORPH=empty
+rarum,rarvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tamen,tamen,ADV,Deg=Pos
+inputat,impvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+ergo,ergo,CONcoo,MORPH=empty
+duos,dvo,ADJcar,Case=Acc|Numb=Plur
+post,post,ADV,MORPH=empty

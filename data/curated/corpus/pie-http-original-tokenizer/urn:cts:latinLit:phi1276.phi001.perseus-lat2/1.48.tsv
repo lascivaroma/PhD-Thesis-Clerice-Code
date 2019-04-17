@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iudicio,ivdicivm,NOM2,Case=Abl|Numb=Sing
+quid,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+saluis,salvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+infamia,infamia,NOM1,Case=Nom|Numb=Sing
+nummis,nvmvs,NOM2,Case=Abl|Numb=Plur

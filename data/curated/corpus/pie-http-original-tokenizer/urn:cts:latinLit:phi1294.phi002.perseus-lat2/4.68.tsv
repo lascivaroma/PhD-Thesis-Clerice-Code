@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Inuitas,invitas,NOM1,Case=Acc|Numb=Plur
+centum,centvm,ADJcar,Case=Ind
+quadrantibus,qvadrans,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+bene,bene,ADV,Deg=Pos
+cenas,cena,NOM1,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Vt,vt,ADVint,Case=Ind
+cenem,ceno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+inuitor,invito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
+Sexte,sextvs,NOM2,Case=Voc|Numb=Sing
+an,an,ADVint,MORPH=empty
+ut,vt,CONsub,MORPH=empty
+inuideam,invideo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+aliter,aliter,ADV,Deg=Pos
+quam,qvam,ADVrel,MORPH=empty
+si,si,CONsub,MORPH=empty
+fecisset,facio,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
+Iuno,ivno,NOM3,Case=Nom|Numb=Sing
+maritum,maritvs,NOM2,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+proelia,proelivm,NOM2,Case=Acc|Numb=Plur
+uel,vel,CONcoo,MORPH=empty
+Pyrrhum,pyrrhvs,NOM2,Case=Acc|Numb=Sing
+inmanem,immanis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+gladios,gladivs,NOM2,Case=Acc|Numb=Plur
+-que,qvove,ADV,MORPH=empty
+Molossos,molossvs,NOM2,Case=Acc|Numb=Plur

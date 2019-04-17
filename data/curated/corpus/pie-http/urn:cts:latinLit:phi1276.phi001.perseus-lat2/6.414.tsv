@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uicinos,vicinvs,NOM2,Case=Acc|Numb=Plur
+humiles,hvmilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+rapere,rapio,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+concidere,concido,VER,Mood=Inf|Tense=Pres|Voice=Act
+loris,lorvm,NOM2,Case=Abl|Numb=Plur

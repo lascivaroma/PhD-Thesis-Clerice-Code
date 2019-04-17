@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Nom|Numb=Sing
+sitis,sitis,NOM3,Numb=Sing
+similes,similis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+pares,par,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+uita,vita,NOM1,Case=Abl|Numb=Sing
+Vxor,vxor,NOM3,Case=Nom|Numb=Sing
+pessima,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+pessimus,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+maritus,maritvs,NOM2,Case=Nom|Numb=Sing
+Miror,miror,NOM3,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+bene,bene,ADV,Deg=Pos
+conuenire,convenio,VER,Mood=Inf|Tense=Pres|Voice=Act
+uobis,vos,PROper,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

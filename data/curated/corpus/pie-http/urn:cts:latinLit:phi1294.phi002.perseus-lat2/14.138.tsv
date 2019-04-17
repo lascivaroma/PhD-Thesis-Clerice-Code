@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Tempore,tempvs,NOM3,Case=Abl|Numb=Sing
+brumali,brvmalis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+multum,mvltvm,ADV,Deg=Pos
+leuia,levis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+prosunt,prosvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Calfaciunt,calfacivs,NOM3,Case=Nom|Numb=Plur
+uilli,villvs,NOM2,Case=Gen|Numb=Sing
+pallia,pallivm,NOM2,Case=Nom|Numb=Plur
+uestra,vester,PROpos,Case=Nom|Numb=Plur
+mei,mevs,PROpos,Case=Gen|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

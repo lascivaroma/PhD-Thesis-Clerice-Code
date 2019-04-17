@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+participem,particeps,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+secreti,secretvs,NOM2,Case=Gen|Numb=Sing
+fecit,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+honesti,honestvm,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

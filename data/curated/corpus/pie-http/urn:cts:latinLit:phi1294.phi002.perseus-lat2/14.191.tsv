@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Hic,hic,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ut,vt,ADVrel,MORPH=empty
+perhibent,perhibeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+doctorum,doctvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+corda,cor,NOM3,Case=Nom|Numb=Plur
+uirorum,vir,NOM2,Case=Gen|Numb=Plur
+Primus,primvs,NOM2,Case=Nom|Numb=Sing
+Romana,romanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Crispus,crispvs,NOM2,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+historia,historia,NOM1,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

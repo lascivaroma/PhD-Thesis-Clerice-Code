@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+aliquem,aliqvis,PROind,Case=Acc|Numb=Sing
+si,si,CONsub,MORPH=empty
+audes,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=2
+hic,hic,PROdem,Case=Nom|Numb=Sing
+Quintiliane,qvintilianvs,NOM2,Case=Voc|Numb=Sing
+colorem,color,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

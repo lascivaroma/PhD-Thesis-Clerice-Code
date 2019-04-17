@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+desidia,desidia,NOM1,Case=Nom|Numb=Sing
+tardos,tardvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+frigore,frigvs,NOM3,Case=Abl|Numb=Sing
+pingues,pingvis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

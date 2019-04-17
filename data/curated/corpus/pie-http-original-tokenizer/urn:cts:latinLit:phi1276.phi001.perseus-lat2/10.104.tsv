@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Seianum,seianvs,NOM2,Case=Acc|Numb=Sing
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+nimios,nimivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+optabat,opto,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+honores,honor,NOM3,Case=Acc|Numb=Plur

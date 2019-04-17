@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+frontibus,frons,NOM3,Case=Dat|Numb=Plur
+et,et,CONcoo,MORPH=empty
+toto,totvs,PROind,Case=Abl|Numb=Sing
+posuere,pono,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+monilia,monile,ADJqua,Case=Nom|Numb=Plur
+collo,collvm,NOM2,Case=Abl|Numb=Sing

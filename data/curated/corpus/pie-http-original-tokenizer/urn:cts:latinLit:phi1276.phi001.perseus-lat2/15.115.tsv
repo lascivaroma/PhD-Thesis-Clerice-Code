@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tale,talis,PROdem,Case=Acc|Numb=Sing
+quid,qvis,PROint,Case=Acc|Numb=Sing
+excusat,excvso,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Maeotide,maeotis,NOM7,Case=Abl|Numb=Sing
+saeuior,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+ara,ara,NOM1,Case=Abl|Numb=Sing

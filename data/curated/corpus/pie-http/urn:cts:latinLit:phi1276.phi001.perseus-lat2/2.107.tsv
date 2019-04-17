@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+pressum,premo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+in,in,PRE,MORPH=empty
+faciem,facies,NOM5,Case=Acc|Numb=Sing
+digitis,digitvs,NOM2,Case=Abl|Numb=Plur
+extendere,extendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+panem,panis,NOM3,Case=Acc|Numb=Sing

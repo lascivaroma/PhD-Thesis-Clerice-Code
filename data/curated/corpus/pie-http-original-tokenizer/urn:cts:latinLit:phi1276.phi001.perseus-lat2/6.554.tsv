@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dixerit,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+astrologus,astrologvs,NOM2,Case=Nom|Numb=Sing
+credent,credo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+fonte,fons,NOM3,Case=Abl|Numb=Sing
+relatum,refero,VER,Case=Acc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

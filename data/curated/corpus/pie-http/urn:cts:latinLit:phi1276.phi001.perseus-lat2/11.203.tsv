@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nostra,noster,PROpos,Case=Nom|Numb=Sing
+bibat,bibo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uernum,vernvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+contracta,contraho,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+cuticula,cvticvla,NOM1,Case=Abl|Numb=Sing
+solem,sol,NOM3,Case=Acc|Numb=Sing

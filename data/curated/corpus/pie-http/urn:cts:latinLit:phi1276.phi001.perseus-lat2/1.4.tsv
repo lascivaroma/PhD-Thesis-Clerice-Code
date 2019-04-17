@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hic,hic,PROdem,Case=Nom|Numb=Sing
+elegos,elegi,NOM2,Case=Acc|Numb=Plur
+inpune,impvne,ADV,Deg=Pos
+diem,dies,NOM5,Case=Acc|Numb=Sing
+consumpserit,consvmo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Est,sem,CONcoo,MORPH=empty
+pretium,pretivm,NOM2,Case=Nom|Numb=Sing
+curae,cvra,NOM1,Case=Gen|Numb=Sing
+penitus,penitvs,ADV,Deg=Pos
+cognoscere,cognosco,VER,Mood=Inf|Tense=Pres|Voice=Act
+toto,totvs,PROind,Case=Abl|Numb=Sing

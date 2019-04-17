@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+posteritas,posteritas,NOM3,Case=Nom|Numb=Sing
+eadem,idem,PROdem,Case=Nom|Numb=Plur
+facient,facio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+cupient,cvpio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+-que,qvove,CONcoo,MORPH=empty
+minores,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ridebat,rideo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+quotiens,qvotiens,ADVrel,MORPH=empty
+de,de,PRE,MORPH=empty
+limine,limen,NOM3,Case=Abl|Numb=Sing
+mouerat,moveo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+unum,vnvs,ADJcar,Case=Acc|Numb=Sing

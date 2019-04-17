@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+a,ab,PRE,MORPH=empty
+facie,facies,NOM5,Case=Abl|Numb=Sing
+iactare,iacto,VER,Mood=Inf|Tense=Pres|Voice=Act
+manus,manvs,NOM4,Case=Acc|Numb=Plur
+laudare,lavdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+paratus,paratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

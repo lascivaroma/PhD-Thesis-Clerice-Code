@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+fieri,fio,VER,Mood=Inf|Tense=Pres|Voice=Act
+non,non,ADVneg,MORPH=empty
+posse,possvm,VER,Mood=Inf|Tense=Pres|Voice=Act
+putes,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+si,si,CONsub,MORPH=empty
+iungitur,ivngo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ulla,vllvs,PROind,Case=Nom|Numb=Sing

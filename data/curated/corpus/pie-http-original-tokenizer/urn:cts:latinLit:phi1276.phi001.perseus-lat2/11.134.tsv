@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+ossea,ossevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur
+non,non,ADVneg,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+his,hic,PROdem,Case=Dat|Numb=Plur
+ulla,vllvs,PROind,Case=Nom|Numb=Plur
+umquam,vmqvam,ADV,Deg=Pos
+obsonia,obsonivm,NOM2,Case=Nom|Numb=Plur
+fiunt,fio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

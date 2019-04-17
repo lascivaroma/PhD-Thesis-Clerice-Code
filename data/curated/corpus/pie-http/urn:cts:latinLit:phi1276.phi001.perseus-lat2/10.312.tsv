@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+publicus,pvblicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+poenas,poena,NOM1,Case=Acc|Numb=Plur
+metuet,metvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+quascumque,qvicvmqve,PROrel,Case=Acc|Numb=Plur
+maritis,maritvs,NOM2,Case=Dat|Numb=Plur

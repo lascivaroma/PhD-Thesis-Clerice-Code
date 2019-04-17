@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+totos,totvs,PROind,Case=Acc|Numb=Plur
+pande,pando,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+sinus,sinvs,NOM4,Case=Acc|Numb=Plur
+dicas,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+hic,hic,PROdem,MORPH=empty
+forsitan,forsitan,ADV,Deg=Pos
+unde,vnde,ADVint,MORPH=empty

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+marmoreis,marmorevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+Serrano,serranvs,NOM2,Case=Dat|Numb=Sing
+tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvove,ADV,Deg=Pos
+Saleio,saleivs,NOM2,Case=Dat|Numb=Sing

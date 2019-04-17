@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+exigis,exigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+a,ab,PRE,MORPH=empty
+quoquam,qvisqvam,CONsub,Case=Abl|Numb=Sing
+ne,ne,CONsub,MORPH=empty
+peieret,peiero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+putet,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ullis,vllvs,PROind,Case=Abl|Numb=Plur

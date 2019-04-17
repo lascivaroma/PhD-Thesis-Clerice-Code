@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+INCIPE,invre,ADJcar,Case=Nom|Numb=Sing
+dimidium,dimidivm,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+facti,factvm,NOM2,Case=Gen|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+coepisse,coepio,VER,Mood=Inf|Tense=Perf|Voice=Act
+superfit,svpersvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+dimidium,dimidivm,NOM2,Case=Acc|Numb=Sing
+rursum,rvrsvs,ADV,Deg=Pos
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+incipe,incipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+efficies,efficio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+labente,labor,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
+officio,officivm,NOM2,Case=Abl|Numb=Sing
+crudis,crvdvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+donanda,dono,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+nec,nec,CONcoo,MORPH=empty
+illud,ille,PROdem,Case=Acc|Numb=Sing

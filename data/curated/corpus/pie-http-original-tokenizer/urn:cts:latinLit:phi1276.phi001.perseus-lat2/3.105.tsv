@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nocte,nocte,NOM3,Numb=Sing
+dieque,dieqve,ADV,Deg=Pos
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aliena,alienvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+sumere,svmo,VER,Mood=Inf|Tense=Pres|Voice=Act
+uultum,vvltvs,NOM4,Case=Acc|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+effugiat,effvgio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+-que,qvavis,ADV,MORPH=empty
+togam,toga,NOM1,Case=Acc|Numb=Sing
+iam,iam,ADV,Deg=Pos
+nunc,nvnc,ADV,Deg=Pos
+in,in,PRE,MORPH=empty
+balnea,balinevm,NOM2,Case=Acc|Numb=Plur
+salua,salvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

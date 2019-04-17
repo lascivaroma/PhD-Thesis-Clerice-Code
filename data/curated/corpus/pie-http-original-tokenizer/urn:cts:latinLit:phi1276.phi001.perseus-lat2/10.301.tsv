@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
+feruentem,ferveo,ADJqua,Case=Acc|Numb=Sing|Deg=Pos|Voice=Act
+tribuat,tribvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+natura,natvra,NOM1,Case=Nom|Numb=Sing
+benigna,benignvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

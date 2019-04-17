@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fiscus,fiscvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ad,ad,PRE,MORPH=empty
+uigilem,vigil,NOM3,Case=Acc|Numb=Sing|Deg=Pos
+ponendi,pono,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+Castora,castor,NOM1,Case=Acc|Numb=Plur
+nummi,nvmvs,NOM2,Case=Gen|Numb=Plur

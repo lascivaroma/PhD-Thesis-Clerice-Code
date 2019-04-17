@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+morborum,morbvs,NOM2,Case=Gen|Numb=Plur
+omne,omnis,PROind,Case=Acc|Numb=Sing
+genus,genvs,NOM3,Case=Acc|Numb=Sing
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+si,si,CONsub,MORPH=empty
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+quaeras,qvaero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

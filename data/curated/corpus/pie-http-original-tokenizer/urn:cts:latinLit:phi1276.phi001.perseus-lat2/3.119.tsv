@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Romano,romanvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+cuiquam,qvisqvam,PROind,Case=Dat|Numb=Sing
+locus,locvs,NOM2,Case=Nom|Numb=Sing
+hic,hic,PROdem,Case=Nom|Numb=Sing|Deg=Pos
+ubi,vbi,ADVrel,MORPH=empty
+regnat,regno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

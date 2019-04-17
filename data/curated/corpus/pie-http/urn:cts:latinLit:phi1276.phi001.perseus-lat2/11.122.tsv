@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+unguenta,vngventvm,NOM2,Case=Nom|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+rosae,rosa,NOM1,Case=Gen|Numb=Sing
+latos,latvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nisi,nisi,CONsub,MORPH=empty
+sustinet,svstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+orbes,orbis,NOM3,Case=Acc|Numb=Plur

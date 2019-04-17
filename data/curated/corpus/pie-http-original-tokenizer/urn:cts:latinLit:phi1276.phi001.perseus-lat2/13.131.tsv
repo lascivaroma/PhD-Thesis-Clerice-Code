@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+planguntur,plango,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+nummi,nvmvs,NOM2,Case=Nom|Numb=Plur
+quam,qvam,ADVrel,MORPH=empty
+funera,fvnvs,NOM3,Case=Acc|Numb=Plur
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+dolorem,dolor,NOM3,Case=Acc|Numb=Sing

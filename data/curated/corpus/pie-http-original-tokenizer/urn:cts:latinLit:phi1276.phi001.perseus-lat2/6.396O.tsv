@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+consilia,consilivm,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+ueteres,vetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+quaecumque,qvicvmqve,PROrel,Case=Nom|Numb=Plur
+monetis,monetvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Person=2
+amici,amicvs,NOM2,Case=Nom|Numb=Plur

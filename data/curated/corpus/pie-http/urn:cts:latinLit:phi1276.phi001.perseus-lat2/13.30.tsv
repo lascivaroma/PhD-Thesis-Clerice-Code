@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nomen,nomen,NOM3,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+a,ab,PRE,MORPH=empty
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing
+posuit,pono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+natura,natvra,NOM1,Case=Abl|Numb=Sing
+metallo,metallvm,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

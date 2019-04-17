@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Qualis,qvalis,NOM3,Case=Nom|Numb=Sing
+cena,cena,NOM1,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+uinum,vinvm,NOM2,Case=Acc|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+sucida,svcidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nolit,nolo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

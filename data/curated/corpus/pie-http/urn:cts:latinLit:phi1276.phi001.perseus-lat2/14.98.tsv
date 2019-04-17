@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+distare,disto,VER,Mood=Inf|Tense=Pres|Voice=Act
+putant,pvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+humana,hvmanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+carne,caro,NOM3,Case=Abl|Numb=Sing
+suillam,svillvs,ADJqua,Case=Acc|Numb=Sing

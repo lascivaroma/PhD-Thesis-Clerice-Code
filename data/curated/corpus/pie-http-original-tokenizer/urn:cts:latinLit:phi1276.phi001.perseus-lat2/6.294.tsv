@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nullum,nvllvs,PROind,Case=Nom|Numb=Sing
+crimen,crimen,NOM3,Case=Nom|Numb=Sing
+abest,absvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+facinusque,facinvsqve,ADV,Deg=Pos
+libidinis,libido,NOM3,Case=Gen|Numb=Sing
+ex,ex,PRE,MORPH=empty
+quo,qvi,PROrel,Case=Abl|Numb=Sing

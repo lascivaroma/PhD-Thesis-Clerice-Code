@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+quam,qvam,ADVint,MORPH=empty
+continuis,continvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+quantis,qvantvs,PROint,Case=Abl|Numb=Plur
+longa,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+senectus,senectvs,NOM3,Case=Nom|Numb=Sing

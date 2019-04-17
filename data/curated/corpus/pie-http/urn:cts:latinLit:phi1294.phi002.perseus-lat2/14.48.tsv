@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Haec,haec,NOM3,Case=Nom|Numb=Sing
+rapit,rapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Antaei,antaevs,NOM2,Case=Gen|Numb=Sing
+uelox,velox,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+puluere,pvlvis,NOM3,Case=Abl|Numb=Sing
+draucus,dravcvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Grandia,grandia,NOM1,Case=Nom|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uano,vanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+colla,collvm,NOM2,Case=Acc|Numb=Plur
+labore,labor,NOM3,Case=Abl|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

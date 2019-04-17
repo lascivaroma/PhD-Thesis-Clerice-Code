@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+igitur,igitvr,CONcoo,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+causidicis,cavsidicvs,NOM2,Case=Dat|Numb=Plur
+ciuilia,civilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+praestent,praesto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3

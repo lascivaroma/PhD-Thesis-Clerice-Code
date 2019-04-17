@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+eunuchum,evnvchvs,NOM2,Case=Acc|Numb=Sing
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cupiens,cvpio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+euadere,evado,VER,Mood=Inf|Tense=Pres|Voice=Act
+damno,damnvm,NOM2,Case=Abl|Numb=Sing

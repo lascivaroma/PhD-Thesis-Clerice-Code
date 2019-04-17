@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uendunt,vendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing
+cogente,cogo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Nerone,nero,NOM3,Case=Abl|Numb=Sing

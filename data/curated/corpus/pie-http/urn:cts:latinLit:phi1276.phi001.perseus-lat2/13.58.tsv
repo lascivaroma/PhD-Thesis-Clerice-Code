@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tam,tam,ADV,Deg=Pos
+uenerabile,venerabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+praecedere,praecedo,VER,Mood=Inf|Tense=Pres|Voice=Act
+quattuor,qvatvor,ADJcar,Case=Ind
+annis,annvs,NOM2,Case=Abl|Numb=Plur

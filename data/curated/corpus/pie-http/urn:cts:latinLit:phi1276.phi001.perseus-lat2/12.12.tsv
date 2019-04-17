@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+mole,moles,NOM3,Case=Abl|Numb=Sing
+piger,piger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+finitima,finitimvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+nutritus,nvtrio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+in,in,PRE,MORPH=empty
+herba,herba,NOM1,Case=Abl|Numb=Sing

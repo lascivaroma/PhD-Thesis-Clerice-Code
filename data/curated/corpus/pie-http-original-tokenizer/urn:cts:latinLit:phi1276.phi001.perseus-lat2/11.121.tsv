@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+rhombus,rhombos,NOM2,Case=Nom|Numb=Sing
+nil,nihil,PROind,Case=Ind
+damma,dama,NOM1,Case=Nom|Numb=Sing
+sapit,sapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+putere,pvteo,VER,Mood=Inf|Tense=Pres|Voice=Act
+uidentur,video,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

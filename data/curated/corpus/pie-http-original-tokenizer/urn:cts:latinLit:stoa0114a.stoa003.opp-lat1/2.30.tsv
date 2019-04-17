@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Et,et,CONcoo,MORPH=empty
+fictus,fingo,VER,Case=Nom|Numb=Sing
+rigidam,rigidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+seruat,servo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Venus,venvs,NOM3,Case=Nom|Numb=Sing
+inproba,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mentem,mens,NOM3,Case=Acc|Numb=Sing
+I,vnvs,ADJcar,Case=Acc|Numb=Sing
+Taurus,tavrvs,NOM2,Case=Nom|Numb=Sing
+ut,vt,CONsub,MORPH=empty
+admotis,admoveo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+suspendat,svspendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+rostra,rostrvm,NOM2,Case=Acc|Numb=Plur
+labellis,labellvm,NOM2,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

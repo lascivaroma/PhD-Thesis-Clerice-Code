@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+dubie,dvbie,ADV,Deg=Pos
+tamquam,tamqvam,CONsub,MORPH=empty
+frugi,frvgi,ADJqua,Case=Ind|Deg=Pos
+laudetur,lavdo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+auarus,avarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

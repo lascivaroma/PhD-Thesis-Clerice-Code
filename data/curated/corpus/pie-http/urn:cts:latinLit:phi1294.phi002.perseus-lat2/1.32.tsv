@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Non,non,ADVint,MORPH=empty
+amo,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+te,tv,PROper,Case=Acc|Numb=Sing
+Sabidi,sabidvs,NOM2,Case=Voc|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+possum,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+quare,qvare,ADVint,MORPH=empty
+Hoc,hoc,NOM3,Case=Nom|Numb=Sing
+tantum,tantvm,ADV,Deg=Pos
+possum,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+non,non,ADVneg,MORPH=empty
+amo,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+te,tv,PROper,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

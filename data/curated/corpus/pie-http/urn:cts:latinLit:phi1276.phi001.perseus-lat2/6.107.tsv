@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+praeterea,praeterea,ADV,Deg=Pos
+multa,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+in,in,PRE,MORPH=empty
+facie,facies,NOM5,Case=Abl|Numb=Sing
+deformia,deformis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+sicut,sicvt,ADVrel,MORPH=empty

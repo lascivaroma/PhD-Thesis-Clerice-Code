@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+prandente,prandeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+madidis,madidvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+cantat,canto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+Sostratus,sostratvs,NOM2,Case=Nom|Numb=Sing
+alis,ala,NOM1,Case=Abl|Numb=Plur
+;,o,PRE,MORPH=empty

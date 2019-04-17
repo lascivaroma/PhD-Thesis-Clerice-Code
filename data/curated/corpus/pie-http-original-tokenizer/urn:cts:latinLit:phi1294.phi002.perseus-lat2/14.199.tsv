@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Hic,hic,NOM2,Case=Nom|Numb=Sing
+breuis,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ad,ad,PRE,MORPH=empty
+numeros,nvmervs,NOM2,Case=Acc|Numb=Plur
+rapidum,rapidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+colligit,colligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+unguem,vngvis,NOM3,Case=Acc|Numb=Sing
+Venit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ab,ab,PRE,MORPH=empty
+auriferis,avrifer,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+gentibus,gens,NOM3,Case=Abl|Numb=Plur
+Astur,astvr,NOM2,Case=Nom|Numb=Sing
+equus,eqvvs,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

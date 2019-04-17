@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+paupertas,pavpertas,NOM3,Case=Nom|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+aeris,aes,NOM3,Case=Gen|Numb=Sing
+inops,inops,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quo,qvis,PROrel,Case=Abl|Numb=Sing
+nocte,nox,NOM3,Case=Abl|Numb=Sing
+dieque,dieqve,ADV,Deg=Pos

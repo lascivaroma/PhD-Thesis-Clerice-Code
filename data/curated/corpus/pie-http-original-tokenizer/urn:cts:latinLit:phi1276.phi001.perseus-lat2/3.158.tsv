@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+pinnirapi,pinnirapvs,NOM2,Numb=Sing|Mood=Ind|Voice=Act|Person=1
+cultos,colo,ADJqua,Case=Acc|Numb=Plur|Deg=Pos|Tense=Perf
+iuuenes,ivvenis,NOM3,Case=Acc|Numb=Plur
+iuuenesque,ivvenis,NOM3,Case=Voc|Numb=Sing
+lanistae,lanista,NOM1,Case=Gen|Numb=Sing

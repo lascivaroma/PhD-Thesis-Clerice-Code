@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Quae,qvi,PROrel,Case=Nom|Numb=Sing
+capiunt,capio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mundum,mvndvs,NOM2,Case=Acc|Numb=Sing
+iunxit,ivngo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mens,mens,NOM3,Case=Nom|Numb=Sing
+docta,doctvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+flagello,flagellvm,NOM2,Case=Abl|Numb=Sing
+Exornans,exornans,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+censu,censvs,NOM4,Case=Abl|Numb=Sing
+nobilitante,nobilito,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+plagas,plaga,NOM1,Case=Acc|Numb=Plur
+.,qvadranta,ADJcar,Case=Acc|Numb=Plur

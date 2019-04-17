@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+unda,vnda,NOM1,Case=Nom|Numb=Sing
+prior,prior,ADJord,Case=Nom|Numb=Sing|Deg=Comp
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+populus,popvlvs,NOM2,Case=Nom|Numb=Sing
+premit,premo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+agmine,agmen,NOM3,Case=Abl|Numb=Sing
+lumbos,lvmbvs,NOM2,Case=Acc|Numb=Plur

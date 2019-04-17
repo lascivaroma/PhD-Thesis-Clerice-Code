@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+meliore,bonvs,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
+luto,lvtvm,NOM2,Case=Abl|Numb=Sing
+finxit,fingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+praecordia,praecordia,NOM2,Case=Acc|Numb=Plur
+Titan,titan,NOM7,Case=Nom|Numb=Sing

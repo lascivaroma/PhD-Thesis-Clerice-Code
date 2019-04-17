@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+credam,credo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+dignum,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+barba,barba,NOM1,Case=Nom|Numb=Sing
+dignumque,dignvsqve,ADV,Numb=Sing|Deg=Pos
+capillis,capillvs,NOM2,Case=Abl|Numb=Plur

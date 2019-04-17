@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Structorem,strvctor,NOM3,Case=Acc|Numb=Sing
+interea,interea,ADV,Deg=Pos
+nequa,neqvam,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+indignatio,indignatio,NOM3,Case=Nom|Numb=Sing
+desit,desvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

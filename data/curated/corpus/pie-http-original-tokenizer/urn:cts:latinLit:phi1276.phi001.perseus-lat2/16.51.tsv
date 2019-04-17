@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Solis,sol,NOM3,Case=Gen|Numb=Sing
+praeterea,praeterea,ADV,Deg=Pos
+testandi,testor,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Dep
+militibus,miles,NOM3,Case=Dat|Numb=Plur
+ius,ivs,NOM3,Case=Acc|Numb=Sing

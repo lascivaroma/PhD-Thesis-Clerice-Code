@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+toto,totvs,PROind,Case=Abl|Numb=Sing
+uersata,versor,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Dep
+toro,torvs,NOM2,Case=Abl|Numb=Sing
+iam,iam,ADV,Deg=Pos
+membra,membrvm,NOM2,Case=Acc|Numb=Plur
+quiescunt,qviesco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

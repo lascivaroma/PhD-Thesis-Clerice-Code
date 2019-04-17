@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+deducendum,dedvco,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+corio,corivm,NOM2,Case=Abl|Numb=Sing
+bouis,bos,NOM3,Case=Gen|Numb=Sing
+in,in,PRE,MORPH=empty
+mare,mare,NOM3,Case=Acc|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+quo,qvis,PROrel,Case=Abl|Numb=Sing

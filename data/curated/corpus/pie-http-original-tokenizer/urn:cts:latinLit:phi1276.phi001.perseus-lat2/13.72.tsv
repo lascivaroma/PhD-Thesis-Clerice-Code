@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sacrilega,sacrilegvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur
+quid,qvis,PROint,Case=Acc|Numb=Sing
+si,si,CONsub,MORPH=empty
+bis,bis,ADJadv.mul,MORPH=empty
+centum,centvm,ADJcar,Case=Ind
+perdidit,perdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+alter,alter,PROind,Case=Nom|Numb=Sing

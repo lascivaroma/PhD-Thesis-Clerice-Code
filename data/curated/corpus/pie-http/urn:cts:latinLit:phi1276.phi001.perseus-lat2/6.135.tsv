@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+imperio,imperivm,NOM2,Case=Abl|Numb=Sing
+sexus,sexvs,NOM4,Case=Gen|Numb=Sing
+minimum,minimvm,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+-que,qvovs,CONcoo,MORPH=empty
+libidine,libido,NOM3,Case=Abl|Numb=Sing
+peccant,pecco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

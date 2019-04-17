@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Porticibusne,porticidvs,NOM2,Case=Abl|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+monstratur,monstro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+femina,femina,NOM1,Case=Nom|Numb=Sing
+uoto,votvm,NOM2,Case=Abl|Numb=Sing

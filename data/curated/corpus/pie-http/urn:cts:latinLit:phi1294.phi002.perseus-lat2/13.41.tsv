@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Lacte,lactvs,NOM2,Case=Voc|Numb=Sing
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+pastum,pastvs,VER,Case=Acc|Numb=Sing|Tense=Perf
+pigrae,piger,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+mihi,ego,PROper,Case=Dat|Numb=Sing
+matris,mater,NOM3,Case=Gen|Numb=Sing
+alumnum,alvmnvs,NOM2,Case=Acc|Numb=Sing
+Ponat,pono,VER,Numb=Sing|Tense=Pres|Person=3
+et,et,CONcoo,MORPH=empty
+Aetolo,aetolvs,NOM2,Case=Dat|Numb=Sing
+de,de,PRE,MORPH=empty
+sue,svi,PROpos.ref,Case=Abl|Numb=Sing
+diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+edat,edo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

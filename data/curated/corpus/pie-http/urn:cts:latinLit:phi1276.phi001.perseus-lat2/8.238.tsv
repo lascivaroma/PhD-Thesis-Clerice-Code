@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+municipalis,mvnicipalis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+eques,eqves,NOM3,Case=Nom|Numb=Sing
+galeatum,galeo,VER,Case=Acc|Numb=Sing
+ponit,pono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ubique,vbiqve,ADV,Deg=Pos

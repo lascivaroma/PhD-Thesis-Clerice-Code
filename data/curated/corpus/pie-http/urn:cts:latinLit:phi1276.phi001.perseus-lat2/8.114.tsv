@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+despicias,despicio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+merito,merito,ADV,Deg=Pos
+quid,qvis,PROint,Case=Acc|Numb=Sing
+resinata,resino,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+iuuentus,ivventvs,NOM3,Case=Nom|Numb=Sing

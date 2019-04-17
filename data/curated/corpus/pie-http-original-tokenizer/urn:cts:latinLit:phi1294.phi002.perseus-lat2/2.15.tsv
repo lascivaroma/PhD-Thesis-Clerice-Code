@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Quod,qvi,PROint,Case=Acc|Numb=Sing
+nulli,nvllvs,PROind,Case=Dat|Numb=Sing
+calicem,calix,NOM3,Case=Acc|Numb=Sing
+tuum,tvvs,PROpos,Case=Acc|Numb=Sing
+propinas,propino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Humane,hvmanvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+facis,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Horme,hormes,NOM2,Case=Voc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+superbe,svperbe,ADV,Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

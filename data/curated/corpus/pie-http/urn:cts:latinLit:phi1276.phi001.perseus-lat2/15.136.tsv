@@ -1,0 +1,5 @@
+form,lemma,pos,morph
+circumscriptorem,circvmscriptor,NOM3,Case=Acc|Numb=Sing
+cuius,qvi,PROrel,Case=Gen|Numb=Sing
+manantia,mano,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+fletu,fletvs,NOM4,Case=Abl|Numb=Sing

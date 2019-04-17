@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ac,ac,CONcoo,MORPH=empty
+rebus,res,NOM5,Case=Abl|Numb=Plur
+mersis,mergo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+in,in,PRE,MORPH=empty
+uentrem,venter,NOM3,Case=Acc|Numb=Sing
+faenoris,fenvs,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty

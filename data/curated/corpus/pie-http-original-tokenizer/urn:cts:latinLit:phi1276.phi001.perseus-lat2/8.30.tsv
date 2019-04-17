@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+inuento,invenio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+quis,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+generosum,generosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+dixerit,dico,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing

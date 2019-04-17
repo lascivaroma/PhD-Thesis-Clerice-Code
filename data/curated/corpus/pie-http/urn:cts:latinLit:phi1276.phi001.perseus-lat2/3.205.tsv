@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cantharus,cantharvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+recubans,recvbo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+sub,svb,PRE,MORPH=empty
+eodem,idem,PROdem,Case=Abl|Numb=Sing
+marmore,marmor,NOM3,Case=Abl|Numb=Sing
+Chiro,chirvs,NOM2,Case=Abl|Numb=Sing
+-ne,ne,CONsub,MORPH=empty

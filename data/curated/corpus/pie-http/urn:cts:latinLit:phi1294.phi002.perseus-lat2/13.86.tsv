@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Iste,istvs,NOM2,Case=Voc|Numb=Sing
+licet,licet,CONsub,Numb=Sing|Voice=Act
+digitos,digitvs,NOM2,Case=Acc|Numb=Plur
+testudine,testvdo,NOM3,Case=Abl|Numb=Sing
+pungat,pvngo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+acuta,acvtvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Cortice,corticvs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+deposita,depono,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+mollis,mollis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+echinus,echinvs,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Nom|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+corripies,corripio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+nimirum,nimirvm,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+castigabis,castigo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+acerbo,acerbvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

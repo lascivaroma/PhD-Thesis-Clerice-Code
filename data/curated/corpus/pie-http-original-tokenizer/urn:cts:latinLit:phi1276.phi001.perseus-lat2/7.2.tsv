@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+solus,solvs,PROind,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+tristes,tristis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+hac,hic,PROdem,Case=Abl|Numb=Sing
+tempestate,tempestas,NOM3,Case=Abl|Numb=Sing
+Camenas,camenae,NOM1,Case=Acc|Numb=Plur

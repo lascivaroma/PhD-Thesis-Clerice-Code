@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+ne,ne,CONsub,MORPH=empty
+perfusa,perfvndo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+luto,lvtvm,NOM2,Case=Abl|Numb=Sing
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+porticus,porticvs,NOM4,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+et,et,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+uno,vnvs,ADJcar,Case=Abl|Numb=Sing

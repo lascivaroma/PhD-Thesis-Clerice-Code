@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+inritamentum,irritamentvm,NOM2,Case=Acc|Numb=Sing
+ueneris,venio,NOM3,Case=Gen|Numb=Sing|Person=2
+languentis,langveo,ADJqua,Case=Gen|Numb=Plur|Deg=Pos|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+acres,acer,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

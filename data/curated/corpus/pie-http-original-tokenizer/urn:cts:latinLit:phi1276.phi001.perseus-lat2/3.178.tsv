@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+orchestram,orchestra,NOM1,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+populum,popvlvs,NOM2,Case=Acc|Numb=Sing
+clari,clarvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+uelamen,velamen,NOM3,Case=Acc|Numb=Sing
+honoris,honor,NOM3,Case=Gen|Numb=Sing

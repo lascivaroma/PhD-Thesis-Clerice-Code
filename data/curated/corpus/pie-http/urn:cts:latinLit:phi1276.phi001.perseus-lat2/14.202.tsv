@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ullius,vllvs,PROind,Case=Gen|Numb=Sing
+subeant,svbeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ablegandae,ablego,VER,Case=Gen|Numb=Plur|Mood=Adj|Voice=Pass
+Tiberim,tiberis,NOM3,Case=Acc|Numb=Sing
+ultra,vltra,PRE,Deg=Pos

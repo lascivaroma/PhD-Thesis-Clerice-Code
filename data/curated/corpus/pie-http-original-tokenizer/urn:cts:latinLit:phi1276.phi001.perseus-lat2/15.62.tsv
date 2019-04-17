@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+uiuunt,vivo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+omnes,omnis,PROind,Case=Nom|Numb=Plur
+ergo,ergo,CONcoo,MORPH=empty
+acrior,acer,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+impetus,impetvs,NOM4,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+iam,iam,ADV,Deg=Pos

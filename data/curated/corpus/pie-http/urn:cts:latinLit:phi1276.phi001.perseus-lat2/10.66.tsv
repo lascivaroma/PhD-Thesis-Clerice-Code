@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cretatum,cretatvs,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+-que,qvove,ADV,MORPH=empty
+bouem,bos,NOM3,Case=Acc|Numb=Sing
+Seianus,seianvs,NOM2,Case=Nom|Numb=Sing
+ducitur,dvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+unco,vncvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pascendi,pasco,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur
+quid,qvis,PROint,Case=Acc|Numb=Sing
+agam,ago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+bruma,brvma,NOM1,Case=Abl|Numb=Sing
+spirante,spiro,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+quid,qvis,PROint,Case=Acc|Numb=Sing
+oro,oro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1

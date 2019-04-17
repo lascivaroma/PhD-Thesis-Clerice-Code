@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+respicit,respicio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Sing
+primum,primvm,ADJadv.ord,Deg=Sup
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+litigat,litigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+an,an,ADVint,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+serui,servvs,NOM2,Case=Nom|Numb=Plur

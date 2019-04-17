@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uicit,vinco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+digna,dignvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uiro,vir,NOM2,Case=Dat|Numb=Sing
+sententia,sententia,NOM1,Case=Abl|Numb=Sing
+nouerat,nosco,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing

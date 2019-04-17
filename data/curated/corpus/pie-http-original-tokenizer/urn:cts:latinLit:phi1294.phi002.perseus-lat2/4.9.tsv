@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Sotae,sota,NOM1,Case=Gen|Numb=Sing
+filia,filia,NOM1,Case=Voc|Numb=Sing
+clinici,clinix,NOM2,Case=Gen|Numb=Sing
+Labulla,labvlla,NOM1,Case=Voc|Numb=Sing
+Deserto,desertvs,NOM2,Case=Dat|Numb=Sing
+sequeris,seqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+Clytum,clytvs,NOM2,Case=Acc|Numb=Sing
+marito,maritvs,NOM2,Case=Dat|Numb=Sing
+Et,et,CONcoo,MORPH=empty
+donas,dono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+amas,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

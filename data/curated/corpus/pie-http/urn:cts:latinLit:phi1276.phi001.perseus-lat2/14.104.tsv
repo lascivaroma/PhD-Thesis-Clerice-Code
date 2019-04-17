@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quaesitum,qvaero,VER,Case=Acc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+ad,ad,PRE,MORPH=empty
+fontem,fons,NOM3,Case=Acc|Numb=Sing
+solos,solvs,PROind,Case=Acc|Numb=Plur
+deducere,dedvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+uerpos,verpvs,NOM3,Case=Acc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

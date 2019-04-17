@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+a,ah,PRE,MORPH=empty
+pluuia,plvvia,NOM1,Case=Abl|Numb=Sing
+molles,mollis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ubi,vbi,ADVrel,MORPH=empty
+reddunt,reddo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+oua,ovvm,NOM2,Case=Acc|Numb=Plur
+columbae,colvmba,NOM1,Case=Nom|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+geminata,gemino,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3
+et,et,CONcoo,MORPH=empty
+lato,latvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Setinum,setinvs,NOM2,Case=Acc|Numb=Sing
+ardebit,ardeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+auro,avrvm,NOM2,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

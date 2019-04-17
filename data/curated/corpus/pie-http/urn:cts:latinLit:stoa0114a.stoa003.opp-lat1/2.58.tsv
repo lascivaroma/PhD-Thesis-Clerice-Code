@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Romuleam,romvlevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tegetem,teges,NOM3,Case=Acc|Numb=Sing
+nox,nox,NOM3,Case=Nom|Numb=Sing
+oris,os,NOM3,Case=Gen|Numb=Sing
+nubila,nvbila,NOM2,Case=Acc|Numb=Plur
+fuscat,fvsco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Oppressit,opprissis,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uestes,vestis,NOM3,Case=Acc|Numb=Plur
+tenebroso,tenebrosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tegmine,tegimen,NOM3,Case=Abl|Numb=Sing
+uultus,vvltvs,NOM4,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

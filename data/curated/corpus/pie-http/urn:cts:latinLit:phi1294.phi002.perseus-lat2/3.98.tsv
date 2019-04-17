@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Sit,si,CONsub,Numb=Sing
+culus,cvlvs,NOM2,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+quam,qvam,ADVint,MORPH=empty
+macer,macer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+requiris,reqviro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Pedicare,pedicar,VER,Case=Voc|Mood=Inf
+potes,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Sabelle,sabellvs,NOM2,Case=Voc|Numb=Sing
+culo,cvlvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

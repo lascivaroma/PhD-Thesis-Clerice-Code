@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+excipitur,excipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+uulgi,vvlgvs,NOM2,Case=Gen|Numb=Sing
+quam,qvam,ADVint,MORPH=empty
+pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Apicius,apicivs,NOM2,Case=Nom|Numb=Sing
+omnis,omnis,PROind,Case=Nom|Numb=Sing

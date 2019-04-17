@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+pagina,pagina,NOM1,Case=Nom|Numb=Sing
+descendunt,descendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+statuae,statva,NOM1,Case=Nom|Numb=Plur
+restemque,restimqve,NOM5,MORPH=empty
+sequuntur,seqvor,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3

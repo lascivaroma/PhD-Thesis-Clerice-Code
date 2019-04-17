@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+ueribus,verv,NOM3,Case=Abl|Numb=Plur
+longum,longvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+usque,vsqve,ADV,Deg=Pos
+adeo,adeo,ADV,Deg=Pos
+tardumque,tardvmqve,ADV,Deg=Pos
+putauit,pvto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

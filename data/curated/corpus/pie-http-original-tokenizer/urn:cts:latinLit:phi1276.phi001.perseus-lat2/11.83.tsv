@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+moris,mos,NOM3,Case=Gen|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+quondam,qvondam,ADV,Deg=Pos
+festis,festvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+seruare,servo,VER,Mood=Inf|Tense=Pres|Voice=Act
+diebus,dies,NOM5,Case=Abl|Numb=Plur

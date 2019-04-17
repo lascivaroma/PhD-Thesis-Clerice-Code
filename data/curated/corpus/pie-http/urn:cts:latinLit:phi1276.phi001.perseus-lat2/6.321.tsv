@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+prouocat,provoco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ac,ac,CONcoo,MORPH=empty
+tollit,tollo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+pendentis,pendeo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+praemia,praemivm,NOM2,Case=Acc|Numb=Plur
+coxae,coxa,NOM1,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+;,o,PRE,MORPH=empty

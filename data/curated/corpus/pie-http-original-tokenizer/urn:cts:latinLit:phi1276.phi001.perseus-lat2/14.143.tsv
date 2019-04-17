@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+uicina,vicinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+seges,seges,NOM3,Case=Nom|Numb=Sing
+mercaris,mercor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+et,et,CONcoo,MORPH=empty
+hanc,hic,PROdem,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty

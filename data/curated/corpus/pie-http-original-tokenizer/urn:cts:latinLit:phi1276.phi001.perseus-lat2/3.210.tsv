@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+aerumnae,aervmna,NOM1,Case=Gen|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cumulus,cvmvlvs,NOM2,Case=Nom|Numb=Sing
+quod,qvi,PROrel,MORPH=empty
+nudum,nvdvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+frusta,frvstvm,NOM2,Case=Acc|Numb=Plur
+rogantem,rogo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

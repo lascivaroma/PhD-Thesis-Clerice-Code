@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+primo,primvs,ADJord,Case=Abl|Numb=Sing|Deg=Sup
+sole,sol,NOM3,Case=Abl|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+peragendum,perago,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+in,in,PRE,MORPH=empty
+ualle,vallis,NOM3,Case=Abl|Numb=Sing
+Quirini,qvirinvs,NOM2,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

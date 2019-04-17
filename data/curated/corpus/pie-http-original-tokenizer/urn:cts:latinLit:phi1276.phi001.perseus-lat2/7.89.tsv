@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+semenstri,semestris,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+digitos,digitvs,NOM2,Case=Acc|Numb=Plur
+uatum,vates,NOM3,Case=Gen|Numb=Plur
+circumligat,circvmligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+auro,avrvm,NOM2,Case=Abl|Numb=Sing

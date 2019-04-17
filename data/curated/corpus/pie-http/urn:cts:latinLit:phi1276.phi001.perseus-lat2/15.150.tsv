@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+adfectus,affectvs,NOM4,Case=Acc|Numb=Plur
+petere,peto,VER,Mood=Inf|Tense=Pres|Voice=Act
+auxilium,avxilivm,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+praestare,praesto,VER,Mood=Inf|Tense=Pres|Voice=Act
+iuberet,ivbeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

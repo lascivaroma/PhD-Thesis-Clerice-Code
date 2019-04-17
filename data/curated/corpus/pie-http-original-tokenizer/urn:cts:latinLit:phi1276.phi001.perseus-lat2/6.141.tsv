@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+rescribat,rescribo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uidua,vidvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+locuples,locvples,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+nupsit,nvbo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+auaro,avarvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

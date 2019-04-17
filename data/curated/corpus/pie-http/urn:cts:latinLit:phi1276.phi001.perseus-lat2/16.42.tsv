@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+expectandus,exspecto,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+lites,lis,NOM3,Case=Acc|Numb=Plur
+inchoet,inchoo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+annus,annvs,NOM2,Case=Nom|Numb=Sing

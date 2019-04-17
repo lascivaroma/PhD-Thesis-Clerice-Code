@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+personam,persona,NOM1,Case=Acc|Numb=Sing
+thyrsumque,thyrsvs,ADV,MORPH=empty
+tenent,teneo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+subligar,svbligar,VER,Case=Nom|Numb=Sing
+Acci,accivs,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Tercentum,tercentvs,NOM2,Case=Acc|Numb=Sing
+Libyci,libycvs,NOM2,Case=Nom|Numb=Plur|Deg=Pos
+modios,modivs,NOM2,Case=Acc|Numb=Plur
+de,de,PRE,MORPH=empty
+messe,messis,NOM3,Case=Abl|Numb=Sing
+coloni,colonvs,NOM2,Case=Gen|Numb=Plur
+Sume,svmvs,NOM7,Case=Voc|Numb=Sing
+suburbanus,svbvrbanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ne,ne,CONsub,MORPH=empty
+moriatur,morior,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
+ager,ager,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+recto,rectvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
+solum,solvm,ADV,MORPH=empty
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+pallidus,pallidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+optas,opto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

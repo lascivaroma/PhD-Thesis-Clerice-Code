@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+posce,posco,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+;,o,INJ,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+appellat,appello,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+puer,pver,NOM2,Case=Nom|Numb=Sing
+unicus,vnicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ut,vt,CONsub,MORPH=empty
+Polyphemi,polyphemvs,NOM2,Case=Gen|Numb=Sing

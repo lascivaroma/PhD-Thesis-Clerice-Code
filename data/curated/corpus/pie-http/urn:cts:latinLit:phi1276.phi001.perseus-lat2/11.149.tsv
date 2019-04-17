@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+idem,idem,PROdem,Case=Nom|Numb=Sing
+habitus,habitvs,NOM4,Case=Nom|Numb=Sing
+cunctis,cvnctvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+tonsi,tondeo,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+recti,rectvm,NOM2,Case=Nom|Numb=Sing
+-que,qvove,ADV,MORPH=empty
+capilli,capillvs,NOM2,Case=Nom|Numb=Plur

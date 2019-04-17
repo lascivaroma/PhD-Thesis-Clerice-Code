@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Pulcher,pvlcher,NOM7,Case=Nom|Numb=Sing
+adest,assvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+onager,onager,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mitti,mitto,VER,Mood=Inf|Tense=Pres|Voice=Pass
+uenatio,venatio,NOM3,Case=Nom|Numb=Sing
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Dentis,dens,NOM3,Case=Gen|Numb=Sing
+Erythraei,erythraevs,NOM2,Case=Gen|Numb=Sing
+iam,iam,ADV,Deg=Pos
+remouete,removeo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+sinus,sinvs,NOM4,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

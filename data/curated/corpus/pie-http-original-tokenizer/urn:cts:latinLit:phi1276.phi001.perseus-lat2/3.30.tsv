@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+Catulus,catvlvs,NOM2,Case=Nom|Numb=Sing
+maneant,maneo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+nigrum,niger,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+candida,candidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uertunt,verto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

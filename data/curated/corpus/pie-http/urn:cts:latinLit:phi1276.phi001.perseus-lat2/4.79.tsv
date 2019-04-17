@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+interpres,interpres,NOM3,Case=Nom|Numb=Sing
+legum,lex,NOM3,Case=Gen|Numb=Plur
+sanctissimus,sanctvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+quamquam,qvamqvam,CONsub,MORPH=empty

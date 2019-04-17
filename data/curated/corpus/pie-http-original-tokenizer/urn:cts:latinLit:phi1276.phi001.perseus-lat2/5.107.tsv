@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Ipsi,ipsi,NOM2,Case=Gen|Numb=Sing
+pauca,pavcvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uelim,volo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+facilem,facilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+praebeat,praebeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+aurem,avris,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

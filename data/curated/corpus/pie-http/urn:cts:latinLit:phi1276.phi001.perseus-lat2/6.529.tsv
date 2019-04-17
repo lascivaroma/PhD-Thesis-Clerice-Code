@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Isidis,isis,NOM3,Case=Gen|Numb=Sing
+antiquo,antiqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+proxima,propior,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+surgit,svrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ouili,ovile,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Dat|Numb=Plur

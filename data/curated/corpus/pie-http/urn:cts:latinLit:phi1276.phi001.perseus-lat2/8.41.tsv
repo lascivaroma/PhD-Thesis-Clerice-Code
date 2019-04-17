@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+feceris,facio,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+propter,propter,PRE,MORPH=empty
+quod,qvi,PROrel,Case=Acc
+nobilis,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+esses,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2

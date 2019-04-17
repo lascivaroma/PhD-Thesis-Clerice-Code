@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Quod,qvi,PROrel,Case=Acc|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+Vergilius,vergilivs,NOM2,Case=Nom|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+carmine,carmen,NOM3,Case=Abl|Numb=Sing
+dicit,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Homerus,homervs,NOM2,Case=Nom|Numb=Sing
+Hoc,hoc,NOM3,Case=Nom|Numb=Sing
+ex,ex,PRE,MORPH=empty
+unguento,vngventvm,NOM2,Case=Abl|Numb=Sing
+constat,consto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+ex,ex,PRE,MORPH=empty
+balano,balanvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

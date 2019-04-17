@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+fornice,fornix,NOM3,Case=Abl|Numb=Sing
+mancipium,mancipivm,NOM2,Case=Nom|Numb=Sing
+quibus,qvi,PROrel,Case=Abl|Numb=Plur
+abstinet,abstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing
+fruatur,frvor,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3

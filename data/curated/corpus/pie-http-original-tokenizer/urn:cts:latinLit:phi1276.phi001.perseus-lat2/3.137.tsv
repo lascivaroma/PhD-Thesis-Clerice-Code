@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+da,do,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+testem,testis,NOM3,Case=Acc|Numb=Sing
+Romae,roma,NOM1,Case=Loc|Numb=Sing
+tam,tam,ADV,Deg=Pos
+sanctum,sanctvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+quam,qvam,ADVrel,MORPH=empty
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+hospes,hospes,NOM3,Case=Nom|Numb=Sing

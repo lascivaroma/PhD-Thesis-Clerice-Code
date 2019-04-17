@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+mullorum,mvllvs,NOM2,Case=Gen|Numb=Plur
+-que,qvove,CONcoo,MORPH=empty
+iubis,ivba,NOM2,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+captatore,captator,NOM3,Case=Abl|Numb=Sing
+macello,macellvm,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

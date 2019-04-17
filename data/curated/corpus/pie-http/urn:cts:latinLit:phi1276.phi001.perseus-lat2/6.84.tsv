@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+prodigia,prodigivm,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+mores,mos,NOM3,Case=Acc|Numb=Plur
+urbis,vrbs,NOM3,Case=Gen|Numb=Sing
+damnante,damno,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Canopo,canopvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

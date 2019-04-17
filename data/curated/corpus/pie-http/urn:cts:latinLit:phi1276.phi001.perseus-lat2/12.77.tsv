@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+pelago,pelagvs,NOM2,Case=Abl|Numb=Sing
+occurrunt,occvrro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+medio,medivs,NOM2,Case=Abl|Numb=Sing|Deg=Pos
+longe,longe,ADV,Deg=Pos
+-que,qvovs,ADV,Deg=Pos
+relinquunt,relinqvo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Neptuni,neptvnvs,NOM2,Case=Gen|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+bratteolam,bratteola,NOM1,Case=Acc|Numb=Sing|Deg=Pos
+de,de,PRE,MORPH=empty
+Castore,castor,NOM3,Case=Abl|Numb=Sing
+ducat,dvco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

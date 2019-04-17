@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+nupta,nvpta,NOM1,Case=Nom|Numb=Sing|Tense=Perf|Voice=Pass
+iacet,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+minimum,minimvm,NOM2,Case=Acc|Numb=Sing
+dormitur,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+in,in,PRE,MORPH=empty
+illo,ille,PROdem,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

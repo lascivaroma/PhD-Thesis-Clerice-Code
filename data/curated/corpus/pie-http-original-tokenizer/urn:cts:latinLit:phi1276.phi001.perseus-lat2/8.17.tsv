@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+squalentis,sqvaleo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+traducit,tradvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+auos,avvs,NOM2,Case=Acc|Numb=Plur
+emptorque,emptorqveo,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Act
+ueneni,venenvm,NOM2,Case=Gen|Numb=Sing

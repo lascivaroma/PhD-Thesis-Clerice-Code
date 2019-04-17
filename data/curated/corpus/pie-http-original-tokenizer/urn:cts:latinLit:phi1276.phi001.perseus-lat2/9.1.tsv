@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Scire,scirvs,NOM3,Case=Voc|Numb=Sing|Tense=Pres
+uelim,volo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+quare,qvare,ADVint,MORPH=empty
+totiens,totiens,ADV,Deg=Pos
+mihi,ego,PROper,Case=Dat|Numb=Sing
+Naeuole,naevole,NOM2,Case=Voc|Numb=Sing
+tristis,tristis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hic,hic,ADV,MORPH=empty
+nostrum,nos,PROpos,Case=Acc|Numb=Sing
+placabo,placo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+Iouem,ivppiter,NOM3,Case=Acc|Numb=Sing
+Laribusque,laribvsqve,NOM3,Case=Dat|Numb=Plur
+paternis,paternvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

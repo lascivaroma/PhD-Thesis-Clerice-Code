@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+piget,piget,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+trepidum,trepidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+soluunt,solvo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+cornua,cornv,NOM4,Case=Acc|Numb=Plur
+uentrem,venter,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hic,hic,PROdem,Case=Nom|Numb=Sing
+nouus,novvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Arpinas,arpinas,NOM7,Case=Nom|Numb=Sing
+ignobilis,ignobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+modo,modo,ADV,Deg=Pos
+Romae,roma,NOM1,Case=Loc|Numb=Sing

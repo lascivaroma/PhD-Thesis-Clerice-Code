@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+NVNC,nonvs,ADJcar,Case=Ind
+te,tv,PROper,Case=Acc|Numb=Sing
+marmoreum,marmorevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+pro,pro,PRE,MORPH=empty
+sumptu,svmptvs,NOM4,Case=Abl|Numb=Sing
+fecimus,facio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+at,at,CONcoo,MORPH=empty
+cum,cvm,CONsub,MORPH=empty
+Augustus,avgvstvs,NOM2,Case=Nom|Numb=Sing
+frater,frater,NOM3,Case=Nom|Numb=Sing
+remeauerit,remeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+aureus,avrevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing

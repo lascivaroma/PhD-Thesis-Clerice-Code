@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Hesterno,hesternvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+fetere,feto,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Acerram,acerra,NOM1,Case=Acc|Numb=Sing
+Fallitur,fallio,VER,Numb=Sing|Person=3
+in,in,PRE,MORPH=empty
+lucem,lvx,NOM3,Case=Acc|Numb=Sing
+semper,semper,ADV,Deg=Pos
+Acerra,acerra,NOM1,Case=Nom|Numb=Sing
+bibit,bibo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadranta,ADJcar,Case=Acc|Numb=Plur

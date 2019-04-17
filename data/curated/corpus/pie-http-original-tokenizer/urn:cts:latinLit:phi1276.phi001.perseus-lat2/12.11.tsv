@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pinguior,pingvis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+Hispulla,hispvlla,NOM1,Case=Nom|Numb=Sing
+traheretur,traho,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Pass|Person=3
+taurus,tavrvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing

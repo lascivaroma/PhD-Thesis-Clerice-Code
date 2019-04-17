@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+respice,respicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quid,qvis,PROint,Case=Acc|Numb=Sing
+moneant,moneo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+leges,lex,NOM3,Case=Nom|Numb=Plur
+quid,qvis,PROint,Case=Nom|Numb=Sing
+curia,cvria,NOM1,Case=Nom|Numb=Sing
+mandet,mando,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

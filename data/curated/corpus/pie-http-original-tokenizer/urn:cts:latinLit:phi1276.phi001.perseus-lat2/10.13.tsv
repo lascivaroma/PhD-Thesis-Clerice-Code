@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+strangulat,strangvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+exuperans,exsvpero,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+patrimonia,patrimonivm,NOM2,Case=Acc|Numb=Plur
+census,censvs,NOM4,Case=Acc|Numb=Plur

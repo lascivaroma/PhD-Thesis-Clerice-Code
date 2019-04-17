@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Malo,malvs,NOM2,Case=Dat|Numb=Sing
+pater,pater,NOM3,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Thersites,thersites,NOM7,Case=Nom|Numb=Sing
+dummodo,dvmmodo,ADVint,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+sis,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

@@ -1,0 +1,5 @@
+form,lemma,pos,morph
+modo,modo,ADV,Deg=Pos
+sub,svb,PRE,MORPH=empty
+lodice,lodix,NOM3,Case=Abl|Numb=Sing
+relictis,relinqvo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

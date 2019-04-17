@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+erexit,erigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+causas,cavsa,NOM1,Case=Acc|Numb=Plur
+discriminis,discrimen,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+laboris,labor,NOM3,Case=Gen|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nulla,nvllvs,PROind,Case=Acc|Numb=Sing
+aequare,aeqvo,VER,Mood=Inf|Tense=Pres|Voice=Act
+queas,qveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+praetoris,praetor,NOM3,Case=Gen|Numb=Sing
+pulpita,pvlpitvm,NOM2,Case=Acc|Numb=Plur
+lauti,lavtvs,NOM2,Case=Gen|Numb=Plur

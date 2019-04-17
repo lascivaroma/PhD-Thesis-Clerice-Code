@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+exclamare,exclamo,VER,Mood=Inf|Tense=Pres|Voice=Act
+libet,libet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+populus,popvlvs,NOM2,Case=Nom|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+clamat,clamo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Osiri,osiris,NOM3,Case=Dat|Numb=Sing

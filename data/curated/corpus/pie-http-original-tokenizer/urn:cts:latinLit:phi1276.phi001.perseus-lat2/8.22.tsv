@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hos,hic,PROdem,Case=Acc|Numb=Plur
+ante,ante,PRE,MORPH=empty
+effigies,effigies,NOM5,Case=Acc|Numb=Plur
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+pone,pone,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+tuorum,tvvs,PROpos,Case=Gen|Numb=Plur

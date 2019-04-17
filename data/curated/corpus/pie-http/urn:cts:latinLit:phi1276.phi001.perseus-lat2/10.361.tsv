@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Herculis,hercvles,NOM3,Case=Gen|Numb=Sing
+aerumnas,aervmna,NOM1,Case=Acc|Numb=Plur
+credat,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+saeuos,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvove,ADV,MORPH=empty
+labores,labor,NOM3,Case=Acc|Numb=Plur

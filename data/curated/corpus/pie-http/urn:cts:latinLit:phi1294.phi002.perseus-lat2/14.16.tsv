@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Quae,qvis,PROrel,Case=Dat|Numb=Sing
+scit,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+compositos,compono,ADJqua,Case=Acc|Numb=Plur|Voice=Pass
+manus,manvs,NOM4,Case=Acc|Numb=Plur
+improba,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mittere,mitto,VER,Mood=Inf|Tense=Pres|Voice=Act
+talos,talvs,NOM2,Case=Acc|Numb=Plur
+Si,sivs,NOM2,Case=Dat|Numb=Sing
+per,per,PRE,MORPH=empty
+me,ego,PROper,Case=Acc|Numb=Sing
+misit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nil,nihil,PROind,Case=Ind
+nisi,nisi,CONsub,MORPH=empty
+uota,votvm,NOM2,Case=Acc|Numb=Plur
+feret,fero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

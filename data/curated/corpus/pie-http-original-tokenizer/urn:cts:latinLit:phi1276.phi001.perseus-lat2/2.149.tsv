@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Esse,essvs,NOM2,Case=Voc|Numb=Sing
+aliquos,aliqvis,PROind,Case=Acc|Numb=Plur
+manes,manes,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+subterranea,svbterranevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+regna,regnvm,NOM2,Case=Acc|Numb=Plur

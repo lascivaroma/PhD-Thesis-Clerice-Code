@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+bonam,bonvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tenerae,tener,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+placant,placo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+abdomine,abdomen,NOM3,Case=Abl|Numb=Sing
+porcae,porca,NOM1,Case=Nom|Numb=Plur

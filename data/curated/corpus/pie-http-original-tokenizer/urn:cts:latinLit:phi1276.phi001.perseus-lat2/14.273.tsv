@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uictum,vinco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+illa,ille,PROdem,Case=Abl|Numb=Sing
+mercede,merces,NOM3,Case=Abl|Numb=Sing
+parat,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+brumamque,brvmamqve,ADV,Deg=Pos
+famemque,famemqve,ADV,Deg=Pos

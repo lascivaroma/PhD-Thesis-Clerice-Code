@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+iucundum,ivcvndvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+carum,carvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+sterilis,sterilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+amicum,amicvs,NOM2,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cogaris,cogo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+presso,premo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvovs,CONcoo,MORPH=empty
+diu,div,ADV,Deg=Pos
+stridere,strideo,VER,Mood=Inf|Tense=Pres|Voice=Act
+molari,molarivs,ADJqua,Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

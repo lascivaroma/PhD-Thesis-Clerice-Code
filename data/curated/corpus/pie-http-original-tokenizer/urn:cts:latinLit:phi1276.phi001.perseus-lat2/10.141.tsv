@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uirtutis,virtvs,NOM3,Case=Gen|Numb=Sing
+quis,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+uirtutem,virtvs,NOM3,Case=Acc|Numb=Sing
+amplectitur,amplector,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+ipsam,ipse,PROdem,Case=Acc|Numb=Sing

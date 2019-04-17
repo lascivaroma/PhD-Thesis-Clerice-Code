@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Credamus,credamvs,NOM2,Case=Nom|Numb=Sing
+tragicis,tragicvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
+de,de,PRE,MORPH=empty
+Colchide,colchis,NOM3,Case=Abl|Numb=Sing
+torua,torvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

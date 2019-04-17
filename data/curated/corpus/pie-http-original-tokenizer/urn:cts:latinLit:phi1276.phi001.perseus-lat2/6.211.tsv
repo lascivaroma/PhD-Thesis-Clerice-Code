@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+quisquis,qvisqvis,PROrel,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+optandusque,opto,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+maritus,maritvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

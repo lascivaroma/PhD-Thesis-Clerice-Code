@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quarum,qvi,PROrel,Case=Gen|Numb=Plur
+non,non,ADVneg,MORPH=empty
+timeat,timeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+pater,pater,NOM3,Case=Nom|Numb=Sing
+oscula,oscvlvm,NOM2,Case=Acc|Numb=Plur
+necte,necto,VER,Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+coronam,corona,NOM1,Case=Acc|Numb=Sing

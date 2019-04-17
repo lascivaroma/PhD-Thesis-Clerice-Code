@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+cauea,cavea,NOM1,Case=Abl|Numb=Sing
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+fremitu,fremitvs,NOM4,Case=Abl|Numb=Sing
+leo,leo,NOM3,Case=Nom|Numb=Sing
+tollet,tollo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+alumnus,alvmnvs,NOM2,Case=Nom|Numb=Sing

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Ne,ne,NOM3,Case=Ind
+laudet,lavdo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+dignos,dignvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+laudat,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Callistratus,callistratvs,NOM2,Case=Nom|Numb=Sing
+omnes,omnis,PROind,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Cui,cvivs,NOM2,Case=Nom|Numb=Sing
+malus,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+quis,qvis,PROint,Case=Nom|Numb=Sing
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

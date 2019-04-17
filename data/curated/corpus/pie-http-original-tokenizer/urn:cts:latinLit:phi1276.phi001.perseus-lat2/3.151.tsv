@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+recens,recens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+linum,linvm,NOM2,Case=Acc|Numb=Sing
+ostendit,ostendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+non,non,ADVneg,MORPH=empty
+una,vnvs,ADJcar,Case=Nom|Numb=Sing
+cicatrix,cicatrix,NOM3,Case=Nom|Numb=Sing

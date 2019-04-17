@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+larga,largvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+manu,manvs,NOM4,Case=Abl|Numb=Sing
+quid,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+puero,pver,NOM2,Case=Dat|Numb=Sing
+conferre,confero,VER,Mood=Inf|Tense=Pres|Voice=Act
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+plus,mvltvs,ADJqua,Numb=Sing|Deg=Comp

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+scilicet,scilicet,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+morbis,morbvs,NOM2,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+debilitate,debilitas,NOM3,Case=Abl|Numb=Sing
+carebis,careo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

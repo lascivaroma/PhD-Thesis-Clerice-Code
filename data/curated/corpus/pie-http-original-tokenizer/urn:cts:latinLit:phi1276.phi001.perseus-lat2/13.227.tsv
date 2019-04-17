@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+illa,ille,PROdem,Case=Nom|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+nocuit,noceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+cura,cvra,NOM1,Case=Nom|Numb=Sing
+grauiore,gravis,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
+timetur,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

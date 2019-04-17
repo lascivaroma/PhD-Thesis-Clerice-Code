@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+semel,semel,ADJadv.mul,MORPH=empty
+aspecti,aspicio,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+litus,litvs,NOM3,Case=Acc|Numb=Sing
+dicebat,dico,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+echini,echinvs,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uomer,vomer,NOM3,Case=Nom|Numb=Sing
+deficiat,deficio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ne,ne,CONsub,MORPH=empty
+marrae,marrvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+sarcula,sarcvlvm,NOM2,Case=Nom|Numb=Plur
+desint,desvm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

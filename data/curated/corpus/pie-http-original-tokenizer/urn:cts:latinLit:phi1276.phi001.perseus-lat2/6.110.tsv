@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+gladiator,gladiator,NOM3,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+illos,ille,PROdem,Case=Acc|Numb=Plur
+Hyacinthos,hyacinthvs,NOM7,Case=Acc|Numb=Plur

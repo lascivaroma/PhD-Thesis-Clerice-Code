@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pupilli,pvpillvs,NOM2,Case=Gen|Numb=Sing
+prostantis,prosto,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+hic,hic,PROdem,Case=Nom|Numb=Sing
+damnatus,damno,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+inani,inane,NOM3,Case=Abl|Numb=Sing|Deg=Pos

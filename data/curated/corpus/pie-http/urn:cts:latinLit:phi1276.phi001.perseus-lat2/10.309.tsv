@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+strumosum,strvmodvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+atque,atqve,CONcoo,MORPH=empty
+utero,vtervs,NOM2,Case=Abl|Numb=Sing
+pariter,pariter,ADV,Deg=Pos
+gibbo,gibbo,NOM2,Case=Abl|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+tumentem,tvmeo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

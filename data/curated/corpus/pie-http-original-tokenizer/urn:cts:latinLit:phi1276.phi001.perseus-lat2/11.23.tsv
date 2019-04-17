@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+sumit,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+a,ab,PRE,MORPH=empty
+censu,censvs,NOM4,Case=Abl|Numb=Sing
+famam,fama,NOM1,Case=Acc|Numb=Sing
+trahit,traho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Illum,illvs,NOM2,Case=Acc|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+iure,ivs,NOM3,Case=Abl|Numb=Sing

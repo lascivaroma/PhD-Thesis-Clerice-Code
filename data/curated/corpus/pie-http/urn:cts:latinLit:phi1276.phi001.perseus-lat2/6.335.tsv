@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+utinam,vtinam,ADV,Deg=Pos
+ritus,ritvs,NOM4,Case=Acc|Numb=Plur
+ueteres,vetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+publica,pvblicvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+saltem,saltem,ADV,Deg=Pos

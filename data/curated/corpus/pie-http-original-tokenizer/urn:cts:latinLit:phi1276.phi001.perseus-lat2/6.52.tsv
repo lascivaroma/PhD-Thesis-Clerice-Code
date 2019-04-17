@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+postibus,postis,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+densos,densvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+per,per,PRE,MORPH=empty
+limina,limen,NOM3,Case=Acc|Numb=Plur
+tende,tendo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+corymbos,corymbvs,NOM2,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

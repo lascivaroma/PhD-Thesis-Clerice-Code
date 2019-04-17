@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Inter,inter,ADJcar,Case=Nom|Numb=Sing
+finitimos,finitimi,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uetus,vetvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+atque,atqve,CONcoo,MORPH=empty
+antiqua,antiqvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+simultas,simvltas,NOM3,Case=Nom|Numb=Sing

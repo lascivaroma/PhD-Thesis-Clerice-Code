@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+mirandus,mirandvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Voice=Dep
+-que,qvovs,CONcoo,MORPH=empty
+cliens,cliens,NOM3,Case=Nom|Numb=Sing
+sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+praetoria,praetorivm,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+regis,rex,NOM3,Case=Gen|Numb=Sing

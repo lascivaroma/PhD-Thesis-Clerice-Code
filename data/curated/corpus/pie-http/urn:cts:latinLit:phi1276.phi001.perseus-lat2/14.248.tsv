@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nota,notvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mathematicis,mathematicvs,NOM2,Case=Dat|Numb=Plur
+genesis,genesis,NOM1,Case=Abl|Numb=Plur
+tua,tvvs,PROpos,Case=Nom|Numb=Plur
+sed,sed,CONcoo,MORPH=empty
+graue,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tardas,tardvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

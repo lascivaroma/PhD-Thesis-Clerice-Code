@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+lautorum,lavtvs,ADJqua,Case=Gen|Numb=Plur
+pueros,pver,NOM2,Case=Acc|Numb=Plur
+artem,ars,NOM3,Case=Acc|Numb=Sing
+scindes,scindo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+Theodori,theodorvs,NOM2,Case=Gen|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nodosam,nodosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+post,post,PRE,MORPH=empty
+haec,hic,PROdem,Case=Acc|Numb=Plur
+frangebat,frango,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+uertice,vertex,NOM3,Case=Abl|Numb=Sing
+uitem,vitis,NOM3,Case=Acc|Numb=Sing

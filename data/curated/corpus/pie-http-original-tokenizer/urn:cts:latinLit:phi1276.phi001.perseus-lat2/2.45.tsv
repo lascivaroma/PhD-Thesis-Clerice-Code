@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+scrutare,scrvtor,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Dep|Person=2
+uiros,vir,NOM2,Case=Acc|Numb=Plur
+;,,INJ,MORPH=empty
+faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nam,nam,CONcoo,MORPH=empty
+plura,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+sed,sed,CONcoo,MORPH=empty
+illos,ille,PROdem,Case=Acc|Numb=Plur

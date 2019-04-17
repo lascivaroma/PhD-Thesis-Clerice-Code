@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Haec,haec,NOM3,Case=Nom|Numb=Sing
+olim,olim,ADV,Deg=Pos
+nostri,nos,PROper,Case=Gen|Numb=Plur
+iam,iam,ADV,Deg=Pos
+luxuriosa,lvxvriosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+senatus,senatvs,NOM4,Case=Gen|Numb=Sing

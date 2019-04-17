@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tempora,tempvs,NOM3,Case=Acc|Numb=Plur
+uiderunt,video,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+hos,hic,PROdem,Case=Acc|Numb=Plur
+lignum,lignvm,NOM2,Case=Nom|Numb=Sing
+stabat,sto,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+usus,vsvs,NOM4,Case=Acc|Numb=Plur

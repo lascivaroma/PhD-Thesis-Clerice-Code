@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+patris,pater,NOM3,Case=Gen|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+caesi,caedo,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+media,medivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+inter,inter,PRE,MORPH=empty
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+sed,sed,CONcoo,MORPH=empty
+nec,nec,CONcoo,MORPH=empty

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+tenet,teneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+speculum,specvlvm,NOM2,Case=Acc|Numb=Sing
+pathici,pathicvs,ADJqua,Case=Gen|Numb=Sing
+gestame,gero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act
+-ne,one,CONsub,MORPH=empty
+Othonis,otho,NOM3,Case=Gen|Numb=Sing

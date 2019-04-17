@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Hippolyto,hippolytvs,NOM2,Case=Dat|Numb=Sing
+graue,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+propositum,propono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+quid,qvis,PROint,Case=Acc|Numb=Sing
+Bellorophonti,bellorophontes,NOM2,Case=Gen|Numb=Sing

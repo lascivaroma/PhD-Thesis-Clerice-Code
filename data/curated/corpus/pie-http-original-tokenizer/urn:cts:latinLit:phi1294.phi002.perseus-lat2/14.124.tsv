@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Romanos,romanvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+rerum,res,NOM5,Case=Gen|Numb=Plur
+dominos,dominvs,NOM2,Case=Acc|Numb=Plur
+gentemque,gens,NOM3,Case=Acc|Numb=Sing
+togatam,togatvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Ille,ille,NOM7,Case=Nom|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+magno,magnvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+astra,astrvm,NOM2,Case=Acc|Numb=Plur
+patri,pater,NOM3,Case=Dat|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

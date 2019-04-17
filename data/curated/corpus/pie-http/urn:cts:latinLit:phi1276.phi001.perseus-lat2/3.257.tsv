@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+procubuit,procvmbo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+saxa,saxvm,NOM2,Case=Acc|Numb=Plur
+Ligustica,ligvsticvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+portat,porto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

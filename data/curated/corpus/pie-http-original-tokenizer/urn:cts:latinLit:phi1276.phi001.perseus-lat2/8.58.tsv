@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sic,sic,ADV,Deg=Pos
+laudamus,lavdo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+equum,eqvvs,NOM2,Case=Acc|Numb=Sing
+facili,facilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+plurima,mvltvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+palma,palma,NOM1,Case=Abl|Numb=Sing

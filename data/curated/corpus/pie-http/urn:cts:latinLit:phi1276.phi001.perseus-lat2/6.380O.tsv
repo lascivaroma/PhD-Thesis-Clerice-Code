@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+communem,commvnis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+calicem,calix,NOM3,Case=Acc|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+illis,ille,PROdem,Case=Dat|Numb=Plur

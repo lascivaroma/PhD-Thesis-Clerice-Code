@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+cuius,qvi,PROrel,Case=Gen|Numb=Sing
+numero,nvmervs,NOM2,Case=Abl|Numb=Sing
+longe,longe,ADV,Deg=Pos
+migrare,migro,VER,Mood=Inf|Tense=Pres|Voice=Act
+iubetur,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

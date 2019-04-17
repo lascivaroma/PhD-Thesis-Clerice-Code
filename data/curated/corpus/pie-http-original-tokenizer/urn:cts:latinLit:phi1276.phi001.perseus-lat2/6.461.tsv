@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+interea,interea,ADV,Deg=Pos
+foeda,foedvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aspectu,aspectvs,NOM4,Case=Abl|Numb=Sing
+ridendaque,rideo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+multo,mvlto,ADV,Deg=Pos

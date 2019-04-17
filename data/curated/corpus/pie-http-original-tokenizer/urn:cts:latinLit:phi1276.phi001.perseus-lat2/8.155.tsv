@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+interea,interea,ADV,Deg=Pos
+dum,dvm,CONsub,MORPH=empty
+lanatas,lano,VER,Case=Acc|Numb=Plur|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass
+robumque,robvsqve,ADV,Deg=Pos
+iuuencum,ivvencvs,NOM2,Case=Acc|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Semper,semper,NOM7,Case=Voc|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+auditor,avditor,NOM3,Case=Voc|Numb=Sing
+tantum,tantvm,ADV,Deg=Pos
+numquamne,nvmqvam,ADVneg,Deg=Pos
+reponam,repono,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1

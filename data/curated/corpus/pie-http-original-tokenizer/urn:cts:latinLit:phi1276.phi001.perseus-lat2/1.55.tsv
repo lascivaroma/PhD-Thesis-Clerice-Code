@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+leno,leno,NOM3,Case=Nom|Numb=Sing
+accipiat,accipio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+moechi,moechvs,NOM2,Case=Gen|Numb=Sing
+bona,bonvm,NOM2,Case=Acc|Numb=Plur
+si,si,CONsub,MORPH=empty
+capiendi,capio,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act

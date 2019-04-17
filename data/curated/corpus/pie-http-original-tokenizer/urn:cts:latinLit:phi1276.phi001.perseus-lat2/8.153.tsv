@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+iam,iam,ADV,Deg=Pos
+senis,senex,NOM3,Case=Gen|Numb=Sing
+ac,ac,CONcoo,MORPH=empty
+uirga,virga,NOM1,Case=Nom|Numb=Sing
+prior,prior,ADJord,Case=Nom|Numb=Sing|Deg=Comp
+annuet,annvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+atque,atqve,CONcoo,MORPH=empty
+maniplos,manipvlvs,NOM2,Case=Acc|Numb=Plur

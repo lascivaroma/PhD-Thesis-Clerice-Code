@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Oderunt,odervm,NOM2,Numb=Plur|Voice=Act|Person=3
+natos,natvs,NOM2,Case=Acc|Numb=Plur
+de,de,PRE,MORPH=empty
+paelice,pellex,NOM3,Case=Abl|Numb=Sing
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+repugnet,repvgno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

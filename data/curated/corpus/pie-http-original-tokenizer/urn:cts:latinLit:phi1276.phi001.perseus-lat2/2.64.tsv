@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Fugerunt,fvgio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+trepidi,trepidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uera,vervm,NOM2,Case=Acc|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+manifesta,manifestvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+canentem,cano,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

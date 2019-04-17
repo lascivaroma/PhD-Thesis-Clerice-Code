@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+Phiale,phialis,NOM3,Case=Acc|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+;,o,PRE,MORPH=empty
+tantum,tantvs,PROdem,Case=Acc|Numb=Sing
+artificis,artifex,NOM3,Case=Gen|Numb=Sing
+ualet,valeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+halitus,halitvs,NOM4,Case=Nom|Numb=Sing
+oris,os,NOM1,Case=Gen|Numb=Sing

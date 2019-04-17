@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+rursus,rvrsvs,ADV,Deg=Pos
+ad,ad,PRE,MORPH=empty
+Aethiopum,aethiopes,NOM3,Case=Gen|Numb=Plur
+populos,popvlvs,NOM2,Case=Acc|Numb=Plur
+alios,alivs,PROind,Case=Acc|Numb=Plur
+-que,qvove,CONcoo,MORPH=empty
+elephantos,elephantvs,NOM2,Case=Acc|Numb=Plur

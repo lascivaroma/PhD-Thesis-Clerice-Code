@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+unus,vnvs,ADJcar,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+riualis,rivalis,NOM3,Case=Nom|Numb=Sing
+dictabitur,dicto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3
+heres,heres,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+horum,hic,PROdem,Case=Gen|Numb=Plur
+simplicitas,simplicitas,NOM3,Case=Nom|Numb=Sing
+miserabilis,miserabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+his,hic,PROdem,Case=Dat|Numb=Plur
+furor,fvror,NOM3,Case=Nom|Numb=Sing
+ipse,ipse,PROdem,Case=Nom|Numb=Sing

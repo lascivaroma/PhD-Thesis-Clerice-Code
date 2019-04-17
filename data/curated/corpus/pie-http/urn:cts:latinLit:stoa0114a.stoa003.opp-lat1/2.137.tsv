@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Verus,vervs,NOM2,Case=Nom|Numb=Sing
+honor,honor,NOM3,Case=Nom|Numb=Sing
+uitem,vitis,NOM3,Case=Acc|Numb=Sing
+tribuit,tribvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+uitis,vitis,NOM3,Case=Acc|Numb=Plur
+Ieiuno,ieivnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+dant,do,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ligna,lignvm,NOM2,Case=Acc|Numb=Plur
+ministerio,ministerivm,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

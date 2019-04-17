@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Vapulat,vapvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adsid,assis,CONsub,Numb=Sing
+-ue,qvies,NOM3,Case=Abl|Numb=Sing
+ueneti,venetvm,NOM2,Case=Gen|Numb=Sing
+quadriga,qvadriga,NOM1,Case=Abl|Numb=Sing
+flagello,flagellvm,NOM2,Case=Abl|Numb=Sing
+Nec,nec,NOM7,Case=Nom|Numb=Sing
+currit,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+magnam,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+rem,res,NOM5,Case=Acc|Numb=Sing
+Catiane,catianvs,NOM2,Case=Voc|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

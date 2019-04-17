@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Actoris,actor,NOM3,Case=Gen|Numb=Sing
+Aurunci,avrvncvs,NOM2,Case=Gen|Numb=Sing
+spolium,spolivm,NOM2,Case=Acc|Numb=Sing
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+se,svi,PROref,Case=Acc|Numb=Sing
+ille,ille,PROdem,Case=Nom|Numb=Sing
+uidebat,video,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

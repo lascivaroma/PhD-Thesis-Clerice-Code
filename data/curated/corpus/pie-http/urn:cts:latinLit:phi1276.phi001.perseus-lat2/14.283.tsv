@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Oceani,oceanvs,NOM2,Case=Gen|Numb=Sing
+monstra,monstrvm,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+iuuenes,ivvenis,NOM3,Case=Acc|Numb=Plur
+uidisse,video,VER,Mood=Inf|Tense=Perf|Voice=Act
+marinos,marinvs,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

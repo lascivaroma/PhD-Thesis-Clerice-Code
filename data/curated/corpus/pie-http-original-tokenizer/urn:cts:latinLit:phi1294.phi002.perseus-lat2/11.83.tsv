@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Nemo,nemo,NOM3,Case=Nom|Numb=Sing
+habitat,habito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+gratis,gratis,ADV,Deg=Pos
+nisi,nisi,CONsub,MORPH=empty
+diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+orbus,orbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+apud,apvd,PRE,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Nemo,nemo,NOM3,Case=Nom|Numb=Sing
+domum,domvs,NOM6,Case=Acc|Numb=Sing
+pluris,mvltvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
+Sosibiane,sosibianvs,NOM2,Case=Voc|Numb=Sing
+locat,loco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+praeter,praeter,PRE,MORPH=empty
+nubes,nvbes,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+caeli,caelvm,NOM2,Case=Gen|Numb=Sing
+numen,nvmen,NOM3,Case=Acc|Numb=Sing
+adorant,adoro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

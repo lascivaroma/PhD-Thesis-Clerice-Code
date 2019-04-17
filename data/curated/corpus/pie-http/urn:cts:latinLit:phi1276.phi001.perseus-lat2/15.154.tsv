@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tectum,tectvm,NOM2,Case=Acc|Numb=Sing
+aliud,alivs,PROind,Case=Acc|Numb=Sing
+tutos,tvtvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uicino,vicinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+limine,limen,NOM3,Case=Abl|Numb=Sing
+somnos,somnvs,NOM2,Case=Acc|Numb=Plur

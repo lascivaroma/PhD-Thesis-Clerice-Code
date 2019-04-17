@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cras,cras,ADV,Deg=Pos
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+eadem,idem,PROdem,Case=Nom|Numb=Sing
+plumbo,plvmbvm,NOM2,Case=Abl|Numb=Sing
+commissa,committo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+manebit,maneo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Gen|Numb=Sing

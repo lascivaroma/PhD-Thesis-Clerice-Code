@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+tertius,tertivs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
+e,ex,PRE,MORPH=empty
+caelo,caelvm,NOM2,Case=Abl|Numb=Sing
+cecidit,cado,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Cato,cato,NOM3,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+unde,vnde,ADVint,MORPH=empty

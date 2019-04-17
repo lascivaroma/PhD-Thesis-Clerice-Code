@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,Case=Nom|Numb=Sing
+stomachus,stomachvs,NOM2,Case=Nom|Numb=Sing
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+feruet,ferveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uino,vinvm,NOM2,Case=Abl|Numb=Sing
+-que,qvivis,ADV,MORPH=empty
+cibo,cibvs,NOM2,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,Deg=Pos

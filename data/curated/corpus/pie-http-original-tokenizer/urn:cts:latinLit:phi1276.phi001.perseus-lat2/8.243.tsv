@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+caedibus,caedes,NOM3,Case=Abl|Numb=Plur
+adsiduis,assidvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+gladio,gladivs,NOM2,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+Roma,roma,NOM1,Case=Abl|Numb=Sing
+parentem,parens,NOM3,Case=Acc|Numb=Sing

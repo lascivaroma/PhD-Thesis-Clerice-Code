@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+mane,mane,VER,Voice=Act
+Clytaemestram,clytaemestra,NOM1,Case=Acc|Numb=Sing
+nullus,nvllvs,PROind,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+uicus,vicvs,NOM2,Case=Nom|Numb=Sing
+habebit,habeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

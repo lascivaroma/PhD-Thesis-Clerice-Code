@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Ebria,ebria,NOM1,Case=Voc|Numb=Sing|Deg=Pos
+Baiano,baianvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+ueni,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+modo,modo,ADV,Deg=Pos
+concha,concha,NOM1,Case=Abl|Numb=Sing
+Lucrino,lvcrinvs,NOM2,Case=Abl|Numb=Sing
+Nobile,nobilis,ADJqua,Case=Voc|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+sitio,sitio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+luxuriosa,lvxvriosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+garum,garvm,NOM2,Case=Acc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

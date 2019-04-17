@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty
+quis,qvis,PROint,Case=Nom|Numb=Sing
+haec,hic,PROdem,Case=Nom|Numb=Plur
+eadem,idem,PROdem,Case=Nom|Numb=Plur
+paret,pareo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+;,o,INJ,MORPH=empty
+in,in,PRE,MORPH=empty
+Rutilo,rvtilvs,NOM2,Case=Abl|Numb=Sing
+nam,nam,CONcoo,MORPH=empty

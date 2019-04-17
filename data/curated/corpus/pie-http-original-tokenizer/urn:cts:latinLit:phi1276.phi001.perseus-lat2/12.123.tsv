@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+delebit,deleo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+tabulas,tabvla,NOM1,Case=Acc|Numb=Plur
+inclusus,inclvdo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+carcere,carcer,NOM3,Case=Abl|Numb=Sing
+nassae,nassvs,NOM1,Case=Gen|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Illyricumque,illyricvmqve,NOM2,Case=Voc|Numb=Sing
+latus,latvs,NOM3,Case=Acc|Numb=Sing
+;,o,INJ,MORPH=empty
+parce,parce,VER,Numb=Sing
+et,et,CONcoo,MORPH=empty
+messoribus,messor,NOM3,Case=Abl|Numb=Plur
+illis,ille,PROdem,Case=Abl|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quaeritur,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+o,o,INJ,MORPH=empty
+medici,medicvs,NOM2,Case=Voc|Numb=Plur
+nimiam,nimivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+pertundite,pertvndo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+uenam,vena,NOM1,Case=Acc|Numb=Sing

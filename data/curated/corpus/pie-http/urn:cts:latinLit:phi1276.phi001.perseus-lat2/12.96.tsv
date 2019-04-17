@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+claudentem,clavdo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
+gallinam,gallina,NOM1,Case=Acc|Numb=Sing
+inpendat,impendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+amico,amicvs,NOM2,Case=Dat|Numb=Sing

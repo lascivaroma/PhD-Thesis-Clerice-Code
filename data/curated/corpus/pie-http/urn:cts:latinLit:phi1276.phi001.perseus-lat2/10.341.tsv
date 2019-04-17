@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nota,notvs,ADJqua,Case=Nom|Numb=Sing
+urbi,vrbs,NOM3,Case=Dat|Numb=Sing
+et,et,CONcoo,MORPH=empty
+populo,popvlvs,NOM2,Case=Dat|Numb=Sing
+contingat,contingo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+principis,princeps,NOM3,Case=Gen|Numb=Sing
+aurem,avris,NOM3,Case=Acc|Numb=Sing

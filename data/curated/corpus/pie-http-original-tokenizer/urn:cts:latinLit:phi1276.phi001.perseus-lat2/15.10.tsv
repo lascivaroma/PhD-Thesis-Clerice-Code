@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+o,o,INJ,MORPH=empty
+sanctas,sanctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+gentes,gens,NOM3,Case=Acc|Numb=Plur
+quibus,qvi,PROrel,Case=Abl|Numb=Plur
+haec,hic,PROdem,Case=Nom|Numb=Plur
+nascuntur,nascor,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+in,in,PRE,MORPH=empty
+hortis,hortvs,NOM2,Case=Abl|Numb=Plur

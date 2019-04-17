@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Ludit,lvditvs,VER,Case=Loc|Numb=Sing|Mood=Ind|Tense=Pres|Person=3
+in,in,PRE,MORPH=empty
+ancipiti,anceps,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+constans,constans,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fallacia,fallax,NOM1,Case=Abl|Numb=Sing
+sexu,sexvs,NOM4,Case=Abl|Numb=Sing
+Femineum,feminevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+patitur,patior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+peragit,perago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cum,cvm,CONsub,MORPH=empty
+turpia,tvrpis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+mas,mas,NOM6,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

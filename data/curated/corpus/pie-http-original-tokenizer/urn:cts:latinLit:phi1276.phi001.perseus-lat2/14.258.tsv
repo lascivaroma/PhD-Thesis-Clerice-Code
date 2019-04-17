@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+spectes,specto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quanto,qvantvs,PROint,Case=Abl|Numb=Sing
+capitis,capvt,NOM3,Case=Gen|Numb=Sing
+discrimine,discrimen,NOM3,Case=Abl|Numb=Sing
+constent,consto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3

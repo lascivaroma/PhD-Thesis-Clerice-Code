@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+respondes,respondeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+his,hic,PROdem,Case=Dat|Numb=Plur
+Iane,ianvs,NOM2,Case=Voc|Numb=Sing
+pater,pater,NOM3,Case=Voc|Numb=Sing
+magna,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+otia,otivm,NOM2,Case=Acc|Numb=Plur
+caeli,caelvm,NOM2,Case=Gen|Numb=Sing
+;,o,PRE,MORPH=empty

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Talibus,talibes,NOM3,Case=Abl|Numb=Plur
+instantem,insto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+monitis,monitvm,NOM2,Case=Abl|Numb=Plur
+quemcumque,qvicvmqve,PROrel,Case=Acc|Numb=Sing
+parentem,parens,NOM3,Case=Acc|Numb=Sing

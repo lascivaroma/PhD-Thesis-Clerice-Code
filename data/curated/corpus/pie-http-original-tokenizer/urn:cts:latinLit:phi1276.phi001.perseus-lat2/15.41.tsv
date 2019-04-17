@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+laetum,laetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+hilaremque,hilaris,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+diem,dies,NOM5,Case=Acc|Numb=Sing
+ne,ne,CONsub,MORPH=empty
+magnae,magnvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+gaudia,gavdivm,NOM2,Case=Nom|Numb=Plur
+cenae,cena,NOM1,Case=Gen|Numb=Sing

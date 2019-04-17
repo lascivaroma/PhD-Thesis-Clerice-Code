@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+coneris,conor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=2
+iacet,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+exiguus,exigvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+ramice,ramex,NOM3,Case=Abl|Numb=Sing
+neruus,nervvs,NOM2,Case=Nom|Numb=Sing

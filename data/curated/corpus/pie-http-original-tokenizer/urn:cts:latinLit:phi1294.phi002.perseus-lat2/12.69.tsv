@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Sic,sic,ADV,Deg=Pos
+tanquam,tamqvam,ADVrel,MORPH=empty
+tabulas,tabvla,NOM1,Case=Acc|Numb=Plur
+scyphosque,scyphvs,NOM2,Case=Acc|Numb=Plur
+Paule,pavlvs,NOM2,Case=Voc|Numb=Sing
+Omnes,omnes,NOM7,Case=Nom|Numb=Plur
+archetypos,archetypvs,NOM2,Case=Acc|Numb=Plur
+habes,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+amicos,amicvs,NOM2,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Spoletina,spoletinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+bibis,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uel,vel,ADV,MORPH=empty
+Marsis,marsvs,NOM2,Case=Abl|Numb=Plur
+condita,condo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+cellis,cella,NOM2,Case=Abl|Numb=Plur
+Quo,qvis,PROint,Case=Dat|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+decoctae,decoqvo,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+nobile,nobilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+frigus,frigvs,NOM3,Case=Nom|Numb=Sing
+aquae,aqva,NOM1,Case=Gen|Numb=Sing

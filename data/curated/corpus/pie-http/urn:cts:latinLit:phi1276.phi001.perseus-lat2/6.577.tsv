@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+primum,primvs,ADJord,Case=Acc|Numb=Sing|Deg=Sup
+lapidem,lapis,NOM3,Case=Acc|Numb=Sing
+uectari,vecto,VER,Mood=Inf|Tense=Pres|Voice=Dep
+cum,cvm,CONsub,MORPH=empty
+placet,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hora,hora,NOM1,Case=Abl|Numb=Sing

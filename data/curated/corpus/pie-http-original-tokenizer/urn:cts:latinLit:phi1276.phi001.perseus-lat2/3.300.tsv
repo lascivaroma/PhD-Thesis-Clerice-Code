@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pulsatus,pvlso,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+rogat,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+pugnis,pvgna,NOM1,Case=Abl|Numb=Plur
+concisus,concido,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+adorat,adoro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

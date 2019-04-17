@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+arboris,arbor,NOM3,Case=Gen|Numb=Sing
+ac,ac,CONcoo,MORPH=empty
+summi,svpervs,ADJqua,Case=Gen|Numb=Sing|Deg=Sup
+fida,fidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+internuntia,internvntivs,ADJqua,Case=Nom|Numb=Sing
+caeli,caelvm,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

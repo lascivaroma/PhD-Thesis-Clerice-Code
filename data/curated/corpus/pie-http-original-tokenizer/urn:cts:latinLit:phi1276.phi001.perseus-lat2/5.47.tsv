@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+siccabis,sicco,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+calicem,calix,NOM3,Case=Acc|Numb=Sing
+nasorum,nasvs,NOM2,Case=Gen|Numb=Plur
+quattuor,qvatvor,ADJcar,Case=Ind
+ac,ac,CONcoo,MORPH=empty
+iam,iam,ADV,Deg=Pos

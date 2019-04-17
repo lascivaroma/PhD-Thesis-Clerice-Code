@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Roma,roma,NOM1,Case=Nom|Numb=Sing
+magis,magis,ADV,Deg=Comp
+fuscis,fvscvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+uestitur,vestio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+Gallia,gallia,NOM1,Case=Nom|Numb=Sing
+rufis,rvfis,NOM3,Case=Nom|Numb=Sing
+Et,et,CONcoo,MORPH=empty
+placet,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hic,hic,PROdem,Case=Nom
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+militibusque,miles,NOM3,Case=Dat|Numb=Plur
+colos,colvs,NOM2,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

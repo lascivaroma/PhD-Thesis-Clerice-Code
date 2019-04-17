@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ergo,ergo,CONcoo,MORPH=empty
+expectatos,exspecto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+ac,ac,CONcoo,MORPH=empty
+iussos,ivbeo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+crescere,cresco,VER,Mood=Inf|Tense=Pres|Voice=Act
+primum,primvm,ADJadv.ord,Deg=Sup

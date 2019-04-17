@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hinc,hinc,ADV,Deg=Pos
+causas,cavsa,NOM1,Case=Acc|Numb=Plur
+habuere,habeo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+illo,ille,PROdem,Case=Abl|Numb=Sing
+ciue,civis,NOM3,Case=Abl|Numb=Sing
+tulisset,fero,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3

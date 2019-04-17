@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+coniugium,conivgivm,NOM2,Case=Acc|Numb=Sing
+in,in,PRE,MORPH=empty
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+domibus,domvs,NOM4,Case=Abl|Numb=Plur
+seruauit,servo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+adulter,advlter,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

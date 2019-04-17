@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+adquirenda,acqviro,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+putas,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+breuior,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+uia,via,NOM1,Case=Nom|Numb=Sing
+conteret,contero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+illi,ille,PROdem,Case=Dat|Numb=Sing
+;,o,PRE,MORPH=empty

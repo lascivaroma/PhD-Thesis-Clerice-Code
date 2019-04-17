@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tunc,tvnc,ADV,Deg=Pos
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quotiens,qvotiens,ADVrel,MORPH=empty
+aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
+tortore,tortor,NOM3,Case=Abl|Numb=Sing
+uocato,voco,VER,Case=Abl|Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act

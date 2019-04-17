@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hinc,hinc,ADV,Deg=Pos
+ieiunum,ieivnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+odium,odivm,NOM2,Case=Acc|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+iurgia,ivrgivm,NOM2,Case=Acc|Numb=Plur
+prima,primvs,ADJord,Case=Acc|Numb=Plur|Deg=Sup
+sonare,sono,VER,Mood=Inf|Tense=Pres|Voice=Act

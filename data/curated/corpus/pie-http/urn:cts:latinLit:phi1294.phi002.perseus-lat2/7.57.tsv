@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Castora,castor,NOM7,Case=Acc|Numb=Sing
+de,de,PRE,MORPH=empty
+Polluce,pollvx,NOM3,Case=Abl|Numb=Sing
+Gabinia,gabinia,NOM1,Case=Abl|Numb=Sing
+fecit,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Achilla,achillas,NOM1,Case=Nom|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+fuerat,svm,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+nunc,nvnc,ADV,Deg=Pos
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ponitur,pono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+exigua,exigvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+feralis,feralis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cena,cena,NOM1,Case=Abl|Numb=Sing
+patella,patella,NOM1,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

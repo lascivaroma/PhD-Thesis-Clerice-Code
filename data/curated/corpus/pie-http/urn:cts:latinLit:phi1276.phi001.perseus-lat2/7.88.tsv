@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+militiae,militia,NOM1,Case=Gen|Numb=Sing
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+largitur,largior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+honorem,honor,NOM3,Case=Acc|Numb=Sing

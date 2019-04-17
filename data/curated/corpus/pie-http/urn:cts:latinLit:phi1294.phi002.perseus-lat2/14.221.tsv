@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Rara,rara,NOM1,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+curua,cvrvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+craticula,craticvla,NOM1,Case=Nom|Numb=Sing
+sudet,svdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ofella,ofella,NOM1,Case=Nom|Numb=Sing
+;,o,INJ,MORPH=empty
+Spumeus,spvmevs,NOM2,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+longa,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cuspide,cvspis,NOM3,Case=Abl|Numb=Sing
+fumet,fvmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aper,aper,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

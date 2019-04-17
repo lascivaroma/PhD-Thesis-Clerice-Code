@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+accipimus,accipio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tenue,tenvis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+argentum,argentvm,NOM2,Case=Acc|Numb=Sing
+uenaeque,vena,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+secundae,secvndvs,ADJord,Case=Nom|Numb=Plur|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+membra,membrvm,NOM2,Case=Acc|Numb=Plur
+aliena,alienvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+fame,fames,NOM3,Case=Abl|Numb=Sing
+lacerabant,lacero,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+parati,paratvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

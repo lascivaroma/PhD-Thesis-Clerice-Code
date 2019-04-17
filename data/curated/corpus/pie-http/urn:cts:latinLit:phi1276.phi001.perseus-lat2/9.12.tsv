@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+omnia,omnis,PROind,Case=Nom|Numb=Plur
+nunc,nvnc,ADV,Deg=Pos
+contra,contra,PRE,MORPH=empty
+uultus,vvltvs,NOM4,Case=Acc|Numb=Plur
+grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+horrida,horridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+siccae,siccvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos

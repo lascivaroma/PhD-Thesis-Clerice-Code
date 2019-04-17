@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quam,qvam,ADVint,MORPH=empty
+satis,satis,ADV,Case=Ind|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+interdum,interdvm,ADV,Deg=Pos
+aliena,alienvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sumitur,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+arca,arca,NOM1,Case=Abl|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Sing

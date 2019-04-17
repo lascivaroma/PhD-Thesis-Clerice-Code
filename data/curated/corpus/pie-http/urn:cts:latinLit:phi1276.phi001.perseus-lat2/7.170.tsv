@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+iam,iam,ADV,Deg=Pos
+ueteres,vetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+sanant,sano,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mortaria,mortarivm,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+caecos,caecvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

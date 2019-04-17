@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hos,hic,PROdem,Case=Acc|Numb=Plur
+animos,animvs,NOM2,Case=Acc|Numb=Plur
+neque,neqve,CONcoo,MORPH=empty
+enim,enim,CONcoo,MORPH=empty
+loculis,locvlvs,NOM2,Case=Abl|Numb=Plur
+comitantibus,comitor,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Dep
+itur,eo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

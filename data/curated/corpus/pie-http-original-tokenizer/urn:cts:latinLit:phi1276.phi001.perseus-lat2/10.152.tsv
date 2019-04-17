@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+transilit,transilio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,INJ,MORPH=empty
+opposuit,oppono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+natura,natvra,NOM1,Case=Abl|Numb=Sing
+Alpemque,alpesqve,NOM2,Case=Nom|Numb=Sing
+niuemque,nix,PROind,Case=Acc|Numb=Sing

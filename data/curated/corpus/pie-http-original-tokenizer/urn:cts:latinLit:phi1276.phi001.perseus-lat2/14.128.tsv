@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+mucida,mvcidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+caerulei,caervlevs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+panis,panis,NOM3,Case=Gen|Numb=Sing
+consumere,consvmo,VER,Mood=Inf|Tense=Pres|Voice=Act
+frusta,frvstvm,NOM2,Case=Acc|Numb=Plur

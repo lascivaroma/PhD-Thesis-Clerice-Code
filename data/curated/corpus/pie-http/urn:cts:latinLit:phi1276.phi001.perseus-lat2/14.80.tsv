@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pascentis,pascor,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+propria,proprivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+iam,iam,ADV,Deg=Pos
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+arbore,arbor,NOM3,Case=Abl|Numb=Sing
+nidos,nidvs,NOM2,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

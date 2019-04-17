@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nunc,nvnc,ADV,Deg=Pos
+damnum,damnvm,NOM2,Case=Nom|Numb=Sing
+alterius,alter,PROind,Case=Gen|Numb=Sing
+nam,nam,CONcoo,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+cantante,canto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+uoluptas,volvptas,NOM3,Case=Nom|Numb=Sing

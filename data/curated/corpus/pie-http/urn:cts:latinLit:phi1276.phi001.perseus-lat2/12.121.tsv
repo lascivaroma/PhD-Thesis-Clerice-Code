@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Laudo,lavdo,NOM2,Case=Voc|Numb=Sing
+meum,mevs,PROpos,Case=Acc|Numb=Sing
+ciuem,civis,NOM3,Case=Acc|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+comparo,comparo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+testamento,testamentvm,NOM2,Case=Abl|Numb=Sing

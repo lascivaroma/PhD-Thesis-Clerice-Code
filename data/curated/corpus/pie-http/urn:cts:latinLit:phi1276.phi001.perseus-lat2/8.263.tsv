@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+magnum,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+dubia,dvbivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+pro,pro,PRE,MORPH=empty
+libertate,libertas,NOM3,Case=Abl|Numb=Sing
+deceret,decet,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,Numb=Sing
+caldum,calidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+potas,poto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ardenti,ardens,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+murra,myrrha,NOM1,Case=Abl|Numb=Sing
+Falerno,falernvm,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Conuenit,convenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+fit,fio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sapor,sapor,NOM3,Case=Nom|Numb=Sing
+inde,inde,ADV,Deg=Pos
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ausa,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
+Palatino,palatinvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+tegetem,teges,NOM3,Case=Acc|Numb=Sing
+praeferre,praefero,VER,Mood=Inf|Tense=Pres|Voice=Act
+cubili,cvbile,NOM3,Case=Dat|Numb=Sing

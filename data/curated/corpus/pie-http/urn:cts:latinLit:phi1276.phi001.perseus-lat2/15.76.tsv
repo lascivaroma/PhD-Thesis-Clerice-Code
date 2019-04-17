@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+uicina,vicinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+colunt,colo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+umbrosae,vmbrosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+Tentyra,tentyra,NOM1,Case=Nom|Numb=Sing
+palmae,palma,NOM1,Case=Gen|Numb=Plur

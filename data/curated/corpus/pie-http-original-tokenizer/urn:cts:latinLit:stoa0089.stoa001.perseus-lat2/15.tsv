@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Paupertas,pavpertas,NOM7,Case=Nom|Numb=Sing
+me,ego,PROper,Case=Acc|Numb=Sing
+saeua,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+domat,domo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+dirusque,dirvsqve,ADV,Deg=Pos
+Cupido,cvpido,NOM3,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+toleranda,tolero,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+fames,fames,NOM3,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+tolerandus,tolero,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+amor,amor,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

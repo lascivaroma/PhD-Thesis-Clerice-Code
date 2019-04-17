@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Ne,ne,INJ,Case=Ind
+trepida,trepidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+numquam,nvmqvam,ADVneg,MORPH=empty
+pathicus,pathicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+derit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+amicus,amicvs,NOM2,Case=Nom|Numb=Sing

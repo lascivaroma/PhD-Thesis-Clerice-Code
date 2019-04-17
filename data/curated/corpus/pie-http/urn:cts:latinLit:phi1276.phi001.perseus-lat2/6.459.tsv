@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+auribus,avris,NOM3,Case=Abl|Numb=Plur
+extentis,extendo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+magnos,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+commisit,committo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+elenchos,elenchvs,NOM2,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

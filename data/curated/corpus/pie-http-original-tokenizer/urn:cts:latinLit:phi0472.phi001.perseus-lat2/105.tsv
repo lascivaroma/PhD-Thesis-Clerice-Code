@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Mentula,mentvla,NOM1,Case=Nom|Numb=Sing
+conatur,conor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+Pipleum,piplevs,NOM2,Case=Acc|Numb=Sing
+scandere,scando,VER,Mood=Inf|Tense=Pres|Voice=Act
+montem,mons,NOM3,Case=Acc|Numb=Sing
+Musae,mvsa,NOM1,Case=Gen|Numb=Sing
+furcillis,fvrcillvs,NOM1,Case=Abl|Numb=Plur
+praecipitem,praeceps,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+eiciunt,eicio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

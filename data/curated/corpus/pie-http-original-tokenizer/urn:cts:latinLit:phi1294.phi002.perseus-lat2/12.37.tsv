@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Nasutus,nasvtvs,NOM2,Case=Nom|Numb=Sing
+nimium,nimivm,ADV,Deg=Pos
+cupis,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uideri,video,VER,Mood=Inf|Tense=Pres|Voice=Pass
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Nasutum,nasvtes,NOM2,Case=Acc|Numb=Sing
+uolo,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+nolo,nolo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+polyposum,polyposvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

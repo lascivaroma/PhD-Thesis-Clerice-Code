@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dat,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+poenas,poena,NOM1,Case=Acc|Numb=Plur
+noctem,nox,NOM3,Case=Acc|Numb=Sing
+patitur,patior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+lugentis,lvgeo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+amicum,amicvs,NOM2,Case=Acc|Numb=Sing

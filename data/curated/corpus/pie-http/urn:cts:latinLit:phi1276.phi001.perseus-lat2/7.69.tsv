@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+Vergilio,vergilivs,NOM2,Case=Dat|Numb=Sing
+puer,pver,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+tolerabile,tolerabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+desset,desvm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

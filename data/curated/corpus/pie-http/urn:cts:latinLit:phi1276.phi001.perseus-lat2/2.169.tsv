@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+mittentur,mitto,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+bracae,braca,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+cultelli,cvltellvs,NOM2,Case=Nom|Numb=Plur
+frena,frenvm,NOM2,Case=Nom|Numb=Plur
+flagellum,flagellvm,NOM2,Case=Acc|Numb=Sing
+;,o,PRE,MORPH=empty

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+leporem,lepor,NOM3,Case=Acc|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+capream,caprea,NOM1,Case=Acc|Numb=Sing
+famulae,famvla,NOM1,Case=Gen|Numb=Sing
+Iouis,ivppiter,NOM3,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+generosae,generosvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

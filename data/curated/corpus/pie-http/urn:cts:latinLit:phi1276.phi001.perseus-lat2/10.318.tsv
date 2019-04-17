@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+tuus,tvvs,PROpos,Case=Nom|Numb=Sing
+Endymio,endymivs,ADJqua,Case=Dat|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+dilectae,diligo,ADJqua,Case=Dat|Numb=Sing
+fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+adulter,advlter,NOM2,Case=Nom|Numb=Sing

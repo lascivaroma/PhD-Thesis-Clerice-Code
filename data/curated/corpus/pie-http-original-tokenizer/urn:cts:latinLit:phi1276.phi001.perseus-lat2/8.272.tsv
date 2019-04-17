@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+ut,vt,CONsub,MORPH=empty
+longe,longe,ADV,Deg=Pos
+repetas,repeto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+longeque,longeqve,ADV,Deg=Pos
+reuoluas,revolvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

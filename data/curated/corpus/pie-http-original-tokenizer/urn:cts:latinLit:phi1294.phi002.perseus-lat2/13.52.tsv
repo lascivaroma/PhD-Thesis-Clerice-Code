@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Tota,tota,NOM1,Case=Nom|Numb=Sing
+quidem,qvidem,ADV,Deg=Pos
+ponatur,pono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+anas,ana,NOM1,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+pectore,pectvs,NOM3,Case=Abl|Numb=Sing
+tantum,tantvm,PROdem,Case=Acc|Numb=Sing|Deg=Pos
+Et,et,CONcoo,MORPH=empty
+ceruice,cervix,NOM3,Case=Abl|Numb=Sing
+sapit,sapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cetera,cetera,NOM2,Case=Acc|Numb=Plur
+redde,reddo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+coco,coqvvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

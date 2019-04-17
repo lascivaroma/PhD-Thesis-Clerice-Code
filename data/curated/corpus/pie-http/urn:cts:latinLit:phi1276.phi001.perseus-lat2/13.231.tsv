@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+infesto,infestvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+credunt,credo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+numine,nvmen,NOM3,Case=Abl|Numb=Sing
+saxa,saxvm,NOM2,Case=Nom|Numb=Plur
+deorum,devs,NOM2,Case=Gen|Numb=Plur

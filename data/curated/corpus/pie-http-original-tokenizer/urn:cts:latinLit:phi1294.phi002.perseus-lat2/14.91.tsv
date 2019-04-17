@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Grandia,grandia,NOM1,Case=Nom|Numb=Plur
+taurorum,tavrvs,NOM2,Case=Gen|Numb=Plur
+portant,porto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+corpora,corpvs,NOM3,Case=Acc|Numb=Plur
+quaeris,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+An,an,ADVint,Case=Acc
+Libycas,libycvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+possint,possvm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+sustinuisse,svstineo,VER,Mood=Inf|Tense=Perf|Voice=Act
+trabes,trabs,NOM3,Case=Acc|Numb=Plur

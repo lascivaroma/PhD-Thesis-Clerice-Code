@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Exigis,exigi,NOM2,Case=Nom|Numb=Sing
+ut,vt,CONsub,MORPH=empty
+nostros,noster,PROpos,Case=Acc|Numb=Plur
+donem,dono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+tibi,tv,PROper,Case=Dat|Numb=Sing
+Tucca,tvcca,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+libellos,libellvs,NOM2,Case=Acc|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+Non,non,ADVint,MORPH=empty
+faciam,facio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+nam,nam,CONcoo,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uendere,vendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+non,non,ADVneg,MORPH=empty
+legere,lego,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

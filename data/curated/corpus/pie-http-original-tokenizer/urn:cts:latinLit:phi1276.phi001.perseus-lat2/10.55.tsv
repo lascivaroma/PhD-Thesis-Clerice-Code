@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+propter,propter,PRE,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+fas,fas,NOM6,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+genua,genv,NOM4,Case=Acc|Numb=Plur
+incerare,incero,VER,Mood=Inf|Tense=Pres|Voice=Act
+deorum,devs,NOM2,Case=Gen|Numb=Plur

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+testiculos,testicvlvs,NOM2,Case=Acc|Numb=Plur
+postquam,postqvam,CONsub,MORPH=empty
+coeperunt,coepio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+bilibres,biliber,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

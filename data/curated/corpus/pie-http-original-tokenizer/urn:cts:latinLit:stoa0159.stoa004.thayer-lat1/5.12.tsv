@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Senatusconsultum,senatvs,NOM2,Case=Acc|Numb=Sing
+quod,qvod,CONsub,MORPH=empty
+tantum,tantvm,ADV,Deg=Pos
+senatores,senator,NOM3,Case=Nom|Numb=Plur
+populis,popvlvs,NOM2,Case=Dat|Numb=Plur
+consulendo,consvlo,VER,Case=Abl|Numb=Sing|Mood=Ger|Voice=Act
+decernunt,decerno,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

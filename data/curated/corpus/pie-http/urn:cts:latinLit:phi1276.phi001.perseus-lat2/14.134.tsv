@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+inuitatus,invito,VER,Numb=Sing|Mood=Par|Tense=Fut|Voice=Pass
+ad,ad,PRE,MORPH=empty
+haec,hic,PROdem,Case=Acc|Numb=Plur
+aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
+de,de,PRE,MORPH=empty
+ponte,pons,NOM3,Case=Abl|Numb=Sing
+negabit,nego,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+,,PRE,MORPH=empty
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

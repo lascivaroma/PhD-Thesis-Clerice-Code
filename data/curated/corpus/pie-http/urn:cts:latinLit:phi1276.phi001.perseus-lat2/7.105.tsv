@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Sed,sed,NOM2,Case=Nom|Numb=Sing
+genus,genvs,NOM3,Case=Nom|Numb=Sing
+ignauum,ignavvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+lecto,lectvs,NOM2,Case=Abl|Numb=Sing
+gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+et,et,CONcoo,MORPH=empty
+umbra,vmbra,NOM1,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

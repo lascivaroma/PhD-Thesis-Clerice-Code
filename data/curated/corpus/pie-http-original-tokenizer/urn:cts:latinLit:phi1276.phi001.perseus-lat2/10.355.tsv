@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+exta,exta,NOM2,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+candiduli,candidvlvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+diuina,divinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+tomacula,tomacvlvm,NOM2,Case=Acc|Numb=Plur
+porci,porcvs,NOM2,Case=Gen|Numb=Sing

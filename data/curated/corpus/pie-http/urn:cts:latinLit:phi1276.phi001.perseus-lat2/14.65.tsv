@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+atria,atrivm,NOM2,Case=Nom|Numb=Plur
+displiceant,displiceo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+oculis,ocvlvs,NOM2,Case=Abl|Numb=Plur
+uenientis,venio,VER,Case=Gen|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+amici,amicvs,NOM2,Case=Nom|Numb=Plur

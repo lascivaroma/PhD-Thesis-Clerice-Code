@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inpulit,impello,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+hos,hic,PROdem,Case=Acc|Numb=Plur
+quae,qvis,PROint,Case=Nom|Numb=Sing
+tanta,tantvs,PROdem,Case=Nom|Numb=Sing
+fames,fames,NOM3,Case=Nom|Numb=Sing
+infestaque,infestvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uallo,vallvm,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+porticibus,porticvs,NOM4,Case=Abl|Numb=Plur
+quanta,qvantvs,PROint,Case=Nom|Numb=Sing
+nemorum,nemvs,NOM3,Case=Gen|Numb=Plur
+uectetur,vecto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
+in,in,PRE,MORPH=empty
+umbra,vmbra,NOM1,Case=Abl|Numb=Sing

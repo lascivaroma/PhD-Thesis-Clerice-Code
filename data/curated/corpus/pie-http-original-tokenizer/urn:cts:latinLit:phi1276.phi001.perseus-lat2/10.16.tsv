@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Longinum,longinvs,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+magnos,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Senecae,seneca,NOM1,Case=Gen|Numb=Sing
+praediuitis,praedives,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+hortos,hortvs,NOM2,Case=Acc|Numb=Plur

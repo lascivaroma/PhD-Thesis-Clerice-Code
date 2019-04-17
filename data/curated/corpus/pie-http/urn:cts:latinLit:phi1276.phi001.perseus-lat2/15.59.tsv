@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ludere,lvdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+se,svi,PROref,Case=Acc|Numb=Sing
+credunt,credo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipsi,ipse,PROdem,Case=Nom|Numb=Plur
+tamen,tamen,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+puerilis,pverilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Inter,inter,ADJcar,Case=Nom|Numb=Sing
+aues,avis,NOM3,Case=Acc|Numb=Plur
+turdus,tvrdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+quid,qvis,PROind,Case=Nom|Numb=Sing
+me,ego,PROper,Case=Abl|Numb=Sing
+iudice,ivdex,NOM3,Case=Abl|Numb=Sing
+certum,certvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Inter,inter,ADJcar,Case=Nom|Numb=Sing
+quadripedes,qvadrvpes,NOM3,Case=Nom|Numb=Plur
+mattea,mattea,ADV,Numb=Sing|Deg=Pos
+prima,primvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
+lepus,lepvs,NOM3,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

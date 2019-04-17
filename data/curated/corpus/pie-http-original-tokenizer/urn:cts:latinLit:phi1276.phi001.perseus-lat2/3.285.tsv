@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+multum,mvltvm,ADV,Deg=Pos
+praeterea,praeterea,ADV,Deg=Pos
+flammarum,flamma,NOM1,Case=Gen|Numb=Plur
+et,et,CONcoo,MORPH=empty
+aenea,aenevs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+lampas,lampas,NOM1,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

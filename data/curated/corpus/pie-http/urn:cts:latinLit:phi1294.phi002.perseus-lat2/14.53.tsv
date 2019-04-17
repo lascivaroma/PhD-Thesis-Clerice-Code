@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Nuper,nvper,NOM3,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+Ausonia,avsonia,NOM1,Case=Abl|Numb=Sing
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+spectatus,specto,VER,Case=Nom|Numb=Sing|Tense=Perf|Voice=Pass
+harena,arena,NOM1,Case=Nom|Numb=Sing
+Hic,hic,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+pila,pila,NOM1,Case=Nom|Numb=Sing
+taurus,tavrvs,NOM2,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Nom|Numb=Plur

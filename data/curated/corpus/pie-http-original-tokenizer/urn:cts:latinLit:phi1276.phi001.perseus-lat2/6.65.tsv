@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sicut,sicvt,ADVrel,MORPH=empty
+in,in,PRE,MORPH=empty
+amplexu,amplexvs,NOM4,Case=Abl|Numb=Sing
+subito,svbito,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+miserabile,miserabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+longum,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty

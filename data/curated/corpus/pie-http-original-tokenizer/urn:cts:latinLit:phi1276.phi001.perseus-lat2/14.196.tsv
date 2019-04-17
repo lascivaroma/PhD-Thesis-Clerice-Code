@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+dirue,dirvo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+Maurorum,mavri,NOM2,Case=Gen|Numb=Plur
+attegias,attegio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+castella,castellvm,NOM2,Case=Acc|Numb=Plur
+Brigantum,brigantes,NOM3,Case=Gen|Numb=Plur

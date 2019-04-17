@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+longa,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dies,dies,NOM5,Case=Nom|Numb=Sing
+igitur,igitvr,CONcoo,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+contulit,confero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+uidit,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

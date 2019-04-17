@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+boletus,boletvs,NOM2,Case=Nom|Numb=Sing
+siquidem,siqvidem,CONsub,MORPH=empty
+unius,vnvs,ADJcar,Case=Gen|Numb=Sing
+praecordia,praecordia,NOM2,Case=Acc|Numb=Plur
+pressit,premo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

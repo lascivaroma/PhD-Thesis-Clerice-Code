@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+lata,fero,VER,Case=Nom|Numb=Sing|Deg=Pos|Tense=Perf|Voice=Pass
+acies,acies,NOM5,Case=Nom|Numb=Sing
+per,per,PRE,MORPH=empty
+quam,qvi,PROrel,Case=Acc|Numb=Sing
+sollers,sollers,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+euasit,evado,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Vlixes,vlixes,NOM7,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty

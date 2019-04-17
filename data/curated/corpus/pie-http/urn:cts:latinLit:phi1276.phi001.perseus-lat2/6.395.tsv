@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+uideo,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+agatur,ago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+aput,apvd,PRE,MORPH=empty
+uos,vos,PROper,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Ind|Numb=Plur

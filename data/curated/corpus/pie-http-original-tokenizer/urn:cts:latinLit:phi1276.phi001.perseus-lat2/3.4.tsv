@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ianua,ianva,NOM1,Case=Nom|Numb=Sing
+Baiarum,baiae,NOM1,Case=Gen|Numb=Plur
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+gratum,gratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+litus,litvs,NOM3,Case=Nom|Numb=Sing
+amoeni,amoenvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

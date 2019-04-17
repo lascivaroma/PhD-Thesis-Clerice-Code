@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+pontifices,pontifex,NOM3,Case=Acc|Numb=Plur
+salios,salivs,NOM2,Case=Acc|Numb=Plur
+Scaurorum,scavrvs,NOM3,Case=Gen|Numb=Plur
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+falso,falso,ADV,Deg=Pos

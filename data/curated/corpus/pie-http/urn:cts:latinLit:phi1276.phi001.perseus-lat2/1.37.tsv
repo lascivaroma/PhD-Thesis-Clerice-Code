@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+summoueant,svbmoveo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+testamenta,testamentvm,NOM2,Case=Acc|Numb=Plur
+merentur,mereor,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Dep|Person=3

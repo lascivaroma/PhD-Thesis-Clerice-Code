@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+agnosco,agnosco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+procerem,procer,NOM3,Case=Acc|Numb=Sing
+salue,salveo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+Gaetulice,gaetvlicvs,NOM2,Case=Voc|Numb=Sing|Deg=Pos
+seu,sev,CONcoo,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing

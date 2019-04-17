@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+glaciem,glacies,NOM5,Case=Acc|Numb=Sing
+perone,pero,NOM3,Case=Abl|Numb=Sing
+tegi,tego,VER,Mood=Inf|Tense=Pres|Voice=Pass
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+summouet,svbmoveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Euros,evrvs,NOM2,Case=Acc|Numb=Plur

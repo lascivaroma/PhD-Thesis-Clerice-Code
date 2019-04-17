@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Elidit,eliditvs,NOM3,Case=Gen|Numb=Sing|Person=3
+geminos,geminvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+infans,infans,NOM3,Case=Nom|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+respicit,respicio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+anguis,angvis,NOM3,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Iam,iavs,NOM1,Case=Acc|Numb=Sing
+poterat,possvm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+teneras,tener,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+hydra,hydra,NOM1,Case=Abl|Numb=Sing
+timere,timeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+manus,manvs,NOM4,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

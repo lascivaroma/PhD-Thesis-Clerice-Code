@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+horreat,horreo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+inque,inqvio,CONsub,Tense=Pres
+diem,dies,NOM5,Case=Acc|Numb=Sing
+septenis,septenvs,ADJdis,Case=Abl|Numb=Plur
+oderit,odi,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+horis,hora,NOM1,Case=Abl|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+iuuenis,ivvenis,NOM3,Case=Nom|Numb=Sing
+uetulo,vetvlvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+adsurrexerat,assvrgo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty

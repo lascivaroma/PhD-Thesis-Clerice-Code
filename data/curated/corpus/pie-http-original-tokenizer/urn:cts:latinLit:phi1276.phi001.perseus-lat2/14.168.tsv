@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+infantes,infans,NOM3,Case=Acc|Numb=Plur
+ludebant,lvdo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+quattuor,qvatvor,ADJcar,Case=Ind
+unus,vnvs,ADJcar,Case=Nom|Numb=Sing

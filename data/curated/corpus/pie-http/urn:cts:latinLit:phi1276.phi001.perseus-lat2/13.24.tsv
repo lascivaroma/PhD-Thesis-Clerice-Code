@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+perfidiam,perfidia,NOM1,Case=Acc|Numb=Sing
+fraudes,fravs,NOM3,Case=Nom|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+omni,omnis,PROind,Case=Abl|Numb=Sing
+ex,ex,PRE,MORPH=empty
+crimine,crimen,NOM3,Case=Abl|Numb=Sing
+lucrum,lvcrvm,NOM2,Case=Acc|Numb=Sing

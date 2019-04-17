@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iamque,iamqve,ADV,Deg=Pos
+eadem,idem,PROdem,Case=Nom|Numb=Sing
+summis,svpervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
+pariter,pariter,ADV,Deg=Pos
+minimisque,minimisqve,ADV,Deg=Pos
+libido,libido,NOM3,Case=Nom|Numb=Sing

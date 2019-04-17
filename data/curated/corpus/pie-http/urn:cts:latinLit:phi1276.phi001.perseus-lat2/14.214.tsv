@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+praeteriit,praetereo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Telamonem,telamon,NOM3,Case=Acc|Numb=Sing
+ut,vt,ADVrel,MORPH=empty
+Pelea,pelevs,NOM1,Case=Nom|Numb=Sing
+uicit,vinco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Achilles,achilles,NOM7,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+aspicere,aspicio,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+qualis,qvalis,PROint,Case=Nom|Numb=Sing
+Rutulum,rvtvlvs,NOM2,Case=Acc|Numb=Sing
+confundat,confvndo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Erinys,erinnys,NOM7,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

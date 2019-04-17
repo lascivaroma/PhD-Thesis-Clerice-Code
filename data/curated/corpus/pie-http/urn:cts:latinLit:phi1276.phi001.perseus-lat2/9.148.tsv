@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+his,hic,PROdem,Case=Abl|Numb=Plur
+saltem,saltem,ADV,Deg=Pos
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+cum,cvm,CONsub,MORPH=empty
+pro,pro,PRE,MORPH=empty
+me,ego,PROper,Case=Abl|Numb=Sing
+Fortuna,fortvna,NOM1,Case=Nom|Numb=Sing
+uocatur,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

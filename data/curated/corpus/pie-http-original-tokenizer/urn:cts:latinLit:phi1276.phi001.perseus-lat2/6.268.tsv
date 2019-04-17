@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Semper,semper,NOM7,Case=Nom|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+lites,lis,NOM3,Case=Acc|Numb=Plur
+alternaque,alternvsqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+iurgia,ivrgivm,NOM2,Case=Acc|Numb=Plur
+lectus,lectvs,NOM4,Case=Nom|Numb=Sing|Voice=Pass

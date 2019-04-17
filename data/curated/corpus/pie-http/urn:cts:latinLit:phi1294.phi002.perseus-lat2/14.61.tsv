@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Dux,dvx,NOM3,Case=Nom|Numb=Sing
+lanterna,laterna,NOM1,Case=Abl|Numb=Sing
+uiae,via,NOM1,Case=Gen|Numb=Sing
+clusis,clavdo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+feror,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
+aurea,avrevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+flammis,flamma,NOM1,Case=Abl|Numb=Plur
+Et,et,CONcoo,MORPH=empty
+tuta,tvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+gremio,gremivm,NOM2,Case=Dat|Numb=Sing
+parua,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+lucerna,lvcerna,NOM1,Case=Nom|Numb=Sing
+meo,mevs,PROpos,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uicinum,vicinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+se,svi,PROref,Case=Acc|Numb=Sing
+praebeat,praebeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Aemilius,aemilivs,ADJqua,Case=Nom|Numb=Sing
+pons,pons,NOM3,Case=Nom|Numb=Sing

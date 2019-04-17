@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+contemnunt,contemno,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mediam,medivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+temeraria,temerarivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+lina,linvm,NOM2,Case=Acc|Numb=Plur
+Charybdim,charybdis,NOM3,Case=Acc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

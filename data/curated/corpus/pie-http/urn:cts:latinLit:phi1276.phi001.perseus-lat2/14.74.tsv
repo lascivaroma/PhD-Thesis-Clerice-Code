@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+moribus,mos,NOM3,Case=Abl|Numb=Plur
+instituas,institvo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+serpente,serpens,NOM3,Case=Abl|Numb=Sing
+ciconia,ciconia,NOM1,Case=Abl|Numb=Sing
+pullos,pvllvs,NOM2,Case=Acc|Numb=Plur

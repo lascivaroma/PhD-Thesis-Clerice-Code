@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+at,at,CONcoo,MORPH=empty
+nunc,nvnc,ADV,Deg=Pos
+diuitibus,dives,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+cenandi,ceno,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+nulla,nvllvs,PROind,Case=Nom|Numb=Sing
+uoluptas,volvptas,NOM3,Case=Nom|Numb=Sing

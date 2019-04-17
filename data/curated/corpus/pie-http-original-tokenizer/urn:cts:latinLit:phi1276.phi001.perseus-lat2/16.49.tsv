@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+placitum,placeo,ADJqua,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipsis,ipse,PROdem,Case=Dat|Numb=Plur
+praestatur,praesto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+tempus,tempvs,NOM3,Case=Nom|Numb=Sing
+agendi,ago,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act

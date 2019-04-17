@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+Nero,nero,NOM3,Case=Nom|Numb=Sing
+tam,tam,ADV,Deg=Pos
+saeua,saevvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cruda,crvdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+tyrannide,tyrannis,NOM7,Case=Abl|Numb=Sing
+fecit,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

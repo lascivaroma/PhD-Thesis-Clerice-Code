@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+spirat,spiro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+hinc,hinc,ADV,Deg=Pos
+miseri,miser,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uiscantur,visco,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+labra,labrvm,NOM2,Case=Acc|Numb=Plur
+mariti,maritvs,NOM2,Case=Gen|Numb=Plur

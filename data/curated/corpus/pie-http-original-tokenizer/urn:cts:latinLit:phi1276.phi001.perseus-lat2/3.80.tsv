@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+sumpsit,svmo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+pinnas,pinna,NOM1,Case=Acc|Numb=Plur
+mediis,medivs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+sed,sed,CONcoo,MORPH=empty
+natus,nascor,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
+Athenis,athenae,NOM1,Case=Abl|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

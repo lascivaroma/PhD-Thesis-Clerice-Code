@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+quaedam,qvidam,PROind,Case=Nom|Numb=Plur
+ex,ex,PRE,MORPH=empty
+libris,liber,NOM2,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+non,non,ADVneg,MORPH=empty
+intellegat,intelligo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+odi,odivm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

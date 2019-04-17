@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+iam,iam,ADV,Deg=Pos
+fas,fas,NOM6,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+admitte,admitto,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+uiros,vir,NOM2,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+si,si,CONsub,MORPH=empty
+dormit,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adulter,advlter,NOM2,Case=Nom|Numb=Sing

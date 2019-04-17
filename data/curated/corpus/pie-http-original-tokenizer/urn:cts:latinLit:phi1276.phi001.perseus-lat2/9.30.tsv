@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+male,male,ADV,Deg=Pos
+percussas,percvtio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+textoris,textor,NOM3,Case=Gen|Numb=Sing
+pectine,pecten,NOM3,Case=Abl|Numb=Sing
+Galli,gallvs,NOM2,Case=Nom|Numb=Plur

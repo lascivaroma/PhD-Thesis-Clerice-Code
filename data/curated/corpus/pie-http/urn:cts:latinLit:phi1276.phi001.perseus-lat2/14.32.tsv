@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+corrumpunt,corrvmpo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uitiorum,vitivm,NOM2,Case=Gen|Numb=Plur
+exempla,exemplvm,NOM2,Case=Acc|Numb=Plur
+domestica,domesticvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+magnis,magnvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos

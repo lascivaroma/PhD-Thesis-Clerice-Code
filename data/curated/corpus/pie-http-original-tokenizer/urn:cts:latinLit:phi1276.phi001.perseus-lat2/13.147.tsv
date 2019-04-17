@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+confer,confero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+hos,hic,PROdem,Case=Acc|Numb=Plur
+ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+tollunt,tollo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+grandia,grandis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+templi,templvm,NOM2,Case=Gen|Numb=Sing

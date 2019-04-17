@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+superest,svpersvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+Massa,massa,NOM1,Case=Nom|Numb=Sing
+timet,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+munere,mvnvs,NOM3,Case=Abl|Numb=Sing
+palpat,palpo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

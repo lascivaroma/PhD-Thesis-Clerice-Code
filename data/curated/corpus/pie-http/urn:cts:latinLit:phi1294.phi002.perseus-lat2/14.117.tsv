@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Non,non,NOM7,MORPH=empty
+potare,poto,VER,Mood=Inf|Tense=Pres|Voice=Act
+niuem,nix,NOM3,Case=Acc|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+aquam,aqva,NOM1,Case=Acc|Numb=Sing
+potare,poto,VER,Mood=Inf|Tense=Pres|Voice=Act
+recentem,recens,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+De,de,NOM2,Case=Nom|Numb=Sing
+niue,nix,NOM3,Case=Abl|Numb=Sing
+commenta,comminiscor,ADJqua,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ingeniosa,ingeniosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sitis,sitis,NOM3,Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

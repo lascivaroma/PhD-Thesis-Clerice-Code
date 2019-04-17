@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+paene,paene,ADV,Deg=Pos
+perit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+uix,vix,ADV,Deg=Pos
+in,in,PRE,MORPH=empty
+Cyclada,cyclas,NOM1,Case=Abl|Numb=Sing
+mitti,mitto,VER,Mood=Inf|Tense=Pres|Voice=Pass

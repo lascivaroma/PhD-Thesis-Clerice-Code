@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+admoueas,admoveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+cuius,qvi,PROrel,Case=Gen|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+munere,mvnvs,NOM3,Case=Abl|Numb=Sing
+retia,rete,NOM3,Case=Acc|Numb=Plur
+misit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

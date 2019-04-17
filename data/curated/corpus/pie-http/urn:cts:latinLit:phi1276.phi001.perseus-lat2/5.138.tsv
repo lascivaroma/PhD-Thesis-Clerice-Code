@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+tu,tv,PROper,Case=Nom|Numb=Sing
+fieri,fio,VER,Mood=Inf|Tense=Pres|Voice=Act
+nullus,nvllvs,PROind,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+paruolus,parvvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aula,avla,NOM1,Case=Abl|Numb=Sing

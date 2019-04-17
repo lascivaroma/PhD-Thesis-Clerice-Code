@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cum,cvm,PRE,MORPH=empty
+matre,mater,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+casulis,casvla,NOM2,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+conlusore,collvsor,NOM3,Case=Abl|Numb=Sing
+catello,catellvs,NOM2,Case=Abl|Numb=Sing

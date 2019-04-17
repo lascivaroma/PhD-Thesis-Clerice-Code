@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+praefectos,praefectvs,NOM2,Case=Acc|Numb=Plur
+Pelopea,pelopevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Philomela,philomela,NOM1,Case=Nom|Numb=Sing
+tribunos,tribvnvs,NOM2,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

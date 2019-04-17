@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uiuentis,vivens,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+uiuat,vivo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Gabiis,gabii,NOM2,Case=Dat|Numb=Plur
+ut,vt,ADVrel,MORPH=empty
+uixit,vivo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+agro,ager,NOM2,Case=Abl|Numb=Sing

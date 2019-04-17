@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nunc,nvnc,ADV,Deg=Pos
+sociis,socivs,NOM2,Case=Dat|Numb=Plur
+iuga,ivgvm,NOM2,Case=Nom|Numb=Plur
+pauca,pavcvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+boum,bos,NOM3,Case=Gen|Numb=Plur
+grex,grex,NOM3,Case=Nom|Numb=Sing
+paruus,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+equarum,eqva,NOM1,Case=Gen|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+gestetur,gesto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+dominus,dominvs,NOM2,Case=Nom|Numb=Sing
+quotiens,qvotiens,ADVrel,MORPH=empty
+pluit,plvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+anne,anne,ADVint,MORPH=empty
+serenum,serenvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

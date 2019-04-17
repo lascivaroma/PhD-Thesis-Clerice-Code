@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+mancus,mancvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+extinctae,exstingvo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+corpus,corpvs,NOM3,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+utile,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dextrae,dextera,NOM1,Case=Gen|Numb=Sing

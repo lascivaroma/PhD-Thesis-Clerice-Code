@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+excelsae,excelsvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+turris,tvrris,NOM3,Case=Nom|Numb=Sing
+tabulata,tabvlatvm,NOM2,Case=Nom|Numb=Sing
+unde,vnde,ADVint,MORPH=empty
+altior,altvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+esset,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+crescente,cresco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+gula,gvla,NOM1,Case=Abl|Numb=Sing
+manet,maneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+exitus,exitvs,NOM4,Case=Nom|Numb=Sing
+aere,aes,NOM3,Case=Abl|Numb=Sing
+paterno,paternvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

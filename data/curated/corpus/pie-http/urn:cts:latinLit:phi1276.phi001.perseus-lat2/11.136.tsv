@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+nec,nec,CONcoo,MORPH=empty
+structor,strvctor,NOM3,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+cedere,cedo,VER,Mood=Inf|Tense=Pres|Voice=Act
+debeat,debeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+omnis,omnis,PROind,Case=Acc|Numb=Plur

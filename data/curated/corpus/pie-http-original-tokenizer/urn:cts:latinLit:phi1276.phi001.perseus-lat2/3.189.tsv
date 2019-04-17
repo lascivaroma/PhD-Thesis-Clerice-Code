@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cogimur,cogo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
+et,et,CONcoo,MORPH=empty
+cultis,cvltvs,ADJqua,Case=Abl|Numb=Plur|Voice=Pass
+augere,avgeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+peculia,pecvlivm,NOM2,Case=Acc|Numb=Plur
+seruis,servvs,NOM2,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

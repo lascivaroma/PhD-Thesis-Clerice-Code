@@ -1,0 +1,5 @@
+form,lemma,pos,morph
+additur,addo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+imperiis,imperivm,NOM2,Case=Abl|Numb=Plur
+Hispania,hispania,NOM1,Case=Nom|Numb=Sing
+Pyrenaeum,pyrenaevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

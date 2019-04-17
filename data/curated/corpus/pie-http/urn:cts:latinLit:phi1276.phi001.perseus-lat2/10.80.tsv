@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+continet,contineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+atque,atqve,CONcoo,MORPH=empty
+duas,dvo,ADJcar,Case=Acc|Numb=Plur
+tantum,tantvm,ADV,MORPH=empty
+res,res,NOM5,Case=Nom|Numb=Sing
+anxius,anxivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+optat,opto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nitent,niteo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+longos,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+erexit,erigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ianua,ianva,NOM1,Case=Nom|Numb=Sing
+ramos,ramvs,NOM2,Case=Acc|Numb=Plur

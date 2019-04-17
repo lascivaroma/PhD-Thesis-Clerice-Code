@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+contingunt,contingo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+homini,homo,NOM3,Case=Dat|Numb=Sing
+ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+fastidia,fastidivm,NOM2,Case=Acc|Numb=Plur
+quercus,qvercvs,NOM4,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

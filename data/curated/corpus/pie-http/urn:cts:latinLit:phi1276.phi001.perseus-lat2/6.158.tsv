@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+barbarus,barbarvs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+incestae,incestvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+Agrippa,agrippa,NOM1,Case=Nom|Numb=Sing
+sorori,soror,NOM3,Case=Dat|Numb=Sing

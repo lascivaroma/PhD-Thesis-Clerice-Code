@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+ibi,ibi,ADV,Deg=Pos
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+respectus,respectvs,NOM4,Case=Nom|Numb=Sing
+gratia,gratia,NOM1,Case=Nom|Numb=Sing
+nulla,nvllvs,PROind,Case=Nom|Numb=Sing

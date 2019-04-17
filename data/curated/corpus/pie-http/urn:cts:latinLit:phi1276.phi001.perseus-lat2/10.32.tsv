@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mirandum,miror,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Dep
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+unde,vnde,ADVint,MORPH=empty
+ille,ille,PROdem,Case=Nom|Numb=Sing
+oculis,ocvlvs,NOM2,Case=Dat|Numb=Plur
+suffecerit,svfficio,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+umor,hvmor,NOM3,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing

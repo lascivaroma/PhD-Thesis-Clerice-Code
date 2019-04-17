@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Mitem,mitis,NOM3,Case=Acc|Numb=Sing
+animum,animvs,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+mores,mos,NOM3,Case=Acc|Numb=Plur
+modicis,modicvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+erroribus,error,NOM3,Case=Abl|Numb=Plur
+aequos,aeqvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

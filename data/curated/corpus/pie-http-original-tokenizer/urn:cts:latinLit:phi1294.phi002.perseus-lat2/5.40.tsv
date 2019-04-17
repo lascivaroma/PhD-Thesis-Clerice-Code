@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Pinxisti,pingistvs,NOM2,Case=Gen|Numb=Sing
+Venerem,venvs,NOM3,Case=Acc|Numb=Sing
+colis,colo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Artemidore,artemidor,NOM7,Case=Voc|Numb=Sing
+Mineruam,minerva,NOM1,Case=Acc|Numb=Sing
+Et,et,CONcoo,MORPH=empty
+miraris,miror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+opus,opvs,NOM6,Case=Acc|Numb=Sing
+displicuisse,displiceo,VER,Mood=Inf|Tense=Perf|Voice=Act
+tuum,tvvs,PROpos,Case=Acc|Numb=Sing

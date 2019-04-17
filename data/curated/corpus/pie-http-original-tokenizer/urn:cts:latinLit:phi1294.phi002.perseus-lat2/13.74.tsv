@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Haec,haec,NOM3,Case=Nom|Numb=Sing
+seruauit,servo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+auis,avis,NOM3,Case=Nom|Numb=Sing
+Tarpei,tarpeivs,NOM2,Case=Gen|Numb=Sing
+templa,templvm,NOM2,Case=Acc|Numb=Plur
+Tonantis,tonans,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Miraris,mirar,NOM3,Case=Gen|Numb=Sing
+Nondum,nondvs,NOM2,Case=Acc|Numb=Sing
+fecerat,facio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+illa,ille,PROdem,Case=Nom|Numb=Sing
+deus,devs,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

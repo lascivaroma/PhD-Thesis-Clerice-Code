@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Litigat,litiga,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+podagra,podagra,NOM1,Case=Abl|Numb=Sing
+Diodorus,diodorvs,NOM2,Case=Nom|Numb=Sing
+Flacce,flaccvs,NOM2,Case=Voc|Numb=Sing
+laborat,laboro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Sed,sedes,NOM7,Case=Nom|Numb=Sing
+nil,nihil,PROind,Case=Ind
+patrono,patronvs,NOM2,Case=Dat|Numb=Sing
+porrigit,porrigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Sing
+cheragra,cheragra,ADJqua,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Nom|Numb=Sing

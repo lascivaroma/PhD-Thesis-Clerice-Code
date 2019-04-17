@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Ventidius,ventidivs,NOM2,Case=Nom|Numb=Sing
+quid,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+Tullius,tvllivs,NOM2,Case=Nom|Numb=Sing
+anne,anne,ADVint,MORPH=empty
+aliud,alivs,PROind,Case=Acc|Numb=Sing
+quam,qvam,ADVrel,MORPH=empty

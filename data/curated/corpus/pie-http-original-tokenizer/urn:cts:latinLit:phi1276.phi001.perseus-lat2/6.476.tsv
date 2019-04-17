@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+auersus,aversvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+iacuit,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+periit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+libraria,librarivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ponunt,pono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

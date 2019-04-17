@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+militia,militia,NOM1,Case=Nom|Numb=Sing
+;,o,INJ,MORPH=empty
+torrens,torrens,NOM3,Case=Nom|Numb=Sing
+dicendi,dico,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+copia,copia,NOM1,Case=Nom|Numb=Sing
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

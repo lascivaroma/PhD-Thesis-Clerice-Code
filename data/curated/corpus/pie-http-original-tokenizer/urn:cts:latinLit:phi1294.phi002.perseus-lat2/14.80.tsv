@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Inuisae,invisa,ADJqua,Case=Gen|Numb=Plur
+nimium,nimivm,ADV,Deg=Pos
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+grataeque,gratvsqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+magistris,magister,NOM2,Case=Abl|Numb=Plur
+Clara,clarvs,NOM1,Case=Nom|Numb=Sing
+Prometheo,promethevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+munere,mvnvs,NOM3,Case=Abl|Numb=Sing
+ligna,lignvm,NOM2,Case=Nom|Numb=Plur
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+.,qvintvs,ADJcar,Case=Nom|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+reccidit,recido,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ut,vt,CONsub,MORPH=empty
+malum,malvm,NOM2,Case=Acc|Numb=Sing|Deg=Pos
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
+summitteret,svbmitto,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+;,,PRE,MORPH=empty
+ac,ac,CONcoo,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing

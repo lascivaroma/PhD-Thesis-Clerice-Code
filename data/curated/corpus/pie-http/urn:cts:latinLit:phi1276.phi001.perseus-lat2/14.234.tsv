@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+permittas,permitto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+adeo,adeo,ADV,Deg=Pos
+indulgent,indvlgeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sibi,svi,PROref,Case=Dat|Numb=Sing
+latius,late,ADV,Deg=Comp
+ipsi,ipse,PROdem,Case=Nom|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

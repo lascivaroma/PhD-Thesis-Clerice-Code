@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+montibus,mons,NOM3,Case=Abl|Numb=Plur
+ignotum,ignotvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Rutulis,rvtvli,NOM2,Case=Dat|Numb=Plur
+caeloque,caeloqve,ADJqua,Numb=Sing|Deg=Pos
+Latino,latinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

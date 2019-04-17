@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+audet,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+et,et,CONcoo,MORPH=empty
+infestis,infestvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+pugnam,pvgna,NOM1,Case=Acc|Numb=Sing
+instaurare,instavro,VER,Mood=Inf|Tense=Pres|Voice=Act
+sagittis,sagitta,NOM1,Case=Abl|Numb=Plur

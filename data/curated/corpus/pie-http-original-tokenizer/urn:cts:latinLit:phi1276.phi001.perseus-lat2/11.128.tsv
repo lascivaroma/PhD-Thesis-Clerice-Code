@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hinc,hinc,ADV,Deg=Pos
+stomacho,stomachvs,NOM2,Case=Abl|Numb=Sing
+uires,vis,NOM3,Case=Nom|Numb=Plur
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+pes,pes,NOM3,Case=Nom|Numb=Sing
+argenteus,argentevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+illis,ille,PROdem,Case=Dat|Numb=Plur

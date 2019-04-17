@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tunc,tvnc,ADV,Deg=Pos
+sentina,sentina,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tunc,tvnc,ADV,Deg=Pos
+summus,svpervs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+uertitur,verto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+aer,aer,NOM7,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

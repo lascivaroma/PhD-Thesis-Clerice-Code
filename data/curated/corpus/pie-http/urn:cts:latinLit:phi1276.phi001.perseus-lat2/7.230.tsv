@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+praeceptori,praeceptor,NOM3,Case=Dat|Numb=Sing
+uerborum,verbvm,NOM2,Case=Gen|Numb=Plur
+regula,regvla,NOM1,Case=Nom|Numb=Sing
+constet,consto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

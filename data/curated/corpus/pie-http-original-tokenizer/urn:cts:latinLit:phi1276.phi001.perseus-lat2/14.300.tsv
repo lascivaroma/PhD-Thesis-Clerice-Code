@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+frigida,frigidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+sufficient,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+uelantes,velo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+inguina,ingven,NOM3,Case=Nom|Numb=Plur
+panni,pannvs,NOM2,Case=Gen|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+si,si,CONsub,MORPH=empty
+temptes,tento,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+tacitus,tacitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-ue,qve,NOM3,Numb=Sing
+recedas,recedo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

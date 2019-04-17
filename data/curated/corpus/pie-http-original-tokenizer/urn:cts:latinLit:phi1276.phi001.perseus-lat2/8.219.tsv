@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
+coniugii,conivgivm,NOM2,Case=Gen|Numb=Sing
+nullis,nvllvs,PROind,Case=Abl|Numb=Plur
+aconita,aconio,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+propinquis,propinqvi,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

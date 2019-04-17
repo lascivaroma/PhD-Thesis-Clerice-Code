@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Vincentem,vincens,ADJqua,Case=Acc|Numb=Sing
+roseos,rosevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+facieque,facieqve,ADV,Deg=Pos
+comaque,comaqve,ADV,Deg=Pos
+ministros,minister,NOM2,Case=Acc|Numb=Plur
+Cinna,cinna,NOM1,Case=Nom|Numb=Sing
+cocum,coqvvs,NOM2,Case=Acc|Numb=Sing
+fecit,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantae,ADJcar,Case=Acc|Numb=Plur
+Cinna,cinna,NOM1,Case=Nom|Numb=Sing
+gulosus,gvlosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+homo,homo,NOM3,Case=Nom|Numb=Sing
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

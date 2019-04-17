@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+admotum,admoveo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+pedibus,pes,NOM3,Case=Abl|Numb=Plur
+de,de,PRE,MORPH=empty
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+sextarius,sextarivs,NOM2,Case=Nom|Numb=Sing
+alter,alter,PROind,Case=Nom|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Blande,blanda,ADJqua,Case=Voc|Numb=Sing
+tumes,tvmeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+alto,altvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Drusorum,drvsvs,NOM2,Case=Gen|Numb=Plur
+stemmate,stemma,NOM3,Case=Abl|Numb=Sing
+tamquam,tamqvam,ADVrel,MORPH=empty

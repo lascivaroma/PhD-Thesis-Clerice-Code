@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+nihil,nihil,PROind,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+seruis,servvs,NOM2,Case=Dat|Numb=Plur
+incurritur,incvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+;,o,INJ,MORPH=empty
+abstuleris,avfero,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=2
+spem,spes,NOM5,Case=Acc|Numb=Sing

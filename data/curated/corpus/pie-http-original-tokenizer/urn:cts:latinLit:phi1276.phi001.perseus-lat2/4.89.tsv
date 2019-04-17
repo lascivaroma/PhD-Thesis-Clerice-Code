@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+illa,ille,PROdem,Case=Nom|Numb=Plur
+igitur,igitvr,CONcoo,MORPH=empty
+numquam,nvmqvam,ADVneg,MORPH=empty
+derexit,dirigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+bracchia,brachivm,NOM2,Case=Acc|Numb=Plur
+contra,contra,ADV,Deg=Pos

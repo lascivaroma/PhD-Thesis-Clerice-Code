@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+monstrata,monstro,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+diu,div,ADV,Deg=Pos
+ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+trahit,traho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+orbita,orbita,NOM1,Case=Nom|Numb=Sing
+culpae,cvlpa,NOM1,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

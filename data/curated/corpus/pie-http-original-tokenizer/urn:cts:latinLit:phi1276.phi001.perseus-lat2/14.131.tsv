@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+alterius,alter,PROind,Case=Gen|Numb=Sing
+conchem,conchis,NOM3,Case=Acc|Numb=Sing
+aestiuam,aestivvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+parte,pars,NOM3,Case=Abl|Numb=Sing
+lacerti,lacertvs,NOM2,Case=Gen|Numb=Sing

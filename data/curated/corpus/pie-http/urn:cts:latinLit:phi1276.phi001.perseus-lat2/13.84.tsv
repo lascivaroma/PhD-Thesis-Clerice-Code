@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+uero,vero,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+pater,pater,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+comedam,comeda,NOM1,Case=Acc|Numb=Sing|Tense=Fut
+inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+flebile,flebilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nati,natvs,NOM2,Case=Gen|Numb=Sing

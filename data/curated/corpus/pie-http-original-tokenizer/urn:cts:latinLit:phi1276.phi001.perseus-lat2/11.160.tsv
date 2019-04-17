@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+a,ab,PRE,MORPH=empty
+quibus,qvi,PROrel,Case=Abl|Numb=Plur
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+sub,svb,PRE,MORPH=empty
+uertice,vertex,NOM3,Case=Abl|Numb=Sing
+lusit,lvdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

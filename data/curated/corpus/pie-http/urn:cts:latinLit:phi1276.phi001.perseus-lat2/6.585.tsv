@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+diuitibus,dives,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+responsa,responsvm,NOM2,Case=Acc|Numb=Plur
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+Phryx,phryx,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+augur,avgvr,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Indus,indvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

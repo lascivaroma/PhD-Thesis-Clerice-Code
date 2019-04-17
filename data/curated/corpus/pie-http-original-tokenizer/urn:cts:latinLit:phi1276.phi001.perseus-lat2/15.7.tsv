@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+illic,illic,ADV,Deg=Pos
+aeluros,aelvrvs,NOM2,Case=Acc|Numb=Plur
+hic,hic,ADV,MORPH=empty
+piscem,piscis,NOM3,Case=Acc|Numb=Sing
+fluminis,flvmen,NOM3,Case=Gen|Numb=Sing
+illic,illic,ADV,Deg=Pos

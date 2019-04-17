@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+sentire,sentio,VER,Mood=Inf|Tense=Pres|Voice=Act
+putas,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+omnes,omnis,PROind,Case=Acc|Numb=Plur
+Caluine,calvinvs,NOM2,Case=Voc|Numb=Sing
+recenti,recens,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

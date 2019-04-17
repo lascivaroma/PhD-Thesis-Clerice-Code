@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nos,nos,PROper,Case=Nom|Numb=Plur
+hominum,homo,NOM3,Case=Gen|Numb=Plur
+diuumque,divvsqve,ADJqua,Case=Gen|Deg=Pos
+fidem,fides,NOM5,Case=Acc|Numb=Sing
+clamore,clamor,NOM3,Case=Abl|Numb=Sing
+demus,do,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1

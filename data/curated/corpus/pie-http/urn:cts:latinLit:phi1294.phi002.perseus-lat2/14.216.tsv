@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Non,non,NOM3,Case=Nom
+tantum,tantvm,ADV,Deg=Pos
+calamis,calamvs,NOM2,Case=Abl|Numb=Plur
+sed,sed,CONcoo,MORPH=empty
+cantu,cantvs,NOM4,Case=Abl|Numb=Sing
+fallitur,fallo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ales,ales,NOM3,Case=Nom|Numb=Sing
+Callida,callis,NOM7,Case=Nom|Numb=Sing|Deg=Pos
+dum,dvm,CONsub,MORPH=empty
+tacita,tacitvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+crescit,cresco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+harundo,arvndo,NOM3,Case=Nom|Numb=Sing
+manu,manvs,NOM4,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

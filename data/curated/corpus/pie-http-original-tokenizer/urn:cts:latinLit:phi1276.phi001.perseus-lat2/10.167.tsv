@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+placeas,placeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+declamatio,declamatio,NOM3,Case=Nom|Numb=Sing
+fias,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

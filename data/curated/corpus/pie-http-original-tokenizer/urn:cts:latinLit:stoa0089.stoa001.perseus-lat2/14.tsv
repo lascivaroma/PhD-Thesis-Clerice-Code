@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Dulcia,dvlcia,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+dona,donvm,NOM2,Case=Acc|Numb=Plur
+mihi,ego,PROper,Case=Dat|Numb=Sing
+semper,semper,ADV,Deg=Pos
+tu,tv,PROper,Case=Nom|Numb=Sing
+Maxime,magnvs,NOM2,Case=Voc|Numb=Sing
+mittis,mitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
+mittis,mitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+mella,mel,NOM3,Case=Acc|Numb=Plur
+putare,pvto,VER,Mood=Inf|Tense=Pres|Voice=Act
+decet,decet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

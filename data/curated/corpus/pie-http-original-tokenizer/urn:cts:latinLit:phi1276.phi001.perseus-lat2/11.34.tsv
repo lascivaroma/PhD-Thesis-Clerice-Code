@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+orator,orator,NOM3,Case=Nom|Numb=Sing
+uehemens,vehemens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+an,an,ADVint,MORPH=empty
+Curtius,cvrtivs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Matho,mathon,NOM3,Case=Nom|Numb=Sing
+buccae,bvcca,NOM1,Case=Dat|Numb=Sing
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

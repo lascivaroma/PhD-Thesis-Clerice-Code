@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ante,ante,PRE,MORPH=empty
+domum,domvs,NOM6,Case=Acc|Numb=Sing
+Veneris,venvs,NOM3,Case=Gen|Numb=Sing
+quam,qvam,ADVint,MORPH=empty
+Dorica,doricvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sustinet,svstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Ancon,ancon,NOM7,Case=Nom|Numb=Sing

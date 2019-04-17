@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+salibus,sal,NOM3,Case=Dat|Numb=Plur
+uehemens,vehemens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+intra,intra,PRE,MORPH=empty
+pomeria,pomeria,NOM2,Case=Acc|Numb=Plur
+natis,natvs,NOM2,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

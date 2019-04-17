@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+monstrum,monstrvm,NOM2,Case=Nom|Numb=Sing
+puero,pver,NOM2,Case=Dat|Numb=Sing
+et,et,CONcoo,MORPH=empty
+miranti,miror,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
+sub,svb,PRE,MORPH=empty
+aratro,aratrvm,NOM2,Case=Abl|Numb=Sing

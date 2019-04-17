@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pelamydum,pelamedes,NOM3,Case=Gen|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+ueteres,vetvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Maurorum,mavri,NOM2,Case=Gen|Numb=Plur
+epimenia,epimenivm,NOM2,Case=Acc|Numb=Plur
+bulbi,bvlbvs,NOM2,Case=Gen|Numb=Plur

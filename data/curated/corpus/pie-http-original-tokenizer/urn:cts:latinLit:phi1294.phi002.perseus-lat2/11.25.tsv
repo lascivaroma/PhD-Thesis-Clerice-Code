@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Illa,illa,NOM1,Case=Nom|Numb=Sing
+salax,salax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nimium,nimivm,ADV,Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+paucis,pavcvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+nota,notvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+puellis,pvella,NOM1,Case=Dat|Numb=Plur
+Stare,starvs,NOM3,Case=Voc|Numb=Sing
+Lino,linvs,NOM2,Case=Dat|Numb=Sing
+desi,desvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+t,tv,CONcoo,MORPH=empty
+mentula,mentvla,NOM1,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Ind|Numb=Plur
+Lingua,lingva,NOM1,Case=Voc|Numb=Sing
+caue,caveo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

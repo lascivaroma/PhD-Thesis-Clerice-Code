@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+aequantem,aeqvo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+sane,sane,ADV,Deg=Pos
+paribus,par,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+sestertia,sestertivm,NOM2,Case=Acc|Numb=Plur
+libris,liber,NOM2,Case=Abl|Numb=Plur

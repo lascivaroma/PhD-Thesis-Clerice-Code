@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+bis,bis,ADJadv.mul,MORPH=empty
+ferat,fero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Etruscum,etrvscvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+puero,pver,NOM2,Case=Dat|Numb=Sing
+si,si,CONsub,MORPH=empty
+contigit,contingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+aurum,avrvm,NOM2,Case=Nom|Numb=Sing

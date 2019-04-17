@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+paupertatis,pavpertas,NOM3,Case=Gen|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing
+metitur,metior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+ad,ad,PRE,MORPH=empty
+illum,ille,PROdem,Case=Acc|Numb=Sing

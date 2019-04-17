@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+extinctus,exstingvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+tota,totvs,PROind,Case=Abl|Numb=Sing
+pariter,pariter,ADV,Deg=Pos
+cum,cvm,PRE,MORPH=empty
+prole,proles,NOM3,Case=Abl|Numb=Sing
+domoque,domoqvo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

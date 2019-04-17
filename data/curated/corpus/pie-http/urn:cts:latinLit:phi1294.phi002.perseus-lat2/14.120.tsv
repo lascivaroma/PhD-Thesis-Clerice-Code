@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Quamuis,qvamvis,NOM1,Case=Abl|Numb=Plur
+me,ego,PROper,Case=Acc|Numb=Sing
+ligulam,ligvla,NOM1,Case=Acc|Numb=Sing
+dicant,dico,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+equites,eqves,NOM3,Case=Nom|Numb=Plur
+-que,qvove,CONcoo,MORPH=empty
+patres,pater,NOM3,Case=Nom|Numb=Plur
+-que,qvovs,CONcoo,MORPH=empty
+Dicor,dicor,NOM3,Case=Nom|Numb=Sing
+ab,ab,PRE,MORPH=empty
+indoctis,indoctvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+lingula,lingvla,NOM1,Case=Abl|Numb=Sing
+grammaticis,grammaticvs,NOM2,Case=Abl|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

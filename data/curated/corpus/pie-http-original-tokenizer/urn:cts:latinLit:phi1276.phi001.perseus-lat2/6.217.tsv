@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+libertas,libertas,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+iuris,ivs,NOM3,Case=Gen|Numb=Sing
+idem,idem,PROdem,Case=Nom|Numb=Sing
+contingat,contingo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+harenae,arena,NOM1,Case=Gen|Numb=Sing

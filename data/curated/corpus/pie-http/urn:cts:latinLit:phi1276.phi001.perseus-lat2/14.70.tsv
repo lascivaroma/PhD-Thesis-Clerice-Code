@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+gratum,gratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quod,qvi,PROrel,MORPH=empty
+patriae,patria,NOM1,Case=Dat|Numb=Sing
+ciuem,civis,NOM3,Case=Acc|Numb=Sing
+populo,popvlvs,NOM2,Case=Dat|Numb=Sing
+-que,qvivis,ADV,MORPH=empty
+dedisti,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2

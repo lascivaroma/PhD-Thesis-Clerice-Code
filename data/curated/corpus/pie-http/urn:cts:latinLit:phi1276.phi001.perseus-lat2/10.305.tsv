@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+improbitas,improbitas,NOM3,Case=Nom|Numb=Sing
+ipsos,ipse,PROdem,Case=Acc|Numb=Plur
+audet,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+temptare,tento,VER,Mood=Inf|Tense=Pres|Voice=Act
+parentes,parens,NOM3,Case=Acc|Numb=Plur

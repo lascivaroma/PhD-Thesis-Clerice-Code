@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cognatis,cognatvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+maculis,macvla,NOM1,Case=Abl|Numb=Plur
+similis,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fera,fervs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+;,o,INJ,MORPH=empty
+quando,qvando,ADVint,MORPH=empty
+leoni,leo,NOM3,Case=Dat|Numb=Sing

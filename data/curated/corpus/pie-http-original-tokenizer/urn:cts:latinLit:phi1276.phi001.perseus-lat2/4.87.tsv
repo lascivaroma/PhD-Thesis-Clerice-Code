@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cum,cvm,PRE,MORPH=empty
+quo,qvis,PROint,Case=Abl|Numb=Sing
+de,de,PRE,MORPH=empty
+pluuiis,plvvia,NOM1,Case=Abl|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+aestibus,aestvs,NOM3,Case=Abl|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+nimboso,nimbosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

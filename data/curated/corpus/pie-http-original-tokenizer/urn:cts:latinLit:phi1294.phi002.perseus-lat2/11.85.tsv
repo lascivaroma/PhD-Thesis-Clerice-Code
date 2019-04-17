@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Sidere,sidvr,NOM3,Case=Voc|Numb=Sing
+percussa,percvtio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+subito,svbito,ADV,Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+Zoile,zoilvs,NOM7,Case=Voc|Numb=Sing
+lingua,lingva,NOM1,Case=Abl|Numb=Sing
+Dum,des,NOM3,Case=Nom|Numb=Sing
+lingis,lingvs,NOM1,Case=Abl|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+Certe,certe,NOM2,Case=Voc|Numb=Sing
+Zoile,zoilvs,NOM2,Case=Voc|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+futues,fvtvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+figendum,figo,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+et,et,CONcoo,MORPH=empty
+memori,memor,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tractandum,tracto,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+pectore,pectvs,NOM3,Case=Abl|Numb=Sing
+siue,sive,CONsub,MORPH=empty

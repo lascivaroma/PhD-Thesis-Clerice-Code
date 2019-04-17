@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+ibit,eo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+pariter,pariter,ADV,Deg=Pos
+numeris,nvmervs,NOM2,Case=Abl|Numb=Plur
+reuocata,revoco,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+Thrasylli,thrasyllvs,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

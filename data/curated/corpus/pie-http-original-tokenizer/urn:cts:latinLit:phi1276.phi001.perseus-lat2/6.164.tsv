@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+crinibus,crinis,NOM3,Case=Abl|Numb=Plur
+effusis,effvndo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+bellum,bellvm,NOM2,Case=Acc|Numb=Sing
+dirimente,dirimo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Sabina,sabinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

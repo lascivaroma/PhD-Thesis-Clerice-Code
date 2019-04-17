@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uos,vos,PROper,Case=Nom|Numb=Plur
+anguilla,angvilla,NOM1,Case=Nom|Numb=Sing
+manet,maneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+longae,longvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+cognata,cognatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+colubrae,colvbra,NOM1,Case=Gen|Numb=Sing

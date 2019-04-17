@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iustitiae,ivstitia,NOM1,Case=Gen|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+tenax,tenax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+factis,factvm,NOM2,Case=Abl|Numb=Plur
+dictis,dictvm,NOM2,Case=Abl|Numb=Plur
+-que,qvovs,ADV,MORPH=empty
+mereris,mereor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2

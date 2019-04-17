@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iurgia,ivrgivm,NOM2,Case=Acc|Numb=Plur
+proludunt,prolvdo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+mox,mox,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+torques,torqveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

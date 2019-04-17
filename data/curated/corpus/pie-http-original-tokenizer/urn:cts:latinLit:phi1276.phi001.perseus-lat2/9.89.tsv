@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+commoda,commodvm,NOM2,Case=Nom|Numb=Plur
+praeterea,praeterea,ADV,Deg=Pos
+iungentur,ivngo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+multa,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+caducis,cadvcvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

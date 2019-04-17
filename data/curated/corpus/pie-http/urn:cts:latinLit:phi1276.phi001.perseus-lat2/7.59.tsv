@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+fontibus,fons,NOM3,Case=Abl|Numb=Plur
+Aonidum,aonides,NOM3,Case=Gen|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+neque,neqve,CONcoo,MORPH=empty
+enim,enim,CONcoo,MORPH=empty
+cantare,canto,VER,Mood=Inf|Tense=Pres|Voice=Act
+sub,svb,PRE,MORPH=empty
+antro,antrvm,NOM2,Case=Abl|Numb=Sing

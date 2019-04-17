@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+concumbunt,concvmbo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Graece,graecvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+dones,dono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+tamen,tamen,ADV,Deg=Pos
+ista,iste,PROdem,Case=Nom|Numb=Plur
+puellis,pvella,NOM1,Case=Abl|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+alter,alter,PROind,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+concedas,concedo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+mactare,macto,VER,Mood=Inf|Tense=Pres|Voice=Act
+uouebit,voveo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

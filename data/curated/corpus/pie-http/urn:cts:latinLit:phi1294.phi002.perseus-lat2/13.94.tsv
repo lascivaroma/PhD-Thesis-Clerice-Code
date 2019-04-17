@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Dente,dens,NOM3,Case=Abl|Numb=Sing
+timetur,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+aper,aper,NOM2,Case=Nom|Numb=Sing
+defendunt,defendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cornua,cornv,NOM4,Case=Acc|Numb=Plur
+ceruum,cervvs,NOM2,Case=Acc|Numb=Sing
+Inbelles,imbelles,NOM7,Case=Nom|Numb=Sing
+dammae,dama,NOM1,Case=Nom|Numb=Plur
+quid,qvis,PROint,Case=Acc|Numb=Sing
+nisi,nisi,CONsub,MORPH=empty
+praeda,praeda,NOM1,Case=Nom|Numb=Sing
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

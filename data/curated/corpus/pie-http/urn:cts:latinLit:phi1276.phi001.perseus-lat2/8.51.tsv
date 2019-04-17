@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hinc,hinc,ADV,Deg=Pos
+petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Euphrate,evphrates,NOM3,Case=Voc|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+iuuenis,ivvenis,NOM3,Case=Nom|Numb=Sing
+domiti,domo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvivis,ADV,MORPH=empty
+Bataui,batavi,NOM2,Case=Nom|Numb=Plur

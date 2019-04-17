@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+intulerit,infero,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+ubi,vbi,ADVrel,MORPH=empty
+uelari,velo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+pictura,pictvra,NOM1,Case=Nom|Numb=Sing
+iubetur,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+permittunt,permitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+uasa,vas,NOM2,Case=Acc|Numb=Plur
+iubent,ivbeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+frangenda,frango,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+lauari,lavo,VER,Mood=Inf|Tense=Pres|Voice=Pass

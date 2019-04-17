@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+conductus,condvco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+astrorum,astrvm,NOM2,Case=Gen|Numb=Plur
+mundique,mvndiqve,ADV,Deg=Pos
+peritus,peritvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

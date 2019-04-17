@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ceruice,cervix,NOM3,Case=Abl|Numb=Sing
+obstricta,obstringo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+dominum,dominvs,NOM2,Case=Acc|Numb=Sing
+trahat,traho,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Hi,hic,NOM2,Case=Nom|Numb=Sing
+sermones,sermo,NOM3,Case=Acc|Numb=Plur

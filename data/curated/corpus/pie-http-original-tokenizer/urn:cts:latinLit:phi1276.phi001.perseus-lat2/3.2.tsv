@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+laudo,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tamen,tamen,ADV,Deg=Pos
+uacuis,vacvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+quod,qvod,CONsub,MORPH=empty
+sedem,sedes,NOM3,Case=Acc|Numb=Sing
+figere,figo,VER,Mood=Inf|Tense=Pres|Voice=Act
+Cumis,cvmae,NOM1,Case=Abl|Numb=Plur

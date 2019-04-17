@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hos,hic,PROdem,Case=Acc|Numb=Plur
+quoque,qvoqve,ADV,Deg=Pos
+felices,felix,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+incommoda,incommodvm,NOM2,Case=Acc|Numb=Plur
+uitae,vita,NOM1,Case=Gen|Numb=Sing

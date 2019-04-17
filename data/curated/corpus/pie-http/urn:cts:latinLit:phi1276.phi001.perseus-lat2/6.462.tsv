@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pane,panis,NOM3,Case=Abl|Numb=Sing
+tumet,tvmeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+facies,facies,NOM5,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+pinguia,pingvis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Poppaeana,poppaeanvs,ADJqua,Case=Acc|Numb=Plur

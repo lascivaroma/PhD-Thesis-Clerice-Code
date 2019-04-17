@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Armenius,armenivs,NOM2,Case=Nom|Numb=Sing
+Zalaces,zalaces,NOM7,Case=Nom|Numb=Sing
+cunctis,cvnctvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+narratur,narro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ephebis,ephebvs,NOM2,Case=Abl|Numb=Plur

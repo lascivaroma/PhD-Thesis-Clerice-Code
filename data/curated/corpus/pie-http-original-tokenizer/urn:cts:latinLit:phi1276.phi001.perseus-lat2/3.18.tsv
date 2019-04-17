@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+dissimiles,dissimilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ueris,vervs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+quanto,qvanto,ADVint,MORPH=empty
+praesentius,praesens,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+esset,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

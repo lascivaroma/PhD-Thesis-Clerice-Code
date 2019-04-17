@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ordinis,ordo,NOM3,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+magnas,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+comitum,comes,NOM3,Case=Gen|Numb=Plur
+disponere,dispono,VER,Mood=Inf|Tense=Pres|Voice=Act
+uoces,vox,NOM3,Case=Acc|Numb=Plur

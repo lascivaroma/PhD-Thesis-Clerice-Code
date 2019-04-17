@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+quater,qvater,ADJadv.mul,MORPH=empty
+egisti,ago,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+si,si,CONsub,MORPH=empty
+contigit,contingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+aureus,avrevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+unus,vnvs,ADJcar,Case=Nom|Numb=Sing

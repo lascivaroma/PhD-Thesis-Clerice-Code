@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+conditor,conditor,NOM3,Case=Nom|Numb=Sing
+Iliados,iliades,NOM7,Case=Nom|Numb=Sing
+cantabitur,canto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+atque,atqve,CONcoo,MORPH=empty
+Maronis,maro,NOM3,Case=Gen|Numb=Sing

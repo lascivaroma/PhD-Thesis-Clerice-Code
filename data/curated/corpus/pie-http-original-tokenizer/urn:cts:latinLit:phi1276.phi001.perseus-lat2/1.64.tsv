@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quadriuio,qvadrivivm,NOM2,Case=Abl|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+iam,iam,ADV,Deg=Pos
+sexta,sextvs,ADJord,Case=Abl|Numb=Sing|Deg=Pos
+ceruice,cervix,NOM3,Case=Abl|Numb=Sing
+feratur,fero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3

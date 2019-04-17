@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
+qualem,qvalis,PROrel,Case=Acc|Numb=Sing
+deprensus,deprehendo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+habebat,habeo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

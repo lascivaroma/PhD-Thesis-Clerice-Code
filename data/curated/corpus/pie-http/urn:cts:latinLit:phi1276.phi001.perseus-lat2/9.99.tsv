@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+dubitat,dvbito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+contemnas,contemno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+aut,avt,CONcoo,MORPH=empty
+despicias,despicio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quod,qvi,PROrel,Case=Acc|Numb=Sing

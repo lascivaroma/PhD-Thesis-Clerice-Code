@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inuenies,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+omnis,omnis,PROind,Case=Acc|Numb=Plur
+turpes,tvrpis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+similesque,similis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+cinaedis,cinaedvs,NOM2,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

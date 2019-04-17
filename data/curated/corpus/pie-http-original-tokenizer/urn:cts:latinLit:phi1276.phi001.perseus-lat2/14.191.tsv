@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+clamosus,clamosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+iuuenem,ivvenis,NOM3,Case=Acc|Numb=Sing
+pater,pater,NOM3,Case=Nom|Numb=Sing
+excitat,excito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+accipe,accipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+ceras,cera,NOM1,Case=Acc|Numb=Plur

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+malus,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nequeo,neqveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+laudare,lavdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+poscere,posco,VER,Mood=Inf|Tense=Pres|Voice=Act
+;,o,PRE,MORPH=empty
+motus,motvs,NOM4,Case=Acc|Numb=Plur

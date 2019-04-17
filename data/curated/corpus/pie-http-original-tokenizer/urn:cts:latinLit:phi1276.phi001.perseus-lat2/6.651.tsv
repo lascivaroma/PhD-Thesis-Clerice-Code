@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+illam,ille,PROdem,Case=Acc|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+tulerim,fero,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+conputat,compvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+scelus,scelvs,NOM3,Case=Acc|Numb=Sing
+ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

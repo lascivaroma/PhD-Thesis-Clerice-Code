@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+solstitia,solstitivm,NOM2,Case=Acc|Numb=Plur
+his,hic,PROdem,Case=Abl|Numb=Plur
+armis,arma,NOM2,Case=Abl|Numb=Plur
+illa,ille,PROdem,Case=Nom|Numb=Sing
+quoque,qvoqve,ADV,Deg=Pos
+tutus,tvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+aula,avla,NOM1,Case=Abl|Numb=Sing
+.,qvinvs,ADJcar,Case=Acc|Numb=Plur

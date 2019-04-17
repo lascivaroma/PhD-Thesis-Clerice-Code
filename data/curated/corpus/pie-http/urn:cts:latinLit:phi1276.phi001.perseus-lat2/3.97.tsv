@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+infra,infra,PRE,MORPH=empty
+uentriculum,ventricvlvs,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+distantia,disto,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+rima,rima,NOM1,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

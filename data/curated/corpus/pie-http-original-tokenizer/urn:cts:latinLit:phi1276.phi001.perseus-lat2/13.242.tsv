@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+eiectum,eicio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+semel,semel,ADJadv.mul,MORPH=empty
+attrita,attero,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+de,de,PRE,MORPH=empty
+fronte,frons,NOM3,Case=Abl|Numb=Sing
+ruborem,rvbor,NOM3,Case=Acc|Numb=Sing

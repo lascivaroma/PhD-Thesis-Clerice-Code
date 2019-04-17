@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+illuc,illvc,PROdem,Deg=Pos
+testiculi,testicvlvs,NOM2,Case=Gen|Numb=Sing
+sibi,svi,PROref,Case=Dat|Numb=Sing
+conscius,conscivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+unde,vnde,ADVrel,MORPH=empty
+fugit,fvgio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mus,mvs,NOM3,Case=Nom|Numb=Sing

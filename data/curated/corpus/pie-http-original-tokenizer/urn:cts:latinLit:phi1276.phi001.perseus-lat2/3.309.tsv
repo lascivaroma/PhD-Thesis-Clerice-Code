@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qua,qvis,PROint,Case=Abl|Numb=Sing
+fornace,fornax,NOM3,Case=Abl|Numb=Sing
+graues,gravis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+qua,qvis,PROint,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+incude,incvs,NOM3,Numb=Sing
+catenae,catena,NOM1,Case=Nom|Numb=Sing

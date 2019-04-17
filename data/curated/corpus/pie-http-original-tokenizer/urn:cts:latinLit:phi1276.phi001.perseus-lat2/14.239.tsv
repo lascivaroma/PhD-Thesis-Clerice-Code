@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quantus,qvantvs,PROint,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+patriae,patria,NOM1,Case=Gen|Numb=Sing
+Deciorum,decivs,NOM2,Case=Gen|Numb=Plur
+in,in,PRE,MORPH=empty
+pectore,pectvs,NOM3,Case=Abl|Numb=Sing
+quantum,qvantvm,PROint,Numb=Sing

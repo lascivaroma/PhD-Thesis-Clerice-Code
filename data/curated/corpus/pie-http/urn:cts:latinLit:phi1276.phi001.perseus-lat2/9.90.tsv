@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+numerum,nvmervs,NOM2,Case=Acc|Numb=Sing
+si,si,CONsub,MORPH=empty
+tres,tres,ADJcar,Case=Acc|Numb=Plur
+impleuero,impleo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Iusta,ivsta,NOM1,Case=Nom|Numb=Sing
+doloris,dolor,NOM3,Case=Gen|Numb=Sing

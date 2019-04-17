@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+seruos,servvs,NOM2,Case=Nom|Numb=Sing
+grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+rationibus,ratio,NOM3,Case=Dat|Numb=Plur
+.,vnvs,ADJcar,Case=Gen|Numb=Plur
+Ecce,ecce,NOM2,Case=Voc|Numb=Sing
+furentis,fvrens,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

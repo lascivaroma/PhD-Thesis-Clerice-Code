@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+metues,metvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+ne,ne,CONsub,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+sic,sic,ADV,Deg=Pos
+Creticus,creticvs,NOM2,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+Camerinus,camerinvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

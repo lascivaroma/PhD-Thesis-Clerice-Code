@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+xerampelinas,xerampelina,NOM1,Case=Acc|Numb=Plur
+ueteres,vetvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+donauerit,dono,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+ipsi,ipse,PROdem,Case=Nom|Numb=Plur

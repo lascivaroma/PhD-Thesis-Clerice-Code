@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uiuite,vivo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+contenti,contentvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+casulis,casvlvs,NOM1,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+collibus,collis,NOM3,Case=Abl|Numb=Plur
+istis,iste,PROdem,Case=Dat|Numb=Plur

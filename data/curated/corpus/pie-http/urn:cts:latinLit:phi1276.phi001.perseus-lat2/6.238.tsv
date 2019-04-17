@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+inpatiens,impatiens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+morae,mora,NOM1,Case=Dat|Numb=Sing
+silet,sileo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+praeputia,praepvtivm,NOM2,Case=Acc|Numb=Plur
+ducit,dvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

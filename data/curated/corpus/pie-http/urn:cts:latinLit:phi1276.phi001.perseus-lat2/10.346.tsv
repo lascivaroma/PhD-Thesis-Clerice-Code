@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Nil,nil,NOM3,Case=Nom|Numb=Sing
+ergo,ergo,CONcoo,MORPH=empty
+optabunt,opto,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+homines,homo,NOM3,Case=Nom|Numb=Plur
+si,si,CONsub,MORPH=empty
+consilium,consilivm,NOM2,Case=Acc|Numb=Sing
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

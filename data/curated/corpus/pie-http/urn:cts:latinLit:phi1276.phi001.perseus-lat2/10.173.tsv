@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quantula,qvantvlvs,PROint,Case=Nom|Numb=Plur
+sint,svm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+hominum,homo,NOM3,Case=Gen|Numb=Plur
+corpuscula,corpvscvlvm,NOM2,Case=Nom|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur
+creditur,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+olim,olim,ADV,Deg=Pos

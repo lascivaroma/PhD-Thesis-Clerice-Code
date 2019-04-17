@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+uolo,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+nec,nec,CONcoo,MORPH=empty
+possum,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+;,o,PRE,MORPH=empty
+ranarum,rana,NOM1,Case=Gen|Numb=Plur
+uiscera,viscvs,NOM3,Case=Acc|Numb=Plur
+numquam,nvmqvam,ADVneg,MORPH=empty

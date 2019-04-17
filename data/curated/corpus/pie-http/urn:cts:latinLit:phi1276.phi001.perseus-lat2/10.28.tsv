@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+iam,iam,ADV,Deg=Pos
+-ne,ne,CONsub,MORPH=empty
+igitur,igitvr,CONcoo,MORPH=empty
+laudas,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quod,qvod,CONsub,MORPH=empty
+de,de,PRE,MORPH=empty
+sapientibus,sapiens,NOM3,Case=Abl|Numb=Plur
+alter,alter,PROind,Case=Nom|Numb=Sing

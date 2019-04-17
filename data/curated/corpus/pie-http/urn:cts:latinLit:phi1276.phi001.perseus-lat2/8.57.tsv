@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+generosa,generosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+putet,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nisi,nisi,CONsub,MORPH=empty
+fortia,fortis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nempe,nempe,ADV,Deg=Pos
+uolucrem,volvcer,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

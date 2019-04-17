@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+erroris,error,NOM3,Case=Gen|Numb=Sing
+nebula,nebvla,NOM1,Case=Nom|Numb=Sing
+quid,qvis,PROint,Case=Acc|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+ratione,ratio,NOM3,Case=Abl|Numb=Sing
+timemus,timeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

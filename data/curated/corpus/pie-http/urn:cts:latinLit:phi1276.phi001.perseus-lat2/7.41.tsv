@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Nom|Numb=Sing
+longe,longe,ADV,Deg=Pos
+ferrata,ferratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+seruire,servio,VER,Mood=Inf|Tense=Pres|Voice=Act
+iubetur,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

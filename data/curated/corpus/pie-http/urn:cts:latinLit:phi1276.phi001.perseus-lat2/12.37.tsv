@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fundite,fvndo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+mea,mevs,PROpos,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+dicebat,dico,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Catullus,catvllvs,NOM2,Case=Nom|Numb=Sing

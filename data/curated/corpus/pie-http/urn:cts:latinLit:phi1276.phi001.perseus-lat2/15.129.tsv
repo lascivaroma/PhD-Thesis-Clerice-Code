@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+poenam,poena,NOM1,Case=Acc|Numb=Sing
+sceleri,scelvs,NOM3,Case=Dat|Numb=Sing
+inuenies,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+nec,nec,CONcoo,MORPH=empty
+digna,dignvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+parabis,paro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

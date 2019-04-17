@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+diuitis,dives,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+hic,hic,PROdem,Case=Nom|Numb=Sing
+seruo,servvs,NOM2,Case=Dat|Numb=Sing
+claudit,clavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+latus,latvs,NOM3,Case=Acc|Numb=Sing
+ingenuorum,ingenvvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos

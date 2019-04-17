@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+partem,pars,NOM3,Case=Acc|Numb=Sing
+acceptae,accipio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass
+saeua,saevvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+inter,inter,PRE,MORPH=empty
+uincla,vincvlvm,NOM2,Case=Acc|Numb=Plur
+cicutae,cicvta,NOM1,Case=Gen|Numb=Sing

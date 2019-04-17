@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nomen,nomen,NOM3,Case=Acc|Numb=Sing
+ab,ab,PRE,MORPH=empty
+infami,infamis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+gentem,gens,NOM3,Case=Acc|Numb=Sing
+deducis,dedvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+asylo,asylvm,NOM2,Case=Abl|Numb=Sing

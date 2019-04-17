@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+uideas,video,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quaero,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+an,an,ADVint,MORPH=empty
+deceant,decet,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+multicia,mvlticia,NOM2,Case=Nom|Numb=Plur
+testem,testis,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+protinus,protinvs,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+nostro,noster,PROpos,Case=Dat|Numb=Sing
+quid,qvis,PROint,Case=Acc|Numb=Sing
+plus,mvltvs,ADJqua,Numb=Sing|Deg=Comp
+uelit,volo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ira,ira,NOM1,Case=Abl|Numb=Sing
+necari,neco,VER,Mood=Inf|Tense=Pres|Voice=Pass

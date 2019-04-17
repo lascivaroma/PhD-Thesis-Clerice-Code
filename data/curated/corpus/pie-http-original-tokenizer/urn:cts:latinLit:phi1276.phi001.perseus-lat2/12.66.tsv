@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+lanificae,lanificvs,NOM1,Case=Nom|Numb=Sing|Deg=Pos
+modica,modicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+multum,mvltvm,ADV,Deg=Pos
+fortior,fortis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+aura,avra,NOM1,Case=Abl|Numb=Sing

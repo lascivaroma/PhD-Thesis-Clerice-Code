@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Numquam,nvmqva,NOM1,Case=Acc|Numb=Sing
+stante,sto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+domo,domvs,NOM2,Case=Abl|Numb=Sing
+pascit,pasco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mihi,ego,PROper,Case=Dat|Numb=Sing
+credite,credo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+tantos,tantvs,PROdem,Case=Acc|Numb=Plur
+Qui,qvi,NOM2,Case=Gen|Numb=Sing
+tumulos,tvmvlvs,NOM2,Case=Acc|Numb=Plur
+natis,natvs,NOM2,Case=Dat|Numb=Plur
+et,et,CONcoo,MORPH=empty
+mensas,mensa,NOM1,Case=Acc|Numb=Plur
+conplet,compleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+amicis,amicvs,NOM2,Case=Dat|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

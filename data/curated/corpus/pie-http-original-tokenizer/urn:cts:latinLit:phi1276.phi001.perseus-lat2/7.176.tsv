@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Chrysogonus,chrysogonvs,NOM2,Case=Nom|Numb=Sing
+quanti,qvantvs,PROint,Case=Gen|Numb=Sing
+doceat,doceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uel,vel,ADV,MORPH=empty
+Polio,polivs,NOM2,Case=Dat|Numb=Sing
+quanti,qvantvs,PROint,Case=Gen|Numb=Sing

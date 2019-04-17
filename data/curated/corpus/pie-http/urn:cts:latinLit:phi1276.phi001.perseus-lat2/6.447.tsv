@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+caedere,caedo,VER,Mood=Inf|Tense=Pres|Voice=Act
+Siluano,silvanvs,NOM2,Case=Dat|Numb=Sing
+porcum,porcvs,NOM2,Case=Acc|Numb=Sing
+quadrante,qvadrans,NOM3,Case=Abl|Numb=Sing
+lauari,lavo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

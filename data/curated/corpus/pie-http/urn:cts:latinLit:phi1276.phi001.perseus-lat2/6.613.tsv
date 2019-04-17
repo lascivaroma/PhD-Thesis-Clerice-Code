@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inde,inde,ADV,Deg=Pos
+animi,animvs,NOM2,Case=Gen|Numb=Sing
+caligo,caligo,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+obliuio,oblivio,NOM3,Case=Nom|Numb=Sing
+rerum,res,NOM5,Case=Gen|Numb=Plur

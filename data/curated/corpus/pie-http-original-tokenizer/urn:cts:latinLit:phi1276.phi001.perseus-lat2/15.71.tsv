@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ergo,ergo,CONcoo,MORPH=empty
+deus,devs,NOM2,Case=Nom|Numb=Sing
+quicumque,qvicvmqve,PROrel,Case=Nom|Numb=Sing
+aspexit,aspicio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ridet,rideo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+odit,odi,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

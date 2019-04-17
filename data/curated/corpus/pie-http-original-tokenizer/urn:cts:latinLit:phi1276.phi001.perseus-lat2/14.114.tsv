@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Hesperidum,hesperides,NOM3,Case=Gen|Numb=Plur
+serpens,serpens,NOM3,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+Ponticus,ponticvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing
+adde,addo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quod,qvod,CONsub,MORPH=empty
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+de,de,PRE,MORPH=empty

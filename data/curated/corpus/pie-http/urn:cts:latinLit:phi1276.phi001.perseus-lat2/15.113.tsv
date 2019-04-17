@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nobilis,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ille,ille,PROdem,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+populus,popvlvs,NOM2,Case=Nom|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+diximus,dico,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+et,et,CONcoo,MORPH=empty
+par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

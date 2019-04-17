@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+alterius,alter,PROind,Case=Gen|Numb=Sing
+sexus,sexvs,NOM4,Case=Nom|Numb=Sing
+magis,magis,ADV,Deg=Comp
+ille,ille,PROdem,Case=Nom|Numb=Sing
+extenditur,extendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+mox,mox,ADV,Deg=Pos

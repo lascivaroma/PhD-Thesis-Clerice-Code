@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Non,non,ADVint,MORPH=empty
+sim,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+talorum,talvs,NOM2,Case=Gen|Numb=Plur
+numero,nvmervs,NOM2,Case=Abl|Numb=Sing
+par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tessera,tessera,NOM1,Case=Nom|Numb=Sing
+dum,dvm,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Maior,maiores,NOM3,Case=Nom|Numb=Sing
+quam,qvam,ADVrel,MORPH=empty
+talis,talis,PROdem,Case=Nom|Numb=Sing
+alea,alea,NOM1,Case=Nom|Numb=Sing
+saepe,saepe,ADV,Deg=Pos
+mihi,ego,PROper,Case=Dat|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cum,cvm,PRE,MORPH=empty
+bibitur,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+concha,concha,NOM1,Case=Abl|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+iam,iam,ADV,Deg=Pos
+uertigine,vertigo,NOM3,Case=Abl|Numb=Sing
+tectum,tego,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass

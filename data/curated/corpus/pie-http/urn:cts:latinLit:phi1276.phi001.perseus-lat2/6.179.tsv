@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+imputet,impvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+huius,hic,PROdem,Case=Gen|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+rari,rarvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+summi,svpervs,ADJqua,Case=Gen|Numb=Sing|Deg=Sup
+-que,qvavis,CONcoo,MORPH=empty
+uoluptas,volvptas,NOM3,Case=Nom|Numb=Sing

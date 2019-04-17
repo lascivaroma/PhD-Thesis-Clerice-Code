@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quam,qvam,ADVint,MORPH=empty
+quod,qvod,PROrel,MORPH=empty
+ridiculos,ridicvlvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+homines,homo,NOM3,Case=Acc|Numb=Plur
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+exeat,exeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

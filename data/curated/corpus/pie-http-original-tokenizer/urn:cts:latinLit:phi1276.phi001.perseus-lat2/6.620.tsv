@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+insanum,insanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+minus,parvm,ADV,Deg=Comp
+ergo,ergo,CONcoo,MORPH=empty
+nocens,nocens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+Agrippinae,agrippina,NOM1,Case=Gen|Numb=Sing

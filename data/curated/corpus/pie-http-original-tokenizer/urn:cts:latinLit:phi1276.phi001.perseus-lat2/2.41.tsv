@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Acc|Numb=Plur
+emis,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+hirsuto,hirsvtvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+spirant,spiro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+opobalsama,opobalsamvs,ADJqua,Case=Nom|Numb=Plur
+collo,collvm,NOM2,Case=Abl|Numb=Sing

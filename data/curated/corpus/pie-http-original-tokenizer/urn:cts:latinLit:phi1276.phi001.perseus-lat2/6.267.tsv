@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+hos,hic,PROdem,Case=Acc|Numb=Plur
+habitus,habitvs,NOM4,Numb=Plur
+quando,qvando,CONsub,MORPH=empty
+ad,ad,PRE,MORPH=empty
+palum,palvs,NOM2,Case=Acc|Numb=Sing
+gemat,gemo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+Asyli,asylvs,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+qualis,qvalis,PROint,Case=Acc|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+epulas,epvlae,NOM1,Case=Acc|Numb=Plur
+ipsum,ipse,PROdem,Case=Acc|Numb=Sing
+gluttisse,glvtio,VER,Mood=Inf|Tense=Perf|Voice=Act
+putamus,pvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

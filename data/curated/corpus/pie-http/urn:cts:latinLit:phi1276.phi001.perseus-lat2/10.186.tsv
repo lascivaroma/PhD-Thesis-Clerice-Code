@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fluctibus,flvctvs,NOM4,Case=Abl|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+tarda,tardvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+per,per,PRE,MORPH=empty
+densa,densvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+cadauera,cadaver,NOM3,Case=Acc|Numb=Plur
+prora,prora,NOM1,Case=Nom|Numb=Sing

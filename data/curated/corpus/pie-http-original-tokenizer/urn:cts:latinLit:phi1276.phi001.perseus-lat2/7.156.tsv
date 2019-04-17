@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quaestio,qvaestio,NOM3,Case=Nom|Numb=Sing
+quae,qvis,PROint,Case=Nom|Numb=Plur
+ueniant,venio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+diuersa,diversvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+e,ex,PRE,MORPH=empty
+parte,pars,NOM3,Case=Abl|Numb=Sing
+sagittae,sagitta,NOM1,Case=Nom|Numb=Sing

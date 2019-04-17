@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nesciat,nescio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+irasci,irascor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+cupiat,cvpio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nihil,nihil,PROind,Case=Ind
+et,et,CONcoo,MORPH=empty
+potiores,potis,ADJqua,Case=Acc|Numb=Plur|Deg=Comp

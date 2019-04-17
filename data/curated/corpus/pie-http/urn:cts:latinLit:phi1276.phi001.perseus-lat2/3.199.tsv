@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Vcalego,vcalegvs,NOM2,Case=Dat|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+tabulata,tabvlatvm,NOM2,Case=Nom|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+iam,iam,ADV,Deg=Pos
+tertia,tertivs,ADJord,Case=Nom|Numb=Plur|Deg=Pos
+fumant,fvmo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

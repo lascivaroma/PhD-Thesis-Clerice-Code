@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+tegitur,tego,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+parma,parma,NOM1,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+galea,galea,NOM1,Case=Abl|Numb=Sing
+metuensque,metvo,VER,Case=Nom|Numb=Sing|Mood=Par|Voice=Act
+flagelli,flagellvm,NOM2,Case=Gen|Numb=Sing

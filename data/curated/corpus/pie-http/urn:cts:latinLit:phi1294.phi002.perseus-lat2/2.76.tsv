@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Argenti,argentvm,NOM3,Case=Dat|Numb=Sing
+libras,libra,NOM1,Case=Acc|Numb=Plur
+Marius,marivs,NOM2,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+quinque,qvinqve,ADJcar,Case=Ind
+reliquit,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Cui,cvivs,NOM2,Case=Gen|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+dabas,do,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2
+hic,hic,PROdem,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uerba,verbvm,NOM2,Case=Acc|Numb=Plur
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

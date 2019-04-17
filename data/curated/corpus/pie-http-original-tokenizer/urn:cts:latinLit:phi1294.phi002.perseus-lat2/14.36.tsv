@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Tondendis,tondendis,NOM3,Case=Abl|Numb=Plur
+haec,hic,PROdem,Case=Nom|Numb=Plur
+arma,arma,NOM2,Case=Nom|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+apta,aptvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+capillis,capillvs,NOM2,Case=Abl|Numb=Plur
+;,o,PRE,MORPH=empty
+Vnguibus,vngvis,NOM3,Case=Abl|Numb=Plur
+hic,hic,PROdem,Case=Nom|Numb=Sing
+longis,longvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+utilis,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+illa,ille,PROdem,Case=Nom|Numb=Sing
+genis,gena,NOM1,Case=Abl|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

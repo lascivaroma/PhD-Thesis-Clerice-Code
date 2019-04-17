@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ignotos,ignotvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+mihi,ego,PROper,Case=Dat|Numb=Sing
+tenet,teneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+antiquaria,antiqvarivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uersus,versvs,NOM4,Case=Acc|Numb=Plur

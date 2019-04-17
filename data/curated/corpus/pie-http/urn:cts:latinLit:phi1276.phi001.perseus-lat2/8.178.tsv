@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+alius,alivs,PROind,Case=Nom|Numb=Sing
+cuiquam,qvisqvam,PROind,Case=Dat|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+mensa,mensa,NOM1,Case=Nom|Numb=Sing
+remotior,remotvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+ulli,vllvs,PROind,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Dat|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+pupillares,pvpillaris,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+defert,defero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+balnea,balinevm,NOM2,Case=Acc|Numb=Plur
+raucus,ravcvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

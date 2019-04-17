@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uerticibus,vertex,NOM3,Case=Abl|Numb=Plur
+timidum,timidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+abluet,ablvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+inde,inde,ADV,Deg=Pos
+superbi,svperbvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

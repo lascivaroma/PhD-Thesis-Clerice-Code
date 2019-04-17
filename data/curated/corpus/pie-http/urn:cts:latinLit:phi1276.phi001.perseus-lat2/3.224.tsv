@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+Fabrateriae,fabrateria,NOM1,Case=Gen|Numb=Sing
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+Frusinone,frvsino,NOM3,Case=Abl|Numb=Sing
+paratur,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

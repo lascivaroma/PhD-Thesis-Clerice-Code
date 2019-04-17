@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+a,ab,PRE,MORPH=empty
+scrobe,scrobis,NOM3,Case=Abl|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+sulco,svlcvs,NOM2,Case=Abl|Numb=Sing
+redeuntibus,redeo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+altera,alter,PROind,Case=Nom|Numb=Sing
+cena,cena,NOM1,Case=Abl|Numb=Sing

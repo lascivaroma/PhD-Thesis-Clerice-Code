@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hiscere,hisco,VER,Mood=Inf|Tense=Pres|Voice=Act
+tamquam,tamqvam,CONsub,MORPH=empty
+habeas,habeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+tria,tres,ADJcar,Case=Acc|Numb=Plur
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+quando,qvando,ADVint,MORPH=empty
+propinat,propino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

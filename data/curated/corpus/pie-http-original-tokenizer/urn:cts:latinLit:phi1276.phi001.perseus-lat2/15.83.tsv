@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+expectare,exspecto,VER,Mood=Inf|Tense=Pres|Voice=Act
+focos,focvs,NOM2,Case=Acc|Numb=Plur
+contenta,contentvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cadauere,cadaver,NOM3,Case=Abl|Numb=Sing
+crudo,crvdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

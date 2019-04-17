@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+praemia,praemivm,NOM2,Case=Nom|Numb=Plur
+quanta,qvantvs,PROint,Case=Nom|Numb=Plur
+bonos,bonvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+maneant,maneo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quam,qvam,ADVrel,MORPH=empty
+fulmine,fvlmen,NOM3,Case=Abl|Numb=Sing
+iusto,ivstvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

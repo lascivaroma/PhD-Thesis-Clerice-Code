@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+flagitio,flagitivm,NOM2,Case=Abl|Numb=Sing
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+laqueum,laqvevs,NOM2,Case=Acc|Numb=Sing
+uestigia,vestigivm,NOM2,Case=Acc|Numb=Plur
+noster,noster,PROpos,Case=Nom|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inde,inde,ADV,Deg=Pos
+habitum,habitvs,NOM4,Case=Acc|Numb=Sing
+facies,facies,NOM5,Case=Nom|Numb=Sing
+igitur,igitvr,CONcoo,MORPH=empty
+flexisse,flecto,VER,Mood=Inf|Tense=Perf|Voice=Act
+uideris,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

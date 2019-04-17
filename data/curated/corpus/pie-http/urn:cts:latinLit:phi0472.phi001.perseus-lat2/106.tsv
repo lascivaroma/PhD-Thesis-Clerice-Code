@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+puero,pver,NOM2,Case=Dat|Numb=Sing
+bello,bellvm,NOM2,Case=Abl|Numb=Sing
+praeconem,praeco,NOM3,Case=Acc|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uidet,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+quid,qvis,PROint,Case=Acc|Numb=Sing
+credat,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nisi,nisi,CONsub,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing
+uendere,vendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+discupere,discvpio,VER,Mood=Inf|Tense=Pres|Voice=Act

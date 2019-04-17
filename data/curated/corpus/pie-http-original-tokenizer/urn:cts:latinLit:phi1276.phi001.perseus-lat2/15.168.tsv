@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+nescierint,nescio,VER,Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+primi,primvs,ADJord,Case=Nom|Numb=Plur|Deg=Sup
+gladios,gladivs,NOM2,Case=Acc|Numb=Plur
+extendere,extendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+fabri,faber,NOM2,Case=Nom|Numb=Plur

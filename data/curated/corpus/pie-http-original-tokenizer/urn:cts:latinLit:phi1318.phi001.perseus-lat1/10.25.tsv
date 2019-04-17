@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Seruilius,servilivs,NOM2,Case=Nom|Numb=Sing
+Pudens,pvdens,NOM3,Case=Nom|Numb=Sing
+legatus,legatvs,NOM2,Case=Nom|Numb=Sing
+domine,dominvs,NOM2,Case=Voc|Numb=Sing
+VIII,octo,ADJord,Case=Ind
+Kal,kalendae,NOM7,Case=Acc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Decembres,december,ADJqua,Case=Nom|Numb=Plur
+Nicomediam,nicomedia,NOM1,Case=Acc|Numb=Sing
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+meque,meqve,CONcoo,MORPH=empty
+longae,longvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+exspectationis,exspectatio,NOM3,Case=Gen|Numb=Sing
+sollicitudine,sollicitvdo,NOM3,Case=Abl|Numb=Sing
+liberauit,libero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

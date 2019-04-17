@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Chirurgus,chirvrgvs,NOM2,Case=Nom|Numb=Sing
+fuerat,svm,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+nunc,nvnc,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uispillo,vispillvm,NOM2,Case=Abl|Numb=Sing
+Diaulus,diavlvs,NOM2,Case=Nom|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Sing
+Coepit,coepitvs,NOM3,Numb=Sing|Person=3
+quo,qvo,ADVrel,MORPH=empty
+poterat,possvm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+clinicus,clinicvs,NOM2,Case=Nom|Numb=Sing
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+modo,modo,ADV,Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

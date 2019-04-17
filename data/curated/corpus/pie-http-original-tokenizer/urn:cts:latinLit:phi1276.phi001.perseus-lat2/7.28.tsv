@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+facis,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+in,in,PRE,MORPH=empty
+parua,parvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+sublimia,svblimis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+carmina,carmen,NOM3,Case=Acc|Numb=Plur
+cella,cella,NOM1,Case=Abl|Numb=Sing

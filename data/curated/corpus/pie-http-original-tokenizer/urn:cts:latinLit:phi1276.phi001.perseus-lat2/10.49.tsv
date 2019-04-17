@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+summos,svpervs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+posse,possvm,VER,Mood=Inf|Tense=Pres|Voice=Act
+uiros,vir,NOM2,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+magna,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+exempla,exemplvm,NOM2,Case=Acc|Numb=Plur
+daturos,do,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Fut|Voice=Act

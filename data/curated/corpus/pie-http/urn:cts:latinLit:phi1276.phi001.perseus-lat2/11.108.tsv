@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ponebant,pono,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+igitur,igitvr,CONcoo,MORPH=empty
+Tusco,tvscvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+farrata,farratvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+catino,catinvs,NOM2,Case=Abl|Numb=Sing

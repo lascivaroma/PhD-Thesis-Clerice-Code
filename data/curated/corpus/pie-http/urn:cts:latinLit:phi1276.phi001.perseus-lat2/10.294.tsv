@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing
+habuit,habeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+cuperet,cvpio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+Rutilae,rvtila,NOM1,Case=Gen|Numb=Sing
+Verginia,verginivs,ADJqua,Case=Abl|Numb=Sing
+gibbum,gibbvs,NOM2,Case=Acc|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tantumdem,tantvsdem,PROdem,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+feriunt,ferio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+pariter,pariter,ADV,Deg=Pos
+uadimonia,vadimonivm,NOM2,Case=Nom|Numb=Plur
+deinde,deinde,ADV,Deg=Pos

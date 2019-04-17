@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+retibus,rete,NOM3,Case=Abl|Numb=Plur
+adsiduis,assidvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+penitus,penitvs,ADV,Deg=Pos
+scrutante,scrvtor,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
+macello,macellvm,NOM2,Case=Abl|Numb=Sing

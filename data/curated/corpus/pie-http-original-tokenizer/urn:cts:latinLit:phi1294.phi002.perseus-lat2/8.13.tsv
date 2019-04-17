@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Morio,morivs,NOM2,Case=Dat|Numb=Sing
+dictus,dico,VER,Case=Nom|Numb=Sing|Tense=Perf|Voice=Pass
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+uiginti,viginti,ADJcar,Case=Ind
+milibus,mille,ADJcar,Case=Abl|Numb=Plur
+emi,emo,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Redde,redde,NOM3,Case=Voc|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+nummos,nvmvs,NOM2,Case=Acc|Numb=Plur
+Gargiliane,gargilianvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+sapit,sapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing

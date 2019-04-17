@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+expectare,exspecto,VER,Mood=Inf|Tense=Pres|Voice=Act
+colus,colvs,NOM4,Case=Acc|Numb=Plur
+;,o,INJ,MORPH=empty
+morieris,morior,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=2
+stamine,stamen,NOM3,Case=Abl|Numb=Sing
+nondum,nondvm,ADVneg,MORPH=empty

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+taedia,taedivm,NOM2,Case=Acc|Numb=Plur
+mille,mille,ADJcar,Case=Ind
+morae,mora,NOM1,Case=Gen|Numb=Plur
+;,o,PRE,MORPH=empty
+totiens,totiens,ADV,Deg=Pos
+subsellia,svbsellivm,NOM2,Case=Acc|Numb=Plur
+tantum,tantvm,PROdem,Numb=Sing|Deg=Pos

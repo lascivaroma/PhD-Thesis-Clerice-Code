@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+numeret,nvmero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+gemmas,gemma,NOM1,Case=Acc|Numb=Plur
+ungues,vngvis,NOM3,Case=Acc|Numb=Plur
+obseruet,observo,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+acutos,acvtvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

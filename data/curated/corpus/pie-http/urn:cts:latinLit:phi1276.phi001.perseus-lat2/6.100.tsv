@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvis,PROrel,Case=Nom|Numb=Sing
+moechum,moechvs,NOM2,Case=Nom|Numb=Sing
+sequitur,seqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+stomacho,stomachvs,NOM2,Case=Dat|Numb=Sing
+ualet,valeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+illa,ille,PROdem,Case=Nom|Numb=Sing
+maritum,maritvs,NOM2,Case=Acc|Numb=Sing

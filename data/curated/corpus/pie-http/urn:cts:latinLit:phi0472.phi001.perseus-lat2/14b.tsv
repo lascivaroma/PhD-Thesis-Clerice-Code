@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Si,sinvs,NOM2,Numb=Sing
+qui,qvis,PROrel,Case=Nom|Numb=Sing
+forte,forte,ADV,Deg=Pos
+mearum,mevs,PROpos,Case=Gen|Numb=Plur
+ineptiarum,ineptiae,NOM1,Case=Gen|Numb=Plur
+lectores,lector,NOM3,Case=Acc|Numb=Plur
+eritis,svm,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+manus,manvs,NOM4,Case=Acc|Numb=Plur
+-que,qvovs,CONcoo,MORPH=empty
+uestras,vester,PROpos,Case=Acc|Numb=Plur
+non,non,ADVneg,MORPH=empty
+horrebitis,horreo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+admouere,admoveo,VER,Mood=Inf|Tense=Pres|Voice=Act
+nobis,nos,PROper,Case=Dat|Numb=Plur

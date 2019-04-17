@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ulla,vllvs,PROind,Case=Nom|Numb=Sing
+aliena,alienvm,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+sibi,svi,PROref,Case=Dat|Numb=Sing
+credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mala,malvm,NOM2,Case=Acc|Numb=Plur
+separat,separo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+nos,nos,PROper,Case=Acc|Numb=Plur

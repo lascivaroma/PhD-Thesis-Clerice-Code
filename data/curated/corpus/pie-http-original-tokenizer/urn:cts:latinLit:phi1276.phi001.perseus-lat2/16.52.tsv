@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uiuo,vivvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+patre,pater,NOM3,Case=Abl|Numb=Sing
+datur,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+nam,nam,CONcoo,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+parta,pario,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+labore,labor,NOM3,Case=Abl|Numb=Sing

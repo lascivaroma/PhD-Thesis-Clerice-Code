@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+an,an,ADVint,MORPH=empty
+Fidenarum,fidenae,NOM1,Case=Gen|Numb=Plur
+Gabiorum,gabii,NOM2,Case=Gen|Numb=Plur
+-que,qvove,ADV,MORPH=empty
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+potestas,potestas,NOM3,Case=Nom|Numb=Sing

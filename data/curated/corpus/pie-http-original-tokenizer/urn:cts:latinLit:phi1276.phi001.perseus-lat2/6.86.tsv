@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+patriae,patria,NOM1,Case=Gen|Numb=Sing
+indulsit,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+plorantesque,ploro,VER,Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+improba,improbvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+natos,natvs,NOM2,Case=Acc|Numb=Plur

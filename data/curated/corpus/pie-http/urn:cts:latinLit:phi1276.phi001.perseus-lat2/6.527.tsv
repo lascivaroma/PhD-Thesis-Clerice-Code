@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ibit,eo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+Aegypti,aegyptvs,NOM2,Case=Gen|Numb=Sing
+finem,finis,NOM3,Case=Acc|Numb=Sing
+calida,calidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+petitas,peto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

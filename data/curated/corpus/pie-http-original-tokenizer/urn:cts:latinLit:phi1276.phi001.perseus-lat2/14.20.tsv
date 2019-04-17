@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+conparat,comparo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Antiphates,antiphates,NOM7,Case=Nom|Numb=Sing
+trepidi,trepidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+laris,lar,NOM3,Case=Gen|Numb=Sing
+ac,ac,CONcoo,MORPH=empty
+Polyphemus,polyphemvs,NOM2,Case=Nom|Numb=Sing

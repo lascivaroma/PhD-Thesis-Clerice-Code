@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Quamuis,qvamvis,NOM1,Case=Abl|Numb=Sing
+digressu,digressvs,NOM4,Case=Abl|Numb=Sing
+ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+confusus,confvsvs,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+amici,amicvs,NOM2,Case=Gen|Numb=Plur

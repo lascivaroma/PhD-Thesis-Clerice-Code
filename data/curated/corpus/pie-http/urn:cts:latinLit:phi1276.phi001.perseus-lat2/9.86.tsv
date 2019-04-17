@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+iam,iam,ADV,Deg=Pos
+pater,pater,NOM3,Case=Nom|Numb=Sing
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+dedimus,do,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+famae,fama,NOM1,Case=Dat|Numb=Sing
+opponere,oppono,VER,Mood=Inf|Tense=Pres|Voice=Act
+possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

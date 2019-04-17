@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+illa,ille,PROdem,Case=Nom|Numb=Sing
+docet,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+missis,mitto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+a,ab,PRE,MORPH=empty
+corruptore,corrvptor,NOM3,Case=Abl|Numb=Sing
+tabellis,tabella,NOM1,Case=Abl|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Quid,qvis,PROint,Case=Acc|Numb=Sing
+referam,refero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+quanta,qvantvs,PROint,Case=Nom|Numb=Sing
+siccum,siccvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+iecur,iecvr,NOM3,Case=Nom|Numb=Sing
+ardeat,ardeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ira,ira,NOM1,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Vicit,vinco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+monstrum,monstrvm,NOM2,Case=Acc|Numb=Sing
+tunicati,tvnicatvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+fuscina,fvscina,NOM1,Case=Nom|Numb=Sing
+Gracchi,gracchvs,NOM2,Case=Gen|Numb=Sing

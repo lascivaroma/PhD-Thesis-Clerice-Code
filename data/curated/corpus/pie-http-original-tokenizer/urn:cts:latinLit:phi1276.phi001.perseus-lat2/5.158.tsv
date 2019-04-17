@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+plorante,ploro,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+gula,gvla,NOM1,Case=Abl|Numb=Sing
+ergo,ergo,CONcoo,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+fiunt,fio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

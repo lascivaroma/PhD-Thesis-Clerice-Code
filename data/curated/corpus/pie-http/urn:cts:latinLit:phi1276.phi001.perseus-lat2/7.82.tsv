@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+curritur,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ad,ad,PRE,MORPH=empty
+uocem,vox,NOM3,Case=Acc|Numb=Sing
+iucundam,ivcvndvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+carmen,carmen,NOM3,Case=Acc|Numb=Sing
+amicae,amica,NOM1,Case=Gen|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tempestate,tempestas,NOM3,Case=Abl|Numb=Sing
+mea,mevs,PROpos,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+Circeis,circei,NOM1,Case=Abl|Numb=Plur
+nata,nascor,ADJqua,Case=Nom|Numb=Plur|Tense=Perf
+forent,svm,VER,Numb=Plur|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+an,an,ADVint,MORPH=empty

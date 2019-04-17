@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+loripedem,loripes,NOM3,Case=Acc|Numb=Sing
+rectus,rectvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+derideat,derideo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Aethiopem,aethiops,NOM3,Case=Acc|Numb=Sing
+albus,albvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty

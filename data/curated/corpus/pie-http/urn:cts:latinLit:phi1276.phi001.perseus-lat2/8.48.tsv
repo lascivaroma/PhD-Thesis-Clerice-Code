@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+facundum,facvndvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+inuenies,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+hic,hic,ADV,Numb=Sing
+defendere,defendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+causas,cavsa,NOM1,Case=Acc|Numb=Plur

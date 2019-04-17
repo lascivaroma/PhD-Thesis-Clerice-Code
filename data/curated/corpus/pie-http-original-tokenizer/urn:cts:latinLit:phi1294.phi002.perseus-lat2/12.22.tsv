@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Quam,qvis,PROint,Case=Acc|Numb=Sing
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+lusca,lvscvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Philaenis,philaeni,NOM2,Case=Dat|Numb=Plur
+indecenter,indecenter,ADV,Deg=Pos
+Vis,vis,NOM3,Case=Nom|Numb=Sing
+dicam,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+breuiter,breviter,ADV,Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+Fabulle,fabvllvs,NOM2,Case=Voc|Numb=Sing
+Esset,esse,NOM7,Numb=Sing
+caeca,caecvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+decentior,decens,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+Philaenis,philaeni,NOM2,Case=Dat|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

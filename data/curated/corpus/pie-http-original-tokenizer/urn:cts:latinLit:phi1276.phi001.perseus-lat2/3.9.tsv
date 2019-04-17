@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+urbis,vrbs,NOM3,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Augusto,avgvstvs,NOM2,Case=Abl|Numb=Sing
+recitantes,recito,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+mense,mensis,NOM3,Case=Abl|Numb=Sing
+poetas,poeta,NOM1,Case=Acc|Numb=Plur

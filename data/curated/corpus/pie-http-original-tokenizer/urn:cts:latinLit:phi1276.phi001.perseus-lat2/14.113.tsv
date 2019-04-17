@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+certa,certvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+magis,magis,ADV,Deg=Comp
+quam,qvam,ADVrel,MORPH=empty
+si,si,CONsub,MORPH=empty
+fortunas,fortvna,NOM1,Case=Acc|Numb=Plur
+seruet,servo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+easdem,idem,PROdem,Case=Acc|Numb=Plur

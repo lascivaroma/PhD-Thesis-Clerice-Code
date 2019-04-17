@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uua,vva,NOM1,Case=Nom|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+conspecta,conspicio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+liuorem,livor,NOM3,Case=Acc|Numb=Sing
+ducit,dvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ab,ab,PRE,MORPH=empty
+uua,vva,NOM1,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

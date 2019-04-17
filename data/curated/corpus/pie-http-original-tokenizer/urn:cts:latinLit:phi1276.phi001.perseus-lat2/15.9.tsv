@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+orrum,orrvm,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+caepe,caepe,ADV,Deg=Pos
+nefas,nefas,NOM6,Case=Ind
+uiolare,violo,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+frangere,frango,VER,Mood=Inf|Tense=Pres|Voice=Act
+morsu,morsvs,NOM4,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

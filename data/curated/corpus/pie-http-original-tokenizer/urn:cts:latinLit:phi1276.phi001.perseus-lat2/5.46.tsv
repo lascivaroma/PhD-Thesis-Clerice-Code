@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+tu,tv,PROper,Case=Nom|Numb=Sing
+Beneuentani,beneventanvs,ADJqua,Case=Gen|Numb=Sing
+sutoris,svtor,NOM3,Case=Gen|Numb=Sing
+nomen,nomen,NOM3,Case=Acc|Numb=Sing
+habentem,habeo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

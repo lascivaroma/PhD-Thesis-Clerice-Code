@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+clunem,clvnis,NOM3,Case=Acc|Numb=Sing
+agitant,agito,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ego,ego,PROper,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+ceuentem,ceveo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Sexte,sextvs,NOM2,Case=Voc|Numb=Sing
+uerebor,vereor,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1

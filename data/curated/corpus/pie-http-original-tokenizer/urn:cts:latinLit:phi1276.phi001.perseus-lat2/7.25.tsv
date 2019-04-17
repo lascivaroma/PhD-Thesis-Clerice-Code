@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+componis,compono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+dona,donvm,NOM2,Case=Acc|Numb=Plur
+Veneris,venvs,NOM3,Case=Gen|Numb=Sing
+Telesine,telesinvs,NOM7,Case=Voc|Numb=Sing
+marito,maritvs,NOM2,Case=Dat|Numb=Sing

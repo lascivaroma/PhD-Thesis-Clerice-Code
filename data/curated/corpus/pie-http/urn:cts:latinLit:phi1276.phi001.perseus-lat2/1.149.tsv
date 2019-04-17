@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+omne,omnis,PROind,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+praecipiti,praeceps,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uitium,vitivm,NOM2,Case=Acc|Numb=Sing
+stetit,sto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+utere,vtor,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Dep|Person=2
+uelis,velvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

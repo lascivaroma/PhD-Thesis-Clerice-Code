@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+perpetuo,perpetvo,ADV,Deg=Pos
+maerore,maeror,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+nigra,niger,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+ueste,vestis,NOM3,Case=Abl|Numb=Sing
+senescant,senesco,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

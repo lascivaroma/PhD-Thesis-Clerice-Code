@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+baltea,baltevm,NOM2,Case=Nom|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+derit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+per,per,PRE,MORPH=empty
+compita,compitvm,NOM2,Case=Acc|Numb=Plur
+quaerat,qvaero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

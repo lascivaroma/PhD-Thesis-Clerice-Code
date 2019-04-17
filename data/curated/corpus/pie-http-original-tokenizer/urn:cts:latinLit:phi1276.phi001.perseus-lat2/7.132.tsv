@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+perque,perqve,ADV,Deg=Pos
+forum,forvm,NOM2,Case=Acc|Numb=Sing
+iuuenes,ivvenis,NOM3,Case=Nom|Numb=Plur
+longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+premit,premo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+assere,asser,NOM3,Numb=Sing
+Maedos,maedi,NOM2,Case=Acc|Numb=Plur

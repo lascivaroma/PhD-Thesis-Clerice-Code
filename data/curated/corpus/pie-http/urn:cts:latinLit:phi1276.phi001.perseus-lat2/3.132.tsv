@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+filius,filivs,NOM2,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+alter,alter,PROind,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+quantum,qvantvm,PROint,Numb=Sing
+in,in,PRE,MORPH=empty
+legione,legio,NOM3,Case=Abl|Numb=Sing
+tribuni,tribvnvs,NOM2,Case=Nom|Numb=Plur

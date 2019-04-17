@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sperare,spero,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+fidibus,fides,NOM3,Case=Abl|Numb=Plur
+promittere,promitto,VER,Mood=Inf|Tense=Pres|Voice=Act
+quid,qvis,PROint,Case=Acc|Numb=Sing
+faceret,facio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+plus,mvltvs,ADJqua,Numb=Sing|Deg=Comp

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+languorem,langvor,NOM3,Case=Acc|Numb=Sing
+peperit,pario,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+cibus,cibvs,NOM2,Case=Nom|Numb=Sing
+inperfectus,imperfectvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+haerens,haereo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

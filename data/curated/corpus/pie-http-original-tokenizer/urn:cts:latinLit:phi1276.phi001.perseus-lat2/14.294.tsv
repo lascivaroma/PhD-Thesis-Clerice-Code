@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+color,color,NOM3,Case=Nom|Numb=Sing
+hic,hic,PROdem,Case=Nom|Numb=Sing
+caeli,caelvm,NOM2,Case=Gen|Numb=Sing
+nil,nihil,PROind,Case=Ind
+fascia,fascia,NOM1,Case=Nom|Numb=Sing
+nigra,niger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+minatur,minor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+;,o,PRE,MORPH=empty

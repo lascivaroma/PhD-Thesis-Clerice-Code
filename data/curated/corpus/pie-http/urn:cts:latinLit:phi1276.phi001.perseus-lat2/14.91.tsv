@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ut,vt,ADVrel,MORPH=empty
+spado,spado,NOM3,Case=Nom|Numb=Sing
+uincebat,vinco,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+Capitolia,capitolivm,NOM2,Case=Acc|Numb=Plur
+nostra,noster,PROpos,Case=Nom|Numb=Plur
+Posides,posides,NOM7,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

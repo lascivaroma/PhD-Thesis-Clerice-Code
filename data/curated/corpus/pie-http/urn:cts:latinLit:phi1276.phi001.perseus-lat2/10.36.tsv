@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+si,si,CONsub,MORPH=empty
+uidisset,video,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
+praetorem,praetor,NOM3,Case=Acc|Numb=Sing
+curribus,cvrrvs,NOM3,Case=Abl|Numb=Plur
+altis,altvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

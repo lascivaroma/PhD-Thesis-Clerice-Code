@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+blaesis,blaesvm,VER,Case=Abl|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+titubantibus,titvbo,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+inde,inde,ADV,Deg=Pos
+uirorum,vir,NOM2,Case=Gen|Numb=Plur

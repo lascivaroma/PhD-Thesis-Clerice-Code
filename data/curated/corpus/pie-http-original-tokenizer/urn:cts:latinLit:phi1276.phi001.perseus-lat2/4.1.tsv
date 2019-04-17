@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Ecce,ecce,NOM2,Case=Voc|Numb=Sing
+iterum,itervm,ADV,Deg=Pos
+Crispinus,crispinvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mihi,ego,PROper,Case=Dat|Numb=Sing
+saepe,saepe,ADV,Deg=Pos
+uocandus,voco,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass

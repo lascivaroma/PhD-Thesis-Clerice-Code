@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Cur,cvr,NOM3,Case=Nom|Numb=Sing
+desiderio,desiderivm,NOM2,Case=Abl|Numb=Sing
+Bibulae,bibvla,NOM1,Case=Gen|Numb=Sing
+Sertorius,sertorivs,NOM2,Case=Nom|Numb=Sing
+ardet,ardeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

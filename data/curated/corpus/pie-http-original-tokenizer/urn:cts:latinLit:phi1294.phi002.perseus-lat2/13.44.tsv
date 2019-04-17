@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Esse,essvs,NOM2,Case=Voc|Numb=Sing
+putes,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+nondum,nondvm,ADVneg,MORPH=empty
+sumen,svmen,NOM3,Case=Nom|Numb=Sing
+sic,sic,ADV,Deg=Pos
+ubere,vber,NOM3,Case=Abl|Numb=Sing
+largo,largvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Et,et,CONcoo,MORPH=empty
+fluit,flvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+uiuo,vivvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+lacte,lac,NOM3,Case=Abl|Numb=Sing
+papilla,papilla,NOM1,Case=Abl|Numb=Sing
+tumet,tvmeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

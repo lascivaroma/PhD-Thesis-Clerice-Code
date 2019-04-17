@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Sponte,sponte,NOM7,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+iuuenes,ivvenis,NOM3,Case=Nom|Numb=Plur
+imitantur,imitor,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+cetera,cetera,NOM2,Case=Acc|Numb=Plur
+solam,solvs,PROind,Case=Acc|Numb=Sing

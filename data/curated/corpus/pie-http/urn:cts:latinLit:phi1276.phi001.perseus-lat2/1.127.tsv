@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Ipse,ipse,NOM7,Case=Nom|Numb=Sing
+dies,dies,NOM5,Case=Nom|Numb=Sing
+pulchro,pvlcher,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+distinguitur,distingvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ordine,ordo,NOM3,Case=Abl|Numb=Sing
+rerum,res,NOM5,Case=Gen|Numb=Plur

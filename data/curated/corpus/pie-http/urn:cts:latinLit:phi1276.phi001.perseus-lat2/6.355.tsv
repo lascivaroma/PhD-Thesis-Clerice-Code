@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+argenti,argentvm,NOM2,Case=Gen|Numb=Sing
+superest,svpersvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quodcumque,qvicvmqve,PROrel,Case=Acc|Numb=Sing
+paterni,paternvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

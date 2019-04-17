@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+conspicuus,conspicvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+longe,longe,ADV,Deg=Pos
+cunctisque,cvnctvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+notabilis,notabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+intrat,intro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

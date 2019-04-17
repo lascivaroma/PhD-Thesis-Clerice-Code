@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+saltu,saltvs,NOM4,Case=Abl|Numb=Sing
+uenantur,venor,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+aues,avis,NOM3,Case=Nom|Numb=Plur
+hinc,hinc,ADV,Deg=Pos
+praeda,praeda,NOM1,Case=Nom|Numb=Sing
+cubili,cvbile,NOM3,Case=Abl|Numb=Sing

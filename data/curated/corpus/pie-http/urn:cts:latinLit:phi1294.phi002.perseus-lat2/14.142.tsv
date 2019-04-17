@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Dum,dem,ADJcar,Case=Nom|Numb=Sing
+toga,toga,NOM1,Case=Nom|Numb=Sing
+per,per,PRE,MORPH=empty
+quinas,qvisnam,PROind,Case=Acc|Numb=Plur
+gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+requiescere,reqviesco,VER,Mood=Inf|Tense=Pres|Voice=Act
+luces,lvx,NOM3,Case=Acc|Numb=Plur
+Hos,hos,NOM3,Case=Nom|Numb=Sing
+poteris,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+cultus,cvltvs,NOM4,Case=Acc|Numb=Plur
+sumere,svmo,VER,Mood=Inf|Tense=Pres|Voice=Act
+iure,ivs,NOM3,Case=Abl|Numb=Sing
+tuo,tvvs,PROpos,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+neu,neve,CONcoo,MORPH=empty
+credas,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+ponendum,pono,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+discriminis,discrimen,NOM3,Case=Gen|Numb=Sing
+inter,inter,PRE,MORPH=empty

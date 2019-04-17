@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+nefas,nefas,NOM6,Case=Ind
+tandem,tandem,ADV,Deg=Pos
+incipiunt,incipio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sentire,sentio,VER,Mood=Inf|Tense=Pres|Voice=Act
+peractis,perago,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+striglibus,strigia,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+pleno,plenvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+componit,compono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+lintea,lintevm,NOM2,Case=Acc|Numb=Plur
+guto,gvttvs,NOM2,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

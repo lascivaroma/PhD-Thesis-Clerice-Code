@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+proclames,proclamo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+in,in,PRE,MORPH=empty
+corpore,corpvs,NOM3,Case=Abl|Numb=Sing
+iudicis,ivdex,NOM3,Case=Gen|Numb=Sing
+ista,iste,PROdem,Case=Acc|Numb=Sing

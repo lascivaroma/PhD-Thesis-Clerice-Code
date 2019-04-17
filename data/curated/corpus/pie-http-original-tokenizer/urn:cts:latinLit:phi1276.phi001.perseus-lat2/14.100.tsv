@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Romanas,romanvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+autem,avtem,CONcoo,MORPH=empty
+soliti,soleo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
+contemnere,contemno,VER,Mood=Inf|Tense=Pres|Voice=Act
+leges,lex,NOM3,Case=Acc|Numb=Plur

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Octaphoro,octaphoro,NOM3,Case=Dat|Numb=Sing
+sanus,sanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+portatur,porto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+Auite,avitvs,NOM2,Case=Voc|Numb=Sing
+Philippus,philippvs,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Hunc,hvnc,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tu,tv,PROper,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+sanum,sanvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+credis,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Auite,avitvs,NOM2,Case=Voc|Numb=Sing
+furis,fvro,NOM3,Numb=Sing|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

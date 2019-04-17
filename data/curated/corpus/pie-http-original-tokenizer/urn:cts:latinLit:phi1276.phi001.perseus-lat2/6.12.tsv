@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uiuebant,vivo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+homines,homo,NOM3,Case=Nom|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+rupto,rvmpo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+robore,robvr,NOM3,Case=Abl|Numb=Sing
+nati,nascor,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Dep|Person=3

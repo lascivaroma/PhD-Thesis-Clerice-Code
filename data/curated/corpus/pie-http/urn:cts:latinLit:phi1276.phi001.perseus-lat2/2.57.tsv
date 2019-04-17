@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+horrida,horridvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+quale,qvalis,PROrel,Case=Acc|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+residens,resideo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+in,in,PRE,MORPH=empty
+codice,cavdex,NOM3,Case=Abl|Numb=Sing
+paelex,pellex,NOM3,Case=Nom|Numb=Sing

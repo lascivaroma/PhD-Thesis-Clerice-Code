@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+exitus,exitvs,NOM4,Case=Nom|Numb=Sing
+ille,ille,PROdem,Case=Nom|Numb=Sing
+utcumque,vtcvmqve,ADVrel,Deg=Pos
+hominis,homo,NOM3,Case=Gen|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+torua,torvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+canino,caninvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

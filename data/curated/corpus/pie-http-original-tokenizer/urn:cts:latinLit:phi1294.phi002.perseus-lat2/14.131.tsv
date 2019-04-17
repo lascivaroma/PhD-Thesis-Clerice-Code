@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,Numb=Sing
+ueneto,venetvm,NOM2,Case=Abl|Numb=Sing|Tense=Fut|Person=2
+prasinoue,prasinove,ADJqua,Numb=Sing|Deg=Pos
+faues,faveo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+quid,qvis,PROint,Case=Acc|Numb=Sing
+coccina,coccinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+sumes,svmo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+Ne,ne,PROind,Case=Ind
+fias,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+ista,iste,PROdem,Case=Acc|Numb=Sing
+transfuga,transfvga,NOM1,Case=Abl|Numb=Sing
+sorte,sors,NOM3,Case=Abl|Numb=Sing
+uide,video,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

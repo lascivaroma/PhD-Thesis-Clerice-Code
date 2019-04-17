@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+praeter,praeter,PRE,MORPH=empty
+gelidas,gelidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+ausae,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
+conferre,confero,VER,Mood=Inf|Tense=Pres|Voice=Act
+cicutas,cicvta,NOM1,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

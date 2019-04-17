@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+leuibus,levis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+siccae,siccvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+lambentibus,lambo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+ora,os,NOM3,Case=Acc|Numb=Plur
+lucernae,lvcerna,NOM1,Case=Gen|Numb=Sing

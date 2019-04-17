@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+fortasseexperiar,fortassederia,VER,Numb=Sing|Voice=Dep
+solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+his,hic,PROdem,Case=Dat|Numb=Plur
+ignoscere,ignosco,VER,Mood=Inf|Tense=Pres|Voice=Act
+multi,mvlti,NOM2,Case=Nom|Numb=Plur

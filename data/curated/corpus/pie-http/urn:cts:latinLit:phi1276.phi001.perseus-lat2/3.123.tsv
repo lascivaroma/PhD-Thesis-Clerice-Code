@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+exiguum,exigvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+de,de,PRE,MORPH=empty
+naturae,natvra,NOM1,Case=Gen|Numb=Sing
+patriae,patria,NOM1,Case=Gen|Numb=Sing
+-que,qvisqve,ADV,Numb=Sing
+ueneno,venenvm,NOM2,Case=Abl|Numb=Sing

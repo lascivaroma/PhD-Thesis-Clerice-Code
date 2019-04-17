@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+attonitae,attonitvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+crinem,crinis,NOM3,Case=Acc|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+rotant,roto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ululant,vlvlo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+-que,qvovs,CONcoo,MORPH=empty
+Priapi,priapvs,NOM2,Case=Gen|Numb=Sing

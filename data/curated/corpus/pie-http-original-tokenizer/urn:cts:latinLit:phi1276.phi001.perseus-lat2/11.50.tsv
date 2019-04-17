@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cedere,cedo,VER,Mood=Inf|Tense=Pres|Voice=Act
+namque,namqve,CONcoo,MORPH=empty
+foro,forvm,NOM2,Case=Abl|Numb=Sing
+iam,iam,ADV,Deg=Pos
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+deterius,deterior,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+quam,qvam,ADVrel,MORPH=empty

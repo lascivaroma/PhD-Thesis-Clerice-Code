@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+spondet,spondeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+enim,enim,CONcoo,MORPH=empty
+Tyrio,tyrivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+stlattaria,stlattarivs,ADJqua,Case=Nom|Numb=Plur
+purpura,pvrpvra,NOM1,Case=Abl|Numb=Sing
+filo,filvm,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

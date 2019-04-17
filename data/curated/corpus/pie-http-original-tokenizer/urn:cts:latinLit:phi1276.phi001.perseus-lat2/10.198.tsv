@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+una,vnvs,ADJcar,Case=Nom|Numb=Sing
+senum,senex,NOM3,Case=Gen|Numb=Plur
+facies,facies,NOM5,Case=Nom|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+uoce,vox,NOM3,Case=Abl|Numb=Sing
+trementia,tremo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+membra,membrvm,NOM2,Case=Acc|Numb=Plur

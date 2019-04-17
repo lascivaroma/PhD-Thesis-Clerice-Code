@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+exodium,exodivm,NOM2,Case=Acc|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+personae,persona,NOM1,Case=Gen|Numb=Sing
+pallentis,pallens,ADJqua,Case=Gen|Numb=Sing|Deg=Pos|Voice=Act
+hiatum,hiatvs,NOM4,Case=Acc|Numb=Sing

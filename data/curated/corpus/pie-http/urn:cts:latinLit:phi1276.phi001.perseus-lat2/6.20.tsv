@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hac,hic,PROdem,Case=Abl|Numb=Sing
+comite,comes,NOM3,Case=Abl|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+duae,dvo,ADJcar,Case=Nom|Numb=Plur
+pariter,pariter,ADV,Deg=Pos
+fugere,fvgio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act
+sorores,soror,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Quintilianus,qvintilianvs,NOM2,Case=Nom|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+saltus,saltvs,NOM4,Case=Acc|Numb=Plur
+exempla,exemplvm,NOM2,Case=Acc|Numb=Plur
+nouorum,novvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos

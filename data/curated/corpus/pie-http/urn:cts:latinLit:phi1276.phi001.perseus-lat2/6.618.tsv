@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ardebant,ardeo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+cuncta,cvnctvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+fracta,frango,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+conpage,compages,NOM3,Case=Abl|Numb=Sing
+ruebant,rvo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3

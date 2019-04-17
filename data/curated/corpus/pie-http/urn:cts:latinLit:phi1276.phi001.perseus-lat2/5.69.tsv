@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+genuinum,genvinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+agitent,agito,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+non,non,ADVneg,MORPH=empty
+admittentia,admitto,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+morsum,morsvs,NOM4,Case=Acc|Numb=Sing
+;,o,PRE,MORPH=empty

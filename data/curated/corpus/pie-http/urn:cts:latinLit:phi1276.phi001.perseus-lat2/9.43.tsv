@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+an,an,ADVint,MORPH=empty
+facile,facilis,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+pronum,pronvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+agere,ago,VER,Mood=Inf|Tense=Pres|Voice=Act
+intra,intra,PRE,MORPH=empty
+uiscera,viscvs,NOM3,Case=Acc|Numb=Plur
+penem,penis,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+cana,canvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+monstrante,monstro,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+gula,gvla,NOM1,Case=Abl|Numb=Sing
+;,o,INJ,MORPH=empty
+cum,cvm,CONsub,MORPH=empty
+septimus,septimvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
+annus,annvs,NOM2,Case=Nom|Numb=Sing

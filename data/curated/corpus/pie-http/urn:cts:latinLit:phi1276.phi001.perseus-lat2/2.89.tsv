@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+solis,solvs,NOM3,Case=Gen|Numb=Sing
+ara,ara,NOM1,Case=Nom|Numb=Sing
+deae,dea,NOM1,Case=Gen|Numb=Sing
+maribus,mas,NOM3,Case=Dat|Numb=Plur
+patet,pateo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ite,eo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+profanae,profanvs,ADJqua,Case=Voc|Numb=Plur|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uirginis,virgo,NOM3,Case=Gen|Numb=Sing
+occurrit,occvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uel,vel,CONcoo,MORPH=empty
+terra,terra,NOM1,Case=Nom|Numb=Sing
+clauditur,clavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+infans,infans,NOM3,Case=Nom|Numb=Sing

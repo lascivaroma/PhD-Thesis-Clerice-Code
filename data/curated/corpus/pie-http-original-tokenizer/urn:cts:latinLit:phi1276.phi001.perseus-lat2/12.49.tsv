@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+argento,argentvm,NOM2,Case=Abl|Numb=Sing
+praeferre,praefero,VER,Mood=Inf|Tense=Pres|Voice=Act
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+rebusque,rebvs,NOM5,Case=Abl|Numb=Plur
+salutem,salvs,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sacculus,saccvlvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing
+e,ex,PRE,MORPH=empty
+caelo,caelvm,NOM2,Case=Abl|Numb=Sing
+descendit,descendo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

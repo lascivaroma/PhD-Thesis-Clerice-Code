@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+de,de,PRE,MORPH=empty
+conducendo,condvco,VER,Case=Abl|Numb=Sing|Mood=Ger|Voice=Act
+loquitur,loqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+iam,iam,ADV,Deg=Pos
+rhetore,rhetor,NOM3,Case=Abl|Numb=Sing
+Thyle,thyle,NOM7,Case=Voc|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

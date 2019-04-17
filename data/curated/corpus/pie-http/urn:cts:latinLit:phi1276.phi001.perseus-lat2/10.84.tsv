@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quam,qvi,PROrel,Case=Acc|Numb=Sing
+timeo,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+uictus,vinco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+ne,ne,CONsub,MORPH=empty
+poenas,poena,NOM1,Case=Acc|Numb=Plur
+exigat,exigo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Aiax,aiax,NOM3,Case=Nom|Numb=Sing

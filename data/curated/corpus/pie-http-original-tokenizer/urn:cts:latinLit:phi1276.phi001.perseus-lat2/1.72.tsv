@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+famam,fama,NOM1,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+populum,popvlvs,NOM2,Case=Acc|Numb=Sing
+nigros,niger,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+efferre,effero,VER,Mood=Inf|Tense=Pres|Voice=Act
+maritos,maritvs,NOM2,Case=Acc|Numb=Plur

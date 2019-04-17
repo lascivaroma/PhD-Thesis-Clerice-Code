@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+montanum,montanvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+positis,pono,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+audiret,avdio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+uulgus,vvlgvs,NOM2,Case=Nom|Numb=Sing
+aratris,aratrvm,NOM2,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

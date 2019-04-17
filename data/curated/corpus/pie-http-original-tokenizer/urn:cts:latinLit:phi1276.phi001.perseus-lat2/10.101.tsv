@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+de,de,PRE,MORPH=empty
+mensura,mensvra,NOM1,Case=Abl|Numb=Sing
+ius,ivs,NOM3,Case=Acc|Numb=Sing
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+uasa,vas,NOM2,Case=Acc|Numb=Plur
+minora,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp

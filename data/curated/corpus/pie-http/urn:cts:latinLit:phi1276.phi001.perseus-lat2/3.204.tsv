@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ornamentum,ornamentvm,NOM2,Case=Nom|Numb=Sing
+abaci,abacvs,NOM2,Case=Gen|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+non,non,ADVneg,MORPH=empty
+et,et,CONcoo,MORPH=empty
+paruulus,parvvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+infra,infra,PRE,MORPH=empty

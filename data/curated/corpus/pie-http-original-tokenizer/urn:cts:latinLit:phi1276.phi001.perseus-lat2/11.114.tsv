@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+officium,officivm,NOM2,Case=Acc|Numb=Sing
+uatis,vates,NOM3,Case=Gen|Numb=Sing
+pergentibus,pergo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+his,hic,PROdem,Case=Dat|Numb=Plur
+monuit,moneo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nos,nos,PROper,Case=Acc|Numb=Plur

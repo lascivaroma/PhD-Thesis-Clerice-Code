@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+boletum,boletvs,NOM2,Case=Acc|Numb=Sing
+condire,condio,VER,Mood=Inf|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+eodem,idem,PROdem,Case=Abl|Numb=Sing
+iure,ivs,NOM3,Case=Abl|Numb=Sing
+natantis,nato,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

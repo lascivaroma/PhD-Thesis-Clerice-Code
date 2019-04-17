@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Vtile,vtilvs,NOM3,Case=Voc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+hoc,hic,PROdem,Case=Nom|Numb=Sing
+multis,mvltvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+uitae,vita,NOM1,Case=Gen|Numb=Sing
+genus,genvs,NOM3,Case=Nom|Numb=Sing
+at,at,CONcoo,MORPH=empty
+mihi,ego,PROper,Case=Dat|Numb=Sing
+nullum,nvllvs,PROind,Case=Nom|Numb=Sing

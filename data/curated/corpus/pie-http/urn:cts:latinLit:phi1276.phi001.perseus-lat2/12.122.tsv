@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mille,mille,ADJcar,Case=Ind
+rates,ratis,NOM3,Case=Nom|Numb=Plur
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+Libitinam,libitinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+euaserit,evado,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+aeger,aeger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

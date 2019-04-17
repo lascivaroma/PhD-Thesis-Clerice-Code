@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+gaudentis,gavdeo,VER,Case=Gen|Numb=Plur|Mood=Par|Tense=Pres|Voice=SemDep
+foedo,foedvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+peregrina,peregrinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+ad,ad,PRE,MORPH=empty
+pulpita,pvlpitvm,NOM2,Case=Acc|Numb=Plur
+cantu,cantvs,NOM4,Case=Abl|Numb=Sing

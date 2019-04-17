@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Rem,res,NOM3,Case=Acc|Numb=Sing
+peragit,perago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nullam,nvllvs,PROind,Case=Acc|Numb=Sing
+Sertorius,sertorivs,NOM2,Case=Nom|Numb=Sing
+inchoat,inchoo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+omnes,omnis,PROind,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Hunc,hvnc,NOM3,Case=Acc|Numb=Sing
+ego,ego,PROper,Case=Nom|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+futuit,fvtvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+non,non,ADVneg,MORPH=empty
+puto,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+perficere,perficio,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

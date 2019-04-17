@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+deteret,detero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+exiguis,exigvvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+proponimus,propono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+illuc,illvc,ADV,Deg=Pos

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Vna,vnvs,NOM1,Case=Abl|Numb=Sing
+nocte,nocte,NOM3,Case=Abl
+quater,qvater,ADJadv.mul,MORPH=empty
+possum,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+sed,sed,CONcoo,MORPH=empty
+quattuor,qvatvor,ADJcar,Case=Ind
+annis,annvs,NOM2,Case=Abl|Numb=Plur
+Si,sivs,NOM2,Numb=Sing
+possum,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+peream,pereo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+te,tv,PROper,Case=Acc|Numb=Sing
+Telesilla,telesilla,NOM1,Case=Voc|Numb=Sing
+semel,semel,ADJadv.mul,MORPH=empty
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

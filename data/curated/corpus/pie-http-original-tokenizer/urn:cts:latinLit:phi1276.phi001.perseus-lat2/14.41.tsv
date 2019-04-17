@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+turpibus,tvrpis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+ac,ac,CONcoo,MORPH=empty
+prauis,pravvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+omnes,omnis,PROind,Case=Nom|Numb=Plur
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+et,et,CONcoo,MORPH=empty
+Catilinam,catilina,NOM1,Case=Acc|Numb=Sing

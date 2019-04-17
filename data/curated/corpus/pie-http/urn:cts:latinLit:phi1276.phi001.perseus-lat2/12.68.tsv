@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uestibus,vestis,NOM3,Case=Abl|Numb=Plur
+extentis,extendo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+et,et,CONcoo,MORPH=empty
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+superauerat,svpero,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+unum,vnvs,ADJcar,Case=Acc|Numb=Sing

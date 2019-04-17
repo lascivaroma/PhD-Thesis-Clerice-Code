@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+plangentis,plango,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+populi,popvlvs,NOM2,Case=Gen|Numb=Sing
+currit,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+derisor,derisor,NOM3,Case=Nom|Numb=Sing
+Anulus,anvlvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

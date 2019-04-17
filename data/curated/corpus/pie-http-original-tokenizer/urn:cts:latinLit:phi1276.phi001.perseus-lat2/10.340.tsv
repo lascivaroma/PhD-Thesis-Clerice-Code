@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+scelus,scelvs,NOM3,Case=Acc|Numb=Sing
+admittas,admitto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+dabitur,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+mora,mora,NOM1,Case=Nom|Numb=Sing
+paruula,parvvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dum,dvm,CONsub,MORPH=empty
+res,res,NOM5,Case=Nom|Numb=Sing

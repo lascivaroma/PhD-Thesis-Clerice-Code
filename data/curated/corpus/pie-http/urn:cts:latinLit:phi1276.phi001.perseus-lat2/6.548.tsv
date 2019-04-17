@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Spondet,spondeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+amatorem,amator,NOM3,Case=Acc|Numb=Sing
+tenerum,tener,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+uel,vel,CONcoo,MORPH=empty
+diuitis,dives,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+orbi,orbis,NOM3,Case=Dat|Numb=Sing

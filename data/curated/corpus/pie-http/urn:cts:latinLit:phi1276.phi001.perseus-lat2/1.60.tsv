@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+censu,censvs,NOM4,Case=Abl|Numb=Sing
+dum,dvm,CONsub,MORPH=empty
+peruolat,pervolo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+axe,axis,NOM3,Case=Abl|Numb=Sing
+citato,citatvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos|Voice=Pass

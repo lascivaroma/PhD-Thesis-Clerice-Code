@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+citius,cito,ADV,Deg=Comp
+falsum,falsvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+producere,prodvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+testem,testis,NOM3,Case=Acc|Numb=Sing

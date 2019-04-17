@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+omnibus,omnis,PROind,Case=Abl|Numb=Plur
+in,in,PRE,MORPH=empty
+rebus,res,NOM5,Case=Abl|Numb=Plur
+numerentur,nvmero,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+deinde,deinde,ADV,Deg=Pos
+labores,labor,NOM3,Case=Acc|Numb=Plur

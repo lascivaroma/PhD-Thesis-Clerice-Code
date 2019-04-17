@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+dummodo,dvmmodo,CONsub,MORPH=empty
+non,non,ADVneg,MORPH=empty
+pereat,pereo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+mediae,medivs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+quod,qvod,PROrel,MORPH=empty
+noctis,nox,NOM3,Case=Gen|Numb=Sing
+ab,ab,PRE,MORPH=empty
+hora,hora,NOM1,Case=Abl|Numb=Sing

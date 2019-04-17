@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Scipiadae,scipiades,NOM1,Case=Nom|Numb=Sing
+quid,qvis,PROint,Case=Acc|Numb=Sing
+Fabricius,fabricivs,NOM2,Case=Nom|Numb=Sing
+manes,manes,NOM3,Numb=Plur
+-que,qvovs,ADV,MORPH=empty
+Camilli,camillvs,NOM2,Case=Gen|Numb=Sing

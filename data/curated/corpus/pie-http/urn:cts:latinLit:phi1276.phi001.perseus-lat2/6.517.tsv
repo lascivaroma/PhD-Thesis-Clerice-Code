@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+grande,grandis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+sonat,sono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+metui,metvo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+-que,qvove,CONcoo,MORPH=empty
+iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Septembris,september,ADJqua,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Austri,avster,NOM2,Case=Gen|Numb=Sing

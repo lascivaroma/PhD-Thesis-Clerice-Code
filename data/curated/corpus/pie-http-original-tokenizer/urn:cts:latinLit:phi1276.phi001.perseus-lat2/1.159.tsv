@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pensilibus,pensilis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+plumis,plvma,NOM1,Case=Abl|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+illinc,illinc,ADV,Deg=Pos
+despiciat,despicio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nos,nos,PROper,Case=Acc|Numb=Plur

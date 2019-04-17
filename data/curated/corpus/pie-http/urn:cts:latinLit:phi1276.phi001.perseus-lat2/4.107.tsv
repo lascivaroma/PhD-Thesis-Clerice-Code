@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Montani,montani,NOM2,Case=Gen|Numb=Sing
+quoque,qvoqve,ADV,Deg=Pos
+uenter,venter,NOM3,Case=Nom|Numb=Sing
+adest,assvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+abdomine,abdomen,NOM3,Case=Abl|Numb=Sing
+tardus,tardvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

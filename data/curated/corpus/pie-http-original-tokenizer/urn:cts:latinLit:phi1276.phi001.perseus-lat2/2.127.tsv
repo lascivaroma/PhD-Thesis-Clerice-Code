@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+unde,vnde,ADVint,MORPH=empty
+nefas,nefas,NOM6,Case=Ind
+tantum,tantvm,ADV,Deg=Pos
+Latiis,lativs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+pastoribus,pastor,NOM3,Case=Abl|Numb=Plur
+unde,vnde,ADVint,MORPH=empty

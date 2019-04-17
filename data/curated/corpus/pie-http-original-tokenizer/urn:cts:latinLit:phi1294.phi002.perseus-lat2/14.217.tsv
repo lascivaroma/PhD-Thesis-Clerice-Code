@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Praedo,praedo,NOM3,Case=Nom|Numb=Sing
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+uolucrum,volvcris,NOM3,Case=Gen|Numb=Plur
+famulus,famvlvs,NOM2,Case=Nom|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+aucupis,avceps,NOM3,Case=Gen|Numb=Sing
+idem,idem,PROdem,Case=Nom|Numb=Sing
+Decipit,decipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+captas,capio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+non,non,ADVneg,MORPH=empty
+sibi,svi,PROref,Case=Dat|Numb=Sing
+maeret,maereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aues,avis,NOM3,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

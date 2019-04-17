@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nomen,nomen,NOM3,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+pardus,pardvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tigris,tigris,NOM3,Case=Nom|Numb=Sing
+leo,leo,NOM3,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+quid,qvis,PROind,Case=Nom|Numb=Sing
+adhuc,adhvc,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

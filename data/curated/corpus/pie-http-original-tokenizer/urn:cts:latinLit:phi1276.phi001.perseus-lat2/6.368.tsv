@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+abortiuo,abortivvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+opus,opvs,NOM6,Case=Ind|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing
+illa,ille,PROdem,Case=Nom|Numb=Sing
+uoluptas,volvptas,NOM3,Case=Nom|Numb=Sing

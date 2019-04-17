@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Aspicis,aspicis,NOM3,Case=Gen|Numb=Sing
+ingenium,ingenivm,NOM2,Case=Acc|Numb=Sing
+Nili,nilvs,NOM2,Case=Gen|Numb=Sing
+quibus,qvi,PROrel,Case=Abl|Numb=Plur
+addere,addo,VER,Mood=Inf|Tense=Pres|Voice=Act
+plura,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+Dum,des,NOM3,Case=Acc|Numb=Sing
+cupit,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+quotiens,qvotiens,ADVrel,MORPH=empty
+perdidit,perdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+auctor,avctor,NOM3,Case=Nom|Numb=Sing
+opus,opvs,NOM3,Case=Acc

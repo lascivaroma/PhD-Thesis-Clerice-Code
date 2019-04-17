@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ingenium,ingenivm,NOM2,Case=Nom|Numb=Sing
+uelox,velox,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+audacia,avdacia,NOM1,Case=Nom|Numb=Sing
+perdita,perditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Voice=Pass
+sermo,sermo,NOM3,Case=Nom|Numb=Sing

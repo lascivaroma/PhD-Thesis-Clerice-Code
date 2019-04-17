@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+incipe,incipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+Calliope,calliope,NOM3,Case=Voc|Numb=Sing
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+considere,consido,VER,Mood=Inf|Tense=Pres|Voice=Act
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+fatis,fatvm,NOM2,Case=Abl|Numb=Plur
+donaret,dono,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+homuncio,homvncio,NOM3,Case=Nom|Numb=Sing
+quantus,qvantvs,PROint,Case=Nom|Numb=Sing

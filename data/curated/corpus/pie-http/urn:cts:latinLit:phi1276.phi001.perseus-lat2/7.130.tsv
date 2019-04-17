@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Tongilii,tongilivs,NOM2,Case=Gen|Numb=Sing
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+rhinocerote,rhinoceros,NOM2,Case=Abl|Numb=Sing
+lauari,lavo,VER,Mood=Inf|Tense=Pres|Voice=Pass

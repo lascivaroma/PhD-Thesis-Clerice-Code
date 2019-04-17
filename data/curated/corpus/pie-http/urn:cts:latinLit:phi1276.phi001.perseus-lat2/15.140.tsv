@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+igne,ignis,NOM3,Case=Abl|Numb=Sing
+rogi,rogvs,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur
+quis,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+bonus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+face,fax,NOM3,Case=Abl|Numb=Sing
+dignus,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

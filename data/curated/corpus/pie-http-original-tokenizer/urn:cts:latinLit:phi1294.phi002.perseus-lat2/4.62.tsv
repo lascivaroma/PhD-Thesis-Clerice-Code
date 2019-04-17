@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Tibur,tibvr,NOM3,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+Herculeum,hercvlevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+migrauit,migro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nigra,niger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Lycoris,lycoris,NOM3,Case=Gen|Numb=Sing
+Omnia,omnia,NOM1,Case=Nom|Numb=Sing
+dum,dvm,CONsub,MORPH=empty
+fieri,fio,VER,Mood=Inf|Tense=Pres|Voice=Act
+candida,candidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ibi,ibi,ADV,Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

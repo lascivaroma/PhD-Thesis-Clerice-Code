@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Alea,alea,NOM1,Case=Nom|Numb=Sing
+parua,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nuces,nvx,NOM3,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+non,non,ADVneg,MORPH=empty
+damnosa,damnosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+;,o,PRE,MORPH=empty
+Saepe,saepe,NOM2,Case=Abl|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+abstulit,avfero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+illa,ille,PROdem,Case=Nom|Numb=Plur
+natis,natvs,NOM2,Case=Dat|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Non,non,ADVneg,MORPH=empty
+sum,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+crispa,crispa,NOM1,Case=Abl|Numb=Sing
+quidem,qvidem,ADV,Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+siluae,silva,NOM1,Case=Nom|Numb=Plur
+filia,filia,NOM1,Case=Nom|Numb=Sing
+Maurae,mavrvs,NOM1,Case=Gen|Numb=Sing|Deg=Pos
+Sed,sedes,NOM3,Case=Acc|Numb=Sing
+norunt,nosco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+lautas,lavtvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+mea,mevs,PROpos,Case=Acc|Numb=Plur
+ligna,lignvm,NOM2,Case=Acc|Numb=Plur
+dapes,daps,NOM3,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

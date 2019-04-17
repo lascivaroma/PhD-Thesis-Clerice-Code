@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Dulcis,dvlcis,NOM2,Case=Dat|Numb=Plur
+conscia,conscivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+lectuli,lectvlvs,NOM2,Case=Gen|Numb=Sing
+lucerna,lvcerna,NOM1,Case=Abl|Numb=Sing
+Quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
+uis,volo,NOM3,Numb=Sing|Tense=Pres|Voice=Act|Person=2
+facias,facio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act
+tacebo,taceo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

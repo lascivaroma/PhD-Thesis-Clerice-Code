@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+omnis,omnis,PROind,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+populo,popvlvs,NOM2,Case=Dat|Numb=Sing
+mercedem,merces,NOM3,Case=Acc|Numb=Sing
+pendere,pendeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+iussa,ivbeo,VER,Case=Nom|Numb=Sing|Tense=Perf
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

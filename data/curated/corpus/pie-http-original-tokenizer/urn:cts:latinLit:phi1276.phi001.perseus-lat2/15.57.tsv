@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dimidios,dimidivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+alias,alivs,PROind,Numb=Plur
+facies,facies,NOM5,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+hiantia,hio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+ruptis,rvmpo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

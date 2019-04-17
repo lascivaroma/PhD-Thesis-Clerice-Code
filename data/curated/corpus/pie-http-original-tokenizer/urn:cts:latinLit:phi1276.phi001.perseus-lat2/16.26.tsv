@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+praeterea,praeterea,ADV,Deg=Pos
+quis,qvis,PROint,Case=Nom|Numb=Sing
+tam,tam,ADV,Deg=Pos
+Pylades,pylades,NOM7,Case=Nom|Numb=Sing
+molem,moles,NOM3,Case=Acc|Numb=Sing
+aggeris,agger,NOM3,Case=Gen|Numb=Sing
+ultra,vltra,PRE,Deg=Pos

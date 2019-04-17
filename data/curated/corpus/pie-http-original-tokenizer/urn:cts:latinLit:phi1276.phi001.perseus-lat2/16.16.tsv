@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+seruato,servo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Fut|Voice=Pass
+miles,miles,NOM3,Case=Nom|Numb=Sing
+ne,ne,CONsub,MORPH=empty
+uallum,vallvm,NOM2,Case=Acc|Numb=Sing
+litiget,litigo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+extra,extra,PRE,MORPH=empty

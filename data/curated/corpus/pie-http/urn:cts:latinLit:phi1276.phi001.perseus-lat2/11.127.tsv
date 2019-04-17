@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+iam,iam,ADV,Deg=Pos
+nimios,nimivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+capiti,capvt,NOM3,Case=Dat|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+graues,gravis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+hinc,hinc,ADV,Deg=Pos
+surgit,svrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+orexis,orexa,NOM3,Case=Nom|Numb=Plur

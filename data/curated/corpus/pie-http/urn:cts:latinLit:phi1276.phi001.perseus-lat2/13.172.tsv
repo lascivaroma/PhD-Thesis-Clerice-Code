@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quamquam,qvamqvam,CONsub,MORPH=empty
+eadem,idem,PROdem,Case=Nom|Numb=Plur
+adsid,assis,NOM3,Numb=Sing
+-ue,qveo,NOM3,Case=Abl|Numb=Sing
+spectentur,specto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+proelia,proelivm,NOM2,Case=Acc|Numb=Plur
+ridet,rideo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

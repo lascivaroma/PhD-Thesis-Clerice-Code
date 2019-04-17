@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+uacuo,vacvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+clusoque,clavoqvor,VER,Numb=Sing|Deg=Pos
+sonant,sono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+fora,forvm,NOM2,Case=Nom|Numb=Plur
+sola,solvs,PROind,Case=Nom|Numb=Plur
+theatro,theatrvm,NOM2,Case=Abl|Numb=Sing

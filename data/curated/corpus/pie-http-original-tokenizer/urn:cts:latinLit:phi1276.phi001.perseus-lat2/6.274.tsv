@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+statione,statio,NOM3,Case=Abl|Numb=Sing
+sua,svvs,PROpos.ref,Case=Abl|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+expectantibus,exspecto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+illam,ille,PROdem,Case=Acc|Numb=Sing

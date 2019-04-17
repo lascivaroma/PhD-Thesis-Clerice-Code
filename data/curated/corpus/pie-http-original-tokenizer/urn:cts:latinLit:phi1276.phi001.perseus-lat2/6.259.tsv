@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hae,hic,PROdem,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+sudant,svdo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+cyclade,cyclas,NOM3,Case=Abl|Numb=Sing
+quarum,qvi,PROrel,Case=Gen|Numb=Plur

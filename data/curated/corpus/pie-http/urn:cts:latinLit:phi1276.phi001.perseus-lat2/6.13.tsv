@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+compositi,compono,ADJqua,Case=Nom|Numb=Plur|Deg=Pos|Tense=Perf|Voice=Pass
+-ue,qvis,NOM3,Case=Abl|Numb=Sing
+luto,lvtvm,NOM2,Case=Abl|Numb=Sing
+nullos,nvllvs,PROind,Case=Acc|Numb=Plur
+habuere,habeo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+parentes,parens,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

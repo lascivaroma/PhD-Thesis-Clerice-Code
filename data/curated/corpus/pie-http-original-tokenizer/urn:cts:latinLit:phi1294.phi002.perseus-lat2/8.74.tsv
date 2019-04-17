@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Oplomachus,oplomachvs,NOM2,Case=Nom|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+fueras,svm,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=2
+opthalmicus,optoammicvs,NOM2,Case=Nom|Numb=Sing
+ante,ante,PRE,MORPH=empty
+.,vndevs,ADJcar,Case=Acc|Numb=Plur
+Fecisti,fecistvs,NOM2,Case=Gen|Numb=Sing
+medicus,medicvs,NOM2,Case=Nom|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+facis,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+oplomachus,oplomachvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

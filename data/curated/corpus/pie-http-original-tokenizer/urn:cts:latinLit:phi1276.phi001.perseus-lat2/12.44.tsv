@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Parthenio,parthenivs,NOM2,Case=Abl|Numb=Sing
+factas,facio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+urnae,vrna,NOM1,Case=Dat|Numb=Plur
+cratera,crater,NOM1,Case=Abl|Numb=Sing
+capacem,capax,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

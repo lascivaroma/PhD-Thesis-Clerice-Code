@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+damnatos,damno,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+fixa,figo,VER,Case=Acc|Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass
+et,et,CONcoo,MORPH=empty
+mutari,mvto,VER,Mood=Inf|Tense=Pres|Voice=Pass
+nescia,nescivs,ADJqua,Numb=Sing|Deg=Pos|Mood=Imp|Tense=Pres|Voice=Act
+nam,nam,CONcoo,MORPH=empty
+quis,qvis,PROint,Case=Nom|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+paruit,pareo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+imperiis,imperivm,NOM2,Case=Abl|Numb=Plur
+uxorem,vxor,NOM3,Case=Acc|Numb=Sing
+occidere,occido,VER,Mood=Inf|Tense=Pres|Voice=Act
+iussus,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

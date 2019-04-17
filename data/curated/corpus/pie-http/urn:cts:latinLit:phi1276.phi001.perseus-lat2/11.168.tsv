@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+diuitis,dives,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+urticae,vrtica,NOM1,Case=Gen|Numb=Sing
+;,o,INJ,MORPH=empty
+maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+tamen,tamen,ADV,Deg=Pos
+ista,iste,PROdem,Case=Nom|Numb=Sing
+uoluptas,volvptas,NOM3,Case=Nom|Numb=Sing

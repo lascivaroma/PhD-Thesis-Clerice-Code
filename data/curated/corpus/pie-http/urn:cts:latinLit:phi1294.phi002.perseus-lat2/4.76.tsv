@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Milia,millea,NOM1,Case=Nom|Numb=Sing
+misisti,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+mihi,ego,PROper,Case=Dat|Numb=Sing
+sex,sex,ADJcar,Case=Ind
+bis,bis,ADJadv.mul,MORPH=empty
+sena,senvs,ADJdis,Case=Acc|Numb=Sing
+petenti,peto,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Vt,vter,ADVint,MORPH=empty
+bis,bis,ADJadv.mul,MORPH=empty
+sena,senvs,ADJdis,Case=Acc|Numb=Sing
+feram,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+bis,bis,ADJadv.mul,MORPH=empty
+duodena,dvodenvs,ADJdis,Case=Acc|Numb=Plur
+petam,peto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

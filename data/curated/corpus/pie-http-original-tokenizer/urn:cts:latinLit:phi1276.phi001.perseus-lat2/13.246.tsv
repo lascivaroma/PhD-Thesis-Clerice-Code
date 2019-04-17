@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+maris,mare,NOM3,Case=Gen|Numb=Sing
+Aegaei,aegaevs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+rupem,rvpes,NOM3,Case=Acc|Numb=Sing
+scopulosque,scopvlvs,NOM2,Case=Nom|Numb=Sing
+frequentes,freqvens,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

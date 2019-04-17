@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+erectas,erigo,ADJqua,Case=Acc|Numb=Plur|Deg=Pos|Voice=Pass
+in,in,PRE,MORPH=empty
+terga,tergvm,NOM2,Case=Acc|Numb=Plur
+sudes,svdis,NOM3,Case=Acc|Numb=Plur|Person=2
+hoc,hic,PROdem,Case=Nom|Numb=Sing
+defuit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+unum,vnvs,ADJcar,Case=Nom|Numb=Sing

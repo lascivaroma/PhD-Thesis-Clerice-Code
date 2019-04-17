@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+uirgine,virgo,NOM3,Case=Abl|Numb=Sing
+Pygmaea,pygmaevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nullis,nvllvs,PROind,Case=Abl|Numb=Plur
+adiuta,adivvo,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+cothurnis,cothvrna,NOM1,Case=Abl|Numb=Plur

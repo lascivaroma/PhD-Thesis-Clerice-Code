@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+conuiuae,conviva,NOM1,Case=Nom|Numb=Plur
+miseri,miser,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+interea,interea,ADV,Deg=Pos
+somno,somnvs,NOM2,Case=Abl|Numb=Sing
+-que,qvivis,ADV,MORPH=empty
+fame,fames,NOM3,Case=Abl|Numb=Sing
+-que,qvavis,ADV,Deg=Pos

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+dignus,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uenias,venio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+hederis,hedera,NOM1,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+imagine,imago,NOM3,Case=Abl|Numb=Sing
+macra,macer,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Abl|Numb=Plur

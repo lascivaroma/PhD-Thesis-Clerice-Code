@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+putes,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quemuis,qvivis,PROind,Case=Acc|Numb=Sing
+hominem,homo,NOM3,Case=Acc|Numb=Sing
+secum,secvm,ADV,Deg=Pos
+attulit,affero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+nos,nos,PROper,Case=Acc|Numb=Plur

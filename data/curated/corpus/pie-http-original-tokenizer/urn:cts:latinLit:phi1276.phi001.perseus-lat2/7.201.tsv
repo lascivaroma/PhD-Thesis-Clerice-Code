@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+seruis,servvs,NOM2,Case=Dat|Numb=Plur
+regna,regnvm,NOM2,Case=Nom|Numb=Plur
+dabunt,do,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+captiuis,captivvs,NOM2,Case=Abl|Numb=Plur
+fata,fatvm,NOM2,Case=Nom|Numb=Plur
+triumphum,trivmphvs,NOM2,Case=Acc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

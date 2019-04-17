@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cur,cvr,ADVint,MORPH=empty
+timeam,timeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+dubitemue,dvbitem,VER,Numb=Sing|Tense=Pres|Voice=Act
+locum,locvs,NOM2,Case=Acc|Numb=Sing
+defendere,defendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+quamuis,qvamvis,CONsub,MORPH=empty

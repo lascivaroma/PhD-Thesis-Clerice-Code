@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+annosam,annosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+forte,forte,ADV,Deg=Pos
+nucem,nvx,NOM3,Case=Acc|Numb=Sing
+deiecerat,deicio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+Eurus,evrvs,NOM2,Case=Nom|Numb=Sing

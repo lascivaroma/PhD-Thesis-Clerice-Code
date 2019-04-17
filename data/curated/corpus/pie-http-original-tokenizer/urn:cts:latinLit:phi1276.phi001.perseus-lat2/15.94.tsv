@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+produxere,prodvco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+animas,anima,NOM1,Case=Acc|Numb=Plur
+sed,sed,CONcoo,MORPH=empty
+res,res,NOM5,Case=Nom|Numb=Plur
+diuersa,diversvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+sed,sed,CONcoo,MORPH=empty
+illic,illic,ADV,Deg=Pos

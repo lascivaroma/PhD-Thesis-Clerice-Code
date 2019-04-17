@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+natura,natvra,NOM1,Case=Nom|Numb=Sing
+indulget,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+steriles,sterilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+moriuntur,morior,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+et,et,CONcoo,MORPH=empty
+illis,ille,PROdem,Case=Dat|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+contemnas,contemno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+nam,nam,CONcoo,MORPH=empty
+lingua,lingva,NOM1,Case=Nom|Numb=Sing
+mali,malvm,NOM2,Case=Gen|Numb=Sing|Deg=Pos
+pars,pars,NOM3,Case=Nom|Numb=Sing
+pessima,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+serui,servvs,NOM2,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty

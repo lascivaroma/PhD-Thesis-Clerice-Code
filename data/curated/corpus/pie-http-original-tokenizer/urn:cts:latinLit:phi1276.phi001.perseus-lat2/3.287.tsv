@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+candelae,candela,NOM1,Case=Gen|Numb=Sing
+cuius,qvi,PROrel,Case=Gen|Numb=Sing
+dispenso,dispenso,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+et,et,CONcoo,MORPH=empty
+tempero,tempero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+filum,filvm,NOM2,Case=Acc|Numb=Sing

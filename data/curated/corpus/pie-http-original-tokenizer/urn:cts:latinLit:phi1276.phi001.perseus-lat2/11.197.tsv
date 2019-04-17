@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+totam,totvs,PROind,Case=Acc|Numb=Sing
+hodie,hodie,ADV,Deg=Pos
+Romam,roma,NOM1,Case=Acc|Numb=Sing
+circus,circvs,NOM2,Case=Nom|Numb=Sing
+capit,capio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+fragor,fragor,NOM3,Case=Nom|Numb=Sing
+aurem,avris,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+faucibus,favx,NOM3,Case=Abl|Numb=Plur
+ut,vt,CONsub,MORPH=empty
+morbo,morbvs,NOM2,Case=Abl|Numb=Sing
+siccis,siccvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+inter,inter,PRE,MORPH=empty
+-que,qvavis,ADVint,MORPH=empty
+molares,molares,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

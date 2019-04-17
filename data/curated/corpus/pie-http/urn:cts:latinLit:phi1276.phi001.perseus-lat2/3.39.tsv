@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quales,qvalis,PROint,Case=Nom|Numb=Plur
+ex,ex,PRE,MORPH=empty
+humili,hvmilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ad,ad,PRE,MORPH=empty
+fastigia,fastigivm,NOM2,Case=Acc|Numb=Plur
+rerum,res,NOM5,Case=Gen|Numb=Plur

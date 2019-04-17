@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Mammas,mammas,NOM7,Case=Nom|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+tatas,tatvs,NOM1,Case=Acc|Numb=Plur
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Afra,afer,NOM1,Case=Nom|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing
+tatarum,tata,NOM1,Case=Gen|Numb=Plur
+Dici,dicivs,NOM2,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+mammarum,mamma,NOM1,Case=Gen|Numb=Plur
+maxima,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+mamma,mamma,NOM1,Case=Nom|Numb=Sing
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Ne,ne,PROind,Case=Ind
+uioles,violo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+teneras,tener,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+periuro,perivrvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+dente,dens,NOM3,Case=Abl|Numb=Sing
+columbas,colvmba,NOM1,Case=Acc|Numb=Plur
+Tradita,tradita,NOM1,Case=Abl|Numb=Sing
+si,si,CONsub,MORPH=empty
+Gnidiae,gnidia,NOM1,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+sacra,sacrvm,NOM2,Case=Nom|Numb=Plur
+deae,dea,NOM1,Case=Dat|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

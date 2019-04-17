@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+hesternum,hesternvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+solitus,soleo,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=SemDep
+medio,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+seruare,servo,VER,Mood=Inf|Tense=Pres|Voice=Act
+minutal,minvtal,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

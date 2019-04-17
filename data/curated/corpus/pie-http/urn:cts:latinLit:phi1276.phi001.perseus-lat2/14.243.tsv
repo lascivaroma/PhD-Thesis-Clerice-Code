@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+continuo,continvo,ADV,Deg=Pos
+tamquam,tamqvam,CONsub,MORPH=empty
+et,et,CONcoo,MORPH=empty
+tubice,tvbix,NOM3,Case=Abl|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+surrexerit,svrgo,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+una,vna,ADV,MORPH=empty
+.,qvintvs,ADJcar,Case=Nom|Numb=Sing

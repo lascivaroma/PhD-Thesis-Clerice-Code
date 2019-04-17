@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quot,qvot,PROint,Case=Ind
+Basilus,basilvs,NOM2,Case=Nom|Numb=Sing
+socios,socivs,NOM2,Case=Acc|Numb=Plur
+quot,qvot,PROint,Case=Ind
+circumscripserit,circvmscribo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+Hirrus,hirrvs,NOM2,Case=Nom|Numb=Sing

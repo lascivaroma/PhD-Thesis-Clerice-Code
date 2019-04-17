@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+usque,vsqve,ADV,Deg=Pos
+adeo,adeo,ADV,Deg=Pos
+grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uxori,vxor,NOM3,Case=Dat|Numb=Sing
+natis,natvs,NOM2,Case=Dat|Numb=Plur|Mood=Par|Voice=Dep
+-que,qvovs,CONcoo,MORPH=empty
+sibi,svi,PROref,Case=Dat|Numb=Sing
+-que,qvove,ADV,Deg=Pos

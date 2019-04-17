@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Do,qvintvs,NOM2,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+naumachiam,navmachia,NOM1,Case=Acc|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+das,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+epigrammata,epigramma,NOM2,Case=Acc|Numb=Plur
+nobis,nos,PROper,Case=Dat|Numb=Plur
+Vis,vis,NOM3,Case=Voc|Numb=Sing
+puto,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+cum,cvm,PRE,MORPH=empty
+libro,liber,NOM2,Case=Abl|Numb=Sing
+Marce,marcvs,NOM2,Case=Voc|Numb=Sing
+natare,nato,VER,Mood=Inf|Tense=Pres|Voice=Act
+tuo,tvvs,PROpos,Case=Dat|Numb=Sing
+.,qvinvs,ADJcar,Case=Acc|Numb=Plur

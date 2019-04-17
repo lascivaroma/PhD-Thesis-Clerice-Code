@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+fecisset,facio,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
+idem,idem,PROdem,Case=Nom|Numb=Sing
+caderet,cado,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+sub,svb,PRE,MORPH=empty
+iudice,ivdex,NOM3,Case=Abl|Numb=Sing
+morum,mos,NOM3,Case=Gen|Numb=Plur
+;,o,PRE,MORPH=empty

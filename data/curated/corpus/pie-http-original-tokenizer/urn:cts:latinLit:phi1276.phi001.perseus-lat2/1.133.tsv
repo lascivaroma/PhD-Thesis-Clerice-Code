@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+uotaque,votaqve,ADV,Deg=Pos
+deponunt,depono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quamquam,qvamqvam,CONsub,MORPH=empty
+longissima,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+cenae,cena,NOM1,Case=Nom|Numb=Plur

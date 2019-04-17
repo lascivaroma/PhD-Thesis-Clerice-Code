@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,MORPH=empty
+possem,possvm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1
+totas,totvs,PROind,Case=Acc|Numb=Plur
+cuperem,cvpio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1
+misisse,mitto,VER,Mood=Inf|Tense=Perf|Voice=Act
+lacernas,lacerna,NOM1,Case=Acc|Numb=Plur
+Nunc,nvnc,NOM7,Case=Acc
+tantum,tantvm,ADV,Case=Acc|Numb=Sing|Deg=Pos
+capiti,capvt,NOM3,Case=Dat|Numb=Sing
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+mitto,mitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tuo,tvvs,PROpos,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

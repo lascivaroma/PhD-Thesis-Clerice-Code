@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+nos,nos,PROper,Case=Acc|Numb=Plur
+iam,iam,ADV,Deg=Pos
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+altilis,altilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Gen|Numb=Plur
+inde,inde,ADV,Deg=Pos
+parato,paratvs,VER,Case=Abl|Numb=Sing|Mood=Imp|Tense=Fut

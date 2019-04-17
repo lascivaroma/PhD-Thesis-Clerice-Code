@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+alia,alivs,PROind,Case=Abl|Numb=Sing
+parte,pars,NOM3,Case=Abl|Numb=Sing
+in,in,PRE,MORPH=empty
+trutina,trvtina,NOM1,Case=Abl|Numb=Sing
+suspendit,svspendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Homerum,homervs,NOM2,Case=Acc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

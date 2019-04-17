@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+praecipitare,praecipito,VER,Mood=Inf|Tense=Pres|Voice=Act
+uolens,volo,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act
+etiam,etiam,ADV,Deg=Pos
+pulcherrima,pvlcher,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+uestem,vestis,NOM3,Case=Acc|Numb=Sing

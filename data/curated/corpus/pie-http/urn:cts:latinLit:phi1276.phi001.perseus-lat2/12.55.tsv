@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+explicat,explico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+angustum,angvstvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+discriminis,discrimen,NOM3,Case=Gen|Numb=Sing
+ultima,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quando,qvando,ADVint,MORPH=empty

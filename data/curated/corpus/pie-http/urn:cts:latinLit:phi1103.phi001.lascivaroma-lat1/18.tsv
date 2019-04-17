@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Commoditas,commoditas,NOM3,Case=Nom|Numb=Sing
+haec,hic,PROdem,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+nostro,noster,PROpos,Case=Abl|Numb=Sing
+maxima,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Sup
+pene,penis,NOM3,Case=Abl|Numb=Sing
+laxa,laxvs,ADJqua,Case=Nom|Numb=Sing
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+mihi,ego,PROper,Case=Dat|Numb=Sing
+femina,femina,NOM1,Case=Nom|Numb=Sing
+nulla,nvllvs,PROind,Case=Nom|Numb=Sing
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

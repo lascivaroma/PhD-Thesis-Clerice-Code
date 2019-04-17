@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+multis,mvltvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+res,res,NOM5,Case=Nom|Numb=Sing
+angusta,angvstvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+domi,domvs,NOM2,Case=Loc|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+nulla,nvllvs,PROind,Case=Nom|Numb=Sing
+pudorem,pvdor,NOM3,Case=Acc|Numb=Sing

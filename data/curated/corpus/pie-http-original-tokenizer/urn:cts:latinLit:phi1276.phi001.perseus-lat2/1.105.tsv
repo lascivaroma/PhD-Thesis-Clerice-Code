@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+arguerint,argvo,VER,Numb=Plur|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+licet,licet,CONsub,MORPH=empty
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+negem,nego,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+sed,sed,CONcoo,MORPH=empty
+quinque,qvinqve,ADJcar,Case=Ind
+tabernae,taberna,NOM1,Case=Nom|Numb=Sing

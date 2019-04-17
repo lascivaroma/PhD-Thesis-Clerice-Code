@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+panem,panis,NOM3,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+circenses,circenses,NOM3,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Perituros,peritvrvs,NOM2,Case=Acc|Numb=Plur
+audio,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+multos,mvlti,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

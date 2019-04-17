@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+legibus,lex,NOM3,Case=Abl|Numb=Plur
+antiquis,antiqvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+castrorum,castra,NOM2,Case=Gen|Numb=Plur
+et,et,CONcoo,MORPH=empty
+more,mos,NOM3,Case=Abl|Numb=Sing
+Camilli,camillvs,NOM2,Case=Gen|Numb=Sing

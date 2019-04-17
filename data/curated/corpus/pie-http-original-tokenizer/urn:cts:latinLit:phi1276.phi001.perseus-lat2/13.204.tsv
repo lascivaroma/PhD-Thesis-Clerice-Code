@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+reddidit,reddo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty
+metu,metvs,NOM4,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+motibus,motvs,NOM4,Case=Abl|Numb=Plur
+;,o,INJ,MORPH=empty
+et,et,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+omnem,omnis,PROind,Case=Acc|Numb=Sing

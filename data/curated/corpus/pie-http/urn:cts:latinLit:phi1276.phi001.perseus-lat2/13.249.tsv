@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+surdum,svrdvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+Teresia,teresias,NOM1,Case=Nom|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+quemquam,qvisqvam,PROind,Case=Acc|Numb=Sing
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+deorum,devs,NOM2,Case=Gen|Numb=Plur
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

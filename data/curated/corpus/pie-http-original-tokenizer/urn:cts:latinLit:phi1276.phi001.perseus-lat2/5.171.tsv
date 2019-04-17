@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+potes,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+debes,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+pulsandum,pvlso,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+uertice,vertex,NOM3,Case=Abl|Numb=Sing
+raso,rado,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

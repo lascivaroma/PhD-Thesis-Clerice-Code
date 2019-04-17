@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quoniam,qvoniam,CONsub,MORPH=empty
+coepit,coepio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Graecorum,graeci,NOM2,Case=Gen|Numb=Plur
+mentio,mentio,NOM3,Case=Nom|Numb=Sing
+transi,transeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

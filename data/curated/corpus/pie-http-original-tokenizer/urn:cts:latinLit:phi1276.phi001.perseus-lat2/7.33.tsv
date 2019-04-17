@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+pelagi,pelagvs,NOM2,Case=Gen|Numb=Sing
+patiens,patiens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+cassidis,cassis,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+ligonis,ligo,NOM3,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

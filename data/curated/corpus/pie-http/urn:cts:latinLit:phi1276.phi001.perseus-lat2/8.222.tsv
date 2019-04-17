@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+debuit,debeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ulcisci,vlciscor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+magis,magis,ADV,Deg=Comp
+aut,avt,CONcoo,MORPH=empty
+cum,cvm,PRE,MORPH=empty
+Vindice,vindex,NOM3,Case=Abl|Numb=Sing
+Galba,galba,NOM1,Case=Abl|Numb=Sing

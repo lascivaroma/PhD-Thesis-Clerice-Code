@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+semper,semper,ADV,Deg=Pos
+clade,clades,NOM3,Case=Abl|Numb=Sing
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+in,in,PRE,MORPH=empty
+luctibus,lvctvs,NOM4,Case=Abl|Numb=Plur
+inque,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Sorba,sorba,NOM1,Case=Nom|Numb=Sing
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+molles,mollis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+nimium,nimivm,ADV,Deg=Pos
+tendentia,tendo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+uentres,venter,NOM3,Case=Acc|Numb=Plur
+Aptius,aptivs,NOM2,Case=Nom|Numb=Sing
+haec,hic,PROdem,Case=Acc|Numb=Plur
+puero,pver,NOM2,Case=Dat|Numb=Sing
+quam,qvi,PROrel,Case=Acc
+tibi,tv,PROper,Case=Dat|Numb=Sing
+poma,pomvm,NOM2,Case=Acc|Numb=Plur
+dabis,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

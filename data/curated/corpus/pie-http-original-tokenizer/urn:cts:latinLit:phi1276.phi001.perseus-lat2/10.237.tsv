@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+heredes,heres,NOM3,Case=Acc|Numb=Plur
+uetat,veto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+suos,svi,PROpos.ref,Case=Acc|Numb=Plur
+bona,bonvm,NOM2,Case=Nom|Numb=Plur
+tota,totvs,PROind,Case=Nom|Numb=Plur
+feruntur,fero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ne,ne,CONsub,MORPH=empty
+placeat,placeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+curru,cvrrvs,NOM4,Case=Abl|Numb=Sing
+seruus,servvs,NOM2,Case=Nom|Numb=Sing
+portatur,porto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+eodem,idem,ADV,Case=Abl|Numb=Sing|Deg=Pos

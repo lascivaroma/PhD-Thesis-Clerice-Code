@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+foeda,foedvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+lupanaris,lvpanar,NOM3,Case=Gen|Numb=Sing
+tulit,fero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+puluinar,pvlvinar,NOM3,Case=Acc|Numb=Sing
+odorem,odor,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

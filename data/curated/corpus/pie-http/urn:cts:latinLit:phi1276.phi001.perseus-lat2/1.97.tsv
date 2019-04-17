@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+faciem,facies,NOM5,Case=Acc|Numb=Sing
+prius,privs,ADJadv.ord,Deg=Comp
+inspicit,inspicio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+trepidat,trepido,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ne,ne,CONsub,MORPH=empty

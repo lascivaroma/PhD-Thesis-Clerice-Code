@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Aedificator,aedificator,NOM3,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+Cretonius,cretonivs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+modo,modo,ADV,Deg=Pos
+curuo,cvrvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

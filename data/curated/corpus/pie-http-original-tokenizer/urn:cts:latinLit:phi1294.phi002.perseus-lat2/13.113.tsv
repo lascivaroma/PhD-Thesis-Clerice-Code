@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Haec,haectvs,NOM3,Case=Nom|Numb=Sing
+Fundana,fvndanvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+tulit,fero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+autumnus,avtvmnvs,NOM2,Case=Nom|Numb=Sing
+Opimi,opimvs,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur
+Expressit,expressvs,VER,Case=Loc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mustum,mvstvm,NOM2,Case=Acc|Numb=Sing
+consul,consvl,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+bibit,bibo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

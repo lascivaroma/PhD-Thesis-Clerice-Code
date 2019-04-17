@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+omnibus,omnis,PROind,Case=Abl|Numb=Plur
+ad,ad,PRE,MORPH=empty
+podium,podivm,NOM2,Case=Acc|Numb=Sing
+spectantibus,specto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+his,hic,PROdem,Case=Dat|Numb=Plur
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipsum,ipse,PROdem,Case=Acc|Numb=Sing

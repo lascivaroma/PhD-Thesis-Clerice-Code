@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uexant,vexo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+dominis,dominvs,NOM2,Case=Abl|Numb=Plur
+Cirrhae,cirrha,NOM1,Case=Nom|Numb=Sing
+Nysaeque,nysaeqve,NOM1,Case=Nom|Numb=Sing
+feruntur,fero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

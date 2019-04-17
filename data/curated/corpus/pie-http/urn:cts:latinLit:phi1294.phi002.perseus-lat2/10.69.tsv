@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Custodes,cvstodes,NOM3,Case=Voc|Numb=Sing
+das,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Polla,polla,NOM1,Case=Voc|Numb=Sing
+uiro,vir,NOM2,Case=Dat|Numb=Sing
+non,non,ADVneg,MORPH=empty
+accipis,accipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing
+.,pentvm,ADJcar,Case=Acc|Numb=Sing
+Hoc,hoc,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uxorem,vxor,NOM3,Case=Acc|Numb=Sing
+ducere,dvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+Polla,polla,NOM1,Case=Nom|Numb=Sing
+uirum,vir,NOM2,Case=Acc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

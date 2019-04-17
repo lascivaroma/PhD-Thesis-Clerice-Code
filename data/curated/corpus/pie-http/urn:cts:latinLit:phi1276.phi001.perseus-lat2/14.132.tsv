@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+signatam,signo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+uel,vel,ADV,MORPH=empty
+dimidio,dimidivm,NOM2,Case=Abl|Numb=Sing
+putri,pvtris,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvis,CONcoo,MORPH=empty
+siluro,silvro,NOM3,Case=Nom|Numb=Sing

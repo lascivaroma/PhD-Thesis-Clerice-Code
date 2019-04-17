@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+coniuge,conivx,NOM3,Case=Abl|Numb=Sing
+per,per,PRE,MORPH=empty
+montem,mons,NOM3,Case=Acc|Numb=Sing
+aduersum,adversvs,PRE,MORPH=empty
+gelidas,gelidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+-que,qvove,ADV,MORPH=empty
+cucurri,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

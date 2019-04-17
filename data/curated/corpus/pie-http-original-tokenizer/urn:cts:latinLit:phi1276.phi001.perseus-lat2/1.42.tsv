@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+accipiat,accipio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+sane,sane,ADV,Deg=Pos
+mercedem,merces,NOM3,Case=Acc|Numb=Sing
+sanguinis,sangvis,NOM3,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+sic,sic,ADV,Deg=Pos

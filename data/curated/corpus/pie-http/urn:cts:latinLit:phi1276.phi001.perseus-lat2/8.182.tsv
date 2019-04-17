@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+turpia,tvrpis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+cerdoni,cerdo,NOM3,Case=Dat|Numb=Sing
+Volesos,volesvs,NOM2,Case=Acc|Numb=Plur
+Brutum,brvtvs,NOM2,Case=Acc|Numb=Sing
+-que,qvivis,ADV,MORPH=empty
+decebunt,decet,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

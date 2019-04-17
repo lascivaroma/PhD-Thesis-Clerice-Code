@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Non,non,NOM3,MORPH=empty
+omnis,omnis,PROind,Case=Acc|Numb=Plur
+laudes,lavs,NOM3,Case=Acc|Numb=Plur
+pretium,pretivm,NOM2,Case=Acc|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+aurata,avratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+meretur,mereor,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
+Sed,sed,NOM7,Case=Nom|Numb=Sing
+cui,qvi,PROrel,Case=Dat|Numb=Sing
+solus,solvs,PROind,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+concha,concha,NOM1,Case=Nom|Numb=Sing
+Lucrina,lvcrinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cibus,cibvs,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

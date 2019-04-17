@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing
+loqui,loqvor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+recta,rectvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+facie,facies,NOM5,Case=Abl|Numb=Sing
+siccisque,siccvsqve,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+mamillis,mamillvs,NOM2,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

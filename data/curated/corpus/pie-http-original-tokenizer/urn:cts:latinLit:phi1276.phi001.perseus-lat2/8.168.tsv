@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+thermarum,thermae,NOM1,Case=Gen|Numb=Plur
+calices,calix,NOM3,Case=Acc|Numb=Plur
+inscriptaque,inscribo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+lintea,lintevm,NOM2,Case=Acc|Numb=Plur
+uadit,vado,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

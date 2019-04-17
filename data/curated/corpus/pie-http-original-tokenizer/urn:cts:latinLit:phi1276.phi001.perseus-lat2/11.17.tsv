@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ergo,ergo,CONcoo,MORPH=empty
+haut,havd,ADVneg,MORPH=empty
+difficile,difficilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+perituram,pereo,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Fut|Voice=Act
+arcessere,arcesso,VER,Mood=Inf|Tense=Pres|Voice=Act
+summam,svmma,NOM1,Case=Acc|Numb=Sing

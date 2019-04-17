@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quot,qvot,PROint,Case=Ind
+Siculi,sicvlvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+Phrygibus,phryges,NOM3,Case=Dat|Numb=Plur
+uini,vinvm,NOM2,Case=Gen|Numb=Sing
+donauerit,dono,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+urnas,vrna,NOM1,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

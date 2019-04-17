@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+summula,svmmvla,NOM1,Case=Nom|Numb=Sing
+ne,ne,CONsub,MORPH=empty
+pereat,pereo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+qua,qvi,PROrel,Case=Abl|Numb=Sing
+uilis,vilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tessera,tessera,NOM1,Case=Nom|Numb=Sing
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

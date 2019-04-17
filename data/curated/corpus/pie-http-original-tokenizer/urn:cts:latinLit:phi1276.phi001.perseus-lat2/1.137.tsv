@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+de,de,PRE,MORPH=empty
+tot,tot,PROdem,Case=Ind
+pulchris,pvlcher,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+latis,latvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+orbibus,orbis,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+tam,tam,ADV,Deg=Pos

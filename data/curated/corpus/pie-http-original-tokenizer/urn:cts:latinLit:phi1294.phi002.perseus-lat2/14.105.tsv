@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Frigida,frigis,NOM1,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+deerit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+non,non,ADVneg,MORPH=empty
+deerit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+calda,calda,NOM1,Case=Abl|Numb=Sing
+petenti,peto,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Ind|Numb=Plur
+Sed,sede,NOM2,Case=Voc|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+morosa,morosvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+ludere,lvdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+parce,parco,ADV,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+siti,sitis,NOM3,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

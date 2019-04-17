@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Candida,candidvs,NOM1,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+croceos,crocevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+circumfluit,circvmflvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+unda,vnda,NOM1,Case=Nom|Numb=Sing
+uitellos,vitellvs,NOM2,Case=Acc|Numb=Plur
+Hesperius,hesperivs,NOM2,Case=Nom|Numb=Sing
+scombri,scombrvm,NOM2,Case=Gen|Numb=Sing
+temperet,tempero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+oua,ovvm,NOM2,Case=Acc|Numb=Plur
+liquor,liqvor,NOM3,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

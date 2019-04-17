@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+praeterea,praeterea,ADV,Deg=Pos
+lateris,latvs,NOM3,Case=Gen|Numb=Sing
+uigili,vigil,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+febre,febris,NOM3,Case=Abl|Numb=Sing|Deg=Pos
+dolorem,dolor,NOM3,Case=Acc|Numb=Sing

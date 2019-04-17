@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+conciperet,concipio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+quae,qvis,PROint,Case=Nom|Numb=Sing
+sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
+fulget,fvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Iuli,ivlvs,NOM2,Case=Voc|Numb=Sing

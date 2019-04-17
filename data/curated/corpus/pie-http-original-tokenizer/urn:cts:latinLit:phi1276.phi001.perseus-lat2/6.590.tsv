@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+consulit,consvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ante,ante,PRE,MORPH=empty
+falas,fala,NOM1,Case=Acc|Numb=Plur
+delphinorumque,delphinvs,NOM2,Case=Gen|Numb=Plur
+columnas,colvmna,NOM1,Case=Acc|Numb=Plur

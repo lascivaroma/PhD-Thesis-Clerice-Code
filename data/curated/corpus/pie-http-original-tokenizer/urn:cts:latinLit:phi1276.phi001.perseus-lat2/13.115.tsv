@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+debueris,debeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+uel,vel,ADV,MORPH=empty
+marmoreus,marmorevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uel,vel,CONcoo,MORPH=empty
+aeneus,aenevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aut,avt,CONcoo,MORPH=empty
+cur,cvr,ADVint,MORPH=empty

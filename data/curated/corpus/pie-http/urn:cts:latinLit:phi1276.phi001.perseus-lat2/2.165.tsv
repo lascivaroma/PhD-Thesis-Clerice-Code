@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+mollior,mollis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+ardenti,ardens,ADJqua,Case=Dat|Numb=Sing
+sese,svi,PROref,Case=Acc|Numb=Sing
+indulsisse,indvlgeo,VER,Mood=Inf|Tense=Perf|Voice=Act
+tribuno,tribvnvs,NOM2,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

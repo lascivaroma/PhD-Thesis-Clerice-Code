@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+filiolam,filiola,NOM1,Case=Acc|Numb=Sing
+turpi,tvrpis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uetulae,vetvla,NOM1,Case=Dat|Numb=Sing
+producere,prodvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+turpem,tvrpis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

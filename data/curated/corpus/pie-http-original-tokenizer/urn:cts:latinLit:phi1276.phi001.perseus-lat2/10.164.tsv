@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+gladii,gladivs,NOM2,Case=Nom|Numb=Plur
+non,non,ADVneg,MORPH=empty
+saxa,saxvm,NOM2,Case=Acc|Numb=Plur
+dabunt,do,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+tela,telvm,NOM2,Case=Acc|Numb=Plur
+sed,sed,CONcoo,MORPH=empty
+ille,ille,PROdem,Case=Nom|Numb=Sing

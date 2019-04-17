@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ut,vt,ADVrel,MORPH=empty
+-que,qvovs,ADV,MORPH=empty
+lacus,lacvs,NOM4,Case=Nom|Numb=Plur
+suberant,svbsvm,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+ubi,vbi,CONsub,MORPH=empty
+quamquam,qvamqvam,CONsub,MORPH=empty
+diruta,dirvo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+seruat,servo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

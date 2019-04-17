@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+promittunt,promitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+atrocem,atrox,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+animum,animvs,NOM2,Case=Acc|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+podice,podex,NOM3,Case=Abl|Numb=Sing
+leui,levis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

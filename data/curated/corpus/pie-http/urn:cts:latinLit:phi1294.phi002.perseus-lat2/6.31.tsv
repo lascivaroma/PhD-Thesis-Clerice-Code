@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Vxorem,vxor,NOM3,Case=Acc|Numb=Sing
+Charideme,charis,NOM3,Case=Acc|Numb=Sing
+tuam,tvvs,PROpos,Case=Acc|Numb=Sing
+scis,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+sinis,sino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+-que,qvivis,CONcoo,MORPH=empty
+A,abvs,NOM2,Case=Abl|Numb=Sing
+medico,medicvs,NOM2,Case=Abl|Numb=Sing
+futui,fvtvvs,ADJqua,Case=Gen|Numb=Sing
+uis,volo,NOM3,Numb=Sing|Mood=Ind|Voice=Act|Person=2
+sine,sine,PRE,Mood=Imp
+febre,febris,NOM3,Case=Abl|Numb=Sing|Deg=Pos
+mori,morior,VER,Mood=Inf|Tense=Pres|Voice=Dep
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

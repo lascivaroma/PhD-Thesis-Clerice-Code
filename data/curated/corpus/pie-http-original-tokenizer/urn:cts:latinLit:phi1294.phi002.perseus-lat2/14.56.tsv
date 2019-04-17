@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Quid,qvis,PROint,Case=Nom|Numb=Sing
+mecum,mecvs,NOM4,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+me,ego,PROper,Case=Acc|Numb=Sing
+puella,pvella,NOM1,Case=Nom|Numb=Sing
+sumat,svmo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Emptos,empti,NOM2,Case=Acc|Numb=Plur
+non,non,ADVneg,MORPH=empty
+soleo,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=1
+polire,polio,VER,Mood=Inf|Tense=Pres|Voice=Act
+dentes,dens,NOM3,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

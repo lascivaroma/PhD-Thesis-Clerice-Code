@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Acc|Numb=Plur
+lacerat,lacero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+mixtos,misceo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+equitum,eqves,NOM3,Case=Gen|Numb=Plur
+cum,cvm,PRE,MORPH=empty
+sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
+patres,pater,NOM3,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+totius,totvs,PROind,Case=Gen|Numb=Sing
+populi,popvlvs,NOM2,Case=Gen|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+tunc,tvnc,ADV,Deg=Pos
+quoque,qvoqve,ADV,Deg=Pos
+mille,mille,ADJcar,Case=Ind
+ferenda,fero,VER,Case=Nom|Numb=Plur|Mood=Adj|Voice=Pass

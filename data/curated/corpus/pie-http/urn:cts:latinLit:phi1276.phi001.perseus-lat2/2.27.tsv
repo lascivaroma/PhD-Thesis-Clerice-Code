@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Clodius,clodivs,NOM2,Case=Nom|Numb=Sing
+accuset,accvso,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+moechos,moechvs,NOM2,Case=Acc|Numb=Plur
+Catilina,catilina,NOM1,Case=Nom|Numb=Sing
+Cethegum,cethegvs,NOM2,Case=Acc|Numb=Sing

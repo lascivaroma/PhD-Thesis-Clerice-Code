@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+curanda,cvro,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+uiris,vir,NOM2,Case=Dat|Numb=Plur
+opicae,opicvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+castigat,castigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+amicae,amica,NOM1,Case=Gen|Numb=Sing

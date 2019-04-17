@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+tonat,tono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+exanimes,exanimis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+primo,primvs,ADJord,Case=Abl|Numb=Sing|Deg=Sup
+quoque,qvisqve,PROind,Numb=Sing|Deg=Pos
+murmure,mvrmvr,NOM3,Case=Abl|Numb=Sing
+caeli,caelvm,NOM2,Case=Gen|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sortita,sortior,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+lateris,latvs,NOM3,Case=Gen|Numb=Sing
+spatium,spativm,NOM2,Case=Nom|Numb=Sing
+breuior,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+-que,qvove,CONcoo,MORPH=empty
+uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

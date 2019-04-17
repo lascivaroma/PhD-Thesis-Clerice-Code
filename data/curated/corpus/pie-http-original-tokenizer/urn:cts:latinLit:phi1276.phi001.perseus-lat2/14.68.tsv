@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+illud,ille,PROdem,Case=Acc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+agitas,agito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ut,vt,CONsub,MORPH=empty
+sanctam,sanctvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+filius,filivs,NOM2,Case=Nom|Numb=Sing
+omni,omnis,PROind,Case=Abl|Numb=Sing

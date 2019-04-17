@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+ergo,ergo,CONcoo,MORPH=empty
+ut,vt,CONsub,MORPH=empty
+miremur,miror,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Dep|Person=1
+te,tv,PROper,Case=Acc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+tua,tvvs,PROpos,Case=Acc|Numb=Plur
+priuum,privvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+da,do,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

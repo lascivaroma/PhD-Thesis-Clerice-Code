@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+spargendusque,spargo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+iam,iam,ADV,Deg=Pos
+pudet,pvdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ubera,vber,NOM3,Case=Acc|Numb=Plur
+matris,mater,NOM3,Case=Gen|Numb=Sing

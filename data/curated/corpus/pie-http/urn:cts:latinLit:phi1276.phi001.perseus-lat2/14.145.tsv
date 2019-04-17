@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+si,si,CONsub,MORPH=empty
+pretio,pretivm,NOM2,Case=Abl|Numb=Sing
+dominus,dominvs,NOM2,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+uincitur,vinco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ullo,vllvs,PROind,Case=Abl|Numb=Sing

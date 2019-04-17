@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+elatam,effero,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+iam,iam,ADV,Deg=Pos
+crede,credo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+nurum,nvrvs,NOM4,Case=Acc|Numb=Sing
+si,si,CONsub,MORPH=empty
+limina,limen,NOM3,Case=Acc|Numb=Plur
+uestra,vester,PROpos,Case=Nom|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ipsi,ipse,PROdem,Case=Nom|Numb=Plur
+deinde,deinde,ADV,Deg=Pos
+Lares,lar,NOM3,Case=Nom|Numb=Plur
+si,si,CONsub,MORPH=empty
+quod,qvis,PROind,Case=Nom|Numb=Sing
+spectabile,spectabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+signum,signvm,NOM2,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+cogente,cogo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+quidem,qvidem,ADV,Deg=Pos
+sed,sed,CONcoo,MORPH=empty
+nec,nec,CONcoo,MORPH=empty
+prohibente,prohibeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+tribuno,tribvnvs,NOM2,Case=Abl|Numb=Sing

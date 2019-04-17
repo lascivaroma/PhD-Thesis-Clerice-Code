@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+deficeret,deficio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+maestam,maestvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+attonitamque,attonitvs,ADJqua,Case=Acc|Deg=Pos
+uideres,video,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2

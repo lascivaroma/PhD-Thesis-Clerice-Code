@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sic,sic,ADV,Deg=Pos
+possem,possvm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1
+adfari,affor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+o,o,INJ,MORPH=empty
+uanissime,vanvs,ADV,Case=Voc|Deg=Sup
+quis,qvis,PROint,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing

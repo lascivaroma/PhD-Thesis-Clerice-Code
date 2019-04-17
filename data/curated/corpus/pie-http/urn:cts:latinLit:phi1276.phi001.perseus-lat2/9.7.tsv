@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Pollio,pollio,NOM3,Case=Nom|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+triplicem,triplex,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+usuram,vsvra,NOM1,Case=Acc|Numb=Sing
+praestare,praesto,VER,Mood=Inf|Tense=Pres|Voice=Act
+paratus,paratvs,ADJqua,Numb=Sing|Deg=Pos

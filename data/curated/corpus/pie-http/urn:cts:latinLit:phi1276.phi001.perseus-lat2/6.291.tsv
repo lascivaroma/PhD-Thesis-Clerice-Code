@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Hannibal,hannibal,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+stantes,sto,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+Collina,collinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+turre,tvrris,NOM3,Case=Abl|Numb=Sing
+mariti,maritvs,NOM2,Case=Gen|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+magna,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uoluptates,volvptas,NOM3,Case=Acc|Numb=Plur
+commendat,commendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+rarior,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+usus,vsvs,NOM4,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

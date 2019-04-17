@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+plus,mvltvs,ADJqua,Deg=Comp
+aloes,aloe,NOM2,Case=Nom|Numb=Sing
+quam,qvam,ADVrel,MORPH=empty
+mellis,mel,NOM3,Case=Gen|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quis,qvis,PROint,Case=Nom|Numb=Sing
+deditus,deditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+autem,avtem,CONcoo,MORPH=empty

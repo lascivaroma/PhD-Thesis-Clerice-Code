@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+argenti,argentvm,NOM2,Case=Gen|Numb=Sing
+grauis,gravis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+et,et,CONcoo,MORPH=empty
+pecorum,pecvs,NOM3,Case=Gen|Numb=Plur
+agrorumque,ager,NOM2,Case=Gen|Numb=Plur
+capacem,capax,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+bona,bonvm,NOM2,Case=Acc|Numb=Plur
+summa,svmmvm,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+putes,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+aliena,alienvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uiuere,vivo,VER,Mood=Inf|Tense=Pres|Voice=Act
+quadra,qvadra,NOM2,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

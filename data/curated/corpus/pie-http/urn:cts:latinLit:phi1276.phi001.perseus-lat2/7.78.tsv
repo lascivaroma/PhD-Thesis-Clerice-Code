@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nimirum,nimirvm,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+capiunt,capio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+plus,mvltvm,ADV,Deg=Comp
+intestina,intestinvm,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+poetae,poeta,NOM1,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

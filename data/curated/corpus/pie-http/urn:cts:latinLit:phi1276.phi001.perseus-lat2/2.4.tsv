@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+indocti,indoctvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+primum,primvm,ADJadv.ord,Deg=Sup
+quamquam,qvamqvam,CONsub,MORPH=empty
+plena,plenvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+omnia,omnis,PROind,Case=Nom|Numb=Plur
+gypso,gypsvs,NOM2,Case=Abl|Numb=Sing

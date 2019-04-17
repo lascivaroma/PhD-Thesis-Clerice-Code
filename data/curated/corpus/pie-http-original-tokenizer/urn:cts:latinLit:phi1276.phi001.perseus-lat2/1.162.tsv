@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+securus,secvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Aenean,aeneas,NOM7,Case=Acc|Numb=Sing
+Rutulumque,rvtvlvs,NOM2,Case=Nom|Numb=Sing
+ferocem,ferox,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

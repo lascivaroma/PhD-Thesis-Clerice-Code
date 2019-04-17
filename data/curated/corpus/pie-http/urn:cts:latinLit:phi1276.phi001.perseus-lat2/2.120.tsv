@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+cena,cena,NOM1,Case=Nom|Numb=Sing
+sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+gremio,gremivm,NOM2,Case=Dat|Numb=Sing
+iacuit,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+noua,novvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nupta,nvpta,NOM1,Case=Nom|Numb=Sing
+mariti,maritvs,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

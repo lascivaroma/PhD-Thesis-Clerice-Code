@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+captatori,captator,NOM3,Case=Dat|Numb=Sing
+moueat,moveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+fastidia,fastidivm,NOM2,Case=Acc|Numb=Plur
+Cosso,cossvs,NOM2,Case=Dat|Numb=Sing

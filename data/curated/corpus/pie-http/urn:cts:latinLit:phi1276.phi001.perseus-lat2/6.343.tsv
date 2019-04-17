@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+simpuuium,simpvvivm,NOM2,Case=Acc|Numb=Sing
+ridere,rideo,VER,Mood=Inf|Tense=Pres|Voice=Act
+Numae,nvma,NOM1,Case=Dat|Numb=Sing
+nigrum,niger,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+-que,qvove,ADV,MORPH=empty
+catinum,catinvs,NOM2,Case=Acc|Numb=Sing

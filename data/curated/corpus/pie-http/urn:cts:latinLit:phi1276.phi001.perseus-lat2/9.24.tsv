@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+Cererem,ceres,NOM3,Case=Acc|Numb=Sing
+nam,nam,CONcoo,MORPH=empty
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+prostat,prosto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+femina,femina,NOM1,Case=Nom|Numb=Sing
+templo,templvm,NOM2,Case=Abl|Numb=Sing

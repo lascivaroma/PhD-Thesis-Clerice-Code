@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+edere,edo,VER,Mood=Inf|Tense=Pres|Voice=Act
+uagitus,vagitvs,NOM4,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+adhuc,adhvc,ADV,Deg=Pos
+a,ab,PRE,MORPH=empty
+matre,mater,NOM3,Case=Abl|Numb=Sing
+rubentem,rvbens,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

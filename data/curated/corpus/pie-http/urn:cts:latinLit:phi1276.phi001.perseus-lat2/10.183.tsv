@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mitius,mitis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+id,is,PROdem,Case=Nom|Numb=Sing
+sane,sane,ADV,Deg=Pos
+quod,qvod,CONsub,MORPH=empty
+non,non,ADVneg,MORPH=empty
+et,et,CONcoo,MORPH=empty
+stigmate,stigma,NOM3,Case=Abl|Numb=Sing
+dignum,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

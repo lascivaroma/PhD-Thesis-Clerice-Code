@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Nobilis,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+lanis,lana,NOM1,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uitibus,vitis,NOM3,Case=Abl|Numb=Plur
+Aulon,avlvs,NOM7,Case=Nom|Numb=Sing
+Det,detvs,NOM7,Case=Nom|Numb=Sing
+pretiosa,pretiosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uellera,vellvs,NOM3,Case=Acc|Numb=Plur
+uina,vinvm,NOM2,Case=Acc|Numb=Plur
+mihi,ego,PROper,Case=Dat|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

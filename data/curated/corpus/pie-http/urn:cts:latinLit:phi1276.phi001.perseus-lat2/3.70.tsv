@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+hic,hic,PROdem,Case=Nom|Numb=Sing
+Andro,andrvs,NOM2,Case=Dat|Numb=Sing
+ille,ille,PROdem,Case=Nom|Numb=Sing
+Samo,samvs,NOM2,Case=Abl|Numb=Sing
+hic,hic,PROdem,Case=Nom
+Trallibus,trallis,NOM3,Case=Abl|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+Alabandis,alabandae,NOM2,Case=Abl|Numb=Plur

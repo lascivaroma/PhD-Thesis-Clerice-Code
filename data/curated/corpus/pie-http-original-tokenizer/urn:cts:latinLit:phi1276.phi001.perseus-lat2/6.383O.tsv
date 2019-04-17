@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+horum,hic,PROdem,Case=Gen|Numb=Plur
+consiliis,consilivm,NOM2,Case=Abl|Numb=Plur
+nubunt,nvbo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+subitaeque,svbitaeqve,ADV,Deg=Pos
+recedunt,recedo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

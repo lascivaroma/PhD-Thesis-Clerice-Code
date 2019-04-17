@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+exemplum,exemplvm,NOM2,Case=Nom|Numb=Sing
+uitae,vita,NOM1,Case=Gen|Numb=Sing
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+cornice,cornix,NOM3,Case=Abl|Numb=Sing
+secundae,secvndvs,ADJord,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+nitidis,nitidvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+maculam,macvla,NOM1,Case=Acc|Numb=Sing
+haesuram,haereo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Fut|Voice=Pass
+figentia,figo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+rebus,res,NOM5,Case=Dat|Numb=Plur

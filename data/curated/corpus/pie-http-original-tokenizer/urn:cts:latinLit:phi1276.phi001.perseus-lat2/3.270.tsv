@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+testa,testa,NOM1,Case=Nom|Numb=Sing
+ferit,ferio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quotiens,qvotiens,ADVint,MORPH=empty
+rimosa,rimosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+curta,cvrtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+fenestris,fenestra,NOM2,Case=Abl|Numb=Plur

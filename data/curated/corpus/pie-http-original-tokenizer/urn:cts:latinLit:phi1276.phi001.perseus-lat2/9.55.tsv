@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Apula,apvla,NOM1,Case=Voc|Numb=Sing
+tot,tot,PROdem,Case=Ind
+miluos,milvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+intra,intra,PRE,MORPH=empty
+tua,tvvs,PROpos,Case=Acc|Numb=Plur
+pascua,pascvvm,NOM2,Case=Acc|Numb=Plur
+lassos,lassvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

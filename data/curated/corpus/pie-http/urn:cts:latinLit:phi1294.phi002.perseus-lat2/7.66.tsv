@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Heredem,heres,NOM3,Case=Acc|Numb=Sing
+Fabius,fabivs,NOM2,Case=Nom|Numb=Sing
+Labienum,labienvs,NOM2,Case=Acc|Numb=Sing
+ex,ex,PRE,MORPH=empty
+asse,as,NOM3,Case=Abl|Numb=Sing
+reliquit,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Plus,plvs,NOM3,Case=Nom|Numb=Sing
+meruisse,mereo,VER,Mood=Inf|Tense=Perf|Voice=Act
+tamen,tamen,ADV,Deg=Pos
+se,svi,PROref,Case=Acc|Numb=Sing
+Labienus,labienvs,NOM2,Case=Nom|Numb=Sing
+ait,aio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

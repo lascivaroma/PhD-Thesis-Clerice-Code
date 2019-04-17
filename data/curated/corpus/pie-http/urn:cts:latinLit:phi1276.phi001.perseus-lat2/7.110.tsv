@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ad,ad,PRE,MORPH=empty
+dubium,dvbivm,NOM2,Case=Acc|Numb=Sing|Deg=Pos
+grandi,grandis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+codice,cavdex,NOM3,Case=Abl|Numb=Sing
+nomen,nomen,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

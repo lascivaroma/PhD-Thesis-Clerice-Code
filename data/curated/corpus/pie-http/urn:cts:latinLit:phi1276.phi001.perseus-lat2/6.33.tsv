@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+de,de,PRE,MORPH=empty
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+nullus,nvllvs,PROind,Case=Nom|Numb=Sing
+placet,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+exitus,exitvs,NOM4,Case=Nom|Numb=Sing
+illud,ille,PROdem,Case=Nom|Numb=Sing

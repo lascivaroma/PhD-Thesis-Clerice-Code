@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+debuerant,debeo,VER,Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+olim,olim,ADV,Deg=Pos
+tenues,tenvis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+migrasse,migro,VER,Mood=Inf|Tense=Perf|Voice=Act
+Quirites,qvirites,NOM3,Case=Voc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

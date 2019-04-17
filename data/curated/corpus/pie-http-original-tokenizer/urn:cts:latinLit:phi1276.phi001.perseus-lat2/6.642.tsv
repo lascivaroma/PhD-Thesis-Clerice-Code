@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tune,tvneo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+duos,dvo,ADJcar,Case=Acc|Numb=Plur
+septem,septem,ADJcar,Case=Ind
+si,si,CONsub,MORPH=empty
+septem,septem,ADJcar,Case=Ind
+forte,forte,ADV,Deg=Pos
+fuissent,svm,VER,Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ac,ac,CONcoo,MORPH=empty
+nudam,nvdvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+effigiem,effigies,NOM5,Case=Acc|Numb=Sing
+clipeo,clipevs,NOM2,Case=Abl|Numb=Sing
+uenientis,venio,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+hasta,hasta,NOM1,Case=Abl|Numb=Sing

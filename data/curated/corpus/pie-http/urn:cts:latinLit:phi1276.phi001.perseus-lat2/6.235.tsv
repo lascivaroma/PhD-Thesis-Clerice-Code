@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+custodes,cvstos,NOM3,Case=Acc|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+aere,aes,NOM3,Case=Abl|Numb=Sing
+domat,domo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+tunc,tvnc,ADV,Deg=Pos
+corpore,corpvs,NOM3,Case=Abl|Numb=Sing
+sano,sanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

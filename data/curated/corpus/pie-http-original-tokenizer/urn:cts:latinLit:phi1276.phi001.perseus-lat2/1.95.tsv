@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+secreto,secreto,ADV,Deg=Pos
+cenauit,ceno,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+auus,avvs,NOM2,Case=Nom|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+sportula,sportvla,NOM1,Case=Nom|Numb=Sing
+primo,primvs,ADJadv.ord,Deg=Sup

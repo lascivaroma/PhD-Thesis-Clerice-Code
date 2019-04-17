@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+circumit,circvmeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+fatuos,fatvvs,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+non,non,ADVneg,MORPH=empty
+inuenit,invenio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+unde,vnde,ADVrel,MORPH=empty
+repente,repente,ADV,Deg=Pos

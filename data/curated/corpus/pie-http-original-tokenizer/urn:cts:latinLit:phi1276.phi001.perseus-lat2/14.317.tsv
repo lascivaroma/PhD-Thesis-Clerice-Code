@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sufficiat,svfficio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+census,censvs,NOM4,Case=Nom|Numb=Plur
+siquis,siqva,ADV,Deg=Pos
+me,ego,PROper,Case=Acc|Numb=Sing
+consulat,consvlo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+edam,edo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1

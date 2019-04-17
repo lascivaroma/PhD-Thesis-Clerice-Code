@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+incestus,incestvs,NOM4,Case=Nom|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+nuper,nvper,ADV,Deg=Pos
+uittata,vitto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+iacebat,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

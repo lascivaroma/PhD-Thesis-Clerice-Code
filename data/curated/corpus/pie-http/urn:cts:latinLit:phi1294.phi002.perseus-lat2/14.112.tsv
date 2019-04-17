@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+A,avltvs,PROdem,Case=Abl|Numb=Sing
+Ioue,ivppiter,NOM3,Case=Abl|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+miscenda,misceo,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+ad,ad,PRE,MORPH=empty
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+largas,largvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Fundet,fvndo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nimbus,nimbvs,NOM2,Case=Nom|Numb=Sing
+aquas,aqva,NOM1,Case=Acc|Numb=Plur
+hic,hic,PROdem,Case=Nom|Numb=Sing|Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uina,vinvm,NOM2,Case=Acc|Numb=Plur
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

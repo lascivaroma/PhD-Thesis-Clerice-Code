@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+interea,interea,ADV,Deg=Pos
+gustus,gvstvs,NOM4,Case=Nom|Numb=Plur
+elementa,elementa,NOM2,Case=Acc|Numb=Plur
+per,per,PRE,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+quaerunt,qvaero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

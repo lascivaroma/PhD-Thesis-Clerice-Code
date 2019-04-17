@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+In,vnvs,ADJcar,Case=Acc
+ligurum,ligvr,NOM2,Case=Gen|Numb=Plur
+terris,terra,NOM1,Case=Abl|Numb=Plur
+potorem,potor,NOM3,Case=Acc|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uocat,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+errat,erro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Numquid,nvmqviden,ADVint,Case=Acc|Numb=Sing
+uina,vinvm,NOM2,Case=Acc|Numb=Plur
+bibit,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uina,vinvm,NOM2,Case=Acc|Numb=Plur
+bibens,bibo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+ligurum,ligvrvs,NOM2,Case=Gen|Numb=Plur

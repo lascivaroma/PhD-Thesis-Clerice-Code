@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+LESBIA,lesbia,NOM1,Case=Nom|Numb=Sing|Deg=Pos
+Pieriis,pierivs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+Sappho,sappho,NOM3,Case=Nom|Numb=Sing
+soror,soror,NOM3,Case=Nom|Numb=Sing
+addita,addo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+Musis,mvsa,NOM1,Case=Abl|Numb=Plur
+,,PRE,MORPH=empty
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

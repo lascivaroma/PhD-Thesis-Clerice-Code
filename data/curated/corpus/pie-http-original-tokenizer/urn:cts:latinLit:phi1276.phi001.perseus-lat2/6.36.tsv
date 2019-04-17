@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nulla,nvllvs,PROind,Case=Nom|Numb=Plur
+iacens,iaceo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+illic,illic,ADV,Deg=Pos
+munuscula,mvnvscvlvm,NOM2,Case=Acc|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+queritur,qveror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+quod,qvi,PROrel,MORPH=empty

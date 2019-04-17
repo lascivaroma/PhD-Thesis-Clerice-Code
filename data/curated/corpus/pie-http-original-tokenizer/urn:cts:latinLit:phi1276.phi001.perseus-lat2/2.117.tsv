@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Quadringenta,qvadringenti,ADJcar,Case=Acc|Numb=Plur
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Gracchus,gracchvs,NOM2,Case=Nom|Numb=Sing
+sestertia,sestertivm,NOM2,Case=Acc|Numb=Plur
+dotem,dos,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+numquam,nvmqvam,ADVneg,MORPH=empty
+attigerant,attingo,VER,Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+maiora,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+cadauera,cadaver,NOM3,Case=Acc|Numb=Plur
+corui,corvvs,NOM2,Case=Nom|Numb=Plur

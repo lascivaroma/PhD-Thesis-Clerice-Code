@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Ipsarum,ipsae,NOM1,Case=Gen|Numb=Plur
+tribadum,tribadvs,NOM3,Case=Gen|Numb=Plur
+tribas,triba,NOM1,Case=Acc|Numb=Plur|Person=2
+Philaeni,philaeni,NOM2,Case=Gen|Numb=Sing
+Recte,rectvs,NOM2,Case=Voc|Numb=Sing
+quam,qvam,ADVint,MORPH=empty
+futuis,fvtvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+uocas,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+amicam,amica,NOM1,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

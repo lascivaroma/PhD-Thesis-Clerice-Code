@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+audent,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+;,cer,PRE,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+sperare,spero,VER,Mood=Inf|Tense=Pres|Voice=Act
+nocentibus,nocens,VER,Case=Dat|Numb=Plur|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act
+aegris,aeger,NOM2,Case=Dat|Numb=Plur

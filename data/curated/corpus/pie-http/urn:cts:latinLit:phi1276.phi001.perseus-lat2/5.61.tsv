@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pauperibus,pavper,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+miscere,misceo,VER,Mood=Inf|Tense=Pres|Voice=Act
+puer,pver,NOM2,Case=Nom|Numb=Sing
+;,o,INJ,MORPH=empty
+set,sed,CONcoo,MORPH=empty
+forma,forma,NOM1,Case=Nom|Numb=Sing
+set,sed,CONcoo,MORPH=empty
+aetas,aetas,NOM3,Case=Nom|Numb=Sing

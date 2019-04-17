@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nuper,nvper,ADV,Deg=Pos
+in,in,PRE,MORPH=empty
+hanc,hic,PROdem,Case=Acc|Numb=Sing
+urbem,vrbs,NOM3,Case=Acc|Numb=Sing
+pedibus,pes,NOM3,Case=Abl|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uenerat,venio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+albis,albvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+perque,perqve,ADV,Deg=Pos
+tuum,tvvs,PROpos,Case=Acc|Numb=Sing
+pater,pater,NOM3,Case=Nom|Numb=Sing
+Aegaei,aegaevs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+Neptune,neptvnvs,NOM2,Case=Voc|Numb=Sing
+tridentem,tridens,NOM3,Case=Acc|Numb=Sing
+;,,PRE,MORPH=empty

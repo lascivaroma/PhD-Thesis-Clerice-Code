@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+contigit,contingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+parua,parvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tandem,tandem,ADV,Deg=Pos
+caruisse,careo,VER,Mood=Inf|Tense=Perf|Voice=Act
+Seripho,seriphvs,NOM2,Case=Dat|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

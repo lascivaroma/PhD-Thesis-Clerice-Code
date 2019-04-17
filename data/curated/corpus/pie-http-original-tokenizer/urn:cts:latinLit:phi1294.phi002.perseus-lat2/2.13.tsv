@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Et,et,CONcoo,MORPH=empty
+iudex,ivdex,NOM3,Case=Nom|Numb=Sing
+petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+patronus,patronvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Soluas,solvvs,NOM1,Case=Acc|Numb=Plur
+censeo,censeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+Sexte,sextvs,NOM2,Case=Voc|Numb=Sing
+creditori,creditor,NOM3,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Dat|Numb=Plur

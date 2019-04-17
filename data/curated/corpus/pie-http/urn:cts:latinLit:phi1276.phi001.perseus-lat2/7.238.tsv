@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+si,si,CONsub,MORPH=empty
+quis,qvis,PROind,Case=Nom|Numb=Sing
+cera,cera,NOM1,Case=Abl|Numb=Sing
+uoltum,vvltvs,NOM4,Case=Acc|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,INJ,MORPH=empty
+exigite,exigo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+ut,vt,CONsub,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+audere,avdeo,VER,Mood=Inf|Tense=Pres|Voice=SemDep
+anne,anne,ADVint,MORPH=empty
+aliam,alivs,PROind,Case=Acc|Numb=Sing
+terra,terra,NOM1,Case=Abl|Numb=Sing
+Memphitide,memphitis,NOM3,Case=Abl|Numb=Sing
+sicca,siccvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

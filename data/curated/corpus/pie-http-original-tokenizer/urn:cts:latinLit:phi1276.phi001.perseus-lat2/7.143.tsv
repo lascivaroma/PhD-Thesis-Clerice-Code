@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ante,ante,PRE,MORPH=empty
+pedes,pes,NOM3,Case=Acc|Numb=Plur
+ideo,ideo,ADV,Deg=Pos
+conducta,condvco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Paulus,pavlvs,NOM2,Case=Nom|Numb=Sing
+agebat,ago,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

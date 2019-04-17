@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+accusator,accvsator,NOM3,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uerbum,verbvm,NOM2,Case=Acc|Numb=Sing
+dixerit,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+hic,hic,PROdem,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

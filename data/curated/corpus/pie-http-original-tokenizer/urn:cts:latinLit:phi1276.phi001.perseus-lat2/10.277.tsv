@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+mendicatus,mendico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+uicta,vinco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Carthagine,carthago,NOM3,Case=Abl|Numb=Sing
+panis,panis,NOM3,Case=Gen|Numb=Sing

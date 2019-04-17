@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+attendas,attendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quantum,qvantvm,PROint,Case=Nom|Numb=Sing
+de,de,PRE,MORPH=empty
+legibus,lex,NOM3,Case=Abl|Numb=Plur
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+queratur,qveror,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3

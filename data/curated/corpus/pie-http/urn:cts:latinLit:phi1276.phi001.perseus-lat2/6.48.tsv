@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pronus,pronvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+auratam,avratvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Iunoni,ivno,NOM3,Case=Dat|Numb=Sing
+caede,caedes,NOM3,Case=Abl|Numb=Sing
+iuuencam,ivvenca,NOM1,Case=Acc|Numb=Sing

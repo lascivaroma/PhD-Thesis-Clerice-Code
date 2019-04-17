@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+delectant,delecto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+omnem,omnis,PROind,Case=Acc|Numb=Sing
+Titanida,titanis,NOM1,Case=Acc|Numb=Sing
+pugnam,pvgna,NOM1,Case=Acc|Numb=Sing

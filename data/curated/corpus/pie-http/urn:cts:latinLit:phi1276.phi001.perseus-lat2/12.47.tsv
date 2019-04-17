@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+caelati,caelo,ADJqua,Case=Gen|Numb=Sing|Tense=Perf
+biberat,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+callidus,callidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+emptor,emptor,NOM3,Case=Nom|Numb=Sing
+Olynthi,olynthvs,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

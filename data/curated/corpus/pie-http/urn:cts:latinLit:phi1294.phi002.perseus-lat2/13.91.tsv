@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Ad,ad,NOM7,Case=Nom|Numb=Sing
+Palatinas,palatinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+acipensem,acipensis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+mittite,mitto,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+mensas,mensa,NOM1,Case=Acc|Numb=Plur
+Ambrosias,ambrosivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+ornent,orno,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+rara,rarvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+dapes,daps,NOM3,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

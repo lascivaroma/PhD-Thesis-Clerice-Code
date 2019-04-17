@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+nunc,nvnc,ADV,Deg=Pos
+edunt,edo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+uerso,verto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+pollice,pollex,NOM3,Case=Abl|Numb=Sing
+uulgus,vvlgvs,NOM2,Case=Nom|Numb=Sing

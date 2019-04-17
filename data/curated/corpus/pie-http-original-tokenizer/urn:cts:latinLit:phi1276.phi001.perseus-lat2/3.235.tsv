@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+admittunt,admitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+magnis,magnvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+opibus,ops,NOM3,Case=Abl|Numb=Plur
+dormitur,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+in,in,PRE,MORPH=empty
+urbe,vrbs,NOM3,Case=Abl|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

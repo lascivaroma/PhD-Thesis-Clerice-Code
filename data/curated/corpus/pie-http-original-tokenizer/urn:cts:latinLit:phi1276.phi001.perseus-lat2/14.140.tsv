@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+minus,parvm,ADV,Deg=Comp
+hanc,hic,PROdem,Case=Acc|Numb=Sing
+optat,opto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty
+paratur,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

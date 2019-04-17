@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+optandum,opto,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+si,si,CONsub,MORPH=empty
+Laurenti,lavrens,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+custodit,cvstodio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+agro,ager,NOM2,Case=Abl|Numb=Sing

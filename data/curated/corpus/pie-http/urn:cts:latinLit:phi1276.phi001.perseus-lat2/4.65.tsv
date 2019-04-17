@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+itur,eo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ad,ad,PRE,MORPH=empty
+Atride,atrides,NOM3,Case=Abl|Numb=Sing
+-ne,ne,CONsub,MORPH=empty
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+tum,tvm,ADV,Deg=Pos
+Picens,picens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+accipe,accipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+dixit,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

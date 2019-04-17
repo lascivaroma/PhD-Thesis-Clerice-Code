@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Tyrrhenos,tyrrheni,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+igitur,igitvr,CONcoo,MORPH=empty
+fluctus,flvctvs,NOM4,Case=Acc|Numb=Plur
+lateque,lateqve,ADV,Deg=Pos
+sonantem,sono,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

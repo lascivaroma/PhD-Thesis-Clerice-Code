@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iudice,ivdex,NOM3,Case=Abl|Numb=Sing
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+nocens,nocens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+absoluitur,absolvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+improba,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quamuis,qvamvis,CONsub,MORPH=empty

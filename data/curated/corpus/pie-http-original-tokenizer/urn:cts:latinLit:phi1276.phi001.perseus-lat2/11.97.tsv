@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+uile,vilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+coronati,corono,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+eaput,eapvt,PROdem,MORPH=empty
+ostendebat,ostendo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+aselli,asellvs,NOM2,Case=Gen|Numb=Sing

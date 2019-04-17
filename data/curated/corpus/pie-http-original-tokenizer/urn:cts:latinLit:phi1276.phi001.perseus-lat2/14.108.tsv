@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inuiti,invitvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+quoque,qvoqve,ADV,Deg=Pos
+auaritiam,avaritia,NOM1,Case=Acc|Numb=Sing
+exercere,exerceo,VER,Mood=Inf|Tense=Pres|Voice=Act
+iubentur,ivbeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

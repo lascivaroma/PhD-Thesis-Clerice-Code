@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,MORPH=empty
+fatuo,fatvvs,NOM2,Case=Abl|Numb=Sing
+dabitur,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+tam,tam,ADV,Deg=Pos
+sanctum,sanctvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+nomen,nomen,NOM3,Case=Nom|Numb=Sing
+homullo,homvllvs,NOM2,Case=Abl|Numb=Sing
+Gloria,gloria,NOM1,Case=Nom|Numb=Sing
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+curret,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+obprobrium,opprobrivm,NOM2,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

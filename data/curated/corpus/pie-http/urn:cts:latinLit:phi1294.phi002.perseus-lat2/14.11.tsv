@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Seu,sevs,NOM2,Case=Nom|Numb=Sing
+leuiter,leviter,ADV,Deg=Pos
+noto,notvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+seu,sev,CONcoo,MORPH=empty
+caro,carvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+missa,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+sodali,sodalis,NOM3,Case=Dat|Numb=Sing
+Omnes,omnes,NOM7,Case=Nom|Numb=Sing
+ista,iste,PROdem,Case=Nom|Numb=Sing
+solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+charta,charta,NOM1,Case=Abl|Numb=Sing
+uocare,voco,VER,Mood=Inf|Tense=Pres|Voice=Act
+suos,svvs,PROpos.ref,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+balneolum,balneolvm,NOM2,Case=Acc|Numb=Sing
+Gabiis,gabii,NOM2,Case=Dat|Numb=Plur
+Romae,roma,NOM1,Case=Loc|Numb=Sing
+conducere,condvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+furnos,fvrnvs,NOM2,Case=Acc|Numb=Plur

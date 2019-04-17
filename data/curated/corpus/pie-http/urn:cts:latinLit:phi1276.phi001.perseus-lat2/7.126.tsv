@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quadriiuges,qvadriivgis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+in,in,PRE,MORPH=empty
+uestibulis,vestibvlvm,NOM2,Case=Abl|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+feroci,ferox,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

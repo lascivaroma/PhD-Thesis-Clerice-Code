@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+callidus,callidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+cristae,crista,NOM1,Case=Gen|Numb=Sing
+digitos,digitvs,NOM2,Case=Acc|Numb=Plur
+inpressit,imprimo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+aliptes,alipto,VER,Numb=Sing|Tense=Fut|Voice=Act|Person=2

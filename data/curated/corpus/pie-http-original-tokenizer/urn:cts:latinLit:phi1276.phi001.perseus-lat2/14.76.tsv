@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+illi,ille,PROdem,Case=Nom|Numb=Plur
+eadem,idem,PROdem,Case=Nom|Numb=Plur
+sumptis,svmo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+quaerunt,qvaero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+animalia,animal,NOM3,Case=Nom|Numb=Plur
+pinnis,pinna,NOM1,Case=Abl|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+terris,terra,NOM1,Case=Abl|Numb=Plur
+uisamque,viso,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+diu,div,ADV,Deg=Pos
+cum,cvm,PRE,MORPH=empty
+frigida,frigidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+paruas,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

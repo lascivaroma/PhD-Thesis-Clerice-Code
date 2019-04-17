@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+seruorum,servvs,NOM2,Case=Gen|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+uultum,vvltvs,NOM4,Case=Acc|Numb=Sing
+agnoscit,agnosco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+amici,amicvs,NOM2,Case=Nom|Numb=Plur

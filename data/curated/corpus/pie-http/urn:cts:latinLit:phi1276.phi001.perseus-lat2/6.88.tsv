@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+quamquam,qvamqvam,CONsub,MORPH=empty
+in,in,PRE,MORPH=empty
+magnis,magnvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+opibus,ops,NOM3,Case=Abl|Numb=Plur
+pluma,plvma,NOM1,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+paterna,paternvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

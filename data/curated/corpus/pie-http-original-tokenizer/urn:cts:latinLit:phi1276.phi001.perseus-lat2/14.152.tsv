@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Sed,sed,NOM7,Numb=Sing
+qui,qvi,PROint,Case=Nom|Numb=Sing
+sermones,sermo,NOM3,Case=Acc|Numb=Plur
+quam,qvam,ADVint,MORPH=empty
+foedae,foedvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+bucina,bvcina,NOM1,Case=Nom|Numb=Sing
+famae,fama,NOM1,Case=Gen|Numb=Sing

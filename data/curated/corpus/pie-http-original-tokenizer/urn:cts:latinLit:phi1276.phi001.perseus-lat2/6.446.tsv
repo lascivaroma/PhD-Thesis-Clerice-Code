@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+crure,crvs,NOM3,Case=Abl|Numb=Sing
+tenus,tenvs,ADV,MORPH=empty
+medio,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tunicas,tvnica,NOM1,Case=Acc|Numb=Plur
+succingere,svccingo,VER,Mood=Inf|Tense=Pres|Voice=Act
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

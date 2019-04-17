@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tota,totvs,PROind,Case=Nom|Numb=Plur
+licet,licet,VER,Mood=Ind|Tense=Pres|Person=3
+ueteres,vetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+exornent,exorno,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+undique,vndiqve,ADV,Deg=Pos
+cerae,cera,NOM1,Case=Nom|Numb=Plur

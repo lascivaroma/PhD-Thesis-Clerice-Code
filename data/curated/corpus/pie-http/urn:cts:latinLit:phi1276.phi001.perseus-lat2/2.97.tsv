@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+caerulea,caervlevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+indutus,indvo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+scutulata,scvtvlatvm,NOM2,Case=Nom|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+galbina,galbina,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+rasa,rado,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

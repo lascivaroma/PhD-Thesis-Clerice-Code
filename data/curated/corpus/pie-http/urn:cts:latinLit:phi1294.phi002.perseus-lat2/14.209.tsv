@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Leuis,levis,NOM3,Case=Nom|Numb=Sing
+ab,ab,PRE,MORPH=empty
+aequorea,aeqvorevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cortex,cortex,NOM3,Case=Nom|Numb=Sing
+Mareotica,mareoticvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+concha,concha,NOM1,Case=Abl|Numb=Sing
+Fiat,fio,VER,Numb=Sing
+inoffensa,inoffensvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+curret,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+harundo,arvndo,NOM3,Case=Nom|Numb=Sing
+uia,via,NOM1,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sortiti,sortior,VER,Case=Gen|Numb=Plur|Mood=Ind|Tense=Perf|Voice=Dep|Person=3
+ingenium,ingenivm,NOM2,Case=Nom|Numb=Sing
+diuinorum,divina,NOM2,Case=Gen|Numb=Plur
+-que,qvavis,CONcoo,MORPH=empty
+capaces,capax,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

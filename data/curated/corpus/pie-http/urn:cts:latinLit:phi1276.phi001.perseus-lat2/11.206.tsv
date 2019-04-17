@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+sextam,sextvs,ADJord,Case=Acc|Numb=Sing|Deg=Pos
+facere,facio,VER,Mood=Inf|Tense=Pres|Voice=Act
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+quinque,qvinqve,ADJcar,Case=Ind
+diebus,dies,NOM5,Case=Abl|Numb=Plur

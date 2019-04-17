@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+facient,facio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+comites,comes,NOM3,Case=Nom|Numb=Plur
+quibus,qvi,PROrel,Case=Dat|Numb=Plur
+hinc,hinc,ADV,Deg=Pos
+toga,toga,NOM1,Case=Nom|Numb=Sing
+calceus,calcevs,NOM2,Case=Nom|Numb=Sing
+hinc,hinc,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

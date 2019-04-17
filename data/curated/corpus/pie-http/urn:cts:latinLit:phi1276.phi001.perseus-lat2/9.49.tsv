@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cultori,cvltor,NOM3,Case=Dat|Numb=Sing
+iam,iam,ADV,Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+morbo,morbvs,NOM2,Case=Dat|Numb=Sing
+donare,dono,VER,Mood=Inf|Tense=Pres|Voice=Act
+parati,paratvs,ADJqua,Numb=Plur|Deg=Pos|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

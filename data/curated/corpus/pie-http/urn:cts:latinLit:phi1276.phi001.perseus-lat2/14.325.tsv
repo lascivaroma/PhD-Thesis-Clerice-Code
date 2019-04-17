@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Nom|Numb=Plur
+quoque,qvoqve,ADV,Deg=Pos
+si,si,CONsub,MORPH=empty
+rugam,rvga,NOM1,Case=Acc|Numb=Sing
+trahit,traho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+extendit,extendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+-que,qvove,ADV,MORPH=empty
+labellum,labellvm,NOM2,Case=Acc|Numb=Sing

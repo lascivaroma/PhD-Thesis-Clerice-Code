@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Quod,qvi,PROint,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+naturae,natvra,NOM1,Case=Gen|Numb=Sing
+dederit,do,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+lex,lex,NOM3,Case=Nom|Numb=Sing
+germe,germeo,VER,Case=Voc|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+amice,amicvs,ADV,Case=Voc|Deg=Pos
+Hoc,hoc,NOM3,Case=Nom|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+fons,fons,NOM3,Case=Nom|Numb=Sing
+tradat,trado,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uiuificantis,vivifico,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+aquae,aqva,NOM1,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

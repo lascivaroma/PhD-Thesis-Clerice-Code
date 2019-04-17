@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+paruula,parvvlvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+fictilibus,fictile,NOM3,Case=Abl|Numb=Plur
+solitum,soleo,VER,Case=Acc|Numb=Sing|Deg=Pos|Mood=Par|Tense=Perf|Voice=SemDep
+dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
+uela,velvm,NOM2,Case=Acc|Numb=Plur
+phaselis,phaselvs,NOM2,Case=Abl|Numb=Plur

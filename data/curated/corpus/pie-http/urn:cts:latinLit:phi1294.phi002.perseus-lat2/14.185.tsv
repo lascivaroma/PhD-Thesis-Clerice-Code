@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Accipe,accipes,NOM2,Case=Voc|Numb=Sing
+facundi,facvndvs,NOM2,Case=Gen|Numb=Sing
+Culicem,cvlix,NOM3,Case=Acc|Numb=Sing
+studiose,stvdiose,ADV,Deg=Pos
+Maronis,maro,NOM3,Case=Gen|Numb=Sing
+Ne,ne,NOM3,Case=Ind
+nucibus,nvx,NOM3,Case=Abl|Numb=Plur
+positis,pono,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+arma,arma,NOM2,Case=Acc|Numb=Plur
+uirum,vir,NOM2,Case=Acc|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+legas,lego,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

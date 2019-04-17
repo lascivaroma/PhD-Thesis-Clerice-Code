@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+forsitan,forsitan,ADV,Deg=Pos
+inbellis,imbellis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Rhodios,rhodii,NOM2,Case=Acc|Numb=Plur
+unctam,vngo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvovs,ADV,MORPH=empty
+Corintho,corinthvs,NOM2,Case=Dat|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+;,o,PRE,MORPH=empty

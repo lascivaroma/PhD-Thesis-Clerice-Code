@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+attendit,attendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Thymele,thymele,NOM7,Case=Voc|Numb=Sing
+Thymele,thymele,NOM7,Case=Voc|Numb=Sing
+tunc,tvnc,ADV,Deg=Pos
+rustica,rvsticvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+discit,disco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

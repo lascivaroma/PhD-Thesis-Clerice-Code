@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quos,qvis,PROrel,Case=Acc|Numb=Plur
+natura,natvra,NOM1,Case=Nom|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+trunca,trvncvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+puppe,pvppis,NOM3,Case=Abl|Numb=Sing
+magister,magister,NOM2,Case=Nom|Numb=Sing

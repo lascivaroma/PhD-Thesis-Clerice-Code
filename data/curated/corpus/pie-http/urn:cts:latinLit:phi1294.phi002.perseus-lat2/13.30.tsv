@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Caseus,casevs,NOM2,Case=Nom|Numb=Sing
+Etruscae,etrvscvs,ADJqua,Case=Loc|Numb=Sing|Deg=Pos
+signatus,signo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+imagine,imago,NOM3,Case=Abl|Numb=Sing
+Lunae,lvna,NOM1,Case=Gen|Numb=Sing
+Praestabit,praesto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+prandia,prandivm,NOM2,Case=Acc|Numb=Plur
+mille,mille,ADJcar,Case=Ind
+tuis,tvvs,PROpos,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

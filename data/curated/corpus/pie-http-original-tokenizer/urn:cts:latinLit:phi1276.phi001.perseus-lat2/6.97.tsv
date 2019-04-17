@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fortem,fortis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+animum,animvs,NOM2,Case=Acc|Numb=Sing
+praestant,praesto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+rebus,res,NOM5,Case=Abl|Numb=Plur
+quas,qvi,PROrel,Case=Acc|Numb=Plur
+turpiter,tvrpiter,ADV,Deg=Pos
+audent,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3

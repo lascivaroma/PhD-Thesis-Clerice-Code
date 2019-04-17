@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+uerum,vervm,CONcoo,Case=Acc|Numb=Sing
+excutias,excvtio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+facies,facies,NOM5,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+amatur,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

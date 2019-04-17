@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quot,qvot,PROint,Case=Ind
+stabant,sto,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+pueri,pver,NOM2,Case=Nom|Numb=Plur
+cum,cvm,CONsub,MORPH=empty
+totus,totvs,PROind,Case=Nom|Numb=Sing
+decolor,decolor,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+esset,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

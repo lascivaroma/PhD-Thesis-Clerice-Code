@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+effigies,effigies,NOM5,Case=Nom|Numb=Plur
+inter,inter,PRE,MORPH=empty
+uestras,vester,PROpos,Case=Acc|Numb=Plur
+statuamque,statva,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Vagelli,vagellvs,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

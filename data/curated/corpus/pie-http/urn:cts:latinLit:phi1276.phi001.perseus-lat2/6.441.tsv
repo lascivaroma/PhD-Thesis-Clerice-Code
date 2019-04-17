@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tot,tot,PROdem,Case=Ind
+pariter,pariter,ADV,Deg=Pos
+pelues,pelvis,NOM3,Case=Acc|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+tintinnabula,tintinnabvlvm,NOM2,Case=Acc|Numb=Plur
+dicas,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

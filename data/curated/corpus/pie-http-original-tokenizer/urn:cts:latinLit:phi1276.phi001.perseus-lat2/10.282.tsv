@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cum,cvm,CONsub,MORPH=empty
+de,de,PRE,MORPH=empty
+Teutonico,tevtonicvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uellet,volo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+descendere,descendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+curru,cvrrvs,NOM4,Case=Abl|Numb=Sing

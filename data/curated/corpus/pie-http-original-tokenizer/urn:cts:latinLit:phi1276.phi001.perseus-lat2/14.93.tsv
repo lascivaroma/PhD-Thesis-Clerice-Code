@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fregit,frango,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+opes,ops,NOM3,Case=Nom|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+parua,parvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tamen,tamen,ADV,Deg=Pos
+mensura,mensvra,NOM1,Case=Abl|Numb=Sing
+relictae,relinqvo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

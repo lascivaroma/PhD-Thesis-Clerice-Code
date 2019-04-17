@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+permixtum,permisceo,VER,Case=Acc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+nautis,navta,NOM1,Case=Dat|Numb=Plur
+et,et,CONcoo,MORPH=empty
+furibus,fvr,NOM3,Case=Abl|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+fugitiuis,fvgitivvs,NOM1,Case=Abl|Numb=Plur

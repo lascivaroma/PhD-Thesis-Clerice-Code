@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+omnis,omnis,PROind,Case=Nom|Numb=Sing
+harena,arena,NOM1,Case=Nom|Numb=Sing
+Tagi,tagvs,NOM2,Case=Gen|Numb=Sing
+quodque,qvisqve,PROind,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+mare,mare,NOM3,Case=Acc|Numb=Sing
+uoluitur,volvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+aurum,avrvm,NOM2,Case=Nom|Numb=Sing

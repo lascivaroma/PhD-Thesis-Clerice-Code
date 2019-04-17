@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tempestate,tempestas,NOM3,Case=Abl|Numb=Sing
+paras,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+iamque,iamqve,ADV,Deg=Pos
+a,ab,PRE,MORPH=empty
+tonsore,tonsor,NOM3,Case=Abl|Numb=Sing
+magistro,magister,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+scelus,scelvs,NOM3,Case=Acc|Numb=Sing
+a,ab,PRE,MORPH=empty
+Pyrra,pyrra,NOM1,Case=Abl|Numb=Sing
+quamquam,qvamqvam,CONsub,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+syrmata,syrmatvs,NOM2,Case=Acc|Numb=Plur
+uoluas,volvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+docet,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+obliquo,obliqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+lanam,lana,NOM1,Case=Acc|Numb=Sing
+deducere,dedvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

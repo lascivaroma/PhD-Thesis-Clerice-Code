@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+translatus,transfero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+subito,svbito,ADV,Deg=Pos
+ad,ad,PRE,MORPH=empty
+Marsos,marsi,NOM2,Case=Acc|Numb=Plur
+mensam,mensa,NOM1,Case=Acc|Numb=Sing
+-que,qvavis,ADV,MORPH=empty
+Sabellam,sabella,NOM1,Case=Acc|Numb=Sing

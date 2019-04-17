@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+Lacedaemonium,lacedaemonivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+pytismate,pytisma,NOM3,Case=Abl|Numb=Sing
+lubricat,lvbrico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+orbem,orbis,NOM3,Case=Acc|Numb=Sing
+;,o,PRE,MORPH=empty

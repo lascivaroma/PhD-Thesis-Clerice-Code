@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+prouida,providvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Pompeio,pompeivs,NOM2,Case=Dat|Numb=Sing
+dederat,do,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+Campania,campania,NOM1,Case=Nom|Numb=Sing
+febres,febris,NOM3,Case=Acc|Numb=Plur

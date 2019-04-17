@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+debilitas,debilitas,NOM3,Case=Nom|Numb=Sing
+follisque,follisqve,ADJqua,Numb=Sing
+pudet,pvdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cicerisque,cicerisces,NOM3,Numb=Sing
+relicti,relinqvo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

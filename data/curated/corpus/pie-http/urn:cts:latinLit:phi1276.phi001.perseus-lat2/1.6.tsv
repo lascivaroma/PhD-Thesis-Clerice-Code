@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+scriptus,scribo,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+tergo,tergvm,NOM2,Case=Abl|Numb=Sing
+necdum,necdvm,ADVneg,MORPH=empty
+finitus,finio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+Orestes,orestes,NOM7,Case=Nom|Numb=Sing

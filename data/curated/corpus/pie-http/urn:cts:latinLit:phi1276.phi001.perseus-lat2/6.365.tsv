@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+umquam,vmqvam,ADV,Deg=Pos
+re,res,NOM5,Case=Abl|Numb=Sing
+putant,pvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quanti,qvantvs,PROint,Case=Gen|Numb=Sing
+sibi,svi,PROref,Case=Dat|Numb=Sing
+gaudia,gavdivm,NOM2,Case=Nom|Numb=Plur
+constent,consto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

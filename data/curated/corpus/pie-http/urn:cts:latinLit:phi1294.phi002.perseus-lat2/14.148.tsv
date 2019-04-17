@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Nudo,nvdvs,NOM2,Case=Dat|Numb=Sing
+stragula,stragvlvm,NOM2,Case=Acc|Numb=Plur
+ne,ne,CONsub,MORPH=empty
+toro,torvs,NOM2,Case=Abl|Numb=Sing
+paterent,patior,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+Iunctae,ivncta,NOM1,Case=Nom|Numb=Plur
+nos,nos,PROper,Case=Acc|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uenimus,venio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+sorores,soror,NOM3,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

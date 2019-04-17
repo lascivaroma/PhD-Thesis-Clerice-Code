@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+boletus,boletvs,NOM2,Case=Nom|Numb=Sing
+domino,dominvs,NOM2,Case=Dat|Numb=Sing
+set,sed,CONcoo,MORPH=empty
+quales,qvalis,PROrel,Case=Nom|Numb=Plur
+Claudius,clavdivs,NOM2,Case=Nom|Numb=Sing
+edit,edo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

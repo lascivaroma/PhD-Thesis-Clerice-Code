@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+felices,felix,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+proauorum,proavvs,NOM2,Case=Gen|Numb=Plur
+atauos,atavi,NOM2,Case=Acc|Numb=Plur
+felicia,felix,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+dicas,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

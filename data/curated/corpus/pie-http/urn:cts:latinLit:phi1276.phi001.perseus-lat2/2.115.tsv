@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+expectant,exspecto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Phrygio,phrygivs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+tempus,tempvs,NOM3,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+iam,iam,ADV,Deg=Pos

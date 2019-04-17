@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nouerunt,nosco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Mauri,mavri,NOM2,Case=Nom|Numb=Plur
+atque,atqve,CONcoo,MORPH=empty
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+Indi,indi,NOM2,Case=Nom|Numb=Plur
+quae,qvis,PROrel,Case=Nom|Numb=Sing
+psaltria,psaltria,NOM1,Case=Nom|Numb=Sing
+penem,penis,NOM3,Case=Acc|Numb=Sing

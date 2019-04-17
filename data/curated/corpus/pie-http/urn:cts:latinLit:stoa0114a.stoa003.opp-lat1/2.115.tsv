@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Argenti,argentivs,NOM3,Case=Gen|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+auri,avrvm,NOM2,Case=Gen|Numb=Sing
+uapulat,vapvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quicumque,qvicvmqve,PROrel,Case=Nom|Numb=Sing
+metallis,metallvm,NOM2,Case=Abl|Numb=Plur
+Gaudia,gavdia,NOM1,Case=Abl|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+fletu,fletvs,NOM4,Case=Abl|Numb=Sing
+miscet,misceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+auara,avarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+suo,svvs,PROpos.ref,Case=Abl|Numb=Sing
+.,qvindenti,ADJcar,Case=Acc|Numb=Plur
+I,vnvs,ADJcar,Case=Acc|Numb=Sing

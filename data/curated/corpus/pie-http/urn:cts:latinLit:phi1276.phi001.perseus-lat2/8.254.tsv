@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Plebeiae,plebeiae,NOM1,Case=Nom|Numb=Sing
+Deciorum,decivs,NOM2,Case=Gen|Numb=Plur
+animae,anima,NOM1,Case=Nom|Numb=Plur
+plebeia,plebeivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+fuerunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3

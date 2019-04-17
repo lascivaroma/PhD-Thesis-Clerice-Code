@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+res,res,NOM5,Case=Nom|Numb=Sing
+haut,havd,ADVneg,MORPH=empty
+mira,mirvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tamen,tamen,ADV,Deg=Pos
+citharoedo,citharoedvs,NOM2,Case=Abl|Numb=Sing
+principe,princeps,NOM3,Case=Abl|Numb=Sing
+mimus,mimvs,NOM2,Case=Nom|Numb=Sing

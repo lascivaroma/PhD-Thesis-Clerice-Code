@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+porrigat.et,porrigo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+iactetur,iacto,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Pass|Person=3
+spira,spira,NOM1,Case=Nom|Numb=Sing
+galero,galervs,NOM2,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

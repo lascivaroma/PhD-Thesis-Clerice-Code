@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Hac,hacco,NOM7,Case=Nom|Numb=Sing
+primum,primvm,ADJord,Deg=Sup
+iuuenum,ivvenis,NOM3,Case=Gen|Numb=Plur
+lasciuos,lascivvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+lusit,lvdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+amores,amor,NOM3,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty
+Nec,nec,NOM3,Case=Abl|Numb=Sing
+Glycera,glycera,NOM1,Case=Nom|Numb=Sing
+pueri,pver,NOM2,Case=Gen|Numb=Sing
+Thais,thais,NOM3,Case=Nom|Numb=Sing
+amica,amica,NOM1,Case=Nom|Numb=Sing
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

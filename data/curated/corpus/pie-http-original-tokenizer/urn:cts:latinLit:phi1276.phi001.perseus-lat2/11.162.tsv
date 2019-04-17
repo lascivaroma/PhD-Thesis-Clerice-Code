@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Forsitan,forsitan,NOM7,Numb=Sing
+expectes,exspecto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+ut,vt,ADVint,MORPH=empty
+Gaditana,gaditanvs,NOM2,Case=Acc|Numb=Plur
+canoro,canorvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

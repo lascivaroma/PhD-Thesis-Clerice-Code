@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Proficies,proficies,NOM2,Case=Nom|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+caedas,caedo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act
+usque,vsqve,ADV,Deg=Pos
+flagello,flagellvm,NOM2,Case=Abl|Numb=Sing
+Si,sivs,NOM2,Case=Dat|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+purpureo,pvrpvrevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+de,de,PRE,MORPH=empty
+grege,grex,NOM3,Case=Abl|Numb=Sing
+currit,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+equus,eqvvs,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

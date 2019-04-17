@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Hospes,hospes,NOM3,Case=Nom|Numb=Sing
+eras,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2
+nostri,noster,PROpos,Case=Gen|Numb=Plur
+semper,semper,ADV,Deg=Pos
+Matho,mathon,NOM3,Case=Nom|Numb=Sing
+Tiburtini,tibvrtinvs,NOM2,Case=Gen|Numb=Plur|Deg=Pos
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur
+Hoc,hoc,NOM3,Case=Nom|Numb=Sing
+emis,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing
+Inposui,imposvs,NOM2,Case=Gen|Numb=Sing
+rus,rvs,NOM3,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uendo,vendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tuum,tvvs,PROpos,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qua,qvi,PROrel,Case=Abl|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+terribiles,terribilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+Cimbri,cimbri,NOM2,Case=Nom|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+Brittones,brittones,NOM3,Case=Nom|Numb=Plur
+umquam,vmqvam,ADV,Deg=Pos

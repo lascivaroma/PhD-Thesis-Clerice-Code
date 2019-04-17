@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+discedas,discedo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+laqueo,laqvevs,NOM2,Case=Abl|Numb=Sing
+tenet,teneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ambitiosi,ambitiosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+intendunt,intendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
+finitum,finio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+tempus,tempvs,NOM3,Case=Acc|Numb=Sing
+honoris,honor,NOM3,Case=Gen|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+paenituit,paeniteo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+multos,mvlti,NOM2,Case=Acc|Numb=Plur
+uanae,vanvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+sterilisque,sterilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cathedrae,cathedra,NOM1,Case=Nom|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Pallante,pallas,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Licinis,licini,NOM2,Case=Abl|Numb=Plur
+expectent,exspecto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty
+tribuni,tribvnvs,NOM2,Case=Nom|Numb=Plur

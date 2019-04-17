@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+somno,somnvs,NOM2,Case=Abl|Numb=Sing
+careas,careo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+ponendaque,ponendavs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+praemia,praemivm,NOM2,Case=Acc|Numb=Plur
+sumas,svmo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

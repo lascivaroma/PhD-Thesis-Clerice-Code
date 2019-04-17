@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quam,qvam,ADVint,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+conspicuae,conspicvvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+diuina,divinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Philippica,philippicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+famae,fama,NOM1,Case=Gen|Numb=Sing

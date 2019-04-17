@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inuenit,invenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+obtritum,obtero,VER,Case=Acc|Numb=Sing
+uulgi,vvlgvs,NOM2,Case=Gen|Numb=Sing
+perit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+omne,omnis,PROind,Case=Acc|Numb=Sing
+cadauer,cadaver,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+per,per,PRE,MORPH=empty
+Iunonem,ivno,NOM3,Case=Acc|Numb=Sing
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+iurante,ivro,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+ministro,minister,NOM2,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

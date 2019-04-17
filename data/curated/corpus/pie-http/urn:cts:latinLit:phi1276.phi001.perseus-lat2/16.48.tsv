@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ast,at,CONcoo,MORPH=empty
+illis,ille,PROdem,Case=Dat|Numb=Plur
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+arma,arma,NOM2,Case=Acc|Numb=Plur
+tegunt,tego,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+balteus,baltevs,NOM2,Case=Nom|Numb=Sing
+ambit,ambio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

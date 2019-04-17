@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uritur,vro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ardenti,ardens,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+duo,dvo,ADJcar,Case=Nom|Numb=Plur
+propter,propter,PRE,MORPH=empty
+lintea,lintevm,NOM2,Case=Acc|Numb=Plur
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing

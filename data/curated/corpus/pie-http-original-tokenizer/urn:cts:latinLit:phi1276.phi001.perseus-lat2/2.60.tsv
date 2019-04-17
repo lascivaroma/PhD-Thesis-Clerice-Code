@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+dormit,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tertia,tertivs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
+lecto,lectvs,NOM2,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

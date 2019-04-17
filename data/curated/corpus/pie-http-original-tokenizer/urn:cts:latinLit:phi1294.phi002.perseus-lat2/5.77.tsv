@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Narratur,narro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+belle,belle,ADV,Deg=Pos
+quidam,qvidam,PROind,Case=Nom|Numb=Plur
+dixisse,dico,VER,Mood=Inf|Tense=Perf|Voice=Act
+Marulle,marvllvs,NOM2,Case=Voc|Numb=Sing
+Qui,qvi,PROrel,Case=Gen|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+oleum,olevm,NOM2,Case=Acc|Numb=Sing
+dixit,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+auricula,avricvla,NOM1,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

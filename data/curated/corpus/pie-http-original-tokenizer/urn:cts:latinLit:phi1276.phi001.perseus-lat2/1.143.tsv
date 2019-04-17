@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+turgidus,tvrgidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+crudum,crvdvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+pauonem,pavo,NOM3,Case=Acc|Numb=Sing
+in,in,PRE,MORPH=empty
+balnea,balinevm,NOM2,Case=Acc|Numb=Plur
+portas,porto,VER,Case=Acc|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

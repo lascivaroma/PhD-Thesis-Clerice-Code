@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+prima,primvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
+-que,qvove,CONcoo,MORPH=empty
+par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+adeo,adeo,ADV,Deg=Pos
+sacrae,sacer,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+lanugo,lanvgvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+senectae,senecta,NOM1,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

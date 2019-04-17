@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tolle,tollo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+tuum,tvvs,PROpos,Case=Acc|Numb=Sing
+precor,precor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
+Hannibalem,hannibal,NOM3,Case=Acc|Numb=Sing
+uictum,vinco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvavis,ADV,MORPH=empty
+Syphacem,syphax,NOM3,Case=Acc|Numb=Sing

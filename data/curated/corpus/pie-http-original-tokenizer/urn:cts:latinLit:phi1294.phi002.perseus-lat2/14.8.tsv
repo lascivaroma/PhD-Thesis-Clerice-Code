@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Nondum,nondvs,NOM2,Case=Acc|Numb=Sing
+legerit,lego,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+hos,hic,PROdem,Case=Acc|Numb=Plur
+licet,licet,CONsub,Person=3
+puella,pvella,NOM1,Case=Nom|Numb=Sing
+Nouit,nosco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+quid,qvis,PROint,Case=Acc|Numb=Sing
+cupiant,cvpio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Vitelliani,vitellianvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+iam,iam,ADV,Deg=Pos
+defecit,deficio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nostrum,noster,PROpos,Case=Acc|Numb=Sing
+mare,mare,NOM3,Case=Nom|Numb=Sing
+dum,dvm,CONsub,MORPH=empty
+gula,gvla,NOM1,Case=Nom|Numb=Sing
+saeuit,saevio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

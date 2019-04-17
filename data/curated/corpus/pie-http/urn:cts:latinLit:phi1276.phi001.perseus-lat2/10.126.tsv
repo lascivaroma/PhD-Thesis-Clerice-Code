@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uoluens,volvo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+a,ab,PRE,MORPH=empty
+prima,primvs,ADJord,Case=Abl|Numb=Sing|Deg=Sup
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+proxima,propior,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+saeuus,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+illum,ille,PROdem,Case=Acc|Numb=Sing

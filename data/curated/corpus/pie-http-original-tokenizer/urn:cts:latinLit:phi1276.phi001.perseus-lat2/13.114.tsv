@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Iuppiter,ivppiter,NOM3,Case=Voc|Numb=Sing
+haec,hic,PROdem,Case=Acc|Numb=Plur
+nec,nec,CONcoo,MORPH=empty
+labra,labrvm,NOM2,Case=Acc|Numb=Plur
+moues,moveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+cum,cvm,CONsub,MORPH=empty
+mittere,mitto,VER,Mood=Inf|Tense=Pres|Voice=Act
+uocem,vox,NOM3,Case=Acc|Numb=Sing

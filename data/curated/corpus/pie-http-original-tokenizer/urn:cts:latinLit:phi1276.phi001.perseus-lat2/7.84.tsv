@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+promisitque,promisitve,CONsub,MORPH=empty
+diem,dies,NOM5,Case=Acc|Numb=Sing
+tanta,tantvs,PROdem,Case=Abl|Numb=Sing
+dulcedine,dvlcedo,NOM3,Case=Abl|Numb=Sing
+captos,capio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

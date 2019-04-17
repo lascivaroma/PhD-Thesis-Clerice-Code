@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+de,de,PRE,MORPH=empty
+grege,grex,NOM3,Case=Abl|Numb=Sing
+Moesorum,moesi,NOM2,Case=Gen|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+me,ego,PROper,Case=Abl|Numb=Sing
+ceruice,cervix,NOM3,Case=Abl|Numb=Sing
+locata,loco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

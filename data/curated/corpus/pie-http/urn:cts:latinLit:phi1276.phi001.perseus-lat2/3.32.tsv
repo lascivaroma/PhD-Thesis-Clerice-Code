@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+siccandam,sicco,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+eluuiem,elvvies,NOM5,Case=Acc|Numb=Sing
+portandum,porto,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
+ad,ad,PRE,MORPH=empty
+busta,bvstvm,NOM2,Case=Acc|Numb=Plur
+cadauer,cadaver,NOM3,Case=Nom|Numb=Sing

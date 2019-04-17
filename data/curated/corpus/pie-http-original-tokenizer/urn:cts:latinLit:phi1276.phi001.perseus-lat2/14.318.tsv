@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+quantum,qvantvm,PROrel,Case=Acc|Numb=Sing
+sitis,sitis,NOM3,Case=Nom|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+fames,fames,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+frigora,frigvs,NOM3,Case=Acc|Numb=Plur
+poscunt,posco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

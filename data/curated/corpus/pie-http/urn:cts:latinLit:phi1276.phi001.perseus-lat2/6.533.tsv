@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+grege,grex,NOM3,Case=Abl|Numb=Sing
+linigero,liniger,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+circumdatus,circvmdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+et,et,CONcoo,MORPH=empty
+grege,grex,NOM3,Case=Abl|Numb=Sing
+caluo,calvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

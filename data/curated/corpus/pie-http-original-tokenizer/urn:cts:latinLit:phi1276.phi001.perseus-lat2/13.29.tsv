@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+temporibus,tempvs,NOM3,Case=Abl|Numb=Plur
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+sceleri,scelvs,NOM3,Case=Dat|Numb=Sing
+non,non,ADVneg,MORPH=empty
+inuenit,invenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing

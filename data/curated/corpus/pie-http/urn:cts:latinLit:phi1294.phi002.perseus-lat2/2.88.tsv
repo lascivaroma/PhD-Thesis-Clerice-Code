@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Nil,nil,NOM2,Case=Acc|Numb=Sing
+recitas,recito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+uis,volo,NOM3,Numb=Sing|Tense=Pres
+Mamerce,mamercvs,NOM2,Case=Voc|Numb=Sing
+poeta,poeta,NOM1,Case=Voc|Numb=Sing
+uideri,video,VER,Mood=Inf|Tense=Pres|Voice=Pass
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Quidquid,qvisqvis,PROrel,Case=Nom|Numb=Sing
+uis,volo,NOM3,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2
+dummodo,dvmmodo,CONsub,MORPH=empty
+nil,nihil,PROind,Case=Ind
+recites,recito,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

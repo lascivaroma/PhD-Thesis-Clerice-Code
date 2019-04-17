@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pro,pro,PRE,MORPH=empty
+summis,svpervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
+iam,iam,ADV,Deg=Pos
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Acc|Numb=Plur
+maxima,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+despicias,despicio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+tu,tv,PROper,Case=Nom|Numb=Sing

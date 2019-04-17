@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+fasces,fascis,NOM3,Case=Acc|Numb=Plur
+meruit,mereo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+regum,rex,NOM3,Case=Gen|Numb=Plur
+ultimus,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ille,ille,PROdem,Case=Nom|Numb=Sing
+bonorum,bonvm,ADJqua,Case=Gen|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

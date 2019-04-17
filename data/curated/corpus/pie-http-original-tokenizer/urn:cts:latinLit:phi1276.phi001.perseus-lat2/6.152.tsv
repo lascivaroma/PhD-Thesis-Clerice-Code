@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quodque,qvisqve,PROind,Case=Nom|Numb=Sing
+domi,domvs,NOM2,Case=Loc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uicinus,vicinvs,NOM2,Case=Nom|Numb=Sing
+ematur,emo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

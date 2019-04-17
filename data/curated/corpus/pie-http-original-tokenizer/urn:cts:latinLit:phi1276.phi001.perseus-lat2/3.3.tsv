@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+destinet,destino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+atque,atqve,CONcoo,MORPH=empty
+unum,vnvs,ADJcar,Case=Acc|Numb=Sing
+ciuem,civis,NOM3,Case=Acc|Numb=Sing
+donare,dono,VER,Mood=Inf|Tense=Pres|Voice=Act
+Sibyllae,sibylla,NOM1,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

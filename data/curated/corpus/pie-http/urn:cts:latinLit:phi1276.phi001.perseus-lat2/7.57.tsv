@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+anxietate,anxietas,NOM3,Case=Abl|Numb=Sing
+carens,careo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+animus,animvs,NOM2,Case=Nom|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+omnis,omnis,PROind,Case=Gen|Numb=Sing
+acerbi,acerbvm,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

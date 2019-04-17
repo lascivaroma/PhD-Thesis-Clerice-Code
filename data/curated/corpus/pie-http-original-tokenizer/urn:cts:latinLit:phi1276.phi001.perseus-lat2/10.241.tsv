@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+funera,fvnvs,NOM3,Case=Acc|Numb=Plur
+natorum,natvs,NOM2,Case=Gen|Numb=Plur
+rogus,rogvs,NOM2,Case=Nom|Numb=Sing
+aspiciendus,aspicio,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+amatae,amo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

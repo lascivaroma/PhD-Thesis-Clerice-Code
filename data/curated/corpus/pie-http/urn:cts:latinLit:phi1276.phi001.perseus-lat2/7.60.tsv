@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Pierio,pierivs,NOM2,Case=Abl|Numb=Sing
+thyrsum,thyrsvs,NOM2,Case=Acc|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+contingere,contingo,VER,Mood=Inf|Tense=Pres|Voice=Act
+maesta,maestvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

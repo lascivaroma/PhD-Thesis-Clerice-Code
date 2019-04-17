@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Antoni,antonivs,NOM2,Case=Gen|Numb=Sing
+gladios,gladivs,NOM2,Case=Acc|Numb=Plur
+potuit,possvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+contemnere,contemno,VER,Mood=Inf|Tense=Pres|Voice=Act
+si,si,CONsub,MORPH=empty
+sic,sic,ADV,Deg=Pos

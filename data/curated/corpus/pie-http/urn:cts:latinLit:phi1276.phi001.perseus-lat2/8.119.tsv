@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quanta,qvantvs,PROint,Case=Acc|Numb=Plur
+autem,avtem,CONcoo,MORPH=empty
+inde,inde,ADV,Deg=Pos
+feres,fero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+tam,tam,ADV,Deg=Pos
+dirae,dirvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+praemia,praemivm,NOM2,Case=Nom|Numb=Plur
+culpae,cvlpa,NOM1,Case=Gen|Numb=Sing

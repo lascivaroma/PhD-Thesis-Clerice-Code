@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dira,dirvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quod,qvis,PROrel,Numb=Sing
+exemplum,exemplvm,NOM2,Case=Nom|Numb=Sing
+feritas,feritas,NOM3,Case=Nom|Numb=Sing
+produxerit,prodvco,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+aeuo,aevvm,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

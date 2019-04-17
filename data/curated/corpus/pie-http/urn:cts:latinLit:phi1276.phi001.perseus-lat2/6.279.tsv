@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+iacet,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+serui,servvs,NOM2,Case=Gen|Numb=Sing
+complexibus,complexvs,NOM4,Case=Abl|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+equitis,eqves,NOM3,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

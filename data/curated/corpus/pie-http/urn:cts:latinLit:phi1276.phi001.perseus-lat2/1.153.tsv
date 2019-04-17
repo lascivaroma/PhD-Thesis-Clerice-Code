@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+simplicitas,simplicitas,NOM3,Case=Nom|Numb=Sing
+cuius,qvi,PROrel,Case=Gen|Numb=Sing
+non,non,ADVneg,MORPH=empty
+audeo,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=1
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+nomen,nomen,NOM3,Case=Acc|Numb=Sing

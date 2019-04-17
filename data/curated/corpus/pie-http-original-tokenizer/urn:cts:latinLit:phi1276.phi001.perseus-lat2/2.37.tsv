@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+clamantem,clamo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+totiens,totiens,ADV,Deg=Pos
+ubi,vbi,ADVrel,MORPH=empty
+nunc,nvnc,ADV,Deg=Pos
+lex,lex,NOM3,Case=Nom|Numb=Sing
+Iulia,ivlivs,NOM1,Case=Abl|Numb=Sing|Deg=Pos
+dormis,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+qua,qvis,PROrel,Case=Abl|Numb=Sing
+Tisiphone,tisiphone,NOM7,Case=Voc|Numb=Sing
+quibus,qvis,PROrel,Case=Abl|Numb=Plur
+exagitare,exagito,VER,Mood=Inf|Tense=Pres|Voice=Act
+colubris,colvbra,NOM1,Case=Abl|Numb=Plur

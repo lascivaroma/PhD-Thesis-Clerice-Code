@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+coeperat,coepio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+nocuit,noceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Lamiarum,lamia,NOM1,Case=Gen|Numb=Plur
+caede,caedes,NOM3,Case=Abl|Numb=Sing
+madenti,madeo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+.,pes,ADJcar,Case=Dat|Numb=Sing

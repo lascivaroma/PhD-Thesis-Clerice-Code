@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iam,iam,ADV,Deg=Pos
+tenet,teneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Italiam,italia,NOM1,Case=Acc|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+ultra,vltra,ADV,Deg=Pos
+pergere,pergo,VER,Mood=Inf|Tense=Pres|Voice=Act
+tendit,tendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

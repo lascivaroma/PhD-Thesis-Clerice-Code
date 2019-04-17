@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+metiris,metior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+pretio,pretivm,NOM2,Case=Abl|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+ni,ni,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+deditus,deditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+essem,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=1

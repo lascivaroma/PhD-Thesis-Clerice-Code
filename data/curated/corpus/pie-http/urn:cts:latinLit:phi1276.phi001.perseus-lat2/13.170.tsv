@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+unguibus,vngvis,NOM3,Case=Abl|Numb=Plur
+a,ab,PRE,MORPH=empty
+saeua,saevvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+gr,gres,NOM3,Case=Abl|Numb=Sing
+-ue,qvis,NOM3,Case=Abl|Numb=Sing
+.,qvadranta,ADJcar,Case=Acc|Numb=Plur
+si,si,CONsub,MORPH=empty
+uideas,video,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+hoc,hic,PROdem,Case=Acc|Numb=Sing

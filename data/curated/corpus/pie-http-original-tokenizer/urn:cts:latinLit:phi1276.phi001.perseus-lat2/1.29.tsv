@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+sufferre,svffero,VER,Mood=Inf|Tense=Pres|Voice=Act
+queat,qveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+maioris,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp
+pondera,pondvs,NOM3,Case=Acc|Numb=Plur
+gemmae,gemma,NOM1,Case=Gen|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Hispo,hispo,NOM3,Case=Nom|Numb=Sing
+subit,svbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+iuuenes,ivvenis,NOM3,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+morbo,morbvs,NOM2,Case=Abl|Numb=Sing
+pallet,palleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+utroque,vterqve,PROind,Numb=Sing|Deg=Pos
+.,qvadranta,ADJcar,Case=Nom|Numb=Sing

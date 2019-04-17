@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quibus,qvi,PROrel,Case=Dat|Numb=Plur
+aurata,avratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mos,mos,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+fulgere,fvlgeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+lacerna,lacerna,NOM1,Case=Abl|Numb=Sing

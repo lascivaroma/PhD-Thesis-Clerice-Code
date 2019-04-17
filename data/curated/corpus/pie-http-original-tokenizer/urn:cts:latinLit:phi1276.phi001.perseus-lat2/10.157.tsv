@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+o,o,INJ,MORPH=empty
+qualis,qvalis,PROint,Case=Nom|Numb=Sing
+facies,facies,NOM5,Numb=Sing
+et,et,CONcoo,MORPH=empty
+quali,qvalis,PROint,Case=Abl|Numb=Sing
+digna,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tabella,tabella,NOM1,Case=Nom|Numb=Sing

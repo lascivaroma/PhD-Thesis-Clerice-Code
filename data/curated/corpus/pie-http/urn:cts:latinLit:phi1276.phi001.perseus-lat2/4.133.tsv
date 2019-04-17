@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+debetur,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+magnus,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+patinae,patina,NOM1,Case=Gen|Numb=Sing
+subitus,svbitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvove,ADV,MORPH=empty
+Prometheus,promethevs,NOM7,Case=Nom|Numb=Sing

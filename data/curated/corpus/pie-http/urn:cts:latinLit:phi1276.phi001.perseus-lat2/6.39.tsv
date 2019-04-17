@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+cogitat,cogito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+heredem,heres,NOM3,Case=Acc|Numb=Sing
+cariturus,careo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+turture,tvrtvr,NOM3,Case=Abl|Numb=Sing
+magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

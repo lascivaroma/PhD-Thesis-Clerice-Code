@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+iam,iam,ADV,Deg=Pos
+semianimum,semianimvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+laceraret,lacero,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+Flauius,flavivs,NOM2,Case=Nom|Numb=Sing
+orbem,orbis,NOM3,Case=Acc|Numb=Sing

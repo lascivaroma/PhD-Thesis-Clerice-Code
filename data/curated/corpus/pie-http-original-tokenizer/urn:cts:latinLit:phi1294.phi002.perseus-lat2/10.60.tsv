@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Iura,ivra,NOM1,Case=Nom|Numb=Sing
+trium,tres,ADJcar,Case=Gen|Numb=Plur
+petiit,peto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+a,ab,PRE,MORPH=empty
+Caesare,caesar,NOM3,Case=Abl|Numb=Sing
+discipulorum,discipvlvs,NOM2,Case=Gen|Numb=Plur
+Adsuetus,assvetvs,NOM2,Case=Nom|Numb=Sing
+semper,semper,ADV,Deg=Pos
+Munna,mvnna,NOM1,Case=Nom|Numb=Sing
+docere,doceo,VER,Mood=Inf|Tense=Pres|Voice=Act
+duos,dvo,ADJcar,Case=Acc|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

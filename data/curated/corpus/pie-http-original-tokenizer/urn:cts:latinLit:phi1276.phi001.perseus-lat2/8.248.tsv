@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+lentus,lentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+pigra,piger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+muniret,mvnio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+castra,castra,NOM2,Case=Acc|Numb=Plur
+dolabra,dolabra,NOM2,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

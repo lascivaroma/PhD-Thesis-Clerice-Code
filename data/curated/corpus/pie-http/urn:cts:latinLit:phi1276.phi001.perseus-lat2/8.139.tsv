@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nobilitas,nobilitas,NOM3,Case=Nom|Numb=Sing
+claram,clarvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+-que,qvovs,ADV,MORPH=empty
+facem,fax,NOM3,Case=Acc|Numb=Sing
+praeferre,praefero,VER,Mood=Inf|Tense=Pres|Voice=Act
+pudendis,pvdendvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

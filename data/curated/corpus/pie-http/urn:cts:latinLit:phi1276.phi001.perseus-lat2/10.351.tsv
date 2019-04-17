@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inpulsu,impvlsvs,NOM4,Case=Abl|Numb=Sing|Mood=SupUm
+et,et,CONcoo,MORPH=empty
+caeca,caecvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvisqve,CONcoo,MORPH=empty
+cupidine,cvpido,NOM3,Case=Abl|Numb=Sing
+ducti,dvco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

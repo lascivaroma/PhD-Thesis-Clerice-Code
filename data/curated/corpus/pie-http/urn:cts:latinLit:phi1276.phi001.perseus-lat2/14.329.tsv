@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sufficient,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+animo,animvs,NOM2,Case=Abl|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+diuitiae,divitiae,NOM1,Case=Nom|Numb=Plur
+Narcissi,narcissvs,NOM2,Case=Gen|Numb=Sing

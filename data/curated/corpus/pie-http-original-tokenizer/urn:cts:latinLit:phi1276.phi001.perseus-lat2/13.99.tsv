@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+praestat,praesto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+esuriens,esvrio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Pisaeae,pisaea,NOM1,Case=Gen|Numb=Sing
+ramus,ramvs,NOM2,Case=Nom|Numb=Sing
+oliuae,oliva,NOM1,Case=Gen|Numb=Sing

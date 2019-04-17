@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Cannarum,cannae,NOM1,Case=Gen|Numb=Plur
+uindex,vindex,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+tanti,tantvs,PROdem,Case=Gen|Numb=Sing
+sanguinis,sangvis,NOM3,Case=Gen|Numb=Sing
+ultor,vltor,NOM3,Case=Nom|Numb=Sing

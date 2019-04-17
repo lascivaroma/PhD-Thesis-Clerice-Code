@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Accipe,accipvs,NOM2,Case=Voc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+uili,vilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+calices,calix,NOM3,Case=Acc|Numb=Plur
+de,de,PRE,MORPH=empty
+puluere,pvlvis,NOM3,Case=Abl|Numb=Sing
+natos,nascor,NOM2,Case=Acc|Numb=Plur|Tense=Perf
+Sed,sed,NOM2,Case=Voc|Numb=Sing
+Surrentinae,svrrentinvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+leue,levis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+toreuma,torevma,NOM1,Case=Nom|Numb=Sing
+rotae,rota,NOM1,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

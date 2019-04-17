@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nil,nihil,PROind,Case=Ind
+tibi,tv,PROper,Case=Dat|Numb=Sing
+se,svi,PROref,Case=Acc|Numb=Sing
+debere,debeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+putat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nil,nihil,PROind,Case=Ind
+conferet,confero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+umquam,vmqvam,ADV,Deg=Pos

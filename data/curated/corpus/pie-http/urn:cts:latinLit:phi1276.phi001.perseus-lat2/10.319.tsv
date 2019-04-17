@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+matronae,matrona,NOM1,Case=Gen|Numb=Sing
+mox,mox,ADV,Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+dederit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+Seruilia,servilivs,NOM1,Case=Nom|Numb=Sing|Deg=Pos
+nummos,nvmvs,NOM2,Case=Acc|Numb=Plur

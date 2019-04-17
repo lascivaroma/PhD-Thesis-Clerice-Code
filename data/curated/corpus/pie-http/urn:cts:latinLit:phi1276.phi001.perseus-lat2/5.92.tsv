@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Mullus,mvllvs,NOM2,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+misit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Corsica,corsica,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uel,vel,CONcoo,MORPH=empty
+quem,qvi,PROrel,Case=Acc|Numb=Sing

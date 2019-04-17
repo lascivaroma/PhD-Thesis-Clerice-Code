@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+discipulumque,discipvlvsqve,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+senex,senex,NOM3,Case=Nom|Numb=Sing
+ripa,ripa,NOM1,Case=Abl|Numb=Sing
+nutritus,nvtrio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+in,in,PRE,MORPH=empty
+illa,ille,PROdem,Case=Abl|Numb=Sing

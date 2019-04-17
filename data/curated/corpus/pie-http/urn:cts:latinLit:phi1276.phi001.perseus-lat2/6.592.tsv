@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Hae,haedvs,NOM7,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+partus,partvs,NOM4,Case=Nom|Numb=Plur
+subeunt,svbeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+discrimen,discrimen,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+omnis,omnis,PROind,Case=Nom|Numb=Plur

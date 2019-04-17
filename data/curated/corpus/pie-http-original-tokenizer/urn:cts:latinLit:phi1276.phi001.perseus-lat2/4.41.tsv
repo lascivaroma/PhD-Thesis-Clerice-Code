@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+impleuitque,implevitve,VER,MORPH=empty
+sinus,sinvs,NOM4,Case=Nom|Numb=Plur
+;,o,PRE,MORPH=empty
+nec,nec,CONcoo,MORPH=empty
+enim,enim,CONcoo,MORPH=empty
+minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+haeserat,haereo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+illis,ille,PROdem,Case=Dat|Numb=Plur

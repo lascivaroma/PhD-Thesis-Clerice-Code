@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+praecipue,praecipve,ADV,Deg=Pos
+fugiam,fvgio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+properabo,propero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+fateri,fateor,VER,Mood=Inf|Tense=Pres|Voice=Dep

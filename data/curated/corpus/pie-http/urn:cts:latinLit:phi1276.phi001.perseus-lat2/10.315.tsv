@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+interdum,interdvm,ADV,Deg=Pos
+ille,ille,PROdem,Case=Nom|Numb=Sing
+dolor,dolor,NOM3,Case=Nom|Numb=Sing
+plus,mvltvm,ADV,Deg=Comp
+quam,qvam,ADVrel,MORPH=empty
+lex,lex,NOM3,Case=Nom|Numb=Sing
+ulla,vllvs,PROind,Case=Nom|Numb=Sing
+dolori,dolor,NOM3,Case=Dat|Numb=Sing

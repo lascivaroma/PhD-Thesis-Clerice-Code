@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+protinus,protinvs,ADV,Deg=Pos
+ante,ante,PRE,Deg=Pos
+meum,mevs,PROpos,Case=Acc|Numb=Sing
+quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
+dolet,doleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+exue,exvo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+limen,limen,NOM3,Case=Acc|Numb=Sing

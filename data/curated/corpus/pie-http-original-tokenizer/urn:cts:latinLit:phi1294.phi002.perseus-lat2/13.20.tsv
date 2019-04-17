@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Hos,hos,NOM3,Case=Nom|Numb=Sing
+Amiternus,amiternvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ager,ager,NOM2,Case=Nom|Numb=Sing
+felicibus,felix,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+educat,edvco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+hortis,hortvs,NOM2,Case=Abl|Numb=Plur
+Nursinas,nvrsinvs,NOM1,Case=Acc|Numb=Plur
+poteris,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+parcius,parce,ADV,Deg=Comp
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+pilas,pila,NOM1,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

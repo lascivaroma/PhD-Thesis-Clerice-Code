@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+derat,desvm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+pisci,piscis,NOM3,Case=Dat|Numb=Sing
+patinae,patina,NOM1,Case=Nom|Numb=Sing
+mensura,mensvra,NOM1,Case=Nom|Numb=Sing
+uocantur,voco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

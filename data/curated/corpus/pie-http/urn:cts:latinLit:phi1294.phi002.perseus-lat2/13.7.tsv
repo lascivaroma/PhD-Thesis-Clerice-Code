@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,MORPH=empty
+spumet,spvmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+rubra,rvber,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+conchis,concha,NOM1,Case=Abl|Numb=Plur
+tibi,tv,PROper,Case=Dat|Numb=Sing
+pallida,pallidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+testa,testa,NOM1,Case=Abl|Numb=Sing
+Lautorum,lavti,NOM2,Case=Gen|Numb=Plur
+cenis,cena,NOM1,Case=Abl|Numb=Plur
+saepe,saepe,ADV,Deg=Pos
+negare,nego,VER,Mood=Inf|Tense=Pres|Voice=Act
+potes,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

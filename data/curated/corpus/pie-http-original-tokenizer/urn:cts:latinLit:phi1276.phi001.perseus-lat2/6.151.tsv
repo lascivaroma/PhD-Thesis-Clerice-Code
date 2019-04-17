@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quantulum,qvantvlvm,PROint,Case=Acc|Numb=Sing
+in,in,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+pueros,pver,NOM2,Case=Acc|Numb=Plur
+omnes,omnis,PROind,Case=Nom|Numb=Plur
+ergastula,ergastvlvm,NOM2,Case=Acc|Numb=Plur
+tota,totvs,PROind,Case=Nom|Numb=Plur
+;,o,PRE,MORPH=empty

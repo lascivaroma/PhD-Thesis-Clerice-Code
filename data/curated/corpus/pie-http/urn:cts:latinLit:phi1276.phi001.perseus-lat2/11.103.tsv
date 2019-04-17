@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ut,vt,CONsub,MORPH=empty
+phaleris,phalerae,NOM2,Case=Abl|Numb=Plur
+gauderet,gavdeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=SemDep|Person=3
+equus,eqvvs,NOM2,Case=Nom|Numb=Sing
+caelata,caelo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvove,CONcoo,MORPH=empty
+cassis,cassis,NOM3,Case=Nom|Numb=Plur

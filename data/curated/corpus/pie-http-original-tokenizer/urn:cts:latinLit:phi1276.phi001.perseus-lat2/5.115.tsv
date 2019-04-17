@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+altilis,altilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+flaui,flavvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+dignus,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
+Meleagri,meleager,NOM2,Case=Gen|Numb=Sing

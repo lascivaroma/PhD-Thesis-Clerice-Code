@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nota,notvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+magis,magis,ADV,Deg=Comp
+nulli,nvllvs,PROind,Case=Dat|Numb=Sing
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sua,svvs,PROpos.ref,Case=Nom|Numb=Sing
+quam,qvam,ADVrel,MORPH=empty
+mihi,ego,PROper,Case=Dat|Numb=Sing
+lucus,lvcvs,NOM2,Case=Nom|Numb=Sing

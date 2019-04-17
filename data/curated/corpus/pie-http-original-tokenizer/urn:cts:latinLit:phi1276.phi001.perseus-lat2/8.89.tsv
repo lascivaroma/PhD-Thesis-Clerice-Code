@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+pone,pono,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+auaritiae,avaritia,NOM1,Case=Gen|Numb=Sing
+miserere,misereor,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Dep|Person=2
+inopum,inops,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+sociorum,socivs,NOM2,Case=Gen|Numb=Plur

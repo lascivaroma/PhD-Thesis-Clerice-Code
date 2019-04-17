@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+adferri,affero,VER,Mood=Inf|Tense=Pres|Voice=Pass
+minimasque,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+nuces,nvx,NOM3,Case=Acc|Numb=Plur
+assemque,assemqve,ADV,MORPH=empty
+rogatum,rogo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

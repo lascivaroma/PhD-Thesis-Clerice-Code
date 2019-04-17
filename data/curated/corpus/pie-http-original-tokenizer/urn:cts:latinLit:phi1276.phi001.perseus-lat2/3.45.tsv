@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+inspexi,inspicio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+;,o,INJ,MORPH=empty
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+ad,ad,PRE,MORPH=empty
+nuptam,nvpta,NOM1,Case=Acc|Numb=Sing
+quae,qvi,PROrel,Case=Acc|Numb=Sing
+mittit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adulter,advlter,NOM2,Case=Nom|Numb=Sing

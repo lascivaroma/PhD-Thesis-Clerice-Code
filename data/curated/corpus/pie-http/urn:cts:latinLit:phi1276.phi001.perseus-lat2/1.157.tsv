@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+latum,latvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+media,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+sulcum,svlcvs,NOM2,Case=Acc|Numb=Sing
+deducis,dedvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+harena,arena,NOM1,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

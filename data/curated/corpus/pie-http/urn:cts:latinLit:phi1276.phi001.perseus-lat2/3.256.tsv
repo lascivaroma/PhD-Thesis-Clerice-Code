@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+plaustra,plavstrvm,NOM2,Case=Acc|Numb=Plur
+uehunt,veho,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,INJ,MORPH=empty
+nutant,nvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+alte,alte,ADV,Deg=Pos
+populo,popvlvs,NOM2,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+minantur,minor,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

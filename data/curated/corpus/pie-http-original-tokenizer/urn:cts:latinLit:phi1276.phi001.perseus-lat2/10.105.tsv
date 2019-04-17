@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+nimias,nimivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+poscebat,posco,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+opes,ops,NOM3,Case=Acc|Numb=Plur
+numerosa,nvmerosvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+parabat,paro,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

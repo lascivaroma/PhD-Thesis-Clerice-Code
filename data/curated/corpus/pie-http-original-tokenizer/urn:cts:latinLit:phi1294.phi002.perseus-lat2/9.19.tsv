@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Laudas,lavdae,NOM7,Case=Acc|Numb=Plur
+balnea,balinevm,NOM2,Case=Acc|Numb=Plur
+uersibus,versvs,NOM4,Case=Abl|Numb=Plur
+trecentis,trecenti,ADJcar,Case=Abl|Numb=Plur
+Cenantis,cenans,NOM3,Case=Gen|Numb=Sing
+bene,bene,ADV,Deg=Pos
+Pontici,ponticvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+Sabelle,sabellvs,NOM2,Case=Voc|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+Vis,vis,NOM2,Case=Nom|Numb=Sing
+cenare,ceno,VER,Mood=Inf|Tense=Pres|Voice=Act
+Sabelle,sabellvs,NOM2,Case=Voc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+lauari,lavo,VER,Mood=Inf|Tense=Pres|Voice=Pass
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+circumducto,circvmdvco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+captiuorum,captivvs,NOM2,Case=Gen|Numb=Plur
+agmine,agmen,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+omni,omnis,PROind,Case=Abl|Numb=Sing

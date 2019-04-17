@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fingit,fingo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+casu,casvs,NOM4,Case=Abl|Numb=Sing
+uestem,vestis,NOM3,Case=Acc|Numb=Sing
+diducere,didvco,VER,Mood=Inf|Tense=Pres|Voice=Act
+summam,svmma,NOM1,Case=Acc|Numb=Sing

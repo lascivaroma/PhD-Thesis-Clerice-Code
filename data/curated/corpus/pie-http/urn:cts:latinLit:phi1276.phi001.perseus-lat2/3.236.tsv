@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inde,inde,ADV,Deg=Pos
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+morbi,morbvs,NOM2,Case=Gen|Numb=Sing
+raedarum,raeda,NOM1,Case=Gen|Numb=Plur
+transitus,transitvs,NOM4,Case=Gen|Numb=Sing
+arto,artvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

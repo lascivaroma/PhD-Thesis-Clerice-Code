@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+PRIMA,prima,NOM1,Case=Nom|Numb=Sing
+VRBES,vrbes,NOM7,Case=Nom|Numb=Sing
+INTER,qvatrar,ADJcar,Case=Ind|Numb=Sing
+DIVVM,novem,ADJcar,Case=Nom
+DOMVS,semvs,NOM2,Case=Nom|Numb=Sing
+AVREA,avralvs,NOM1,Case=Nom|Numb=Sing
+ROMA,roma,NOM1,Case=Nom|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

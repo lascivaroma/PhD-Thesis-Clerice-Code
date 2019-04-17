@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uexit,veho,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+ad,ad,PRE,MORPH=empty
+circum,circvs,PRE,MORPH=empty
+iussas,ivbeo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+prostare,prosto,VER,Mood=Inf|Tense=Pres|Voice=Act
+puellas,pvella,NOM1,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

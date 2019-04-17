@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+excepit,excipio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+blanda,blandvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+intrantis,intro,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+atque,atqve,CONcoo,MORPH=empty
+aera,aes,NOM3,Case=Acc|Numb=Sing
+poposcit,posco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

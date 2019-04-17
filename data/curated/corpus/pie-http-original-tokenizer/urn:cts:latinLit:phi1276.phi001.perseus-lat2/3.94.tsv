@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uxorem,vxor,NOM3,Case=Acc|Numb=Sing
+comoedus,comoedvs,NOM2,Case=Nom|Numb=Sing
+agit,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uel,vel,CONcoo,MORPH=empty
+Dorida,doris,NOM7,Case=Acc|Numb=Sing
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing

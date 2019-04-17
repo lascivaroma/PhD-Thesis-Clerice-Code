@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+cupimus,cvpio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+quid,qvis,PROint,Case=Acc|Numb=Sing
+tam,tam,ADV,Deg=Pos
+dextro,dexter,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+pede,pes,NOM3,Case=Abl|Numb=Sing
+concipis,concipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ut,vt,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing

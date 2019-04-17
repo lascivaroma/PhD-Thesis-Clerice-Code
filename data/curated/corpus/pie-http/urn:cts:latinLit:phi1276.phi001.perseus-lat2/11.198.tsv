@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+percutit,percvtio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+euentum,eventvs,NOM4,Case=Acc|Numb=Sing
+uiridis,viridis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+colligo,colligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+panni,pannvs,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

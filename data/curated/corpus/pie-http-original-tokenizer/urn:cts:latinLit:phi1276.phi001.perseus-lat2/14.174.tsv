@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+miscuit,misceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+aut,avt,CONcoo,MORPH=empty
+ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
+grassatur,grassor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+saepius,saepe,ADV,Deg=Comp
+ullum,vllvs,PROind,Case=Acc|Numb=Sing

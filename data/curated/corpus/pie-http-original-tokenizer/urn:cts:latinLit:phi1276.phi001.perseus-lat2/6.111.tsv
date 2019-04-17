@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+patriaeque,patriaeqve,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+praetulit,praefero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+illa,ille,PROdem,Case=Nom|Numb=Sing
+sorori,soror,NOM3,Case=Dat|Numb=Sing

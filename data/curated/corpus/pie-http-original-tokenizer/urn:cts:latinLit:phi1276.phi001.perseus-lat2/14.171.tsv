@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+amplior,amplvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+et,et,CONcoo,MORPH=empty
+grandes,grandis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+fumabant,fvmo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+pultibus,pvls,NOM4,Case=Abl|Numb=Plur
+ollae,avla,NOM1,Case=Nom|Numb=Plur

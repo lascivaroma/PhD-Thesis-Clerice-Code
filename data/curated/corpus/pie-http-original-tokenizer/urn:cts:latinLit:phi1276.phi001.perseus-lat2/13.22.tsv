@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+iactare,iacto,VER,Mood=Inf|Tense=Pres|Voice=Act
+iugum,ivgvm,NOM2,Case=Acc|Numb=Sing
+uita,vita,NOM1,Case=Abl|Numb=Sing
+didicere,disco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+magistra,magistra,NOM1,Case=Abl|Numb=Sing

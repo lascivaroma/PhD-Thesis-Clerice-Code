@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+O,o,INJ,Case=Nom|Numb=Sing
+Corydon,corydon,NOM7,Case=Voc|Numb=Sing
+Corydon,corydon,NOM7,Case=Voc|Numb=Sing
+secretum,secretvm,NOM2,Case=Acc|Numb=Sing|Deg=Pos
+diuitis,dives,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+ullum,vllvs,PROind,Case=Acc|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+uentilet,ventilo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+aestiuum,aestivvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+digitis,digitvs,NOM2,Case=Abl|Numb=Plur
+sudantibus,svdo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+aurum,avrvm,NOM2,Case=Acc|Numb=Sing

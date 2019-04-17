@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tot,tot,PROdem,Case=Ind
+bellatorum,bellator,ADJqua,Case=Gen|Numb=Plur
+si,si,CONsub,MORPH=empty
+luditur,lvdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+alea,alea,NOM1,Case=Nom|Numb=Sing
+pernox,pernox,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

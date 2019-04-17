@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+poena,poena,NOM1,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+abreptum,abripio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+crede,credo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+grauiore,gravis,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
+catena,catena,NOM1,Case=Abl|Numb=Sing

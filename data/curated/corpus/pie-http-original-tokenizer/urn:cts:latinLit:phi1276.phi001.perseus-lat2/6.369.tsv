@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+summa,svpervs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+tamen,tamen,ADV,Deg=Pos
+quod,qvod,CONsub,MORPH=empty
+iam,iam,ADV,Deg=Pos
+calida,calidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+matura,matvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+iuuenta,ivventa,NOM1,Case=Abl|Numb=Sing

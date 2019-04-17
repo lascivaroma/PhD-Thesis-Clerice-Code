@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+ebore,ebvr,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+lata,latvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+testudine,testvdo,NOM3,Case=Abl|Numb=Sing
+dolia,dolivm,NOM2,Case=Acc|Numb=Plur
+nudi,nvdvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

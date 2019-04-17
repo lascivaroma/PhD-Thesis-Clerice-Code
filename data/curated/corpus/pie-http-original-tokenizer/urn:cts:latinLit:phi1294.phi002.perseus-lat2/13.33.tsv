@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Trebula,trebvla,NOM1,Case=Nom|Numb=Sing
+nos,nos,PROper,Case=Acc|Numb=Plur
+genuit,gigno,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+commendat,commendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+gratia,gratia,NOM1,Case=Nom|Numb=Sing
+duplex,dvplex,ADJmul,Case=Nom|Numb=Sing|Deg=Pos
+Siue,sivvs,NOM2,Case=Abl|Numb=Sing
+leui,levis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+flamma,flamma,NOM1,Case=Abl|Numb=Sing
+siue,sive,CONsub,MORPH=empty
+domamur,domo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
+aqua,aqva,NOM1,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

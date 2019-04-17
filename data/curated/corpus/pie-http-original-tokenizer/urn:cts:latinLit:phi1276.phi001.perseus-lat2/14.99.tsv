@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+qua,qva,PROrel,Numb=Sing
+pater,pater,NOM3,Case=Nom|Numb=Sing
+abstinuit,abstineo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+mox,mox,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+praeputia,praepvtivm,NOM2,Case=Acc|Numb=Plur
+ponunt,pono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

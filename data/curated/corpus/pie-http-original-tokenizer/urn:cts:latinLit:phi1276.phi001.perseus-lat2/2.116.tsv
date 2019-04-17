@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+more,mos,NOM3,Case=Abl|Numb=Sing
+superuacuam,svpervacvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cultris,cvlter,NOM2,Case=Abl|Numb=Plur
+abrumpere,abrvmpo,VER,Mood=Inf|Tense=Pres|Voice=Act
+carnem,caro,NOM3,Case=Acc|Numb=Sing

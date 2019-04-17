@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Pontica,ponticvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ter,ter,ADJadv.mul,MORPH=empty
+uicti,vinco,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+cautus,cavtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+medicamina,medicamen,NOM3,Case=Acc|Numb=Plur
+regis,rex,NOM3,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

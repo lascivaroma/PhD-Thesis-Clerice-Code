@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nauseat,navseo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+atque,atqve,CONcoo,MORPH=empty
+oculis,ocvlvs,NOM2,Case=Abl|Numb=Plur
+bilem,bilis,NOM3,Case=Acc|Numb=Sing
+substringit,svbstringo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+opertis,operio,VER,Case=Abl|Numb=Plur|Tense=Perf|Voice=Pass
+.,vnvs,ADJcar,Case=Dat|Numb=Plur

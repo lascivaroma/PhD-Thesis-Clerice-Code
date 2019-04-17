@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sana,sanvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+spectant,specto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+subeuntem,svbeo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+fata,fatvm,NOM2,Case=Acc|Numb=Plur
+mariti,maritvs,NOM2,Case=Gen|Numb=Plur

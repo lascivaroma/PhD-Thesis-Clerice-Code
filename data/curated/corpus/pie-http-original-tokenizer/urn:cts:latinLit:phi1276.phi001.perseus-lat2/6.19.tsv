@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+paulatim,pavlatim,ADV,Deg=Pos
+deinde,deinde,ADV,Deg=Pos
+ad,ad,PRE,MORPH=empty
+superos,svperi,NOM2,Case=Acc|Numb=Plur
+Astraea,astraea,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+recessit,recedo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

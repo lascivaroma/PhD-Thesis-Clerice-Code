@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tonsoris,tonsor,NOM3,Case=Gen|Numb=Sing
+damno,damnvm,NOM2,Case=Abl|Numb=Sing
+tantum,tantvm,PROdem,MORPH=empty
+rapit,rapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Heliodorus,heliodorvs,NOM2,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

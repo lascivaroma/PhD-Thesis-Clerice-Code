@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+ceromatico,ceromaticvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+fert,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+niceteria,niceterivm,NOM2,Case=Acc|Numb=Plur
+collo,collvm,NOM2,Case=Abl|Numb=Sing

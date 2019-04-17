@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+optandas,opto,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+sed,sed,CONcoo,MORPH=empty
+multae,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+urbes,vrbs,NOM3,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+publica,pvblicvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uota,votvm,NOM2,Case=Acc|Numb=Plur

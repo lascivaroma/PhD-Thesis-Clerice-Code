@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nullus,nvllvs,PROind,Case=Nom|Numb=Sing
+aput,apvd,PRE,MORPH=empty
+tragicos,tragicvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+populus,popvlvs,NOM2,Case=Nom|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+accipe,accipio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+nostro,noster,PROpos,Case=Dat|Numb=Sing

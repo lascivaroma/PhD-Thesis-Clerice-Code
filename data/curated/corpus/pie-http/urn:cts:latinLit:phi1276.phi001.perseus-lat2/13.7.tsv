@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tam,tam,ADV,Deg=Pos
+tenuis,tenvis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+census,censvs,NOM4,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+contigit,contingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ut,vt,CONsub,MORPH=empty
+mediocris,mediocris,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

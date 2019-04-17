@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Nonne,nonnvs,NOM2,Case=Voc|Numb=Sing
+uides,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quanto,qvantvs,PROint,Case=Abl|Numb=Sing
+celebretur,celebro,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+sportula,sportvla,NOM1,Case=Nom|Numb=Sing
+fumo,fvmvs,NOM2,Case=Abl|Numb=Sing

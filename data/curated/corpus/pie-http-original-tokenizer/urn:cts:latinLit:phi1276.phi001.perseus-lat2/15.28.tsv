@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+gesta,gero,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+super,svper,ADV,MORPH=empty
+calidae,calidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+referemus,refero,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+moenia,moenia,NOM3,Case=Acc|Numb=Plur
+Copti,coptvs,NOM2,Case=Gen|Numb=Sing

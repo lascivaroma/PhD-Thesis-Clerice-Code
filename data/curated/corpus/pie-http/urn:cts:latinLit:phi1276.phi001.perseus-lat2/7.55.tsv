@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+communi,commvnis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+feriat,ferio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+carmen,carmen,NOM3,Case=Acc|Numb=Sing
+triuiale,trivialis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+moneta,moneta,NOM1,Case=Abl|Numb=Sing

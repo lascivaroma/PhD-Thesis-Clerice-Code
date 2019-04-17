@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+aspicimus,aspicio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+populos,popvlvs,NOM2,Case=Acc|Numb=Plur
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+non,non,ADVneg,MORPH=empty
+sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+irae,ira,NOM1,Case=Dat|Numb=Sing

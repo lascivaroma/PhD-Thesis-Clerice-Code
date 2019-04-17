@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+computat,compvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+ceuet,ceveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Plur
+ponatur,pono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+ealculus,ealcvlvs,NOM2,Case=Nom|Numb=Sing
+adsint,assvm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3

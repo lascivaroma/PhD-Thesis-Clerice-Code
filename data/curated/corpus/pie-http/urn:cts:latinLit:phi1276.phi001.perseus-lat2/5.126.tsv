@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+ponere,pono,VER,Mood=Inf|Tense=Pres|Voice=Act
+foris,foris,ADV,Deg=Pos
+si,si,CONsub,MORPH=empty
+quid,qvis,PROind,Case=Acc|Numb=Sing
+temptaueris,tento,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+umquam,vmqvam,ADV,Deg=Pos

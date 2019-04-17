@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+uenale,venalis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+pecus,pecvs,NOM3,Case=Nom|Numb=Sing
+Coryphaei,coryphaevs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+posteritas,posteritas,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty

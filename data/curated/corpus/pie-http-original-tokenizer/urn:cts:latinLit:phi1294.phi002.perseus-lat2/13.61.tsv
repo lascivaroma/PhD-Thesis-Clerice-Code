@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+Inter,inter,ADJcar,Case=Nom|Numb=Sing
+sapores,sapor,NOM3,Case=Acc|Numb=Plur
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+alitum,aleo,VER,Case=Acc|Numb=Sing
+primus,primvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
+Ionicarum,ionicvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+gustus,gvstvs,NOM4,Case=Nom|Numb=Plur
+attagenarum,attagena,NOM1,Case=Gen|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

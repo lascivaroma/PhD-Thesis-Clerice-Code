@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+conueniat,convenio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nobis,nos,PROper,Case=Dat|Numb=Plur
+rebus,res,NOM5,Case=Abl|Numb=Plur
+-que,qvove,ADV,MORPH=empty
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+utile,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nostris,noster,PROpos,Case=Dat|Numb=Plur

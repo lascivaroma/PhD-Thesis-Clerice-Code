@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Ius,ivs,NOM2,Case=Nom|Numb=Sing
+ciuile,civilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quod,qvod,PROrel,MORPH=empty
+quisque,qvisqve,PROind,Case=Nom|Numb=Sing
+populus,popvlvs,NOM2,Case=Nom|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+ciuitas,civitas,NOM3,Case=Nom|Numb=Sing
+sibi,svi,PROref,Case=Dat|Numb=Sing
+proprium,proprivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+humana,hvmana,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+diuinaque,divinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+causa,cavsa,NOM1,Case=Abl|Numb=Sing
+constituit,constitvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

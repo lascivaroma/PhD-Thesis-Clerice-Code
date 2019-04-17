@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+inter,inter,PRE,MORPH=empty
+Socraticos,socraticvs,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+notissima,notvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+fossa,fossa,NOM1,Case=Abl|Numb=Sing
+cinaedos,cinaedvs,NOM2,Case=Acc|Numb=Plur

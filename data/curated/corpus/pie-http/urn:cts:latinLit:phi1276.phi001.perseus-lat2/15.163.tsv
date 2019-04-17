@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Indica,indicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tigris,tigris,NOM3,Case=Nom|Numb=Sing
+agit,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+rabida,rabidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+tigride,tigris,NOM3,Case=Abl|Numb=Sing
+pacem,pax,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tradit,trado,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+inflatum,inflo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+plenum,plenvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+-que,qvavis,ADV,MORPH=empty
+Nerone,nero,NOM3,Case=Abl|Numb=Sing
+propinquo,propinqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty

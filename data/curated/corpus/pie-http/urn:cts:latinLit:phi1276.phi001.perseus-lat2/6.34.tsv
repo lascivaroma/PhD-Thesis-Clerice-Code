@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nonne,nonne,ADVint.neg,MORPH=empty
+putas,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+melius,bonvs,ADJqua,Numb=Sing|Deg=Comp
+quod,qvod,CONsub,MORPH=empty
+cum,cvm,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+pusio,pvsio,NOM3,Case=Nom|Numb=Sing
+dormit,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

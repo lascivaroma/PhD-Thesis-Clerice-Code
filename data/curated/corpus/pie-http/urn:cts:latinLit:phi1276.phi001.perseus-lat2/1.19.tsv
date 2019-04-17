@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cur,cvr,ADVint,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+potius,potivs,ADV,Deg=Comp
+libeat,libet,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+decurrere,decvrro,VER,Mood=Inf|Tense=Pres|Voice=Act
+campo,campvs,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uentre,venter,NOM3,Case=Abl|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+noui,nosco,ADJqua,Case=Gen|Numb=Sing|Deg=Pos|Tense=Perf
+frugalius,frvgalis,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
+;,,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+ipsum,ipse,PROdem,Case=Acc|Numb=Sing

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Irasci,irasci,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+tantum,tantvm,ADV,Deg=Pos
+felices,felix,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nostis,nosco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+amici,amicvs,NOM2,Case=Nom|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+Non,non,NOM7,MORPH=empty
+belle,belle,ADV,Deg=Pos
+facitis,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+sed,sed,CONcoo,MORPH=empty
+iuuat,ivvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+facite,facio,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+una,vnvs,ADV,Case=Nom|Numb=Sing
+laboranti,laboro,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+poterit,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+succurrere,svccvrro,VER,Mood=Inf|Tense=Pres|Voice=Act
+Lunae,lvna,NOM1,Case=Dat|Numb=Sing

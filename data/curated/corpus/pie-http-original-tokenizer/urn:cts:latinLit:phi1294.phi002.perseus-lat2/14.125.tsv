@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,MORPH=empty
+matutinos,matvtinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+facilest,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+tibi,tv,PROper,Case=Dat|Numb=Sing
+perdere,perdo,VER,Mood=Inf|Tense=Pres|Voice=Act
+somnos,somnvs,NOM2,Case=Acc|Numb=Plur
+Attrita,attrita,NOM1,Case=Nom|Numb=Sing
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+sportula,sportvla,NOM1,Case=Nom|Numb=Sing
+saepe,saepe,ADV,Deg=Pos
+toga,toga,NOM1,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

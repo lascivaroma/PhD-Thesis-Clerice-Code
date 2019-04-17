@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Inserta,inserta,NOM1,Case=Nom|Numb=Sing
+phialae,phiala,NOM1,Case=Gen|Numb=Sing
+Mentoris,mentor,NOM3,Case=Gen|Numb=Sing
+manu,manvs,NOM4,Case=Abl|Numb=Sing
+ducta,dvco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Lacerta,lacerta,NOM1,Case=Nom|Numb=Sing
+uiuit,vivo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+timetur,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+argentum,argentvm,NOM2,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

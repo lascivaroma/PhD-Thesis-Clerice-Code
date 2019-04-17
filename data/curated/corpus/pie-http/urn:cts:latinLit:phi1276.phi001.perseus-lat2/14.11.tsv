@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+transierit,transeo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+puerum,pver,NOM2,Case=Acc|Numb=Sing
+nondum,nondvm,ADVneg,MORPH=empty
+omni,omnis,PROind,Case=Abl|Numb=Sing
+dente,dens,NOM3,Case=Abl|Numb=Sing
+renato,renasco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

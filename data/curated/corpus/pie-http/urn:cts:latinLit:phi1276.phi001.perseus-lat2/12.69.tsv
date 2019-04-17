@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uelo,velvm,NOM2,Case=Abl|Numb=Sing
+prora,prora,NOM1,Case=Abl|Numb=Sing
+suo,svvs,PROpos.ref,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Abl|Numb=Sing
+iam,iam,ADV,Deg=Pos
+deficientibus,deficio,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+Austris,avster,NOM2,Case=Abl|Numb=Plur

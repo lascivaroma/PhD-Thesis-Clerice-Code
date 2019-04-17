@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nunc,nvnc,ADV,Deg=Pos
+modus,modvs,NOM2,Case=Nom|Numb=Sing
+hic,hic,PROdem,Case=Nom|Numb=Sing
+agri,ager,NOM2,Case=Gen|Numb=Sing
+nostro,noster,PROpos,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+horto,hortvs,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Status,statvs,NOM2,Case=Nom|Numb=Sing
+stellarum,stella,NOM1,Case=Gen|Numb=Plur
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qua,qvi,PROrel,Case=Abl|Numb=Sing
+dum,dvm,CONsub,MORPH=empty
+stella,stella,NOM1,Case=Nom|Numb=Sing
+semper,semper,ADV,Deg=Pos
+mouetur,moveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+tamen,tamen,ADV,Deg=Pos
+in,in,PRE,MORPH=empty
+aliquibus,aliqvis,PROind,Case=Abl|Numb=Plur
+locis,locvs,NOM2,Case=Abl|Numb=Plur
+stare,sto,VER,Mood=Inf|Tense=Pres|Voice=Act
+uidentur,video,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

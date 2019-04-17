@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+loco,locvs,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+metuens,metvo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+uirgae,virga,NOM1,Case=Dat|Numb=Sing
+iam,iam,ADV,Deg=Pos
+grandis,grandis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Achilles,achilles,NOM7,Case=Nom|Numb=Sing

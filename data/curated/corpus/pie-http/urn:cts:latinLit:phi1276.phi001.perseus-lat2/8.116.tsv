@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+horrida,horridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uitanda,vito,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Hispania,hispania,NOM1,Case=Nom|Numb=Sing
+Gallicus,gallicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+axis,axis,NOM3,Case=Nom|Numb=Sing

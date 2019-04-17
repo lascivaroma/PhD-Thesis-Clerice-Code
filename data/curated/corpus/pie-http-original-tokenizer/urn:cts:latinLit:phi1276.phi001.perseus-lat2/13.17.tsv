@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sexaginta,sexaginta,ADJcar,Case=Ind
+annos,annvs,NOM2,Case=Acc|Numb=Plur
+Fonteio,fonteivs,NOM2,Case=Abl|Numb=Sing
+consule,consvl,NOM3,Case=Abl|Numb=Sing
+natus,nascor,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3

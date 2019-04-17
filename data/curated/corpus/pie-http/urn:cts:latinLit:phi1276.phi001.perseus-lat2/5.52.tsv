@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uos,vos,PROper,Case=Voc|Numb=Plur
+aliam,alivs,PROind,Case=Acc|Numb=Sing
+potatis,poto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+aquam,aqva,NOM1,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
+cursor,cvrsor,NOM3,Case=Voc|Numb=Sing

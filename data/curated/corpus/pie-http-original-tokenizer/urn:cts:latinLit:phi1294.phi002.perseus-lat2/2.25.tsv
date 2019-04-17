@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Das,das,NOM7,Case=Nom|Numb=Sing
+numquam,nvmqvam,ADVneg,MORPH=empty
+semper,semper,ADV,Deg=Pos
+promittis,promitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Galla,galla,NOM1,Case=Abl|Numb=Sing
+roganti,rogo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Dat|Numb=Plur
+Si,si,NOM2,MORPH=empty
+semper,semper,ADV,Deg=Pos
+fallis,fallo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+iam,iam,ADV,Deg=Pos
+rogo,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+Galla,galla,NOM1,Case=Voc|Numb=Sing
+nega,nego,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mouerat,moveo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+ut,vt,CONsub,MORPH=empty
+mendax,mendax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aretalogus,aretalogvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Ind|Numb=Plur
+in,in,PRE,MORPH=empty
+mare,mare,NOM3,Case=Acc|Numb=Sing
+nemo,nemo,PROind,Case=Nom|Numb=Sing

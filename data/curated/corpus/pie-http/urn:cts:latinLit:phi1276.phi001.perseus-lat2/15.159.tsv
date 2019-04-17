@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Sed,sedes,NOM7,Case=Nom|Numb=Sing
+iam,iam,ADV,Deg=Pos
+serpentum,serpens,NOM3,Case=Gen|Numb=Plur
+maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+concordia,concordia,NOM1,Case=Nom|Numb=Sing
+parcit,parco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

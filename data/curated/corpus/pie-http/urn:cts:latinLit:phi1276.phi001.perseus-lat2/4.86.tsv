@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+consilium,consilivm,NOM2,Case=Nom|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+uiolentius,violentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+aure,avris,NOM3,Case=Abl|Numb=Sing
+tyranni,tyrannvs,NOM2,Case=Gen|Numb=Sing

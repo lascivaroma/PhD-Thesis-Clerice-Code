@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+sequitur,seqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+;,o,INJ,MORPH=empty
+ferit,ferio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hic,hic,PROdem,Case=Nom|Numb=Sing
+cubito,cvbitvm,NOM2,Case=Abl|Numb=Sing
+ferit,ferio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+assere,asser,NOM3,Numb=Sing|Deg=Pos
+duro,dvrvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nostra,noster,PROpos,Case=Nom|Numb=Plur
+dabunt,do,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+alios,alivs,PROind,Case=Acc|Numb=Plur
+hodie,hodie,ADV,Deg=Pos
+conuiuia,convivivm,NOM2,Case=Acc|Numb=Plur
+ludos,lvdvs,NOM2,Case=Acc|Numb=Plur

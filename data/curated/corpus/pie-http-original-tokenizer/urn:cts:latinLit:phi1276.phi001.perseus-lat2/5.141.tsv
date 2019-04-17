@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+tua,tvvs,PROpos,Case=Nom|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+Mycale,mycale,NOM2,Case=Voc|Numb=Sing
+pariat,pario,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+licet,licet,VER,Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+pueros,pver,NOM2,Case=Acc|Numb=Plur
+tres,tres,ADJcar,Case=Acc|Numb=Plur

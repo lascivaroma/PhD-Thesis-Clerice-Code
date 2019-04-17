@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+torrentem,torrens,VER,Case=Acc|Numb=Sing|Tense=Pres
+nec,nec,CONcoo,MORPH=empty
+ciuis,civis,NOM3,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+libera,liber,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+posset,possvm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

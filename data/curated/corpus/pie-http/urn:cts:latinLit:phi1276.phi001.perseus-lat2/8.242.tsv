@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Thessaliae,thessalia,NOM1,Case=Gen|Numb=Sing
+campis,campvs,NOM2,Case=Abl|Numb=Plur
+Octauius,octavivs,NOM2,Case=Nom|Numb=Sing
+abstulit,avfero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+udo,vdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

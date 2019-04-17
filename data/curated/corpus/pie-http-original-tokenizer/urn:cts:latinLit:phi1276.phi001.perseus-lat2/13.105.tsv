@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ille,ille,PROdem,Case=Nom|Numb=Sing
+crucem,crvx,NOM3,Case=Acc|Numb=Sing
+sceleris,scelvs,NOM3,Case=Gen|Numb=Sing
+pretium,pretivm,NOM2,Case=Acc|Numb=Sing
+tulit,fero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+hic,hic,PROdem,Numb=Sing
+diadema,diadema,NOM1,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

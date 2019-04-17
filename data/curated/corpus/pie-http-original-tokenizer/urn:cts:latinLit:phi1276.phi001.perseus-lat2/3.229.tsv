@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+unde,vnde,ADVint,MORPH=empty
+epulum,epvlvm,NOM2,Case=Acc|Numb=Sing
+possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+centum,centvm,ADJcar,Case=Ind
+dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
+Pythagoreis,pythagorei,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

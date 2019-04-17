@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+panis,panis,NOM3,Case=Nom|Numb=Sing
+fumus,fvmvs,NOM2,Case=Nom|Numb=Sing
+-que,qvivis,CONcoo,MORPH=empty
+domi,domvs,NOM2,Case=Loc|Numb=Sing
+densissima,densvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+centum,centvm,ADJcar,Case=Ind

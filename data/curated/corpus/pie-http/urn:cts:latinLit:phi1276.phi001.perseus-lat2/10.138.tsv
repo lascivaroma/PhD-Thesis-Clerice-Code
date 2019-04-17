@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Romanus,romanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Graius,graivs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+et,et,CONcoo,MORPH=empty
+barbarus,barbarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+induperator,imperator,NOM3,Case=Nom|Numb=Sing

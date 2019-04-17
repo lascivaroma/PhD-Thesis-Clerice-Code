@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cui,qvis,PROint,Case=Dat|Numb=Sing
+totam,totvs,PROind,Case=Acc|Numb=Sing
+tremuli,tremvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Person=1
+frontem,frons,NOM3,Case=Acc|Numb=Sing
+Caesonia,caesonia,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+pulli,pvllvs,NOM2,Case=Gen|Numb=Sing

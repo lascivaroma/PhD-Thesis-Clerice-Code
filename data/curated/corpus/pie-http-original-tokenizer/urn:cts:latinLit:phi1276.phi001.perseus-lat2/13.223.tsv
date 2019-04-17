@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+hi,hic,PROdem,Case=Nom|Numb=Plur
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+trepidant,trepido,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+ad,ad,PRE,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+fulgura,fvlgvr,NOM3,Case=Nom|Numb=Plur
+pallent,palleo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

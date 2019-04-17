@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Splendida,splendides,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+uolitant,volito,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Spartani,spartani,NOM2,Case=Nom|Numb=Plur
+pondera,pondvs,NOM3,Case=Acc|Numb=Plur
+disci,discvs,VER,Mood=Inf|Voice=Pass
+Este,este,NOM7,Case=Voc|Numb=Sing
+procul,procvl,ADV,Deg=Pos
+pueri,pver,NOM2,Case=Gen|Numb=Sing
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+semel,semel,ADJadv.mul,MORPH=empty
+ille,ille,PROdem,Case=Nom|Numb=Sing
+nocens,nocens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Tuccia,tvccia,NOM1,Case=Nom|Numb=Sing
+uesicae,vesica,NOM1,Case=Dat|Numb=Sing
+non,non,ADVneg,MORPH=empty
+imperat,impero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Apula,apvla,NOM1,Case=Nom|Numb=Sing
+gannit,gannio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

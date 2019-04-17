@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+contentusque,contentvs,ADV,Deg=Pos
+illic,illic,ADV,Deg=Pos
+Veneto,venetvs,NOM2,Case=Dat|Numb=Sing
+duroque,dvroqve,ADV,Deg=Pos
+cucullo,cvcvllvs,NOM2,Case=Abl|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Dat|Numb=Plur

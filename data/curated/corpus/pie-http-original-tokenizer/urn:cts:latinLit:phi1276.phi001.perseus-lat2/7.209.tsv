@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+praeceptorem,praeceptor,NOM3,Case=Acc|Numb=Sing
+sancti,sanctvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+uoluere,volo,VER,Mood=Inf|Tense=Pres|Voice=Act
+parentis,parens,NOM3,Case=Gen|Numb=Sing

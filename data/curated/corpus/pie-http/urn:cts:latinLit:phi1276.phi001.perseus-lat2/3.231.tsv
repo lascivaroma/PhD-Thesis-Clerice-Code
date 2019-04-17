@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+unius,vnvs,ADJcar,Case=Gen|Numb=Sing
+sese,svi,PROref,Case=Acc|Numb=Sing
+dominum,dominvs,NOM2,Case=Acc|Numb=Sing
+fecisse,facio,VER,Mood=Inf|Tense=Perf|Voice=Act
+lacertae,lacerta,NOM1,Case=Gen|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

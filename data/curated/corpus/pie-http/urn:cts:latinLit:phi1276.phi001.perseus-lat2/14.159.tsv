@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+tantum,tantvm,PROdem,Case=Acc|Numb=Sing|Deg=Pos
+culti,colo,NOM2,Case=Gen|Numb=Sing
+solus,solvs,PROind,Case=Nom|Numb=Sing
+possederis,possideo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+agri,ager,NOM2,Case=Gen|Numb=Sing

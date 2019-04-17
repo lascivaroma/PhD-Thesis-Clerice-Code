@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+has,hic,PROdem,Case=Acc|Numb=Plur
+totiens,totiens,ADV,Deg=Pos
+optata,optatvs,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+exegit,exigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+gloria,gloria,NOM1,Case=Nom|Numb=Sing
+poenas,poena,NOM1,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

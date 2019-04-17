@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sutor,svtor,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+elixi,elixvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos|Tense=Perf
+ueruecis,vervex,NOM3,Case=Gen|Numb=Sing
+labra,labrvm,NOM2,Case=Acc|Numb=Plur
+comedit,comedo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

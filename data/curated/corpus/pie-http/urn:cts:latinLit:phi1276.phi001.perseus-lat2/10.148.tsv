@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+inuenies,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+hic,hic,PROdem,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+non,non,ADVneg,MORPH=empty
+capit,capio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Africa,africa,NOM1,Case=Nom|Numb=Sing
+Mauro,mavrvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

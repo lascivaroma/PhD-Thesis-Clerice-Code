@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+interiora,interior,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Baianae,baianvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+peruia,pervivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cumbae,cymba,NOM1,Case=Dat|Numb=Sing

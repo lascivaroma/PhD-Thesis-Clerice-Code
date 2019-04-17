@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+nauigio,navigivm,NOM2,Case=Abl|Numb=Sing
+montem,mons,NOM3,Case=Acc|Numb=Sing
+ascendit,ascendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sortesque,sortesqve,ADV,Deg=Pos
+poposcit,posco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

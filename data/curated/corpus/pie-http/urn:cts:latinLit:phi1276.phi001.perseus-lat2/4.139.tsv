@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+arderet,ardeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+nulli,nvllvs,PROind,Case=Dat|Numb=Sing
+maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+usus,vsvs,NOM4,Case=Nom|Numb=Sing
+edendi,edo,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act

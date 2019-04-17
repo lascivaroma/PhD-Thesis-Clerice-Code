@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Sunt,svm,VER,Numb=Plur|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+fortunae,fortvna,NOM1,Case=Gen|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+casibus,casvs,NOM4,Case=Abl|Numb=Plur
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+ponant,pono,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3

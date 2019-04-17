@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+paupertatem,pavpertas,NOM3,Case=Acc|Numb=Sing
+leuet,levo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+attollatque,attollate,VER,MORPH=empty
+propinqui,propinqvi,NOM2,Case=Gen|Numb=Plur

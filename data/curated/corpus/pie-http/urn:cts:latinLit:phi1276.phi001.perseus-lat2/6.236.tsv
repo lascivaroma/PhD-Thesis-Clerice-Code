@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+aduocat,advoco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Archigene,archigene,NOM7,Case=Voc|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+onerosa,onerosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvovs,ADVrel,MORPH=empty
+pallia,pallivm,NOM2,Case=Acc|Numb=Plur
+iactat,iacto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

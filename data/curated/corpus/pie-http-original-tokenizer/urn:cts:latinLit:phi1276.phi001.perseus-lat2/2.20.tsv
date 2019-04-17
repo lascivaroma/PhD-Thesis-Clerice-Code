@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Herculis,hercvles,NOM3,Case=Gen|Numb=Sing
+inuadunt,invado,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+de,de,PRE,MORPH=empty
+uirtute,virtvs,NOM3,Case=Abl|Numb=Sing
+locuti,loqvor,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Dep

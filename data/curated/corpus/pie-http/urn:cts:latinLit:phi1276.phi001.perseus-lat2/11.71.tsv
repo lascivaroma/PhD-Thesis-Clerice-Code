@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+oua,ovvm,NOM2,Case=Nom|Numb=Plur
+adsunt,assvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipsis,ipse,PROdem,Case=Dat|Numb=Plur
+cum,cvm,PRE,MORPH=empty
+matribus,mater,NOM3,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+seruatae,servo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

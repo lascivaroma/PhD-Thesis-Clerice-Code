@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+liberto,libertvs,NOM2,Case=Dat|Numb=Sing
+dederit,do,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+uiuus,vivvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cur,cvr,ADVint,MORPH=empty
+multa,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+puellae,pvella,NOM1,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty

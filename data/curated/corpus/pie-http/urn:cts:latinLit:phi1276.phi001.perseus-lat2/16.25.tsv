@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+milia,mille,ADJcar,Case=Nom|Numb=Plur
+clauorum,clavvs,NOM2,Case=Gen|Numb=Plur
+quis,qvis,PROint,Case=Nom|Numb=Sing
+tam,tam,ADV,Deg=Pos
+procul,procvl,ADV,Deg=Pos
+absit,absvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ab,ab,PRE,MORPH=empty
+urbe,vrbs,NOM3,Case=Abl|Numb=Sing

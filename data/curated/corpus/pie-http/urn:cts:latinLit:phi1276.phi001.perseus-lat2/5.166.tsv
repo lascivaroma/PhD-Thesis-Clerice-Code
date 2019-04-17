@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+spes,spes,NOM5,Case=Nom|Numb=Sing
+bene,bene,ADV,Deg=Pos
+cenandi,ceno,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+uos,vos,PROper,Case=Acc|Numb=Plur
+decipit,decipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ecce,ecce,INJ,MORPH=empty
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+iam,iam,ADV,Deg=Pos

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Restat,resto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+seruet,servo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+rex,rex,NOM3,Case=Nom|Numb=Sing
+inclitus,inclvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aeuo,aevvm,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Abl|Numb=Plur

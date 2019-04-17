@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Arpinas,arpinas,NOM7,Case=Nom|Numb=Sing
+alius,alivs,PROind,Case=Nom|Numb=Sing
+Volscorum,volsci,NOM2,Case=Gen|Numb=Plur
+in,in,PRE,MORPH=empty
+monte,mons,NOM3,Case=Abl|Numb=Sing
+solebat,soleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3

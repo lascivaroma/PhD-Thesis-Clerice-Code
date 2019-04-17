@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+ideo,ideo,ADV,Deg=Pos
+intrepidi,intrepidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+quaecumque,qvicvmqve,PROrel,Case=Nom|Numb=Plur
+altaria,altar,NOM3,Case=Nom|Numb=Plur
+tangunt,tango,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

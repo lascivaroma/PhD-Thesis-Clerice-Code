@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+praecipuus,praecipvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+tamen,tamen,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+horum,hic,PROdem,Case=Gen|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+saepius,saepe,ADV,Deg=Comp
+exul,exsvl,NOM3,Case=Nom|Numb=Sing

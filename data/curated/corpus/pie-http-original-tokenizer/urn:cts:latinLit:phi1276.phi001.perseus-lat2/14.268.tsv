@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+habitas,habito,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+Coro,cavrvs,NOM2,Case=Dat|Numb=Sing
+semper,semper,ADV,Deg=Pos
+tollendus,tollo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+et,et,CONcoo,MORPH=empty
+Austro,avster,NOM2,Case=Dat|Numb=Sing

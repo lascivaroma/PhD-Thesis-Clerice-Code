@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+mergere,mergo,VER,Mood=Inf|Tense=Pres|Voice=Act
+ficedulas,ficedvla,NOM1,Case=Acc|Numb=Plur
+didicit,disco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nebulone,nebvlo,NOM3,Case=Abl|Numb=Sing
+parente,parens,NOM3,Case=Abl|Numb=Sing

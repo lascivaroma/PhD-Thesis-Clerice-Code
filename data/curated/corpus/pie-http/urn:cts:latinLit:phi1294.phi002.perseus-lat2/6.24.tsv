@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Nil,nil,NOM3,Case=Nom|Numb=Sing
+lasciuius,lascivvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Charisiano,charisianvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+Saturnalibus,satvrnalia,NOM3,Case=Dat|Numb=Plur
+ambulat,ambvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+togatus,togatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing

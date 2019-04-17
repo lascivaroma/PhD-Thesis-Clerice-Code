@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Ne,ne,CONsub,Case=Ind
+mendica,mendica,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ferat,fero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+barbati,barbatvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+prandia,prandivm,NOM2,Case=Acc|Numb=Plur
+nudi,nvdvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+Dormiat,dormio,VER,Numb=Sing|Tense=Pres|Person=3
+et,et,CONcoo,MORPH=empty
+tetrico,tetricvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cum,cvm,PRE,MORPH=empty
+cane,canis,NOM3,Case=Abl|Numb=Sing|Deg=Pos
+pera,pera,NOM1,Case=Abl|Numb=Sing
+rogat,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

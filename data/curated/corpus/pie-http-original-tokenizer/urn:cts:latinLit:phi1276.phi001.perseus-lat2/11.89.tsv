@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+erectum,erectvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+domito,domo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+referens,refero,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+a,ab,PRE,MORPH=empty
+monte,mons,NOM3,Case=Abl|Numb=Sing
+ligonem,ligo,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

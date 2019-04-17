@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+te,tv,PROper,Case=Acc|Numb=Sing
+ueto,veto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+nec,nec,CONcoo,MORPH=empty
+plana,planvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+faciem,facies,NOM5,Case=Acc|Numb=Sing
+contundere,contvndo,VER,Mood=Inf|Tense=Pres|Voice=Act
+palma,palma,NOM1,Case=Abl|Numb=Sing

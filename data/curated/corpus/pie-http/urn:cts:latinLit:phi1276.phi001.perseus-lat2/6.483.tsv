@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+caedit,caedo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+longi,longvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+relegit,relego,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+transuersa,transversvm,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+diurni,divrnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

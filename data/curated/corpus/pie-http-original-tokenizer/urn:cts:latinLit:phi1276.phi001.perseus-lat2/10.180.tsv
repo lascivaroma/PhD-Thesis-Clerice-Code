@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+Corum,cavrvs,NOM2,Case=Acc|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+Eurum,evrvs,NOM2,Case=Acc|Numb=Sing
+solitus,soleo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=SemDep|Person=3
+saeuire,saevio,VER,Mood=Inf|Tense=Pres|Voice=Act
+flagellis,flagellvm,NOM2,Case=Abl|Numb=Plur

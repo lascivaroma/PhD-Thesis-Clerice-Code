@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dispersos,dispergo,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Perf|Voice=Pass
+trahere,traho,VER,Mood=Inf|Tense=Pres|Voice=Act
+in,in,PRE,MORPH=empty
+populum,popvlvs,NOM2,Case=Acc|Numb=Sing
+migrare,migro,VER,Mood=Inf|Tense=Pres|Voice=Act
+uetusto,vetvstvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Nuper,nvper,NOM3,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+medicus,medicvs,NOM2,Case=Nom|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uispillo,vispillvm,NOM2,Case=Abl|Numb=Sing
+Diaulus,diavlvs,NOM2,Case=Nom|Numb=Sing
+Quod,qvi,PROrel,Case=Acc|Numb=Sing
+uispillo,vispillvm,NOM2,Case=Abl|Numb=Sing
+facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+fecerat,facio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+medicus,medicvs,NOM2,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

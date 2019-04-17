@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+armigero,armiger,NOM2,Case=Abl|Numb=Sing
+simplexne,simplex,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+furor,fvror,NOM3,Case=Nom|Numb=Sing
+sestertia,sestertivm,NOM2,Case=Acc|Numb=Plur
+centum,centvm,ADJcar,Case=Ind

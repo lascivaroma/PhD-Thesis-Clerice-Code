@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cantabit,canto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+uacuus,vacvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+coram,coram,PRE,MORPH=empty
+latrone,latro,NOM3,Case=Abl|Numb=Sing
+uiator,viator,NOM3,Case=Nom|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

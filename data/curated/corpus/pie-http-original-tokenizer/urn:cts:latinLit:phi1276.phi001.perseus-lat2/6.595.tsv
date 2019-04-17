@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tantum,tantvm,ADV,MORPH=empty
+artes,ars,NOM3,Case=Nom|Numb=Plur
+huius,hic,PROdem,Case=Gen|Numb=Sing
+tantum,tantvm,PROdem,Deg=Pos
+medicamina,medicamen,NOM3,Case=Nom|Numb=Plur
+possunt,possvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

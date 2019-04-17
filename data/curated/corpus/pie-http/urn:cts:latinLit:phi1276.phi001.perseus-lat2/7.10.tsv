@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+uendas,vendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+potius,potivs,ADV,Deg=Comp
+commissa,committo,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+quod,qvi,CONsub,MORPH=empty
+auctio,avctio,NOM3,Case=Nom|Numb=Sing
+uendit,vendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

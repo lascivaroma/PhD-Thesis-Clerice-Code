@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+tu,tv,PROper,Case=Nom|Numb=Sing
+nescis,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+;,ce,INJ,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+gradibus,gradvs,NOM4,Case=Abl|Numb=Plur
+trepidatur,trepido,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ab,ab,PRE,MORPH=empty
+imis,infervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup

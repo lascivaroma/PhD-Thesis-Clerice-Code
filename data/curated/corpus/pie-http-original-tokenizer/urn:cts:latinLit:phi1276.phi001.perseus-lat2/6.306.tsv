@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+I,vnvs,ADJcar,Case=Acc|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+dubita,dvbito,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+qua,qva,ADVrel,MORPH=empty
+sorbeat,sorbeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+aera,aes,NOM3,Case=Acc|Numb=Sing
+sanna,sannvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+eloquium,eloqvivm,NOM2,Case=Acc|Numb=Sing
+uocale,vocalis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+modis,modvs,NOM2,Case=Abl|Numb=Plur
+laurum,lavrvs,NOM4,Case=Acc|Numb=Sing
+-que,qvivis,CONcoo,MORPH=empty
+momordit,mordeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+psellus,psellvs,NOM2,Case=Nom|Numb=Sing
+ab,ab,PRE,MORPH=empty
+Eupholio,evpholivs,NOM2,Case=Abl|Numb=Sing
+;,o,INJ,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+retia,rete,NOM3,Case=Acc|Numb=Plur
+turpi,tvrpis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

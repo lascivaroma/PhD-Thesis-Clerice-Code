@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+utque,vtqve,CONcoo,MORPH=empty
+magis,magis,ADV,Deg=Comp
+stupeas,stvpeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+ludos,lvdvs,NOM2,Case=Acc|Numb=Plur
+Paridemque,parides,NOM3,Case=Acc|Numb=Sing
+reliquit,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

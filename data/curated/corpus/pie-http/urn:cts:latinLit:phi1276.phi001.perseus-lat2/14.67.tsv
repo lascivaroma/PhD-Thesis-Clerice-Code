@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+semodio,semodivs,NOM2,Case=Abl|Numb=Sing
+scobis,scobies,NOM1,Case=Abl|Numb=Sing
+haec,hic,PROdem,Case=Acc|Numb=Plur
+emendat,emendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+seruulus,servvlvs,NOM2,Case=Nom|Numb=Sing
+unus,vnvs,ADJcar,Case=Nom|Numb=Sing

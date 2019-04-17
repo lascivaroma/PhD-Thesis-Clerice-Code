@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sufficiunt,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+galeae,galea,NOM1,Case=Nom|Numb=Plur
+dumque,dvmqve,ADV,Deg=Pos
+ardent,ardeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ornatas,ornatvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+paulo,pavlo,ADV,Deg=Pos
+ante,ante,PRE,Deg=Pos
+fores,foris,NOM3,Case=Acc|Numb=Plur
+pendentia,pendeo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+linquit,linqvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Perfrixisse,perfrixiter,NOM3,Case=Voc
+tuas,tvvs,PROpos,Case=Acc|Numb=Plur
+questa,qveror,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+praefatio,praefatio,NOM2,Case=Nom|Numb=Sing
+fauces,favx,NOM3,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Gen|Numb=Plur
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+excusaris,excvso,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+Maxime,magnvs,NOM2,Case=Voc|Numb=Sing
+quid,qvis,PROint,Case=Acc|Numb=Sing
+recitas,recito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

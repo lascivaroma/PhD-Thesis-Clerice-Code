@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Nom|Numb=Sing
+de,de,PRE,MORPH=empty
+comoedis,comoedvs,NOM1,Case=Abl|Numb=Plur
+te,tv,PROper,Case=Acc|Numb=Sing
+consulit,consvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+illa,ille,PROdem,Case=Nom|Numb=Sing
+tragoedum,tragoedvs,NOM2,Case=Gen|Numb=Sing

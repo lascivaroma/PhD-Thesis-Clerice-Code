@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+semper,semper,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+adsiduo,assidvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+ruptae,rvmpo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+lectore,lector,NOM3,Case=Abl|Numb=Sing
+columnae,colvmna,NOM1,Case=Nom|Numb=Sing

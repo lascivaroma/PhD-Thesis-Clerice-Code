@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+praecipuis,praecipvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+mentem,mens,NOM3,Case=Acc|Numb=Sing
+sudoribus,svdor,NOM3,Case=Abl|Numb=Plur
+urguet,vrgeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

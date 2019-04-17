@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+tondente,tondeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+iuueni,ivvenis,NOM3,Case=Dat|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+barba,barba,NOM1,Case=Nom|Numb=Sing
+sonabat,sono,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

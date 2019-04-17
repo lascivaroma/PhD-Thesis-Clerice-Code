@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+at,at,CONcoo,MORPH=empty
+uos,vos,PROper,Case=Nom|Numb=Plur
+Troiugenae,troivgena,NOM1,Case=Voc|Numb=Plur
+uobis,vos,PROper,Case=Dat|Numb=Plur
+ignoscitis,ignosco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+quae,qvi,PROrel,Case=Nom|Numb=Plur

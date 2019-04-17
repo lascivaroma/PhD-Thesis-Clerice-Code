@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+matutinis,matvtinvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+operatur,operor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+festa,festvm,ADJqua,Case=Nom|Numb=Plur
+lucernis,lvcerna,NOM1,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

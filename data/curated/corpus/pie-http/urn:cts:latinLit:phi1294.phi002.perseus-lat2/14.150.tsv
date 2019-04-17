@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Haec,haec,NOM7,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+Memphitis,memphites,NOM3,Case=Gen|Numb=Sing
+tellus,tellvs,NOM3,Case=Nom|Numb=Sing
+dat,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+munera,mvnvs,NOM3,Case=Acc|Numb=Plur
+uicta,vinco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Pectine,pectinvs,NOM2,Case=Voc|Numb=Sing
+Niliaco,niliacvs,NOM2,Case=Dat|Numb=Sing
+iam,iam,ADV,Deg=Pos
+Babylonos,babyloni,NOM7,Case=Nom|Numb=Sing
+acus,acvs,NOM4,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

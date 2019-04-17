@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+unius,vnvs,ADJcar,Case=Gen|Numb=Sing
+scabie,scabies,NOM5,Case=Abl|Numb=Sing
+cadit,cado,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+porrigine,porrigo,NOM3,Case=Abl|Numb=Sing
+porci,porcvs,NOM2,Case=Gen|Numb=Sing

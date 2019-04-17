@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+inter,inter,PRE,MORPH=empty
+uos,vos,PROper,Case=Acc|Numb=Plur
+quotiens,qvotiens,ADVint,MORPH=empty
+libertorum,libertvs,NOM2,Case=Gen|Numb=Plur
+-que,qvivis,ADV,Deg=Pos
+cohortem,cohors,NOM3,Case=Acc|Numb=Sing

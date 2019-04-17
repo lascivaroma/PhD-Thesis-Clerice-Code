@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+crediderint,credo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+genus,genvs,NOM3,Case=Acc|Numb=Sing
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+cibi,cibvs,NOM2,Case=Gen|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur
+quid,qvis,PROint,Case=Acc|Numb=Sing
+diceret,dico,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+ergo,ergo,CONcoo,MORPH=empty

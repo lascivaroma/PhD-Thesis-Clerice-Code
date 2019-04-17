@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uel,vel,ADV,MORPH=empty
+plures,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp
+uno,vnvs,ADJcar,Case=Abl|Numb=Sing
+conclamant,conclamo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ore,os,NOM3,Case=Abl|Numb=Sing
+sophistae,sophista,NOM1,Case=Nom|Numb=Plur

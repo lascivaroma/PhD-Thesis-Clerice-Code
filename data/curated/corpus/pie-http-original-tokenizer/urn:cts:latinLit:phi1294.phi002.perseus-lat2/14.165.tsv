@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Reddidit,reddo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Eurydicen,evrydice,NOM7,Case=Acc|Numb=Sing
+uati,vates,NOM3,Case=Dat|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+perdidit,perdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+Dum,dem,NOM2,Case=Acc|Numb=Sing
+sibi,svi,PROref,Case=Dat|Numb=Sing
+non,non,ADVneg,MORPH=empty
+credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nec,nec,CONcoo,MORPH=empty
+patienter,patienter,ADV,Deg=Pos
+amat,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+dedecus,dedecvs,NOM3,Case=Acc|Numb=Sing
+urbis,vrbs,NOM3,Case=Gen|Numb=Sing
+habes,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+nec,nec,CONcoo,MORPH=empty
+murmillonis,mirmillo,NOM3,Case=Gen|Numb=Sing
+in,in,PRE,MORPH=empty
+armis,arma,NOM2,Case=Abl|Numb=Plur

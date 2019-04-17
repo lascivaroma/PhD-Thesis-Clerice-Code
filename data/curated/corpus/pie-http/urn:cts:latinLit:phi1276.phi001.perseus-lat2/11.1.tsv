@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Atticus,atticvs,NOM2,Case=Nom|Numb=Sing
+exinde,exinde,ADV,Deg=Pos
+si,si,CONsub,MORPH=empty
+cenat,ceno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+lautus,lavtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+habetur,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

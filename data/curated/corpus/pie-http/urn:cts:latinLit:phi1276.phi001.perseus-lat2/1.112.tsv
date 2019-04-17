@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+quandoquidem,qvandoqvidem,ADVrel,MORPH=empty
+inter,inter,PRE,MORPH=empty
+nos,nos,PROper,Case=Acc|Numb=Plur
+sanctissima,sanctvs,ADJqua,Case=Nom|Numb=Plur|Deg=Sup
+diuitiarum,divitiae,NOM1,Case=Gen|Numb=Plur

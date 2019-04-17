@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nunc,nvnc,ADV,Deg=Pos
+sacri,sacer,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+fontis,fons,NOM3,Case=Gen|Numb=Sing
+nemus,nemvs,NOM3,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+delubra,delvbrvm,NOM2,Case=Nom|Numb=Plur
+locantur,loco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

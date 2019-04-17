@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+lenonum,leno,NOM3,Case=Gen|Numb=Plur
+ancillas,ancilla,NOM1,Case=Acc|Numb=Plur
+posita,pono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+Saufeia,savfeia,NOM1,Case=Nom|Numb=Sing
+corona,corona,NOM1,Case=Abl|Numb=Sing

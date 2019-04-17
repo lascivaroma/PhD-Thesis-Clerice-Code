@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Archetypum,archetypes,NOM2,Case=Gen|Numb=Plur
+Myos,myvs,NOM7,Case=Nom|Numb=Sing
+argentum,argentvm,NOM2,Case=Acc|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+dicis,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+habere,habeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Quod,qvis,PROrel,Case=Nom|Numb=Sing
+sine,sine,PRE,MORPH=empty
+te,tv,PROper,Case=Abl|Numb=Sing
+factum,facio,NOM2,Case=Nom|Numb=Sing|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Nom|Numb=Sing
+magis,magis,ADV,Deg=Comp
+archetypum,archetypes,NOM3,Case=Nom|Numb=Plur
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

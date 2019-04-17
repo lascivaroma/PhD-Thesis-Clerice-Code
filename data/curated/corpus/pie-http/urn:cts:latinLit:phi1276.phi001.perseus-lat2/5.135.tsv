@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+da,do,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+Trebio,trebivs,NOM2,Case=Dat|Numb=Sing
+pone,pono,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+ad,ad,PRE,MORPH=empty
+Trebium,trebivs,NOM2,Case=Acc|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+frater,frater,NOM3,Case=Nom|Numb=Sing
+ab,ab,PRE,MORPH=empty
+ipsis,ipse,PROdem,Case=Abl|Numb=Plur

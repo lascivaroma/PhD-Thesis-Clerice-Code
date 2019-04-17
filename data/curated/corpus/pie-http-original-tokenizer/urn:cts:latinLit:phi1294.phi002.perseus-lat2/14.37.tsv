@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Selectos,selectvs,NOM2,Case=Acc|Numb=Plur
+nisi,nisi,CONsub,MORPH=empty
+das,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+mihi,ego,PROper,Case=Dat|Numb=Sing
+libellos,libellvs,NOM2,Case=Acc|Numb=Plur
+Admittam,admitta,NOM1,Case=Acc|Numb=Sing
+tineas,tineo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+trucesque,trvcesqve,ADV,Case=Acc|Deg=Pos
+blattas,blatta,NOM1,Case=Acc|Numb=Plur|Tense=Pres|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

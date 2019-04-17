@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+maiestas,maiestas,NOM3,Case=Nom|Numb=Sing
+etsi,etsi,CONsub,MORPH=empty
+funesta,fvnestvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+pecunia,pecvnia,NOM1,Case=Nom|Numb=Sing
+templo,templvm,NOM2,Case=Abl|Numb=Sing

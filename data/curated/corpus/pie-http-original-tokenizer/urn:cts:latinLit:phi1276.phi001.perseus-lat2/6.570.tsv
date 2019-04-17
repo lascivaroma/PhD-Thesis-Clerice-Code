@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Saturni,satvrnvs,NOM2,Case=Gen|Numb=Sing
+quo,qvo,ADVint,MORPH=empty
+laeta,laetvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Venus,venvs,NOM3,Case=Nom|Numb=Sing
+se,svi,PROref,Case=Acc|Numb=Sing
+proferat,profero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+astro,astrvm,NOM2,Case=Abl|Numb=Sing

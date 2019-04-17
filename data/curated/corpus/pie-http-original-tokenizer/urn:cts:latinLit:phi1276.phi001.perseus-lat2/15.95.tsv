@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+fortunae,fortvna,NOM1,Case=Gen|Numb=Sing
+inuidia,invidia,NOM1,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+bellorumque,bellvm,NOM2,Case=Gen|Numb=Plur
+ultima,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+casus,casvs,NOM4,Case=Nom|Numb=Sing

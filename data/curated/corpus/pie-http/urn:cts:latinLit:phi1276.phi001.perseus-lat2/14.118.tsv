@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+incude,incvs,NOM3,Case=Abl|Numb=Sing
+adsidua,assidvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+semper,semper,ADV,Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+ardente,ardens,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+camino,caminvs,NOM2,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Ind|Numb=Plur

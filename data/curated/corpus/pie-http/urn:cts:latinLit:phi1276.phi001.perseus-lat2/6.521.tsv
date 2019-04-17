@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+tunicas,tvnica,NOM1,Case=Acc|Numb=Plur
+eat,eo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+totum,totvs,PROind,Case=Acc|Numb=Sing
+semel,semel,ADJadv.mul,MORPH=empty
+expiet,expio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+annum,annvs,NOM2,Case=Acc|Numb=Sing

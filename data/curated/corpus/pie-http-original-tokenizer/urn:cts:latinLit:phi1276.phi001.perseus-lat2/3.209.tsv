@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+perdidit,perdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+totum,totvs,PROind,Case=Acc|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+ultimus,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+autem,avtem,CONcoo,MORPH=empty

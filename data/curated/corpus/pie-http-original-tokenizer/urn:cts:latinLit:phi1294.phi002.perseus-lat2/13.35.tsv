@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Filia,filia,NOM1,Case=Nom|Numb=Sing
+Picenae,picena,NOM1,Case=Gen|Numb=Sing
+uenio,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+Lucanica,lvcanicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+porcae,porca,NOM1,Case=Gen|Numb=Sing
+Pultibus,pvltis,NOM3,Case=Abl|Numb=Plur
+hinc,hinc,ADV,Deg=Pos
+niueis,nivevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+grata,gratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+corona,corona,NOM1,Case=Nom|Numb=Sing
+datur,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

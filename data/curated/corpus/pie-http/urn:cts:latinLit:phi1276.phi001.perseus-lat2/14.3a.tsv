@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+monstrant,monstro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ipsi,ipse,PROdem,Case=Nom|Numb=Plur
+pueris,pver,NOM2,Case=Dat|Numb=Plur
+tradunt,trado,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+-que,qvove,CONcoo,MORPH=empty
+parentes,parens,NOM3,Case=Nom|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+deos,devs,NOM2,Case=Acc|Numb=Plur
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+colit,colo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+tempore,tempvs,NOM3,Case=Abl|Numb=Sing
+festo,festvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

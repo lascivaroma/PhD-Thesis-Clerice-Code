@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Psittacus,psittacvs,NOM2,Case=Nom|Numb=Sing
+a,ab,PRE,MORPH=empty
+uobis,vos,PROper,Case=Abl|Numb=Plur
+aliorum,alivs,PROind,Case=Gen|Numb=Plur
+nomina,nomen,NOM3,Case=Acc|Numb=Plur
+discam,disco,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+Hoc,hoc,NOM3,Case=Acc|Numb=Sing
+didici,disco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+per,per,PRE,MORPH=empty
+me,ego,PROper,Case=Acc|Numb=Sing
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+caesar,caeso,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=1
+ha,hic,PROdem,Case=Abl|Numb=Sing
+-ue,qvis,NOM3,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Sing

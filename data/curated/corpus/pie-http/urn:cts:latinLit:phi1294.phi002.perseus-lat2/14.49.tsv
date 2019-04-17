@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Quid,qvis,PROint,Case=Acc|Numb=Sing
+pereunt,pereo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+stulto,stvltvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+fortes,fortis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+haltere,halteo,VER,Mood=Inf|Tense=Pres|Voice=Act
+lacerti,lacertvs,NOM2,Case=Nom|Numb=Plur
+Exercet,exerceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+melius,bene,ADV,Deg=Comp
+uinea,vinea,NOM1,Case=Abl|Numb=Sing
+fossa,fossa,NOM1,Case=Abl|Numb=Sing
+uiros,vir,NOM2,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

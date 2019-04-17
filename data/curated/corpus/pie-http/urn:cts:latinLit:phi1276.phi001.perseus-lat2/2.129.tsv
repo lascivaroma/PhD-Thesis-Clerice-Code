@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+traditur,trado,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+ecce,ecce,INJ,MORPH=empty
+uiro,vir,NOM2,Case=Dat|Numb=Sing
+clarus,clarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+genere,genvs,NOM3,Case=Abl|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+opibus,ops,NOM3,Case=Abl|Numb=Plur
+uir,vir,NOM2,Case=Nom|Numb=Sing

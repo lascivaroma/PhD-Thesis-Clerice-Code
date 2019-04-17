@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Disticha,disticha,NOM1,Case=Nom|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+scribit,scribo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+puto,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+uult,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+breuitate,brevitas,NOM3,Case=Abl|Numb=Sing
+placere,placeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Quid,qvis,PROint,Case=Nom|Numb=Sing
+prodest,prosvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+breuitas,brevitas,NOM3,Case=Nom|Numb=Sing
+dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+mihi,ego,PROper,Case=Dat|Numb=Sing
+si,si,CONsub,MORPH=empty
+liber,liber,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+quasi,qvasi,ADVrel,MORPH=empty
+fortuitus,fortvitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+uentorum,ventvs,NOM2,Case=Gen|Numb=Plur
+rabie,rabies,NOM5,Case=Abl|Numb=Sing
+sed,sed,CONcoo,MORPH=empty

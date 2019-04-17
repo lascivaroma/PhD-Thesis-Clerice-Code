@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+hodie,hodie,ADV,Deg=Pos
+tantum,tantvm,ADV,Deg=Pos
+propter,propter,PRE,MORPH=empty
+conuiuia,convivivm,NOM2,Case=Acc|Numb=Plur
+pexi,pacio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

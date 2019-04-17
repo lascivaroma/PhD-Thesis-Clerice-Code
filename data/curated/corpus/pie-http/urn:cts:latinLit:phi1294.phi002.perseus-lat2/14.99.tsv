@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Barbara,barbara,NOM1,Case=Nom|Numb=Plur
+de,de,PRE,MORPH=empty
+pictis,pictvs,NOM2,Case=Abl|Numb=Plur
+ueni,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+bascauda,bascavda,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Britannis,britanni,NOM2,Case=Abl|Numb=Plur
+;,o,PRE,MORPH=empty
+Sed,sed,NOM2,Case=Acc|Numb=Sing
+me,ego,PROper,Case=Acc|Numb=Sing
+iam,iam,ADV,Deg=Pos
+mauolt,malo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+Roma,roma,NOM1,Case=Nom|Numb=Sing
+suam,svvs,PROpos.ref,Case=Acc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

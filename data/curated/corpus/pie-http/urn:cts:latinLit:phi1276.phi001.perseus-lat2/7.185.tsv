@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+conponat,compono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+pulmentaria,pvlmentarivm,NOM2,Case=Acc|Numb=Plur
+condit,condo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+,,PRE,MORPH=empty
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+concentus,concentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+clamore,clamor,NOM3,Case=Abl|Numb=Sing
+opus,opvs,NOM6,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ut,vt,CONsub,MORPH=empty
+sentiat,sentio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+auris,avris,NOM3,Case=Acc|Numb=Plur

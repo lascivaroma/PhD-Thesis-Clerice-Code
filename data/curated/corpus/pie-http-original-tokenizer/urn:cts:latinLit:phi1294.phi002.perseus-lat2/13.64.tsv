@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Succumbit,svccvmbo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sterili,sterilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+frustra,frvstra,ADV,Deg=Pos
+gallina,gallina,NOM1,Case=Nom|Numb=Sing
+marito,maritvs,NOM2,Case=Dat|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Hunc,hvnc,ADJqua,Case=Nom|Numb=Sing
+matris,mater,NOM3,Case=Gen|Numb=Sing
+Cybeles,cybele,NOM7,Case=Nom|Numb=Sing
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+decebat,decet,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+auem,avis,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

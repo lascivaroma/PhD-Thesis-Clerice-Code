@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Tunc,tvnc,NOM7,Case=Voc|Numb=Sing
+triplices,triplex,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nostros,noster,PROpos,Case=Acc|Numb=Plur
+non,non,ADVneg,MORPH=empty
+uilia,vilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+dona,donvm,NOM2,Case=Acc|Numb=Plur
+putabis,pvto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+se,svi,PROref,Case=Acc|Numb=Sing
+uenturam,venio,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Fut|Voice=Act
+scribet,scribo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+amica,amica,NOM1,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

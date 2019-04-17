@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+intulit,infero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+turpi,tvrpis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+fregerunt,frango,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+saecula,saecvlvm,NOM2,Case=Acc|Numb=Plur
+luxu,lvxvs,NOM4,Case=Abl|Numb=Sing

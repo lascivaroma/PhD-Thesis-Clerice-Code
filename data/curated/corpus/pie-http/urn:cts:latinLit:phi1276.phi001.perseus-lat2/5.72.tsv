@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+salua,salvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+artoptae,artopta,NOM1,Case=Gen|Numb=Sing
+reuerentia,reverentia,NOM1,Case=Nom|Numb=Sing
+finge,fingo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+tamen,tamen,ADV,Deg=Pos
+te,tv,PROper,Case=Acc|Numb=Sing

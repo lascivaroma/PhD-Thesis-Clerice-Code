@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Europe,evrope,NOM3,Case=Voc|Numb=Sing
+-ne,one,CONsub,MORPH=empty
+;,o,PRE,MORPH=empty
+canibus,canis,NOM3,Case=Abl|Numb=Plur
+pigris,piger,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+scabic,scabicio,VER,Numb=Sing|Tense=Pres|Voice=Dep|Person=2
+-que,qvove,CONcoo,MORPH=empty
+uetusta,vetvstvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

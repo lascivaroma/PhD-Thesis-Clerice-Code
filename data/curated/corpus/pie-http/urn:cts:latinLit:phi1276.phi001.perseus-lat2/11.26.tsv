@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ignoret,ignoro,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quantum,qvantvm,PROint,Numb=Sing
+ferrata,ferratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+distet,disto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ab,ab,PRE,MORPH=empty
+arca,arca,NOM1,Case=Abl|Numb=Sing

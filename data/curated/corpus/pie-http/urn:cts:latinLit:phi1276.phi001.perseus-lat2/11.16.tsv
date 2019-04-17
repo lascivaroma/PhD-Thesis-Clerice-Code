@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+adtendas,attendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+magis,magis,ADV,Deg=Comp
+illa,ille,PROdem,Case=Nom|Numb=Plur
+iuuant,ivvo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+pluris,mvltvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp
+emuntur,emo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+.,vnvs,ADJcar,Case=Ind|Numb=Plur

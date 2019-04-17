@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Setinis,setini,NOM2,Case=Dat|Numb=Plur
+cuius,qvi,PROrel,Case=Gen|Numb=Sing
+patriam,patria,NOM1,Case=Acc|Numb=Sing
+titulumque,titvlvs,PROind,Case=Nom|Numb=Sing
+senectus,senectvs,NOM3,Case=Nom|Numb=Sing

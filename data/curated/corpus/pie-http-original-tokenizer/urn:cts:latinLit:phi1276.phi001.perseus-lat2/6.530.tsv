@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+enim,enim,CONcoo,MORPH=empty
+ipsius,ipse,PROdem,Case=Gen|Numb=Sing
+dominae,domina,NOM1,Case=Gen|Numb=Sing
+se,svi,PROref,Case=Acc|Numb=Sing
+uoce,vox,NOM3,Case=Abl|Numb=Sing
+moneri,moneo,VER,Mood=Inf|Tense=Pres|Voice=Pass

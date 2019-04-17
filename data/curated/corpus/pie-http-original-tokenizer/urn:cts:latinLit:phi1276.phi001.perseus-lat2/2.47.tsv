@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+inter,inter,PRE,MORPH=empty
+molles,mollis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+concordia,concordia,NOM1,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ullum,vllvs,PROind,Case=Nom|Numb=Sing

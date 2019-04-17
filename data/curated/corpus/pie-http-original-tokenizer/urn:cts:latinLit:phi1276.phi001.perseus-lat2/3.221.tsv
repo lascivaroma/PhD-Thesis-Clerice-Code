@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Persicus,persicvs,NOM2,Case=Nom|Numb=Sing
+orborum,orbvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+lautissimus,lavtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+et,et,CONcoo,MORPH=empty
+merito,merito,ADV,Deg=Pos
+iam,iam,ADV,Deg=Pos

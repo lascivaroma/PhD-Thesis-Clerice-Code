@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+libuit,libet,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+menses,mensis,NOM3,Case=Nom|Numb=Plur
+neglectum,negligo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+adhibere,adhibeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+clientem,cliens,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quaedam,qvidam,PROind,Case=Nom|Numb=Plur
+de,de,PRE,MORPH=empty
+numero,nvmervs,NOM2,Case=Abl|Numb=Sing
+Lamiarum,lamia,NOM1,Case=Gen|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+nominis,nomen,NOM3,Case=Gen|Numb=Sing
+Appi,appivs,NOM2,Case=Gen|Numb=Sing

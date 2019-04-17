@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+saepe,saepe,ADV,Deg=Pos
+horridior,horridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+glandem,glans,NOM3,Case=Acc|Numb=Sing
+ructante,rvcto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+marito,maritvs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

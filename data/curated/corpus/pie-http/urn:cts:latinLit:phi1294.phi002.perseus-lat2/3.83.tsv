@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Vt,vt,ADVint,MORPH=empty
+faciam,facio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+breuiora,brevis,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+mones,moneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+epigrammata,epigramma,NOM2,Case=Acc|Numb=Plur
+Corde,corde,NOM2,Case=Voc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Fac,fac,NOM3,Case=Acc|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+quod,qvod,PROrel,Case=Acc
+Chione,chion,NOM3,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+potui,possvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+breuius,brevis,ADJqua,Deg=Comp
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

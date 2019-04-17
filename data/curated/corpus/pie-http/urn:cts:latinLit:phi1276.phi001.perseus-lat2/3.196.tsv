@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+securos,secvrvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+pendente,pendeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+dormire,dormio,VER,Mood=Inf|Tense=Pres|Voice=Act
+ruina,rvina,NOM1,Case=Abl|Numb=Sing

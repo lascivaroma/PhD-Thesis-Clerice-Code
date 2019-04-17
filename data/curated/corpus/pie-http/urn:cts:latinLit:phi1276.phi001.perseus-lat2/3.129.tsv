@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+praecipitem,praeceps,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+iubeat,ivbeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+dudum,dvdvm,ADV,Deg=Pos
+uigilantibus,vigilo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+orbis,orbis,NOM3,Case=Gen|Numb=Sing

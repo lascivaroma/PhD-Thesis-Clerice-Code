@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+Baream,barea,NOM1,Case=Acc|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+nobilium,nobilis,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+magna,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+atria,atrivm,NOM2,Case=Acc|Numb=Plur
+curas,cvro,NOM1,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2

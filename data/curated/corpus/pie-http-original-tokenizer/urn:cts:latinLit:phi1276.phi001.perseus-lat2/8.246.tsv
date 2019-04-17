@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+poscere,posco,VER,Mood=Inf|Tense=Pres|Voice=Act
+mercedes,merces,NOM3,Case=Acc|Numb=Plur
+alieno,alienvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+lassus,lassvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aratro,aratrvm,NOM2,Case=Abl|Numb=Sing

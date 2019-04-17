@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+paulatim,pavlatim,ADV,Deg=Pos
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+longa,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+domi,domvs,NOM2,Case=Loc|Numb=Sing
+redimicula,redimicvlvm,NOM2,Case=Acc|Numb=Plur
+sumunt,svmo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

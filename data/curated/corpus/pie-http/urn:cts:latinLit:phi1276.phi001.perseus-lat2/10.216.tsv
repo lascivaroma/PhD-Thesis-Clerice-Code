@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quem,qvis,PROint,Case=Acc|Numb=Sing
+dicat,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uenisse,venio,VER,Mood=Inf|Tense=Perf|Voice=Act
+puer,pver,NOM2,Case=Nom|Numb=Sing
+quot,qvot,PROint,Case=Ind
+nuntiet,nvntio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+horas,hora,NOM1,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

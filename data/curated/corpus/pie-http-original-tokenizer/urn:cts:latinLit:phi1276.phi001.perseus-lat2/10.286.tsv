@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+seruatum,servo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+uicto,vinco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+abstulit,avfero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+cruciatu,crvciatvs,NOM4,Case=Abl|Numb=Sing

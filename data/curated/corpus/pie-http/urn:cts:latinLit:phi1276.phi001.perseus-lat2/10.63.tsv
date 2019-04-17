@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Seianus,seianvs,NOM2,Case=Nom|Numb=Sing
+deinde,deinde,ADV,Deg=Pos
+ex,ex,PRE,MORPH=empty
+facie,facies,NOM5,Case=Abl|Numb=Sing
+toto,totvs,PROind,Case=Abl|Numb=Sing
+orbe,orbis,NOM3,Case=Abl|Numb=Sing
+secunda,secvndvs,ADJord,Case=Abl|Numb=Sing|Deg=Pos

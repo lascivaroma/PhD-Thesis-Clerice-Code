@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Defuerit,desvesco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+si,si,CONsub,MORPH=empty
+forte,forte,ADV,Deg=Pos
+puer,pver,NOM2,Case=Nom|Numb=Sing
+soleasque,soleas,NOM1,Case=Acc|Numb=Plur
+libebit,libet,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+Sumere,svmervs,NOM2,Case=Voc|Numb=Sing
+pro,pro,PRE,MORPH=empty
+puero,pver,NOM2,Case=Abl|Numb=Sing
+pes,pes,NOM3,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+sibi,svi,PROref,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

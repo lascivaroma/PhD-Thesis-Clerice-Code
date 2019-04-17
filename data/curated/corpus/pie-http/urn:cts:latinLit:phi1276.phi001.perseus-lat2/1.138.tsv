@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+antiquis,antiqvi,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+una,vna,ADJcar,MORPH=empty
+comedunt,comedo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+patrimonia,patrimonivm,NOM2,Case=Nom|Numb=Plur
+mensa,mensa,NOM1,Case=Abl|Numb=Sing

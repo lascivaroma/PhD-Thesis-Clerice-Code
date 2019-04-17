@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+quanto,qvanto,ADVint,MORPH=empty
+delphinis,delphin,NOM3,Case=Nom|Numb=Sing
+ballaena,ballaena,NOM1,Case=Nom|Numb=Sing
+Britannica,britannicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp

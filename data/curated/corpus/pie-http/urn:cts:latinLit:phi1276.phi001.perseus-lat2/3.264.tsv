@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Nom|Numb=Plur
+inter,inter,PRE,MORPH=empty
+pueros,pver,NOM2,Case=Acc|Numb=Plur
+uarie,varie,ADV,Deg=Pos
+properantur,propero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+at,at,CONcoo,MORPH=empty
+ille,ille,PROdem,Case=Nom|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+munimenta,mvnimentvm,NOM2,Case=Acc|Numb=Plur
+umeri,hvmervs,NOM2,Case=Gen|Numb=Plur
+pulsatamque,pvlso,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+arma,arma,NOM2,Case=Acc|Numb=Plur
+tridentem,tridens,NOM3,Case=Acc|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ergo,ergo,CONcoo,MORPH=empty
+miser,miser,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+trepidas,trepido,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+ne,ne,CONsub,MORPH=empty
+stercore,stercvs,NOM3,Case=Abl|Numb=Sing
+foeda,foedvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+canino,caninvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

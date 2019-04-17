@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Musteus,mvstevs,NOM2,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+propera,propero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+caros,carvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+differ,differo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+amicos,amicvs,NOM2,Case=Acc|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Nam,nam,NOM1,MORPH=empty
+mihi,ego,PROper,Case=Dat|Numb=Sing
+cum,cvm,PRE,MORPH=empty
+uetulo,vetvlvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+petasone,petason,NOM2,Case=Abl|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+.,vnvs,ADJcar,Case=Dat|Numb=Sing

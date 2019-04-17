@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Puncta,pvnctvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+notis,nota,NOM1,Case=Abl|Numb=Plur
+ilex,ilex,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+acuta,acvtvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cuspide,cvspis,NOM3,Case=Abl|Numb=Sing
+clusa,clavdo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Saepe,saepe,NOM7,Case=Nom|Numb=Sing
+redemptoris,redemptor,NOM3,Case=Gen|Numb=Sing
+prodere,prodo,VER,Mood=Inf|Tense=Pres|Voice=Act
+furta,fvrtvm,NOM2,Case=Acc|Numb=Plur
+solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

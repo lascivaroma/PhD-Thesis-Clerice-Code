@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Roma,roma,NOM1,Case=Nom|Numb=Sing
+patrem,pater,NOM3,Case=Acc|Numb=Sing
+patriae,patria,NOM1,Case=Gen|Numb=Sing
+Ciceronem,cicero,NOM3,Case=Acc|Numb=Sing
+libera,liber,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+dixit,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

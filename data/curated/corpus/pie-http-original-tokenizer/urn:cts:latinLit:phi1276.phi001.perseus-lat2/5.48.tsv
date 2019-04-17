@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quassatum,qvasso,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+et,et,CONcoo,MORPH=empty
+rupto,rvmpo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+poscentem,posco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+sulpura,svlfvr,NOM3,Case=Acc|Numb=Plur
+uitro,vitrvm,NOM2,Case=Abl|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

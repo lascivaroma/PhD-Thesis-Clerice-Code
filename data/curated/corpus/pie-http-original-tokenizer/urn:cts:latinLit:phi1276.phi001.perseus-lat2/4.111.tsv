@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uulturibus,vvltvr,NOM3,Case=Abl|Numb=Plur
+seruabat,servo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+uiscera,viscvs,NOM3,Case=Acc|Numb=Plur
+Dacis,dacvs,NOM2,Case=Abl|Numb=Plur

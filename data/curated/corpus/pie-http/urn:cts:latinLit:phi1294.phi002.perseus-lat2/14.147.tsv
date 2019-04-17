@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Stragula,stragvlvs,NOM2,Case=Nom|Numb=Plur
+purpureis,pvrpvrevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+lucent,lvceo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uillosa,villosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+tapetis,tapes,NOM1,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Quid,qvis,PROint,Case=Nom|Numb=Sing
+prodest,prosvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+si,si,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+congelat,congelo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+anus,anvs,NOM4,Case=Nom|Numb=Sing

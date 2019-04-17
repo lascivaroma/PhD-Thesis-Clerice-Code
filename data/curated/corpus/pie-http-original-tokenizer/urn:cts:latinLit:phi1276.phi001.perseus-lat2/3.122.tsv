@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+solus,solvs,PROind,Case=Nom|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nam,nam,CONcoo,MORPH=empty
+cum,cvm,CONsub,MORPH=empty
+facilem,facilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+stillauit,stillo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+aurem,avris,NOM3,Case=Acc|Numb=Sing

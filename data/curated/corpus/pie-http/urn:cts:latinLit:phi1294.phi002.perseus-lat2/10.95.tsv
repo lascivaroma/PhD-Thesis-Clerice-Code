@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Infantem,infans,NOM3,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+uir,vir,NOM2,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+Galla,galla,NOM1,Case=Nom|Numb=Sing
+remisit,remitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+adulter,advlter,NOM2,Case=Nom|Numb=Sing
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur
+Hi,hices,NOM2,Case=Nom|Numb=Sing
+puto,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+non,non,ADVneg,MORPH=empty
+dubie,dvbie,ADV,Deg=Pos
+se,svi,PROref,Case=Acc|Numb=Sing
+futuisse,fvteo,VER,Mood=Inf|Tense=Perf|Voice=Act
+negant,nego,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

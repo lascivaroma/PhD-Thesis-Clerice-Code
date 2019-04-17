@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+materia,materia,NOM1,Case=Abl|Numb=Sing
+constare,consto,VER,Mood=Inf|Tense=Pres|Voice=Act
+putat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+paribusque,par,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+elementis,elementa,NOM2,Case=Abl|Numb=Plur

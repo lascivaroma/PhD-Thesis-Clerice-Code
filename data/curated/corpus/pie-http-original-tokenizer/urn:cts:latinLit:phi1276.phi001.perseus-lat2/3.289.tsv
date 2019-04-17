@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+rixa,rixa,NOM1,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ubi,vbi,ADVint,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+pulsas,pello,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+ego,ego,PROper,Case=Nom|Numb=Sing
+uapulo,vapvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tantum,tantvm,ADV,Deg=Pos

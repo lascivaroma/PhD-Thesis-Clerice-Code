@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+multas,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+facies,facies,NOM5,Case=Acc|Numb=Plur
+pingit,pingo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cito,cito,ADV,Deg=Pos
+;,o,INJ,MORPH=empty
+sufficiunt,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Plur

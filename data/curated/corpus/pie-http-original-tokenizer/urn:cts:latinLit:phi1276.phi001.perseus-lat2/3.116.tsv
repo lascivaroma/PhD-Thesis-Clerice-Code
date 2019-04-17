@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Stoicus,stoicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+occidit,occido,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Baream,barea,NOM1,Case=Acc|Numb=Sing
+delator,delator,NOM3,Case=Nom|Numb=Sing
+amicum,amicvs,NOM2,Case=Acc|Numb=Sing

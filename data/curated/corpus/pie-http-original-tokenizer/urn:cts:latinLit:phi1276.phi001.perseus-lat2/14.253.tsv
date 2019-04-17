@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+composuit,compono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+si,si,CONsub,MORPH=empty
+uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+aliam,alivs,PROind,Case=Acc|Numb=Sing
+decerpere,decerpo,VER,Mood=Inf|Tense=Pres|Voice=Act
+ficum,ficvs,NOM2,Case=Acc|Numb=Sing

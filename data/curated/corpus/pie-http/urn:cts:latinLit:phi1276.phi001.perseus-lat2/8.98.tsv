@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Non,non,NOM7,MORPH=empty
+idem,idem,PROdem,Case=Nom|Numb=Sing
+gemitus,gemitvs,NOM4,Case=Nom|Numb=Plur
+olim,olim,ADV,Deg=Pos
+neque,neqve,CONcoo,MORPH=empty
+uulnus,vvlnvs,NOM3,Case=Nom|Numb=Sing
+erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

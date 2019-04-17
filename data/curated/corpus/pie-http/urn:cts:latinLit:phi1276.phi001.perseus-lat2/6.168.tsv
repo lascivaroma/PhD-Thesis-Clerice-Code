@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Gracchorum,gracchvs,NOM2,Case=Gen|Numb=Plur
+si,si,CONsub,MORPH=empty
+cum,cvm,PRE,MORPH=empty
+magnis,magnvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+uirtutibus,virtvs,NOM3,Case=Abl|Numb=Plur
+adfers,affero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

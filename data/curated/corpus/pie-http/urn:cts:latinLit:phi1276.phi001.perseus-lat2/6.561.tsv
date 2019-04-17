@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+laeua,laeva,NOM1,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+longe,longe,ADV,Deg=Pos
+castrorum,castra,NOM2,Case=Gen|Numb=Plur
+in,in,PRE,MORPH=empty
+carcere,carcer,NOM3,Case=Abl|Numb=Sing
+mansit,maneo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

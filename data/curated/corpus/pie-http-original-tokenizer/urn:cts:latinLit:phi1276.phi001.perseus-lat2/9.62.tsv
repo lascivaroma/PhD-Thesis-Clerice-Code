@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+cymbala,cymbalvm,NOM2,Case=Acc|Numb=Plur
+pulsantis,pvlso,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+legatum,legatvs,NOM2,Case=Acc|Numb=Sing
+fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+amici,amicvs,NOM2,Case=Gen|Numb=Plur

@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Accipe,accipvs,NOM2,Case=Voc|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+nimios,nimivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+uincant,vinco,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+umbracula,vmbracvlvm,NOM2,Case=Acc|Numb=Plur
+soles,sol,NOM3,Case=Nom|Numb=Sing
+Sit,sitis,NOM3,Numb=Sing
+licet,licet,VER,Numb=Sing|Person=3
+et,et,CONcoo,MORPH=empty
+uentus,ventvs,NOM2,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+tua,tvvs,PROpos,Case=Nom|Numb=Plur
+uela,velvm,NOM2,Case=Nom|Numb=Plur
+tegent,tego,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

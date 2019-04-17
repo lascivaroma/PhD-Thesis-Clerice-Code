@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+naturae,natvra,NOM1,Case=Gen|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+queat,qveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quoscumque,qvicvmqve,PROrel,Case=Acc|Numb=Plur
+labores,labor,NOM3,Case=Acc|Numb=Plur

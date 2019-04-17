@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+talia,talis,PROdem,Case=Acc|Numb=Plur
+secreta,secretvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+coluerunt,colo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+orgia,orgia,NOM2,Case=Acc|Numb=Plur
+taeda,taeda,NOM1,Case=Abl|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+ipsum,ipse,PROdem,Case=Nom|Numb=Sing
+conpedibus,compes,NOM3,Case=Abl|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+uinxerat,vincio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+Ennosigaeum,ennosigaevs,NOM2,Case=Acc|Numb=Sing|Deg=Pos

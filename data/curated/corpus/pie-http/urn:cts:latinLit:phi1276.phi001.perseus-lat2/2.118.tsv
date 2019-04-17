@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+cornicini,cornicen,NOM3,Case=Dat|Numb=Sing
+siue,sive,CONsub,MORPH=empty
+hic,hic,PROdem,Case=Nom|Numb=Sing
+recto,rectvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+cantauerat,canto,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+aere,aes,NOM3,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

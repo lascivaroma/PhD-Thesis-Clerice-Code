@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Sit,sitis,PROper,Numb=Sing
+nobis,nos,PROper,Case=Dat|Numb=Plur
+aetate,aetas,NOM3,Case=Abl|Numb=Sing
+puer,pver,NOM2,Case=Nom|Numb=Sing
+non,non,ADVneg,MORPH=empty
+pumice,pvmex,NOM3,Case=Abl|Numb=Sing
+leuis,levis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Propter,propter,NOM6,Case=Nom|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+placeat,placeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+nulla,nvllvs,PROind,Case=Nom|Numb=Sing
+puella,pvella,NOM1,Case=Nom|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+.,vnvs,ADJcar,Case=Dat|Numb=Sing

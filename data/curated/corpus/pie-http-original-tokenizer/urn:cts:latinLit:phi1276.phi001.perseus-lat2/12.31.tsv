@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+alternum,alternvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+puppis,pvppis,NOM3,Case=Nom|Numb=Sing
+latus,latvs,NOM3,Case=Acc|Numb=Sing
+euertentibus,everto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+undis,vnda,NOM1,Case=Abl|Numb=Plur

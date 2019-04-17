@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+gestibus,gestvs,NOM4,Case=Abl|Numb=Plur
+Autonoes,avtonoe,NOM7,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+diligit,diligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Aelia,aelivs,NOM1,Case=Abl|Numb=Sing|Deg=Pos
+pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

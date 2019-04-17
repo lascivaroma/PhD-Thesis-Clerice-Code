@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+corporis,corpvs,NOM3,Case=Gen|Numb=Sing
+ornatum,ornatvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+quid,qvis,PROint,Case=Acc|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+ulla,vllvs,PROind,Case=Nom|Numb=Sing
+negauerit,nego,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+udis,vdvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

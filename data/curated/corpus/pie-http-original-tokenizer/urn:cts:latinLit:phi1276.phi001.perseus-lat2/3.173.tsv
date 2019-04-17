@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+festorum,festvs,NOM2,Case=Gen|Numb=Plur|Deg=Pos
+herboso,herbosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+colitur,colo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+si,si,CONsub,MORPH=empty
+quando,qvando,ADV,Deg=Pos
+theatro,theatrvm,NOM2,Case=Abl|Numb=Sing

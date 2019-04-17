@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+stat,sto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+contra,contra,ADV,Deg=Pos
+starique,stariqve,ADV,Deg=Pos
+iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+parere,pareo,VER,Mood=Inf|Tense=Pres|Voice=Act
+necesse,necesse,ADJqua,Case=Ind|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+artificem,artifex,NOM3,Case=Acc|Numb=Sing
+;,o,PRE,MORPH=empty
+quippe,qvippe,ADV,Case=Abl
+his,hic,PROdem,Case=Abl|Numb=Plur
+crescunt,cresco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+patrimonia,patrimonivm,NOM2,Case=Acc|Numb=Plur
+fabris,faber,NOM1,Case=Abl|Numb=Plur

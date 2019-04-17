@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+historico,historicvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+quantum,qvantvm,PROrel,MORPH=empty
+daret,do,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+acta,actvm,NOM2,Case=Acc|Numb=Plur
+legenti,lego,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

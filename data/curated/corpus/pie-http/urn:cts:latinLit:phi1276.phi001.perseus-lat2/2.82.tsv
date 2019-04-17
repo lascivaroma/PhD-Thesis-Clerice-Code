@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Foedius,foedivs,NOM2,Case=Nom|Numb=Sing
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
+quandoque,qvandoqve,ADV,MORPH=empty
+audebis,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=SemDep|Person=2
+amictu,amictvs,NOM4,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

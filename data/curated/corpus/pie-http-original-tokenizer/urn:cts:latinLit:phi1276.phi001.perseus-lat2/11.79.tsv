@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+focis,focvs,NOM2,Case=Abl|Numb=Plur
+breuibus,brevis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+ponebat,pono,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+holuscula,olvscvlvm,NOM2,Case=Acc|Numb=Plur
+quae,qvi,PROrel,Case=Acc|Numb=Plur
+nunc,nvnc,ADV,Deg=Pos

@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Tantum,tantvs,NOM2,Case=Acc|Numb=Sing
+magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+suo,svvs,PROpos.ref,Case=Abl|Numb=Sing
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Verona,verona,NOM1,Case=Nom|Numb=Sing
+Catullo,catvllvs,NOM2,Case=Abl|Numb=Sing
+Quantum,qvantvs,NOM2,Case=Acc|Numb=Sing
+parua,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+suo,svvs,PROpos.ref,Case=Abl|Numb=Sing
+Mantua,mantva,NOM1,Case=Abl|Numb=Sing
+Vergilio,vergilivs,NOM2,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quae,qvis,PROint,Case=Nom|Numb=Sing
+tam,tam,ADV,Deg=Pos
+festa,festvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dies,dies,NOM5,Case=Nom|Numb=Sing
+ut,vt,CONsub,MORPH=empty
+cesset,cesso,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+prodere,prodo,VER,Mood=Inf|Tense=Pres|Voice=Act
+furem,fvr,NOM3,Case=Acc|Numb=Sing

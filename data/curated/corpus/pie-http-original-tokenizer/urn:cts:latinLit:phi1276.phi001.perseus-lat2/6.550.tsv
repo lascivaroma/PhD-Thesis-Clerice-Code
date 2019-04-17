@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tractato,tracto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+Armenius,armenivs,NOM2,Case=Nom|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+Commagenus,commagenvs,NOM2,Case=Nom|Numb=Sing
+haruspex,harvspex,NOM3,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty

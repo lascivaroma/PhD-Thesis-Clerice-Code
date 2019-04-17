@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+improbus,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+aut,avt,CONcoo,MORPH=empty
+campum,campvs,NOM2,Case=Acc|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+si,si,CONsub,MORPH=empty
+uicinus,vicinvs,NOM2,Case=Nom|Numb=Sing
+ademit,adimo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

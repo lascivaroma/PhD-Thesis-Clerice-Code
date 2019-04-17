@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+omne,omnis,PROind,Case=Nom|Numb=Sing
+animi,animvs,NOM2,Case=Gen|Numb=Sing
+uitium,vitivm,NOM2,Case=Nom|Numb=Sing
+tanto,tanto,ADV,MORPH=empty
+conspectus,conspicio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+in,in,PRE,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing

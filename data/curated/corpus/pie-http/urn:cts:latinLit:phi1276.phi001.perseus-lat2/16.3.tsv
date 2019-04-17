@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+me,ego,PROper,Case=Acc|Numb=Sing
+pauidum,pavidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+excipiat,excipio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+tironem,tiro,NOM3,Case=Acc|Numb=Sing
+porta,porta,NOM1,Case=Abl|Numb=Sing
+secundo,secvndvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

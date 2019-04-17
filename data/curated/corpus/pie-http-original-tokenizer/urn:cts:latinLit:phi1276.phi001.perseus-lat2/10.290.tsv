@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+murmure,mvrmvr,NOM3,Case=Abl|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+Veneris,venvs,NOM3,Case=Gen|Numb=Sing
+fanum,fanvm,NOM2,Case=Acc|Numb=Sing
+uidet,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+anxia,anxivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mater,mater,NOM3,Case=Nom|Numb=Sing

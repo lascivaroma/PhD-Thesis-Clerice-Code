@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sic,sic,ADV,Deg=Pos
+aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
+merito,merito,ADV,Deg=Pos
+nondum,nondvm,ADVneg,MORPH=empty
+ebrius,ebrivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+minimum,minimvm,NOM2,Case=Nom|Numb=Sing|Deg=Sup
+qui,qvi,PROrel,Case=Nom|Numb=Sing

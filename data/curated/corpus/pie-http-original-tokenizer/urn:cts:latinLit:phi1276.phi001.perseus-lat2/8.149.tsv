@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nocte,nox,NOM3,Numb=Sing
+quidem,qvidem,ADV,Deg=Pos
+sed,sed,CONcoo,MORPH=empty
+Luna,lvna,NOM1,Case=Nom|Numb=Sing
+uidet,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+sidera,sidvs,NOM3,Case=Acc|Numb=Plur
+testes,testis,NOM3,Case=Nom|Numb=Plur

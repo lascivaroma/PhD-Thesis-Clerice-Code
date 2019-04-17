@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+casum,casvs,NOM4,Case=Acc|Numb=Sing
+tabulae,tabvla,NOM1,Case=Nom|Numb=Sing
+posita,pono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+sed,sed,CONcoo,MORPH=empty
+luditur,lvdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+arca,arca,NOM1,Case=Abl|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Gen|Numb=Sing

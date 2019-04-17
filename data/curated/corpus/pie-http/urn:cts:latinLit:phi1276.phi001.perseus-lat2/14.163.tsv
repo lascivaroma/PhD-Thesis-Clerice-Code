@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+tandem,tandem,ADV,Deg=Pos
+pro,pro,PRE,MORPH=empty
+multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+uix,vix,ADV,Deg=Pos
+iugera,ivgervm,NOM3,Case=Nom|Numb=Plur
+bina,binvs,ADJdis,Case=Nom|Numb=Plur
+dabantur,do,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Pass|Person=3

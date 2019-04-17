@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+licet,licet,CONsub,Numb=Sing|Mood=Ind|Person=3
+eximius,eximivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+citharoedo,citharoedvs,NOM2,Case=Dat|Numb=Sing
+siue,sive,CONsub,MORPH=empty
+Seleuco,selevcvs,NOM2,Case=Dat|Numb=Sing

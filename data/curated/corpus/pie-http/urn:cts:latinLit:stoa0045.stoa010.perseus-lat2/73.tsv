@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Quid,qvis,PROint,Case=Acc|Numb=Sing
+me,ego,PROper,Case=Acc|Numb=Sing
+taure,tavrvs,ADV,Case=Voc|Numb=Sing
+paras,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+specie,species,NOM5,Case=Abl|Numb=Sing
+deeeptus,deenipio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+inire,ineo,VER,Mood=Inf|Tense=Pres|Voice=Act
+non,non,ADVneg,MORPH=empty
+sum,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+ego,ego,PROper,Case=Nom|Numb=Sing
+Minoae,minovs,NOM1,Case=Gen|Numb=Sing|Deg=Pos
+maehina,maehina,NOM1,Case=Abl|Numb=Sing
+Pasiphaae,pasiphae,NOM1,Case=Gen|Numb=Sing
+.,qvinvs,ADJcar,Case=Gen|Numb=Plur

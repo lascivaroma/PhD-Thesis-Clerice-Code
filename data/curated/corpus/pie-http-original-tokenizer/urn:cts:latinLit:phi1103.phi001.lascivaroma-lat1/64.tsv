@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Quidam,qvida,PROind,Case=Acc|Numb=Sing
+mollior,mollis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+anseris,anser,NOM3,Case=Gen|Numb=Sing
+medulla,medvlla,NOM1,Case=Abl|Numb=Sing
+furatum,fvror,VER,Case=Acc|Numb=Sing|Tense=Perf|Voice=Pass
+uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+huc,hvc,ADV,Deg=Pos
+amore,amor,NOM3,Case=Abl|Numb=Sing
+poenae,poena,NOM1,Case=Gen|Numb=Sing
+furetur,fvror,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+licet,licet,CONsub,Numb=Sing|Mood=Ind|Person=3
+usque,vsqve,ADV,Deg=Pos
+non,non,ADVneg,MORPH=empty
+uidebo,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

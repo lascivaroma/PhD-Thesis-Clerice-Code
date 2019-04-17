@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uix,vix,ADV,Deg=Pos
+cuiquam,qvisqvam,PROind,Case=Dat|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+nulli,nvllvs,PROind,Case=Dat|Numb=Sing
+toto,totvs,PROind,Case=Abl|Numb=Sing
+certamine,certamen,NOM3,Case=Abl|Numb=Sing
+nasus,nasvs,VER,Case=Nom|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+necdum,necdvm,ADVneg,MORPH=empty
+ausus,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
+uirgas,virga,NOM1,Case=Acc|Numb=Plur
+humilis,hvmilis,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+mordere,mordeo,VER,Mood=Inf|Tense=Pres|Voice=Dep|Person=2
+salicti,salictvm,NOM2,Case=Gen|Numb=Sing

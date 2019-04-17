@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+praebenda,praebeo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+gladio,gladivs,NOM2,Case=Dat|Numb=Sing
+pulchra,pvlcher,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+haec,hic,PROdem,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+candida,candidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ceruix,cervix,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

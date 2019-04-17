@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+laudat,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Vergilium,vergilivs,NOM2,Case=Acc|Numb=Sing
+periturae,pereo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+ignoscit,ignosco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Elissae,elissa,NOM1,Case=Gen|Numb=Sing

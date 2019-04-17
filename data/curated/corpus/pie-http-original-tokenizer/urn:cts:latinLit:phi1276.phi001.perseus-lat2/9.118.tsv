@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+uiuendum,vivo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+recte,recte,ADV,Deg=Pos
+cum,cvm,CONsub,MORPH=empty
+propter,propter,PRE,MORPH=empty
+plurima,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+tum,tvm,ADV,Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+his,hic,PROdem,Case=Dat|Numb=Plur

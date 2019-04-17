@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+obseruant,observo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ubi,vbi,CONsub,MORPH=empty
+festa,festvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+mero,mervm,NOM2,Case=Abl|Numb=Sing
+pede,pes,NOM3,Case=Abl|Numb=Sing
+sabbata,sabbo,VER,Case=Nom|Numb=Plur|Tense=Perf|Voice=Pass
+reges,rex,NOM3,Case=Nom|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+gentibus,gens,NOM3,Case=Abl|Numb=Plur
+in,in,PRE,MORPH=empty
+nostris,noster,PROpos,Case=Abl|Numb=Plur
+risu,risvs,NOM4,Case=Abl|Numb=Sing
+quatiare,qvatio,VER,Mood=Sub|Tense=Pres|Voice=Pass|Person=2
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+illic,illic,ADV,Deg=Pos

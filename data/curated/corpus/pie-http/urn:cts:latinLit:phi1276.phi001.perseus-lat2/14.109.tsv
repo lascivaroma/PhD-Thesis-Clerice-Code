@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+fallit,fallo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+enim,enim,CONcoo,MORPH=empty
+uitium,vitivm,NOM2,Case=Acc|Numb=Sing
+specie,species,NOM5,Case=Abl|Numb=Sing
+uirtutis,virtvs,NOM3,Case=Gen|Numb=Sing
+et,et,CONcoo,MORPH=empty
+umbra,vmbra,NOM1,Case=Abl|Numb=Sing

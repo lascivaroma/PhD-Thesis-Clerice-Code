@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+illos,ille,PROdem,Case=Acc|Numb=Plur
+ergo,ergo,CONcoo,MORPH=empty
+roges,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
+paulo,pavlo,ADV,Deg=Pos
+ante,ante,ADV,Deg=Pos
+petebas,peto,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2

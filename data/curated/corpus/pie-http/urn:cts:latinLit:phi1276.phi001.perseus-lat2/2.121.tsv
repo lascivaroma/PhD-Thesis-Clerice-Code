@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+o,o,INJ,MORPH=empty
+proceres,procer,NOM3,Case=Voc|Numb=Plur
+censore,censor,NOM3,Case=Abl|Numb=Sing
+opus,opvs,NOM6,Case=Ind
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+an,an,ADVint,MORPH=empty
+haruspice,harvspex,NOM3,Case=Abl|Numb=Sing
+nobis,nos,PROper,Case=Dat|Numb=Plur

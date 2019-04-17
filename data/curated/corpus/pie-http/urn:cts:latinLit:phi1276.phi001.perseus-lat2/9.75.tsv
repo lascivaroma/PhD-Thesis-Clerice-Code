@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+amplexu,amplexvs,NOM4,Case=Abl|Numb=Sing
+rapui,rapio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+;,o,PRE,MORPH=empty
+tabulas,tabvla,NOM1,Case=Acc|Numb=Plur
+quoque,qvoqve,ADV,Deg=Pos
+ruperat,rvmpo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+iam,iam,ADV,Deg=Pos

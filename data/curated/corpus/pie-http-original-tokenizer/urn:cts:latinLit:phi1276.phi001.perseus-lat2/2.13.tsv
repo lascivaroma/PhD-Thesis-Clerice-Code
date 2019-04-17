@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+caeduntur,caedo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+tumidae,tvmidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+medico,medicvs,NOM2,Case=Dat|Numb=Sing
+ridente,rideo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+mariscae,marisca,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

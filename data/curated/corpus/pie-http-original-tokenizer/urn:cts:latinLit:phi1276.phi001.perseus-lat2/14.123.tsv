@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quaedam,qvidam,PROind,Case=Nom|Numb=Plur
+uitiorum,vitivm,NOM2,Case=Gen|Numb=Plur
+elementa,elementa,NOM2,Case=Nom|Numb=Plur
+his,hic,PROdem,Case=Dat|Numb=Plur
+protinus,protinvs,ADV,Deg=Pos
+illos,ille,PROdem,Case=Acc|Numb=Plur

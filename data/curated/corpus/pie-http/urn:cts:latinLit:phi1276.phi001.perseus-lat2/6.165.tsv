@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+rara,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+auis,avis,NOM3,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+terris,terra,NOM1,Case=Abl|Numb=Plur
+nigro,niger,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+simillima,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+cycno,cycnvs,NOM2,Case=Abl|Numb=Sing

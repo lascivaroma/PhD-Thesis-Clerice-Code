@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+accedente,accedo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+noua,novvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+quam,qvis,PROind,Case=Acc|Numb=Sing
+dabat,do,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+hostia,hostia,NOM1,Case=Nom|Numb=Sing
+carne,caro,NOM3,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

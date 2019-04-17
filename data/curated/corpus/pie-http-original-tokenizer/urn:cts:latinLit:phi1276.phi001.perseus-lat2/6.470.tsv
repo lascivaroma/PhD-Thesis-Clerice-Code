@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+exul,exsvl,NOM3,Case=Nom|Numb=Sing
+Hyperboreum,hyperborevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+dimittetur,dimitto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+ad,ad,PRE,MORPH=empty
+axem,axis,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

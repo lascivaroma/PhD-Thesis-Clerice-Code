@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+tunc,tvnc,ADV,Deg=Pos
+quibus,qvis,PROint,Case=Dat|Numb=Plur
+inuideas,invideo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+si,si,CONsub,MORPH=empty
+liuidulus,lividvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sis,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

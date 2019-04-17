@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+naturae,natvra,NOM1,Case=Gen|Numb=Sing
+imperio,imperivm,NOM2,Case=Abl|Numb=Sing
+gemimus,gemo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+cum,cvm,CONsub,MORPH=empty
+funus,fvnvs,NOM3,Case=Acc|Numb=Sing
+adultae,advltvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

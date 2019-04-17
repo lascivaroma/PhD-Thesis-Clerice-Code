@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Accipe,accipvs,NOM7,Case=Voc|Numb=Sing
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+contra,contra,ADV,Deg=Pos
+ualeat,valeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+solacia,solacivm,NOM2,Case=Acc|Numb=Plur
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act

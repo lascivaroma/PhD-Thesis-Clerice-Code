@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+coeperat,coepio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+secto,seco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+requiem,reqvies,NOM5,Case=Acc|Numb=Sing
+sperare,spero,VER,Mood=Inf|Tense=Pres|Voice=Act
+lacerto,lacertvs,NOM2,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

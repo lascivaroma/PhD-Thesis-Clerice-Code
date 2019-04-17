@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+cantandum,canto,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+res,res,NOM5,Case=Nom|Numb=Sing
+uera,vervs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+agitur,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+narrate,narro,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+puellae,pvella,NOM1,Case=Nom|Numb=Plur

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quam,qvam,ADVint,MORPH=empty
+Basilus,basilvs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+rara,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+facundia,facvndia,NOM1,Case=Abl|Numb=Sing
+panno,pannvs,NOM2,Case=Abl|Numb=Sing
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

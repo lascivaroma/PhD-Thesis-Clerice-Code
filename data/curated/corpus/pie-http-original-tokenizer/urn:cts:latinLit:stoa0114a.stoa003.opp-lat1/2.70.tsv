@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Tutus,tvtvs,NOM2,Case=Nom|Numb=Sing
+falsa,falsvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+loqui,loqvor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+poteris,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+sine,sine,PRE,MORPH=empty
+teste,testis,NOM3,Case=Abl|Numb=Sing
+Tribune,tribvnvs,NOM2,Case=Voc|Numb=Sing
+Ventus,ventvs,NOM3,Case=Nom|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+linguam,lingva,NOM1,Case=Acc|Numb=Sing
+ponderibus,pondvs,NOM3,Case=Abl|Numb=Plur
+uacui,vacvvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

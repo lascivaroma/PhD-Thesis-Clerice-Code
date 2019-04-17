@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quod,qvod,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+uexantur,vexo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+leges,lex,NOM3,Case=Nom|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+iura,ivs,NOM3,Case=Acc|Numb=Plur
+citari,cito,VER,Mood=Inf|Tense=Pres|Voice=Pass

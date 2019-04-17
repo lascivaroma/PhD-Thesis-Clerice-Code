@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+ergo,ergo,CONcoo,MORPH=empty
+pares,par,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+semper,semper,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+omni,omnis,PROind,Case=Abl|Numb=Sing

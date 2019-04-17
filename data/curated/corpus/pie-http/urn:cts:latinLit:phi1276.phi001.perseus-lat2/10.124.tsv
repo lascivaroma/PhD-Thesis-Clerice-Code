@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+dixisset,dico,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
+uidenda,video,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+poemata,poema,NOM3,Case=Acc|Numb=Plur
+malo,malo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1

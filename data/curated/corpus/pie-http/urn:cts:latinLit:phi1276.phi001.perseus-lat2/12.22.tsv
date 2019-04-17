@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+naufragium,navfragivm,NOM2,Case=Acc|Numb=Sing
+uelis,volo,NOM2,Numb=Sing|Mood=Sub|Tense=Pres
+ardentibus,ardens,VER,Case=Dat|Numb=Plur|Tense=Pres|Voice=Act
+omnia,omnis,PROind,Case=Nom|Numb=Plur
+fiunt,fio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

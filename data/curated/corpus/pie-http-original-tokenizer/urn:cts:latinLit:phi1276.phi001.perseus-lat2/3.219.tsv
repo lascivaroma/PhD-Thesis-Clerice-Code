@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+hic,hic,PROdem,Case=Nom
+libros,liber,NOM2,Case=Acc|Numb=Plur
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+forulos,forvlvs,NOM2,Case=Acc|Numb=Plur
+mediamque,medivs,NOM1,Case=Acc|Numb=Sing|Deg=Pos
+Mineruam,minerva,NOM1,Case=Acc|Numb=Sing

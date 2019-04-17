@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Abscisa,abscisvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+seruom,servvs,NOM2,Case=Acc|Numb=Sing
+quid,qvis,PROint,Case=Acc|Numb=Sing
+figis,figo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Pontice,ponticvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+lingua,lingva,NOM1,Case=Voc|Numb=Sing
+Nescis,nescis,ADJqua,Case=Voc|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+populum,popvlvs,NOM2,Case=Acc|Numb=Sing
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+tacet,taceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ille,ille,PROdem,Case=Nom|Numb=Sing
+loqui,loqvor,VER,Mood=Inf|Tense=Pres|Voice=Dep

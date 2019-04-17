@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Graecam,graecvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+urbem,vrbs,NOM3,Case=Acc|Numb=Sing
+;,o,PRE,MORPH=empty
+quamuis,qvamvis,PROrel,MORPH=empty
+quota,qvotvs,PROint,Case=Nom|Numb=Sing
+portio,portio,NOM3,Case=Nom|Numb=Sing
+faecis,faex,NOM3,Case=Gen|Numb=Sing
+Achaei,achaevs,NOM2,Case=Gen|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+parte,pars,NOM3,Case=Abl|Numb=Sing
+alia,alivs,PROind,Case=Abl|Numb=Sing
+solum,solvm,ADV,Case=Acc
+russati,rvssatvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+pone,pone,VER,Numb=Sing|Mood=Imp|Person=2
+Lacertae,lacerta,NOM1,Case=Gen|Numb=Sing
+,,PRE,MORPH=empty
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

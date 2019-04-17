@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Tota,tota,NOM1,Case=Nom|Numb=Sing
+mihi,ego,PROper,Case=Dat|Numb=Sing
+dormitur,dormio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+hiems,hiems,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+pinguior,pingvis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+illo,ille,PROdem,Case=Abl|Numb=Sing
+Tempore,tempvs,NOM3,Case=Abl|Numb=Sing
+sum,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+quo,qvi,PROrel,Case=Abl
+me,ego,PROper,Case=Acc|Numb=Sing
+nil,nihil,PROind,Case=Ind
+nisi,nisi,CONsub,MORPH=empty
+somnus,somnvs,NOM2,Case=Nom|Numb=Sing
+alit,alo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

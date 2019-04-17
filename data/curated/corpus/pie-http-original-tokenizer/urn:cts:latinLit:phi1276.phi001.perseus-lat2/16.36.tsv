@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+sacramentorum,sacramentvm,NOM2,Case=Gen|Numb=Plur
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur
+conuallem,convallis,NOM3,Case=Acc|Numb=Sing
+ruris,rvs,NOM3,Case=Gen|Numb=Sing
+auiti,avitvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

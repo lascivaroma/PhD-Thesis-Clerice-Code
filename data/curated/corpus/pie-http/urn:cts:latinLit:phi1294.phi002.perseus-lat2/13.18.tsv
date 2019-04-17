@@ -1,0 +1,12 @@
+form,lemma,pos,morph
+Fila,fila,NOM2,Case=Nom|Numb=Sing
+Tarentini,tarentinvs,NOM2,Case=Nom|Numb=Plur
+grauiter,graviter,ADV,Deg=Pos
+redolentia,redolens,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+porri,porrvs,NOM2,Case=Gen|Numb=Sing
+Edisti,edistivs,NOM2,Case=Gen|Numb=Sing
+quotiens,qvotiens,ADVint,MORPH=empty
+oscula,oscvlvm,NOM2,Case=Acc|Numb=Plur
+clusa,clavdo,VER,Case=Acc|Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+dato,do,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

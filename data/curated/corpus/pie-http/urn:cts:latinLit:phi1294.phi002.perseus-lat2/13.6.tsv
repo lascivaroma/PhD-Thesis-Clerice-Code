@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Nos,nos,PROper,Case=Nom|Numb=Plur
+alicam,alicvs,PROind,Case=Acc|Numb=Sing
+poterit,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+mulsum,mvlsvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tibi,tv,PROper,Case=Dat|Numb=Sing
+mittere,mitto,VER,Mood=Inf|Tense=Pres|Voice=Act
+diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Gen|Numb=Plur
+Si,sivs,NOM2,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+noluerit,nolo,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+mittere,mitto,VER,Mood=Inf|Tense=Pres|Voice=Act
+diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+emes,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

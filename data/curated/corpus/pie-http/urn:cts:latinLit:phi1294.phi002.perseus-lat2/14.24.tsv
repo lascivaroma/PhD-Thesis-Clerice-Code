@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Splendida,splendides,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ne,ne,CONsub,MORPH=empty
+madidi,madidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uiolent,violo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+bombycina,bombycina,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+crines,crinis,NOM3,Case=Acc|Numb=Plur
+Figat,figo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+acus,acvs,NOM4,Case=Acc|Numb=Plur
+tortas,torqveo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+sustineat,svstineo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+-que,qvove,CONcoo,MORPH=empty
+comas,coma,NOM1,Case=Acc|Numb=Plur
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Iliaco,iliacvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+similem,similis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+puerum,pver,NOM2,Case=Acc|Numb=Sing
+Faustine,favstinvs,NOM2,Case=Voc|Numb=Sing
+ministro,minister,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Lusca,lvsca,NOM1,Case=Nom|Numb=Sing
+Lycoris,lycor,NOM3,Case=Gen|Numb=Sing
+amat,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
+Quam,qvis,PROint,Case=Acc|Numb=Sing
+bene,bene,ADV,Deg=Pos
+lusca,lvscvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+uidet,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

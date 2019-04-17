@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+in,in,PRE,MORPH=empty
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+facie,facies,NOM5,Case=Abl|Numb=Sing
+miserae,miser,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+magnae,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+sedebat,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

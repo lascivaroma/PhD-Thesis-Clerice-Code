@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quisquis,qvisqvis,PROrel,Case=Nom|Numb=Sing
+adest,assvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+socius,socivs,NOM2,Case=Nom|Numb=Sing
+cur,cvr,ADVint,MORPH=empty
+haec,hic,PROdem,Case=Acc|Numb=Plur
+in,in,PRE,MORPH=empty
+tempora,tempvs,NOM3,Case=Acc|Numb=Plur
+duret,dvro,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

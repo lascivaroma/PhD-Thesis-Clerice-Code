@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Sum,svm,NOM6,Case=Nom|Numb=Sing
+figuli,figvlvs,NOM2,Case=Gen|Numb=Sing
+lusus,lvsvs,NOM4,Case=Nom|Numb=Sing
+russi,rvdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
+persona,persona,NOM1,Case=Abl|Numb=Sing
+Bataui,batavi,NOM2,Case=Gen|Numb=Plur
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur
+Quae,qvis,PROrel,Case=Dat|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+derides,derideo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+haec,hic,PROdem,Case=Acc|Numb=Plur
+timet,timeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ora,os,NOM3,Case=Acc|Numb=Plur
+puer,pver,NOM2,Case=Voc|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

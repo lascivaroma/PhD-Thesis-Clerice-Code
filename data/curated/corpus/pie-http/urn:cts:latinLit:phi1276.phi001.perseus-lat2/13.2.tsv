@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+displicet,displiceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+auctori,avctor,NOM3,Case=Dat|Numb=Sing
+prima,primvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Sing
+ultio,vltio,NOM3,Case=Nom|Numb=Sing
+quod,qvod,CONsub,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing

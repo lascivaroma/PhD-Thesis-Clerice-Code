@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+suppositus,svppono,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+uenias,venio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+ac,ac,CONcoo,MORPH=empty
+falso,falsvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+nomine,nomen,NOM3,Case=Abl|Numb=Sing
+poscas,posco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

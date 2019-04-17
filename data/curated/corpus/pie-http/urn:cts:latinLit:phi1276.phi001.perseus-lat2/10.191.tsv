@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+plena,plenvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+malis,malvm,NOM2,Case=Dat|Numb=Plur
+deformem,deformis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+taetrum,teter,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+ante,ante,PRE,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+uultum,vvltvs,NOM4,Case=Acc|Numb=Sing

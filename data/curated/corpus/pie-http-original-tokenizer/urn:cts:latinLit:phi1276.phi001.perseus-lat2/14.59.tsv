@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Hospite,hospites,NOM3,Case=Voc|Numb=Sing
+uenturo,venio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
+cessabit,cesso,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+tuorum,tvvs,PROpos,Case=Gen|Numb=Plur
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+adfirmat,affirmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+nil,nihil,PROind,Case=Ind
+actum,ago,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+in,in,PRE,MORPH=empty
+montibus,mons,NOM3,Case=Abl|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mense,mensis,NOM3,Case=Abl|Numb=Sing
+quibus,qvis,PROrel,Case=Abl|Numb=Plur
+uerbis,verbvm,NOM2,Case=Abl|Numb=Plur
+concumbat,concvmbo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quaeque,qvisqve,PROind,Case=Nom|Numb=Plur
+modis,modvs,NOM2,Case=Abl|Numb=Plur
+quot,qvot,PROint,Case=Ind
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur

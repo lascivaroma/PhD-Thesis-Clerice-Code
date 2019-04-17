@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Respice,respicvs,NOM2,Case=Voc|Numb=Sing|Deg=Pos
+nunc,nvnc,ADV,Deg=Pos
+alia,alivs,PROind,Case=Acc|Numb=Plur
+ac,ac,CONcoo,MORPH=empty
+diuersa,diversvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+pericula,pericvlvm,NOM2,Case=Acc|Numb=Plur
+noctis,nox,NOM3,Case=Gen|Numb=Sing

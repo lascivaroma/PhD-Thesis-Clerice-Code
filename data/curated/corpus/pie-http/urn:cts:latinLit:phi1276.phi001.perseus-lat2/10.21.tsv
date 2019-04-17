@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+motae,moveo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+ad,ad,PRE,MORPH=empty
+lunam,lvna,NOM1,Case=Acc|Numb=Sing
+trepidans,trepido,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+harundinis,arvndo,NOM3,Case=Gen|Numb=Sing
+umbram,vmbra,NOM1,Case=Acc|Numb=Sing

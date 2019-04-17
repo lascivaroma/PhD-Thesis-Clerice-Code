@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ponitur,pono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+inde,inde,ADV,Deg=Pos
+autem,avtem,CONcoo,MORPH=empty
+cum,cvm,CONsub,MORPH=empty
+se,svi,PROref,Case=Acc|Numb=Sing
+matura,matvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+leuauit,levo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

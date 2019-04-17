@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+magnus,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+equos,eqvvs,NOM2,Case=Acc|Numb=Sing
+Auruncae,avrvnca,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+flexit,flecto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+alumnus,alvmnvs,NOM2,Case=Nom|Numb=Sing

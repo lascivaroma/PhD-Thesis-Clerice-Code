@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ac,ac,CONcoo,MORPH=empty
+summum,svpervs,ADJqua,Case=Acc|Numb=Sing|Deg=Sup
+dominae,domina,NOM1,Case=Gen|Numb=Sing
+femur,femvr,NOM3,Case=Nom|Numb=Sing
+exclamare,exclamo,VER,Mood=Inf|Tense=Pres|Voice=Act
+coegit,cogo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

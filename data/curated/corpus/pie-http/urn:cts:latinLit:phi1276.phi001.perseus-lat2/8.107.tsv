@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+occulta,occvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+spolia,spolivm,NOM2,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+plures,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+de,de,PRE,MORPH=empty
+pace,pax,NOM3,Case=Abl|Numb=Sing
+triumphos,trivmphvs,NOM2,Case=Acc|Numb=Plur

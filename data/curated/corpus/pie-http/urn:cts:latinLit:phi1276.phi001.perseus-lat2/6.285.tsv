@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+deprensis,deprehendo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+iram,ira,NOM1,Case=Acc|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+animos,animvs,NOM2,Case=Acc|Numb=Plur
+a,ab,PRE,MORPH=empty
+crimine,crimen,NOM3,Case=Abl|Numb=Sing
+sumunt,svmo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

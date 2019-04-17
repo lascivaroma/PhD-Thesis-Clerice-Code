@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Et,et,ADVint,MORPH=empty
+quis,qvis,PROint,Case=Nom|Numb=Sing
+tune,tvneo,VER,Numb=Sing|Mood=Imp|Person=2
+hominum,homo,NOM3,Case=Gen|Numb=Plur
+contemptor,contemptor,NOM3,Case=Voc|Numb=Sing
+numinis,nvmen,NOM3,Case=Gen|Numb=Sing
+aut,avt,CONcoo,MORPH=empty
+quis,qvis,PROint,Case=Nom|Numb=Sing

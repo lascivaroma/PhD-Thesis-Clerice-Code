@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+uultur,vvltvr,NOM3,Case=Nom|Numb=Sing
+iumento,ivmentvm,NOM2,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+canibus,canis,NOM3,Case=Abl|Numb=Plur
+crucibusque,crvx,NOM4,Case=Abl|Numb=Plur
+relictis,relinqvo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

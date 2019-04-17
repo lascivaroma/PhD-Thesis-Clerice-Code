@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+expectat,exspecto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+niueam,nivevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+reginae,regina,NOM1,Case=Dat|Numb=Sing
+ducimus,dvco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+agnam,agna,NOM1,Case=Acc|Numb=Sing

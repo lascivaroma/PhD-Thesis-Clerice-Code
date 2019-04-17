@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+auditor,avditor,NOM3,Case=Nom|Numb=Sing
+gelidos,gelidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+ueniam,venia,NOM1,Case=Acc|Numb=Sing
+caligatus,caligatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+in,in,PRE,MORPH=empty
+agros,ager,NOM2,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

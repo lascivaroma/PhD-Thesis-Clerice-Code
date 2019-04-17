@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+feruet,ferveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+exultat,exsvlto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+rauco,ravcvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+uictoria,victoria,NOM1,Case=Nom|Numb=Sing
+circo,circvs,NOM2,Case=Abl|Numb=Sing
+;,o,PRE,MORPH=empty

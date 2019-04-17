@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+flectas,flecto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
+maiora,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+ad,ad,PRE,MORPH=empty
+crimina,crimen,NOM3,Case=Acc|Numb=Plur
+confer,confero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

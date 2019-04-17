@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ingenui,ingenvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+uultus,vvltvs,NOM4,Case=Nom|Numb=Sing
+puer,pver,NOM2,Case=Voc|Numb=Sing
+ingenui,ingenvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+-que,qvavis,CONcoo,MORPH=empty
+pudoris,pvdor,NOM3,Case=Gen|Numb=Sing

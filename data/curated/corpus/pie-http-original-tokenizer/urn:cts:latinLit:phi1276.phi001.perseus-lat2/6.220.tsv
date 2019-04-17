@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+supplicium,svpplicivm,NOM2,Case=Nom|Numb=Sing
+quis,qvis,PROint,Case=Nom|Numb=Sing
+testis,testis,NOM3,Case=Nom|Numb=Sing
+adest,assvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quis,qvis,PROint,Case=Nom|Numb=Sing
+detulit,defero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+audi,avdio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+;,o,PRE,MORPH=empty

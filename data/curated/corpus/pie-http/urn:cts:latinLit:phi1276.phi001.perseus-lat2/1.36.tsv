@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Carus,carvs,NOM2,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+a,ab,PRE,MORPH=empty
+trepido,trepidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+Thymele,thymele,NOM7,Case=Voc|Numb=Sing
+summissa,svbmitto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+Latino,latinvs,NOM2,Case=Abl|Numb=Sing

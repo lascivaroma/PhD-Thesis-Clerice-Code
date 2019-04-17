@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+porrige,porrigo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+quidquid,qvisqvis,PROrel,Case=Nom|Numb=Sing
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+;,o,PRE,MORPH=empty
+nam,nam,CONcoo,MORPH=empty
+si,si,CONsub,MORPH=empty
+distendere,distendo,VER,Mood=Inf|Tense=Pres|Voice=Act
+uellet,volo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

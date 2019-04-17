@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+set,sed,CONcoo,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+dimidio,dimidivm,NOM2,Case=Abl|Numb=Sing
+constrictus,constringo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+cammarus,cammarvs,NOM2,Case=Nom|Numb=Sing
+ouo,ovvm,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+aut,avt,CONcoo,MORPH=empty
+perit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ingratos,ingratvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+ante,ante,PRE,MORPH=empty
+omnia,omnis,PROind,Case=Acc|Numb=Plur
+pone,pone,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+sodales,sodalis,NOM3,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

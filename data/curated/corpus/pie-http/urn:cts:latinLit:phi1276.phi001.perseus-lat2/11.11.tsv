@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+quibus,qvi,PROrel,Case=Abl|Numb=Plur
+in,in,PRE,MORPH=empty
+solo,solvm,PROind,Case=Abl|Numb=Sing
+uiuendi,vivo,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
+causa,cavsa,NOM1,Case=Nom|Numb=Sing
+palato,palatvm,NOM2,Case=Abl|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,vnvs,ADJcar,Case=Nom|Numb=Sing

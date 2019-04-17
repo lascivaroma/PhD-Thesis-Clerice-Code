@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+De,decenti,NOM7,Case=Voc|Numb=Sing
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing
+loqueris,loqvor,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=2
+nulli,nvllvs,PROind,Case=Dat|Numb=Sing
+maledicis,maledico,ADJqua,Case=Abl|Numb=Plur|Deg=Pos|Tense=Pres|Voice=Act
+Apici,apicvs,NOM2,Case=Gen|Numb=Sing
+Rumor,rvmor,NOM3,Case=Nom|Numb=Sing
+ait,aio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+linguae,lingva,NOM1,Case=Dat|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+tamen,tamen,ADV,Deg=Pos
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+malae,malvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Gen|Numb=Sing

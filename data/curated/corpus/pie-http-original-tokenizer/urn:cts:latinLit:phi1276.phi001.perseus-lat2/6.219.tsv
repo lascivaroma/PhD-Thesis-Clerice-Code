@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Pone,pone,NOM2,Case=Voc|Numb=Sing
+crucem,crvx,NOM3,Case=Acc|Numb=Sing
+seruo,servvs,NOM2,Case=Dat|Numb=Sing
+.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
+meruit,mereo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+quo,qvis,PROint,Case=Abl|Numb=Sing
+crimine,crimen,NOM3,Case=Abl|Numb=Sing
+seruus,servvs,NOM2,Case=Nom|Numb=Sing

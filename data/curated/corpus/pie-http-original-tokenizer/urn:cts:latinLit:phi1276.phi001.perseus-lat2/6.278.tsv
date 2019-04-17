@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+zelotypae,zelotypvs,NOM1,Case=Nom|Numb=Plur
+retegantur,retego,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
+scrinia,scrinivm,NOM2,Case=Nom|Numb=Plur
+moechae,moecha,NOM1,Case=Gen|Numb=Sing

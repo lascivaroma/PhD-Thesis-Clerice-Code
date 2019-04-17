@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nescio,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+quis,qvis,PROint,Case=Nom|Numb=Sing
+titulos,titvlvs,NOM2,Case=Acc|Numb=Plur
+Aegyptius,aegyptivs,NOM2,Case=Nom|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+Arabarches,arabarches,NOM7,Case=Nom|Numb=Sing

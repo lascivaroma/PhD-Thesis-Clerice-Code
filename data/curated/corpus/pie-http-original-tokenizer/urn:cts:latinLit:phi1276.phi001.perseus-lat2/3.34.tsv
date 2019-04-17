@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quondam,qvondam,ADV,Deg=Pos
+hi,hic,PROdem,Case=Nom|Numb=Plur
+cornicines,cornicen,NOM3,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+municipalis,mvnicipalis,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+harenae,arena,NOM1,Case=Gen|Numb=Sing

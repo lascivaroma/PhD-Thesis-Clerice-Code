@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pro,pro,PRE,MORPH=empty
+cuius,qvi,PROint,Case=Gen|Numb=Sing
+reditu,reditvs,NOM4,Case=Abl|Numb=Sing
+tot,tot,PROdem,Case=Ind
+pono,pono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+altaria,altar,NOM3,Case=Acc|Numb=Plur
+paruos,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

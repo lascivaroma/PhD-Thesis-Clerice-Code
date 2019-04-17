@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+quid,qvis,PROint,Case=Acc|Numb=Sing
+tam,tam,ADV,Deg=Pos
+miserum,miser,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+tam,tam,ADV,Deg=Pos
+solum,solvm,ADV,Numb=Sing|Deg=Pos
+uidimus,video,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+ut,vt,CONsub,MORPH=empty
+non,non,ADVneg,MORPH=empty

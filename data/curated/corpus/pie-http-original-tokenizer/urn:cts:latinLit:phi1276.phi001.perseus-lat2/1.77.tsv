@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quem,qvis,PROrel,Case=Acc|Numb=Sing
+patitur,patior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+dormire,dormio,VER,Mood=Inf|Tense=Pres|Voice=Act
+nurus,nvrvs,NOM4,Case=Acc|Numb=Plur
+corruptor,corrvptor,NOM3,Case=Nom|Numb=Sing
+auarae,avarvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

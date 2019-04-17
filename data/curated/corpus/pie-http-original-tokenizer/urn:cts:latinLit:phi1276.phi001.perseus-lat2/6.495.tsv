@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+displicuit,displiceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nasus,nasvs,NOM4,Case=Nom|Numb=Sing
+tuus,tvvs,PROpos,Case=Nom|Numb=Sing
+altera,alter,PROind,Case=Nom|Numb=Sing
+laeuum,laevvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

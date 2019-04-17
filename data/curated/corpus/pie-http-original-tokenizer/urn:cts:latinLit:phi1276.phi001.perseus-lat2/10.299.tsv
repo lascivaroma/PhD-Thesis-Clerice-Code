@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+tradiderit,trado,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+ac,ac,CONcoo,MORPH=empty
+ueteres,vetvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+imitata,imitor,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
+Sabinos,sabini,NOM2,Case=Acc|Numb=Plur

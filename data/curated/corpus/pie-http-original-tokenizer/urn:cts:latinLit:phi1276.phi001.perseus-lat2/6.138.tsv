@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+pharetris,pharetra,NOM2,Case=Dat|Numb=Plur
+Veneris,venvs,NOM3,Case=Gen|Numb=Sing
+macer,macer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aut,avt,CONcoo,MORPH=empty
+lampade,lampas,NOM3,Case=Abl|Numb=Sing
+feruet,ferveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

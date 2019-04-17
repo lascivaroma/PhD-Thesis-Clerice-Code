@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+quam,qvam,ADVint,MORPH=empty
+dominum,dominvs,NOM2,Case=Nom|Numb=Sing
+;,o,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+tu,tv,PROper,Case=Nom|Numb=Sing
+sane,sane,ADV,Deg=Pos
+tenerum,tener,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+puerum,pver,NOM2,Case=Acc|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing

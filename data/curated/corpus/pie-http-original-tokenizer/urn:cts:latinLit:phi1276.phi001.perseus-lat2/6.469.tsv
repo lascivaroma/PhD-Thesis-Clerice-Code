@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+propter,propter,PRE,MORPH=empty
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+secum,secvm,PRE,Case=Acc|Deg=Pos
+comites,comes,NOM3,Case=Acc|Numb=Plur
+educit,edvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+asellas,asella,NOM1,Case=Acc|Numb=Plur

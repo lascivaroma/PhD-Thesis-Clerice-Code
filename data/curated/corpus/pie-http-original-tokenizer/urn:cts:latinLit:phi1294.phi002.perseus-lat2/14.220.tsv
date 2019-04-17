@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Non,non,NOM3,Case=Ind
+satis,satis,ADJqua,Case=Ind|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ars,ars,NOM3,Case=Nom|Numb=Sing
+sola,solvs,PROind,Case=Nom|Numb=Sing
+coco,coqvvs,NOM2,Case=Abl|Numb=Sing
+seruire,servio,VER,Mood=Inf|Tense=Pres|Voice=Act
+palatum,palatvm,NOM2,Case=Acc|Numb=Sing
+Nolo,nolvs,NOM2,Case=Dat|Numb=Sing
+cocus,coqvvs,NOM2,Case=Nom|Numb=Sing
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+habere,habeo,VER,Mood=Inf|Tense=Pres|Voice=Act
+gulam,gvla,NOM1,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

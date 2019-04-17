@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+facias,facio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+uersus,versvs,NOM4,Case=Acc|Numb=Plur
+nulla,nvllvs,PROind,Case=Abl|Numb=Sing
+non,non,ADVneg,MORPH=empty
+luce,lvx,NOM3,Case=Abl|Numb=Sing
+ducenos,dvcenvs,ADJdis,Case=Acc|Numb=Plur
+Vare,varvs,NOM2,Case=Voc|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+recitas,recito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Non,non,NOM7,Case=Acc
+sapis,sapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+atque,atqve,CONcoo,MORPH=empty
+sapis,sapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

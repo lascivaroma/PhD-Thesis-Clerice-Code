@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Quid,qvis,PROint,Case=Nom|Numb=Sing
+si,si,CONsub,MORPH=empty
+numquam,nvmqvam,ADVneg,MORPH=empty
+adeo,adeo,ADV,Deg=Pos
+foedis,foedvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+adeo,adeo,ADV,Deg=Pos
+-que,qvove,ADV,Deg=Pos
+pudendis,pvdendvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos

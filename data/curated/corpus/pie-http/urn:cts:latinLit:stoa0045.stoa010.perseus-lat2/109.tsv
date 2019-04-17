@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+SILVIVS,sestivs,ADJcar,Case=Nom|Numb=Sing
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+Bonus,bonvs,NOM2,Case=Nom|Numb=Sing
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+-que,qvovs,ADV,MORPH=empty
+Britannus,britannvs,NOM2,Case=Nom|Numb=Sing
+quis,qvis,PROind,Case=Nom|Numb=Sing
+credat,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ciuem,civis,NOM3,Case=Acc|Numb=Sing
+degenerasse,degenero,VER,Mood=Inf|Tense=Perf|Voice=Act
+bonum,bonvm,NOM2,Case=Acc|Numb=Sing

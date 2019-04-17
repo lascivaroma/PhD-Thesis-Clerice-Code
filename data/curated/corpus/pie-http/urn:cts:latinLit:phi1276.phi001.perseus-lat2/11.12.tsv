@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+egregius,egregivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cenat,ceno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+melius,bene,ADV,Deg=Comp
+-que,qvovs,ADV,MORPH=empty
+miserrimus,miser,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+horum,hic,PROdem,Case=Gen|Numb=Plur

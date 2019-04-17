@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Caede,caedes,NOM3,Case=Nom|Numb=Sing
+iuuencorum,ivvencvs,NOM2,Case=Gen|Numb=Plur
+domini,dominvs,NOM2,Case=Gen|Numb=Sing
+calet,caleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+area,area,NOM1,Case=Abl|Numb=Sing
+felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Quinquiplici,qvinqviplicvs,NOM3,Case=Dat|Numb=Sing
+cera,cera,NOM1,Case=Abl|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+datur,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+altus,altvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+honos,honor,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

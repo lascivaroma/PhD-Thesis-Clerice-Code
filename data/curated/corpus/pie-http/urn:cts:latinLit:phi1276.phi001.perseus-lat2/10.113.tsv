@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+descendunt,descendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+reges,rex,NOM3,Case=Nom|Numb=Plur
+et,et,CONcoo,MORPH=empty
+sicca,siccvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+morte,mors,NOM3,Case=Abl|Numb=Sing
+tyranni,tyrannvs,NOM2,Case=Nom|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

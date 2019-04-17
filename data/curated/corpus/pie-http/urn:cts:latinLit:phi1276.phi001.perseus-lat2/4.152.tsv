@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inlustres,illvstris,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+-que,qvove,CONcoo,MORPH=empty
+animas,anima,NOM1,Case=Acc|Numb=Plur
+impune,impvne,ADV,Deg=Pos
+et,et,CONcoo,MORPH=empty
+uindice,vindex,NOM3,Case=Abl|Numb=Sing
+nullo,nvllvs,PROind,Case=Abl|Numb=Sing

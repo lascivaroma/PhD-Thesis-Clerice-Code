@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+Antiochus,antiochvs,NOM2,Case=Nom|Numb=Sing
+nec,nec,CONcoo,MORPH=empty
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+mirabilis,mirabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+illic,illic,ADV,Deg=Pos

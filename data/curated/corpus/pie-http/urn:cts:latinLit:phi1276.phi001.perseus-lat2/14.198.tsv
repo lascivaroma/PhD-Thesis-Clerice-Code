@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+adferat,affero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+aut,avt,CONcoo,MORPH=empty
+longos,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+castrorum,castra,NOM2,Case=Gen|Numb=Plur
+ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
+labores,labor,NOM3,Case=Acc|Numb=Plur

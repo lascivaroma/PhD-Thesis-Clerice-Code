@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+pugnam,pvgna,NOM1,Case=Acc|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+rhetorica,rhetoricvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+descendit,descendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ab,ab,PRE,MORPH=empty
+umbra,vmbra,NOM1,Case=Abl|Numb=Sing

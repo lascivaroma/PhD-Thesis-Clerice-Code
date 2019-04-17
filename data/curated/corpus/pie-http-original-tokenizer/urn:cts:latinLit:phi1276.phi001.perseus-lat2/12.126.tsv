@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+incedet,incedo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+uictis,vinco,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+riualibus,rivalia,NOM3,Case=Dat|Numb=Plur
+.,vnvs,ADJcar,Case=Dat|Numb=Plur
+ergo,ergo,CONcoo,MORPH=empty
+uides,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+quam,qvam,ADVint,MORPH=empty

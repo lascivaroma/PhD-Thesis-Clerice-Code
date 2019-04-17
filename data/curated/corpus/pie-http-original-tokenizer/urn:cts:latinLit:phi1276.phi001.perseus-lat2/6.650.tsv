@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+subtrahitur,svbtraho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+cliuoque,clivoqve,ADV,Deg=Pos
+latus,latvs,NOM3,Case=Nom|Numb=Sing
+pendente,pendeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+recedit,recedo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

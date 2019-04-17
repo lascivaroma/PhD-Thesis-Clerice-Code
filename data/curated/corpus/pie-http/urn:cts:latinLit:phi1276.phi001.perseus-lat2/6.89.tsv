@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+segmentatis,segmento,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf
+dormisset,dormio,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
+paruula,parvvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+cunis,cvnae,NOM1,Case=Abl|Numb=Plur

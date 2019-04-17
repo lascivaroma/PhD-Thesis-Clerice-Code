@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+cultello,cvltellvs,NOM2,Case=Abl|Numb=Sing
+donec,donec,CONsub,MORPH=empty
+peragat,perago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+dictata,dicto,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+magistri,magister,NOM2,Case=Gen|Numb=Sing

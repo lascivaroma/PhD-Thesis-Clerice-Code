@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+lateri,latvs,NOM3,Case=Dat|Numb=Sing
+parcas,parco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+nec,nec,CONcoo,MORPH=empty
+quantum,qvantvm,PROrel,Case=Acc|Numb=Sing
+iussit,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+anheles,anhelo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

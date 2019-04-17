@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+coram,coram,PRE,MORPH=empty
+aliis,alivs,PROind,Case=Abl|Numb=Plur
+dictem,dicto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
+puero,pver,NOM2,Case=Dat|Numb=Sing
+sed,sed,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+aure,avris,NOM3,Case=Abl|Numb=Sing
+placentas,placenta,NOM1,Case=Acc|Numb=Plur

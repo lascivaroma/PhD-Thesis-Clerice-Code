@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+en,en,INJ,MORPH=empty
+cui,qvi,PROint,Case=Dat|Numb=Sing
+tu,tv,PROper,Case=Nom|Numb=Sing
+uiridem,viridis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+umbellam,vmbella,NOM1,Case=Acc|Numb=Sing
+cui,qvi,PROint,Case=Dat|Numb=Sing
+sucina,svcinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+mittas,mitto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

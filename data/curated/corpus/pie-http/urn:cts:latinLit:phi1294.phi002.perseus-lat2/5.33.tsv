@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Carpere,carper,NOM3,Case=Abl|Numb=Sing
+causidicus,cavsidicvs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
+fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+mea,mevs,PROpos,Case=Nom|Numb=Plur
+carmina,carmen,NOM3,Case=Acc|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Nescio,nescivs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+sciero,scio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+uae,vae,INJ,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+causidice,cavsidice,NOM3,Case=Abl|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

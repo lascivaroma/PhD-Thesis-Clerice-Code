@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+concutere,concvtio,VER,Mood=Inf|Tense=Pres|Voice=Act
+atque,atqve,CONcoo,MORPH=empty
+sacri,sacer,NOM2,Case=Gen|Numb=Sing
+genium,genivs,NOM2,Case=Acc|Numb=Sing
+contemnere,contemno,VER,Mood=Inf|Tense=Pres|Voice=Act
+fulcri,fvlcrvm,NOM2,Case=Gen|Numb=Plur
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

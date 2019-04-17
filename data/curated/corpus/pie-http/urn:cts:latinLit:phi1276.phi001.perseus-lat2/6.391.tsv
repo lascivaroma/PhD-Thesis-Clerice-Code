@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+pro,pro,PRE,MORPH=empty
+cithara,cithara,NOM1,Case=Abl|Numb=Sing
+uelare,velo,VER,Mood=Inf|Tense=Pres|Voice=Act
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+dictata,dicto,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+-que,qvove,CONcoo,MORPH=empty
+uerba,verbvm,NOM2,Case=Acc|Numb=Plur

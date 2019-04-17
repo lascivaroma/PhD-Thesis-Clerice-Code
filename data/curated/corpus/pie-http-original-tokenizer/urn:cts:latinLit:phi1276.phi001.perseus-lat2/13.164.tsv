@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+caerula,caervlevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+quis,qvis,PROint,Case=Nom|Numb=Sing
+stupuit,stvpeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+Germani,germani,NOM2,Case=Gen|Numb=Plur
+lumina,lvmen,NOM3,Case=Acc|Numb=Plur
+flauam,flavvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

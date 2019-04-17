@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Tantis,tantis,NOM3,Case=Nom|Numb=Sing
+parta,pario,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+malis,malvm,NOM2,Case=Abl|Numb=Plur
+cura,cvra,NOM1,Case=Abl|Numb=Sing
+maiore,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
+metu,metvs,NOM4,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,Deg=Pos

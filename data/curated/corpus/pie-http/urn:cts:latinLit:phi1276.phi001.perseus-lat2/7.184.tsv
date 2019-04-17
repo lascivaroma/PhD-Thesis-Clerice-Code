@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+qualiacum,qvaliscvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+-que,qvove,ADV,MORPH=empty
+domus,domvs,NOM6,Case=Nom|Numb=Sing
+ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+fercula,fercvlvm,NOM2,Case=Acc|Numb=Plur
+docte,docte,ADV,Deg=Pos

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Coruinum,corvinvs,NOM2,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+Galbam,galba,NOM1,Case=Acc|Numb=Sing
+auriculis,avricvla,NOM2,Case=Abl|Numb=Plur
+naso,nasvs,VER,Case=Abl|Numb=Sing
+-que,qvovs,CONcoo,MORPH=empty
+carentem,careo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

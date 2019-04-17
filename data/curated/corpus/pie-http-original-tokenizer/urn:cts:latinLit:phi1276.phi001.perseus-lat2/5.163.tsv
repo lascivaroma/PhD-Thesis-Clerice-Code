@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+nec,nec,CONcoo,MORPH=empty
+male,male,ADV,Deg=Pos
+coniectat,coniecto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quis,qvis,PROint,Case=Nom|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+tam,tam,ADV,Deg=Pos
+nudus,nvdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ut,vt,CONsub,MORPH=empty
+illum,ille,PROdem,Case=Acc|Numb=Sing

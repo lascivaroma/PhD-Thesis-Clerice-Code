@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+huius,hic,PROdem,Case=Gen|Numb=Sing
+enim,enim,CONcoo,MORPH=empty
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+nunc,nvnc,ADV,Deg=Pos
+agitur,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+miserabile,miserabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

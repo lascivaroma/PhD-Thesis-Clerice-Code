@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+Martis,mars,NOM3,Case=Gen|Numb=Sing
+ut,vt,CONsub,MORPH=empty
+in,in,PRE,MORPH=empty
+laqueos,laqvevs,NOM2,Case=Acc|Numb=Plur
+numquam,nvmqvam,ADVneg,MORPH=empty
+incidat,incido,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+exigit,exigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+autem,avtem,CONcoo,MORPH=empty

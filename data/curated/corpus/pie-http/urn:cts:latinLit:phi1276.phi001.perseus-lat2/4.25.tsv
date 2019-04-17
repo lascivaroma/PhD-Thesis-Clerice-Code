@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+pretio,pretivm,NOM2,Case=Abl|Numb=Sing
+squamas,sqvama,NOM1,Case=Acc|Numb=Plur
+potuit,possvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+fortasse,fortasse,ADV,Deg=Pos
+minoris,parvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+attonitus,attonitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nullum,nvllvs,PROind,Case=Acc|Numb=Sing
+conferri,confero,VER,Mood=Inf|Tense=Pres|Voice=Pass
+posse,possvm,VER,Mood=Inf|Tense=Pres|Voice=Act
+putaret,pvto,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

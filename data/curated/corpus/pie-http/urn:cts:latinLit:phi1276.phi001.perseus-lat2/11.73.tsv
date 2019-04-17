@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Signinum,signinvs,NOM2,Case=Acc|Numb=Sing
+Syrium,syrivs,NOM2,Case=Acc|Numb=Sing|Deg=Pos
+-que,qvovs,CONcoo,MORPH=empty
+pirum,pirvs,NOM2,Case=Nom|Numb=Sing
+de,de,PRE,MORPH=empty
+corbibus,corbis,NOM3,Case=Abl|Numb=Plur
+isdem,idem,PROdem,Case=Abl|Numb=Plur

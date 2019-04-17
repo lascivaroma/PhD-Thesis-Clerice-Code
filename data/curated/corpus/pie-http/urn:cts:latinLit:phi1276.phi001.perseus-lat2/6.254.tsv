@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uir,vir,NOM2,Case=Nom|Numb=Sing
+nollet,nolo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+fieri,fio,VER,Mood=Inf|Tense=Pres|Voice=Act
+nam,nam,CONcoo,MORPH=empty
+quantula,qvantvlvs,PROint,Case=Nom|Numb=Sing
+nostra,noster,PROpos,Case=Nom|Numb=Sing
+uoluptas,volvptas,NOM3,Case=Nom|Numb=Sing

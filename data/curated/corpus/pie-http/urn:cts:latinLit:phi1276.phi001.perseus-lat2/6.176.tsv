@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+dum,dvm,CONsub,MORPH=empty
+sibi,svi,PROref,Case=Dat|Numb=Sing
+nobilior,nobilis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+Latonae,latona,NOM1,Case=Gen|Numb=Sing
+gente,gens,NOM3,Case=Abl|Numb=Sing
+uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

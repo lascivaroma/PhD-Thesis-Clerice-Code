@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+grande,grandis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+conspicuum,conspicvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+nostro,noster,PROpos,Case=Abl|Numb=Sing
+quoque,qvisqve,ADV,Deg=Pos
+tempore,tempvs,NOM3,Case=Abl|Numb=Sing
+monstrum,monstrvm,NOM2,Case=Nom|Numb=Sing

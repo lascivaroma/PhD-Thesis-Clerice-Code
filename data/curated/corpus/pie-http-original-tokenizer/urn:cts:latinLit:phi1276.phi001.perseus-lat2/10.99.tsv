@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+huius,hic,PROdem,Case=Gen|Numb=Sing
+qui,qvi,PROrel,Case=Nom|Numb=Sing
+trahitur,traho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+praetextam,praetexta,NOM1,Case=Acc|Numb=Sing
+sumere,svmo,VER,Mood=Inf|Tense=Pres|Voice=Act
+mauis,malo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+corpore,corpvs,NOM3,Case=Abl|Numb=Sing
+deprendas,deprehendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+gaudia,gavdivm,NOM2,Case=Acc|Numb=Plur
+;,o,INJ,MORPH=empty
+sumit,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+utrumque,vterqve,PROind,Case=Acc|Numb=Sing

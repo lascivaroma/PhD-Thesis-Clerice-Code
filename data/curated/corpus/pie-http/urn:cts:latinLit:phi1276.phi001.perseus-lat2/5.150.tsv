@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+poma,pomvm,NOM2,Case=Acc|Numb=Plur
+dari,do,VER,Mood=Inf|Tense=Pres|Voice=Pass
+quorum,qvi,PROrel,Case=Gen|Numb=Plur
+solo,solvs,PROind,Case=Abl|Numb=Sing
+pascaris,pasco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
+odore,odor,NOM3,Case=Abl|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Gaetulus,gaetvlvs,NOM2,Case=Nom|Numb=Sing
+dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+aut,avt,CONcoo,MORPH=empty
+nigri,niger,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+manus,manvs,NOM4,Case=Nom|Numb=Plur
+ossea,ossevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+Mauri,mavrvs,NOM2,Case=Gen|Numb=Sing

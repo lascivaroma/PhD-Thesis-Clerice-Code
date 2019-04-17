@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+pulsat,pvlso,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+adhuc,adhvc,ADV,Deg=Pos
+Graece,graecvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+hic,hic,PROdem,Case=Nom|Numb=Sing
+sermo,sermo,NOM3,Case=Nom|Numb=Sing
+pudicus,pvdicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

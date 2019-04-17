@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+iamque,iamqve,ADV,Deg=Pos
+uetus,vetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+graecos,graecvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+seruabat,servo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+cista,cista,NOM1,Case=Nom|Numb=Sing
+libellos,libellvs,NOM2,Case=Acc|Numb=Plur

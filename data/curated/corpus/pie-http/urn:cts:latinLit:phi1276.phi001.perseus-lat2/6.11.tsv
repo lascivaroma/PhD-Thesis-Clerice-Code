@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quippe,qvippe,ADV,Deg=Pos
+aliter,aliter,ADV,Deg=Pos
+tunc,tvnc,ADV,Deg=Pos
+orbe,orbis,NOM3,Case=Abl|Numb=Sing
+nouo,novvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+caelo,caelvm,NOM2,Case=Abl|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+recenti,recens,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

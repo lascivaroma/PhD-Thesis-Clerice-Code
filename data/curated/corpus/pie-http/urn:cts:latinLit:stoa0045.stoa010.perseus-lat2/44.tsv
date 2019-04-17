@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+MAGNANIMA,magnanima,NOM1,Case=Nom|Numb=Sing
+MATER,mater,NOM2,Case=Nom|Numb=Sing
+Lacaena,lacaena,NOM1,Case=Nom|Numb=Sing|Deg=Pos
+clipeo,clipevs,NOM2,Case=Abl|Numb=Sing
+obarmans,obarmo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+filium,filivs,NOM2,Case=Acc|Numb=Sing
+Cum,cvm,NOM2,Case=Acc|Numb=Sing
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+aut,avt,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+redi,redeo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act
+.,vnvs,ADJcar,Case=Dat|Numb=Plur

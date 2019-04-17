@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+humana,hvmana,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+turbat,tvrbo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+pauidum,pavidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+cogitque,cogitve,VER,Mood=Imp|Tense=Pres|Voice=Act
+fateri,fateor,VER,Mood=Inf|Tense=Pres|Voice=Dep
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

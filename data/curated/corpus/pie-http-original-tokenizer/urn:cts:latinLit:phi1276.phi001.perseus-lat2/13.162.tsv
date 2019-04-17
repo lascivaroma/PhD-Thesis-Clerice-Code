@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+tumidum,tvmidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+guttur,gvttvr,NOM3,Case=Nom|Numb=Sing
+miratur,miror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+in,in,PRE,MORPH=empty
+Alpibus,alpes,NOM3,Case=Abl|Numb=Plur
+aut,avt,CONcoo,MORPH=empty
+quis,qvis,PROint,Case=Nom|Numb=Sing

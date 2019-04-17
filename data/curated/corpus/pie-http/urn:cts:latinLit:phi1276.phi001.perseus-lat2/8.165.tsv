@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+fouisti,foveo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+errorem,error,NOM3,Case=Acc|Numb=Sing
+breue,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+quod,qvi,PROrel,Case=Acc|Numb=Sing
+turpiter,tvrpiter,ADV,Deg=Pos
+audes,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=2
+;,o,PRE,MORPH=empty

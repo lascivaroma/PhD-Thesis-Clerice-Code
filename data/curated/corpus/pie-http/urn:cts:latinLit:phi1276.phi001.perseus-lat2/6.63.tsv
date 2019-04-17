@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+chironomo,chironomvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+-ne,one,CONsub,MORPH=empty
+Ledam,leda,NOM1,Case=Acc|Numb=Sing
+molli,mollis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+saltante,salto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+Bathyllo,bathyllvs,NOM2,Case=Abl|Numb=Sing

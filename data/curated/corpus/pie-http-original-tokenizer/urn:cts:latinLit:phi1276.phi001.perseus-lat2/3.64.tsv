@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+obliquas,obliqvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+nec,nec,CONcoo,MORPH=empty
+non,non,ADVneg,MORPH=empty
+gentilia,gentilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+tympana,tympanvm,NOM2,Case=Acc|Numb=Plur
+secum,secvm,NOM3,Deg=Pos

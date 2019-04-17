@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+quid,qvis,PROint,Case=Acc|Numb=Sing
+facias,facio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+talem,talis,PROdem,Case=Acc|Numb=Sing
+sortitus,sortior,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
+Pontice,ponticvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
+seruum,servvs,NOM2,Case=Acc|Numb=Sing

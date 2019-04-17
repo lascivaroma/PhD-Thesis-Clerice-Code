@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Ancillariolum,ancillarioliolvs,NOM2,Case=Acc|Numb=Sing
+tua,tvvs,PROpos,Case=Nom|Numb=Sing
+te,tv,PROper,Case=Acc|Numb=Sing
+uocat,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uxor,vxor,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+ipsa,ipse,PROdem,Case=Nom|Numb=Sing
+Lecticariola,lecticariola,NOM1,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+estis,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+Alauda,alavda,NOM1,Case=Nom|Numb=Sing
+pares,par,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+.,vnvs,ADJcar,Case=Ind|Numb=Plur

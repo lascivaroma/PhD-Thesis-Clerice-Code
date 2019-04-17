@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+fient,fio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+ista,iste,PROdem,Case=Nom|Numb=Plur
+palam,palam,ADV,Deg=Pos
+cupient,cvpio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+acta,actvm,NOM2,Case=Acc|Numb=Plur
+referri,refero,VER,Mood=Inf|Tense=Pres|Voice=Pass

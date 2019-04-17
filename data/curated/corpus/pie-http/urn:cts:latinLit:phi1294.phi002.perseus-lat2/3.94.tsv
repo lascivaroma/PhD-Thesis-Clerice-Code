@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Esse,essvs,NOM2,Case=Voc|Numb=Sing
+negas,nego,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+coctum,coqvo,VER,Case=Acc|Numb=Sing|Voice=Pass
+leporem,lepor,NOM3,Case=Acc|Numb=Sing
+poscis,posco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+-que,qvovs,ADV,MORPH=empty
+flagella,flagellvm,NOM2,Case=Acc|Numb=Plur
+.,qvintvs,ADJcar,Case=Ind|Numb=Plur
+Mauis,mavis,NOM2,Case=Nom|Numb=Plur
+Rufe,rvfvs,NOM2,Case=Voc|Numb=Sing
+cocum,coqvvs,NOM2,Case=Acc|Numb=Sing
+scindere,scindo,VER,Mood=Inf|Tense=Pres|Voice=Act
+quam,qvis,PROint,MORPH=empty
+leporem,lepor,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

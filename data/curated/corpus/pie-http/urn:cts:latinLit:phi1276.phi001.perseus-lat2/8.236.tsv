@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+uigilat,vigilo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+consul,consvl,NOM3,Case=Nom|Numb=Sing
+uexilla,vexillvm,NOM2,Case=Acc|Numb=Plur
+-que,qvove,CONcoo,MORPH=empty
+uestra,vester,PROpos,Case=Nom|Numb=Sing
+coercet,coerceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+;,o,PRE,MORPH=empty

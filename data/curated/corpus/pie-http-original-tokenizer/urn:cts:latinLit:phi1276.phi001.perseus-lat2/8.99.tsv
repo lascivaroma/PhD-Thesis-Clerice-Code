@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+damnorum,damnvm,NOM2,Case=Gen|Numb=Plur
+sociis,socivs,NOM2,Case=Abl|Numb=Plur
+florentibus,floreo,VER,Case=Abl|Numb=Plur|Deg=Pos|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+modo,modo,ADV,Deg=Pos
+uictis,vinco,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

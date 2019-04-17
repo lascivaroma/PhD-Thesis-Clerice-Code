@@ -1,0 +1,16 @@
+form,lemma,pos,morph
+Omnia,omnivm,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+promittis,promitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+cum,cvm,PRE,MORPH=empty
+tota,totvs,PROind,Case=Abl|Numb=Sing
+nocte,nox,NOM3,Case=Abl|Numb=Sing
+bibisti,bibo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+;,o,PRE,MORPH=empty
+Mane,manes,NOM2,Case=Abl|Numb=Sing
+nihil,nihil,PROind,Case=Ind
+praestas,praesto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur
+Pollio,pollio,NOM3,Case=Voc|Numb=Sing
+mane,mane,ADV,MORPH=empty
+bibe,bibo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

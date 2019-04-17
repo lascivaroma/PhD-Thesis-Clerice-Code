@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+largus,largvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+exundans,exvndo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+leto,letvm,NOM2,Case=Dat|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ingenii,ingenivm,NOM2,Case=Gen|Numb=Sing
+fons,fons,NOM3,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+frangis,frango,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uirgas,virga,NOM1,Case=Acc|Numb=Plur
+sociorum,socivs,NOM2,Case=Gen|Numb=Plur
+in,in,PRE,MORPH=empty
+sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
+si,si,CONsub,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+Coruinum,corvinvs,NOM2,Case=Acc|Numb=Sing
+posthac,posthac,ADV,Deg=Pos
+multa,mvltvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+contingere,contingo,VER,Mood=Inf|Tense=Pres|Voice=Act
+uirga,virga,NOM1,Case=Abl|Numb=Sing

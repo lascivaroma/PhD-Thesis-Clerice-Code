@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+barbato,barbatvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+nondum,nondvm,ADVneg,MORPH=empty
+Graecis,graeci,NOM2,Case=Abl|Numb=Plur
+iurare,ivro,VER,Mood=Inf|Tense=Pres|Voice=Act
+paratis,paro,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Act|Person=2

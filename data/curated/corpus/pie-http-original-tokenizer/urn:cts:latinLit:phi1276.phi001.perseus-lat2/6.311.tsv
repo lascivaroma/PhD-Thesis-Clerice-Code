@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+inque,inqvi,CONsub,MORPH=empty
+uices,vicis,NOM3,Case=Nom|Numb=Plur
+equitant,eqvito,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ac,ac,CONcoo,MORPH=empty
+Luna,lvna,NOM1,Case=Abl|Numb=Sing
+teste,testis,NOM3,Case=Abl|Numb=Sing
+mouentur,moveo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+;,o,PRE,MORPH=empty

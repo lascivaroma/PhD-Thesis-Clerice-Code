@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+sportula,sportvla,NOM1,Case=Nom|Numb=Sing
+deinde,deinde,ADV,Deg=Pos
+forum,forvm,NOM2,Case=Nom|Numb=Sing
+iuris,ivs,NOM3,Case=Gen|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+peritus,peritvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Apollo,apollo,NOM3,Case=Nom|Numb=Sing

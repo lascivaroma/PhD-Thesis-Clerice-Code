@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Cui,cvivs,NOM2,Case=Nom|Numb=Sing
+legisse,lego,VER,Mood=Inf|Tense=Perf|Voice=Act
+satis,satis,ADV,Case=Ind|Deg=Pos
+non,non,ADVneg,MORPH=empty
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+epigrammata,epigramma,NOM2,Case=Acc|Numb=Plur
+centum,centvm,ADJcar,Case=Ind
+Nil,nil,NOM2,Case=Nom|Numb=Sing
+illi,ille,PROdem,Case=Dat|Numb=Sing
+satis,satis,ADJqua,Case=Ind|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Caediciane,caedicianvs,NOM2,Case=Voc|Numb=Sing
+mali,malvm,NOM2,Case=Gen|Numb=Sing
+.,vnvs,ADJcar,Case=Gen|Numb=Plur

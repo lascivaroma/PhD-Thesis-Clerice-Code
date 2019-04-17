@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+erubuit,ervbesco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+nempe,nempe,ADV,Deg=Pos
+haec,hic,PROdem,Case=Nom|Numb=Sing
+ceu,cev,ADVint,MORPH=empty
+fastidita,fastidio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+repulsa,repello,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

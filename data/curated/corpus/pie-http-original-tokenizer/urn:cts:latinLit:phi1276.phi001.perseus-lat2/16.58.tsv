@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ipsius,ipse,PROdem,Case=Gen|Numb=Sing
+certe,certe,ADV,Deg=Pos
+ducis,dvco,NOM3,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+hoc,hic,PROdem,Case=Acc|Numb=Sing
+referre,refero,VER,Mood=Inf|Tense=Pres|Voice=Act
+uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

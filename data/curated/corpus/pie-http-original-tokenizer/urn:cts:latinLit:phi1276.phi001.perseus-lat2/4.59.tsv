@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+seruabat,servo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+tamen,tamen,ADV,Deg=Pos
+hic,hic,PROdem,Case=Nom|Numb=Sing
+properat,propero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+uelut,velvt,ADVrel,MORPH=empty
+urgueat,vrgeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+Auster,avster,NOM2,Case=Nom|Numb=Sing

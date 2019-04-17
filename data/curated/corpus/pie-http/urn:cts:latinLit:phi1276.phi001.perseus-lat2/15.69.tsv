@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nam,nam,CONcoo,MORPH=empty
+genus,genvs,NOM3,Case=Nom|Numb=Sing
+hoc,hic,PROdem,Case=Abl|Numb=Sing
+uiuo,vivvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+iam,iam,ADV,Deg=Pos
+decrescebat,decresco,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+Homero,homervs,NOM2,Case=Dat|Numb=Sing
+;,o,PRE,MORPH=empty

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+damnosa,damnosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+senem,senex,NOM3,Case=Acc|Numb=Sing
+iuuat,ivvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+alea,alea,NOM1,Case=Nom|Numb=Sing
+ludit,lvdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+heres,heres,NOM3,Case=Nom|Numb=Sing

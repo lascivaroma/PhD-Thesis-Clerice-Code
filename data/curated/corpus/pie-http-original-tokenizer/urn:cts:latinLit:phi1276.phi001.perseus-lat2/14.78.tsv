@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ad,ad,PRE,MORPH=empty
+fetus,fetvs,NOM4,Case=Acc|Numb=Plur
+properat,propero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+partemque,partemqve,ADV,Deg=Pos
+cadaueris,cadaver,NOM3,Case=Gen|Numb=Sing
+adfert,affero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

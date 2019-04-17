@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+an,an,ADVint,MORPH=empty
+dubitet,dvbito,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+solitus,soleo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=SemDep
+totum,totvs,PROind,Case=Acc|Numb=Sing
+conflare,conflo,VER,Mood=Inf|Tense=Pres|Voice=Act
+Tonantem,tonans,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

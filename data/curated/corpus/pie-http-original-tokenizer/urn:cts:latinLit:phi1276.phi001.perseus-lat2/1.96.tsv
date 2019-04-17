@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+limine,limen,NOM3,Case=Abl|Numb=Sing
+parua,parvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+turbae,tvrba,NOM1,Case=Dat|Numb=Sing
+rapienda,rapio,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
+togatae,togatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+;,o,PRE,MORPH=empty

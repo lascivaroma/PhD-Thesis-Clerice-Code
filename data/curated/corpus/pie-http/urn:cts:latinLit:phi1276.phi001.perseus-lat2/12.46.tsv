@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+adde,addo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+bascaudas,bascavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+mille,mille,ADJcar,Case=Ind
+escaria,escarivm,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+multum,mvltvm,NOM2,Case=Acc|Numb=Sing|Deg=Pos

@@ -1,0 +1,11 @@
+form,lemma,pos,morph
+Iurat,ivro,VER,Numb=Sing|Tense=Pres|Person=3
+capillos,capillvs,NOM2,Case=Acc|Numb=Plur
+esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
+quos,qvi,PROrel,Case=Acc|Numb=Plur
+emit,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+suos,svvs,PROpos.ref,Case=Acc|Numb=Plur
+Fabulla,fabvlla,NOM1,Case=Nom|Numb=Sing
+numquid,nvmqvid,ADVint,MORPH=empty
+Paule,pavlvs,NOM2,Case=Voc|Numb=Sing
+peierat,peiero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

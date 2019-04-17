@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uirgo,virgo,NOM3,Case=Nom|Numb=Sing
+fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+ceras,cera,NOM1,Case=Acc|Numb=Plur
+nunc,nvnc,ADV,Deg=Pos
+hac,hac,ADV,Case=Abl|Numb=Sing
+dictante,dicto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+pusillas,pvsillvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

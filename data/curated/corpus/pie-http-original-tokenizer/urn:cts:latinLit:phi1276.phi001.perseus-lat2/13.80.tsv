@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+calamos,calamvs,NOM2,Case=Acc|Numb=Plur
+uenatricis,venatrix,NOM3,Case=Gen|Numb=Sing
+pharetramque,pharetra,NOM1,Case=Acc|Numb=Sing
+puellae,pvella,NOM1,Case=Gen|Numb=Sing

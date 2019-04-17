@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+et,et,CONcoo,MORPH=empty
+cui,qvi,PROint,Case=Dat|Numb=Sing
+per,per,PRE,MORPH=empty
+mediam,medivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+nolis,nolo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+occurrere,occvrro,VER,Mood=Inf|Tense=Pres|Voice=Act
+noctem,nox,NOM3,Case=Acc|Numb=Sing

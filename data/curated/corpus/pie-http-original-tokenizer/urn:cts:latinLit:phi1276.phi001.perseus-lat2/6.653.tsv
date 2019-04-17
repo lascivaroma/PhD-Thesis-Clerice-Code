@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+Alcestim,alcestis,NOM3,Case=Acc|Numb=Sing
+et,et,CONcoo,MORPH=empty
+similis,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+si,si,CONsub,MORPH=empty
+permutatio,permvtatio,NOM3,Case=Nom|Numb=Sing
+detur,do,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3

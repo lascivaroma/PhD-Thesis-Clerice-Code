@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+aestuat,aestvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+occultis,occvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+animus,animvs,NOM2,Case=Nom|Numb=Sing
+semperque,semperqve,ADV,Deg=Pos
+tacendis,taceo,VER,Case=Abl|Numb=Plur|Mood=Adj|Voice=Pass

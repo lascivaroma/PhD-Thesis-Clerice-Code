@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+uenerem,venvs,NOM3,Case=Acc|Numb=Sing
+adfectat,affecto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sine,sine,PRE,MORPH=empty
+uiribus,vis,NOM3,Case=Abl|Numb=Plur
+Aspice,aspicvs,NOM7,Case=Abl|Numb=Sing
+partis,pars,NOM3,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+haec,hic,PROdem,Case=Acc|Numb=Plur
+cupias,cvpio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+nolunt,nolo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+occidere,occido,VER,Mood=Inf|Tense=Pres|Voice=Act
+quemquam,qvisqvam,PROind,Case=Acc|Numb=Sing

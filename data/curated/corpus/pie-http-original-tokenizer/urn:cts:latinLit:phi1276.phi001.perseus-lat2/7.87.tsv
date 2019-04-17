@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+esurit,esvrio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+intactam,intactvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Paridi,paris,NOM3,Case=Gen|Numb=Sing
+nisi,nisi,CONsub,MORPH=empty
+uendit,vendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Agauen,agave,NOM7,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing

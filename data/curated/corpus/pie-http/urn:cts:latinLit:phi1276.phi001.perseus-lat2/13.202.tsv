@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+iurando,ivro,VER,Case=Abl|Numb=Sing|Mood=Ger|Voice=Act
+;,o,INJ,MORPH=empty
+quaerebat,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+enim,enim,CONcoo,MORPH=empty
+quae,qvis,PROint,Case=Nom|Numb=Sing
+numinis,nvmen,NOM3,Case=Gen|Numb=Sing
+esset,svm,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

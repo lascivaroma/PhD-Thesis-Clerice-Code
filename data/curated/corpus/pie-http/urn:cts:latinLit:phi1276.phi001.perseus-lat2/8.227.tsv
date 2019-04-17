@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+maiorum,maiores,NOM3,Case=Gen|Numb=Plur
+effigies,effigies,NOM5,Case=Acc|Numb=Plur
+habeant,habeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+insignia,insigne,NOM3,Case=Acc|Numb=Plur
+uocis,vox,NOM3,Case=Gen|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+rectorem,rector,NOM3,Case=Acc|Numb=Sing
+accipiet,accipio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+pone,pono,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+irae,ira,NOM1,Case=Gen|Numb=Sing
+frena,frenvm,NOM2,Case=Acc|Numb=Plur
+modumque,modvsqve,ADV,Deg=Pos

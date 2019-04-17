@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+argillam,argilla,NOM1,Case=Acc|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+rotam,rota,NOM1,Case=Acc|Numb=Sing
+citius,cito,ADV,Deg=Comp
+properate,propero,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
+;,o,INJ,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+ex,ex,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Abl|Numb=Sing

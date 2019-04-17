@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+conducit,condvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+comites,comes,NOM3,Case=Acc|Numb=Plur
+sellam,sella,NOM1,Case=Acc|Numb=Sing
+ceruical,cervical,NOM3,Case=Acc|Numb=Sing
+amicas,amica,NOM1,Case=Acc|Numb=Plur

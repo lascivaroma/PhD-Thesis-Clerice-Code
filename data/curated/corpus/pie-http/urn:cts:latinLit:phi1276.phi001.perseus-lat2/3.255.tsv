@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+serraco,sarracvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos|Person=1
+ueniente,venio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+abies,abies,NOM3,Case=Nom|Numb=Sing
+atque,atqve,CONcoo,MORPH=empty
+altera,alter,PROind,Case=Nom|Numb=Sing
+pinum,pinvs,NOM2,Case=Acc|Numb=Sing

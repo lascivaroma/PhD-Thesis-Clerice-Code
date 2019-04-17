@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Lassus,lassvs,NOM2,Case=Nom|Numb=Sing
+Amyclaea,amyclaevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+poteris,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+requiescere,reqviesco,VER,Mood=Imp|Tense=Pres|Voice=Act
+pluma,plvma,NOM1,Case=Abl|Numb=Sing
+Interior,interior,NOM3,Case=Nom|Numb=Sing
+cycni,cycnvs,NOM2,Case=Gen|Numb=Sing
+quam,qvi,PROrel,Case=Acc|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+lana,lana,NOM1,Case=Nom|Numb=Sing
+dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

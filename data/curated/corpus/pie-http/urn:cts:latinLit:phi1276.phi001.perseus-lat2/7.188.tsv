@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+constabit,consto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+patri,pater,NOM3,Case=Dat|Numb=Sing
+quam,qvam,PROrel,MORPH=empty
+filius,filivs,NOM2,Case=Nom|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Sing
+unde,vnde,ADVint,MORPH=empty
+igitur,igitvr,CONcoo,MORPH=empty
+tot,tot,PROdem,Case=Ind

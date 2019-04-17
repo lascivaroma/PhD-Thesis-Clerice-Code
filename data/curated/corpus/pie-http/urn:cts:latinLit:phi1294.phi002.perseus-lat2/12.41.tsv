@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Non,non,ADVint,Case=Nom
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Tucca,tvcca,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+satis,satis,ADJqua,Case=Ind|Deg=Pos
+quod,qvis,PROrel,Case=Nom|Numb=Sing
+es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+gulosus,gvlosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Et,et,ADVint,MORPH=empty
+dici,dico,VER,Mood=Inf|Tense=Pres|Voice=Pass
+cupis,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+et,et,CONcoo,MORPH=empty
+cupis,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+uideri,video,VER,Mood=Inf|Tense=Pres|Voice=Pass
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

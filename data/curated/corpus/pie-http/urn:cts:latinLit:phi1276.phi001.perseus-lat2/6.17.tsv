@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+per,per,PRE,MORPH=empty
+caput,capvt,NOM3,Case=Acc|Numb=Sing
+alterius,alter,PROind,Case=Gen|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+furem,fvr,NOM3,Case=Acc|Numb=Sing
+nemo,nemo,PROind,Case=Nom|Numb=Sing
+timeret,timeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

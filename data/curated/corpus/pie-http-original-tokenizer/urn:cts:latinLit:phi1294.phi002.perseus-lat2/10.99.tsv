@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,Case=Nom|Numb=Sing
+Romana,romanvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+forent,svm,VER,Numb=Plur|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+haec,hic,PROdem,Case=Nom|Numb=Plur
+Socratis,socrates,NOM3,Case=Gen|Numb=Sing
+ora,os,NOM3,Case=Nom|Numb=Plur
+fuissent,svm,VER,Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
+Iulius,ivlivs,NOM2,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+Saturis,satvri,NOM1,Case=Abl|Numb=Plur
+qualia,qvalis,PROrel,Case=Acc|Numb=Plur
+Rufus,rvfvs,NOM2,Case=Nom|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+inbuit,imbvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+cogit,cogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+minimas,parvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
+ediscere,edisco,VER,Mood=Inf|Tense=Pres|Voice=Act
+sordes,sordes,NOM3,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

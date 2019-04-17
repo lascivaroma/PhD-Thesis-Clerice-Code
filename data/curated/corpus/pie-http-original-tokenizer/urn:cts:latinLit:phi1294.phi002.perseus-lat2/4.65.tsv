@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Oculo,ocvlvs,NOM2,Case=Dat|Numb=Sing
+Philaenis,philaeni,NOM2,Case=Dat|Numb=Plur
+semper,semper,ADV,Deg=Pos
+altero,alter,PROind,Case=Abl|Numb=Sing
+plorat,ploro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Quo,qvi,PROrel,Case=Dat|Numb=Sing
+fiat,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+istud,iste,PROdem,Case=Acc|Numb=Sing
+quaeritis,qvaero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
+modo,modo,ADV,Deg=Pos
+lusca,lvscvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,pentvm,ADJcar,Case=Nom|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+nunc,nvnc,ADV,Deg=Pos
+patimur,patior,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
+longae,longvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+pacis,pax,NOM3,Case=Gen|Numb=Sing
+mala,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+saeuior,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+armis,arma,NOM2,Case=Abl|Numb=Plur

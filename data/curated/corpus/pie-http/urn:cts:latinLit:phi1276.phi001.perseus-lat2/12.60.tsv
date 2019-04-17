@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+mox,mox,ADV,Deg=Pos
+cum,cvm,PRE,MORPH=empty
+reticulis,reticvlvs,NOM2,Case=Abl|Numb=Plur
+et,et,CONcoo,MORPH=empty
+pane,panis,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+uentre,venter,NOM3,Case=Abl|Numb=Sing
+lagonae,lagena,NOM1,Case=Gen|Numb=Sing

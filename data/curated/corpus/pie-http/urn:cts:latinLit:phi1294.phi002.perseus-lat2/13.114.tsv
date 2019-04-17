@@ -1,0 +1,15 @@
+form,lemma,pos,morph
+Non,non,NOM3,MORPH=empty
+sum,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+de,de,PRE,MORPH=empty
+primo,primvs,ADJord,Case=Abl|Numb=Sing|Deg=Sup
+fateor,fateor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
+Trifolina,trifolinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+Lyaeo,lyaevs,ADJqua,Case=Abl|Numb=Sing
+Inter,inter,ADJcar,Case=Nom|Numb=Sing
+uina,vinvm,NOM2,Case=Acc|Numb=Plur
+tamen,tamen,ADV,Deg=Pos
+septima,septimvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
+uitis,vitis,NOM3,Case=Nom|Numb=Sing
+ero,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
+.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

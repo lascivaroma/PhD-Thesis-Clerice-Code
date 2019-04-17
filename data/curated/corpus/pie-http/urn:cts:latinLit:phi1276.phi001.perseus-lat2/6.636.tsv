@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+grande,grandis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+Sophocleo,sophoclevs,NOM2,Case=Abl|Numb=Sing
+carmen,carmen,NOM3,Case=Acc|Numb=Sing
+bacchamur,bacchor,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Dep|Person=1
+hiatu,hiatvs,NOM4,Case=Abl|Numb=Sing

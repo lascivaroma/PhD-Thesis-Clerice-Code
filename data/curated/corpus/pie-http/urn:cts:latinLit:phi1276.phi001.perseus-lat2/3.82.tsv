@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+signabit,signo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+fultus,fvlcio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Pass
+-que,qvovs,ADV,MORPH=empty
+toro,torvs,NOM2,Case=Abl|Numb=Sing
+meliore,bonvs,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
+recumbet,recvmbo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

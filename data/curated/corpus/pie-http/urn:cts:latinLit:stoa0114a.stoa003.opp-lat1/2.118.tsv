@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+In,vnvs,ADJcar,Case=Acc
+tantum,tantvm,PROdem,Case=Acc
+prisci,priscvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+defluxit,deflvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+fama,fama,NOM1,Case=Abl|Numb=Sing
+Maronis,maro,NOM3,Case=Gen|Numb=Sing
+Vt,qvadraginvs,ADVint,MORPH=empty
+te,tv,PROper,Case=Acc|Numb=Sing
+Virgilium,virgilivs,NOM2,Case=Acc|Numb=Sing
+saecula,saecvlvm,NOM2,Case=Acc|Numb=Plur
+nostra,noster,PROpos,Case=Acc|Numb=Plur
+darent,do,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

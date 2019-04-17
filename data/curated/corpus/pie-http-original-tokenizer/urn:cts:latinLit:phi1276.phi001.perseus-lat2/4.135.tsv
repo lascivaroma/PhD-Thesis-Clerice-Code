@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+tempore,tempvs,NOM3,Case=Abl|Numb=Sing
+iam,iam,ADV,Deg=Pos
+Caesar,caesar,NOM3,Case=Nom|Numb=Sing
+figuli,figvlvs,NOM2,Case=Nom|Numb=Plur
+tua,tvvs,PROpos,Case=Acc|Numb=Plur
+castra,castra,NOM2,Case=Acc|Numb=Plur
+sequantur,seqvor,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
+.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

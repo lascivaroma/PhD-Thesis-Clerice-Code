@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+totum,totvs,PROind,Case=Acc|Numb=Sing
+regis,rex,NOM3,Case=Gen|Numb=Sing
+agrum,ager,NOM2,Case=Acc|Numb=Sing
+nuda,nvdvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+ac,ac,CONcoo,MORPH=empty
+tremibunda,tremibvndvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+cruentis,crventvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+conatus,conor,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep
+non,non,ADVneg,MORPH=empty
+paeniteat,paeniteo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+uotique,votiqve,ADV,Deg=Pos
+peracti,perago,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

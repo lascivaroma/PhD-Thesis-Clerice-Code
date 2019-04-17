@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+grandia,grandis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+praeterea,praeterea,ADV,Deg=Pos
+torto,torqveo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+-que,qvove,ADV,MORPH=empty
+calentia,caleo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+faeno,fenvm,NOM2,Case=Abl|Numb=Sing

@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quod,qvi,PROrel,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+filiolus,filiolvs,NOM2,Case=Nom|Numb=Sing
+uel,vel,CONcoo,MORPH=empty
+filia,filia,NOM1,Case=Nom|Numb=Sing
+nascitur,nascor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
+ex,ex,PRE,MORPH=empty
+me,ego,PROper,Case=Abl|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+ita,ita,ADV,Deg=Pos
+subridens,svbrideo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+felicia,felix,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+tempora,tempvs,NOM3,Case=Acc|Numb=Plur
+quae,qvi,PROrel,Case=Nom|Numb=Plur
+te,tv,PROper,Case=Acc|Numb=Sing

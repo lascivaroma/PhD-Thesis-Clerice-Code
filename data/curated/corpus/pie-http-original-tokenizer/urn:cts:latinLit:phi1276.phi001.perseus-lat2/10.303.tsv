@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+custode,cvstos,NOM3,Case=Abl|Numb=Sing
+et,et,CONcoo,MORPH=empty
+cum,cvm,PRE,MORPH=empty
+natura,natvra,NOM1,Case=Abl|Numb=Sing
+potentior,potens,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+omni,omnis,PROind,Case=Abl|Numb=Sing

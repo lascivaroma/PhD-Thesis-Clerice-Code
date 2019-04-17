@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+dat,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ueniam,venia,NOM1,Case=Acc|Numb=Sing
+;,cer,PRE,MORPH=empty
+sed,sed,CONcoo,MORPH=empty
+peiores,malvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+talia,talis,PROdem,Case=Acc|Numb=Plur
+uerbis,verbvm,NOM2,Case=Abl|Numb=Plur

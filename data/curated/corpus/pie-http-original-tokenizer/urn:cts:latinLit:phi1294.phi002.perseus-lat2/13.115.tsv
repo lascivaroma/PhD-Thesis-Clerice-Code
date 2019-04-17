@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Caecuba,caecvba,NOM1,Case=Nom|Numb=Sing
+Fundanis,fvndani,NOM2,Case=Dat|Numb=Plur
+generosa,generosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+cocuntur,coqvo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+Amyclis,amyclae,NOM1,Case=Abl|Numb=Plur
+Vitis,vitis,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+in,in,PRE,MORPH=empty
+media,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+nata,nascor,NOM1,Case=Abl|Numb=Sing
+palude,palvs,NOM3,Case=Abl|Numb=Sing
+uiret,vireo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+.,qvadranta,ADJcar,Case=Acc|Numb=Sing

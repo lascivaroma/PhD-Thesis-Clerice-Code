@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Tunc,tvnc,NOM7,Case=Nom|Numb=Sing
+rudis,rvdis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+et,et,CONcoo,MORPH=empty
+Graias,graivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+mirari,miror,VER,Mood=Inf|Tense=Pres|Voice=Dep
+nescius,nescivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+artes,ars,NOM3,Case=Acc|Numb=Plur

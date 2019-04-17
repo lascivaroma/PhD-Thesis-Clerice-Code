@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+dum,dvm,CONsub,MORPH=empty
+iacet,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+in,in,PRE,MORPH=empty
+ripa,ripa,NOM1,Case=Abl|Numb=Sing
+calcemus,calco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+Caesaris,caesar,NOM3,Case=Gen|Numb=Sing
+hostem,hostis,NOM3,Case=Acc|Numb=Sing
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+optima,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
+siluarum,silva,NOM1,Case=Gen|Numb=Plur
+interea,interea,ADV,Deg=Pos
+pelagi,pelagvs,NOM2,Case=Gen|Numb=Sing
+-que,qvove,CONcoo,MORPH=empty
+uorabit,voro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

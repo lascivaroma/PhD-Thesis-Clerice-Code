@@ -1,0 +1,14 @@
+form,lemma,pos,morph
+Mollis,mollis,NOM3,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+aequorea,aeqvorevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+quae,qvi,PROrel,Case=Nom|Numb=Sing
+creuit,cresco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+spina,spina,NOM1,Case=Nom|Numb=Sing
+Rauenna,ravenna,NOM1,Case=Nom|Numb=Sing
+Non,non,ADVint,MORPH=empty
+erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+incultis,incvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
+gratior,gratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+asparagis,asparagvs,NOM1,Case=Abl|Numb=Plur
+.,vnvs,ADJcar,Case=Dat|Numb=Sing

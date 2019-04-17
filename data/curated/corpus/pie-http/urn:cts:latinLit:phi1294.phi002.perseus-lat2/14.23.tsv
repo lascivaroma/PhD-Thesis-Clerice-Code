@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+Si,sivs,NOM2,Case=Nom|Numb=Sing
+tibi,tv,PROper,Case=Dat|Numb=Sing
+morosa,morosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+prurigine,prvrigo,NOM3,Case=Abl|Numb=Sing
+uerminat,vermino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+auris,avra,NOM1,Case=Acc|Numb=Plur
+Arma,arma,NOM1,Case=Nom|Numb=Sing
+damus,do,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+tantis,tantvs,PROdem,Case=Abl|Numb=Plur
+apta,aptvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+libidinibus,libido,NOM3,Case=Abl|Numb=Plur
+.,qvintvs,ADJcar,Case=Gen|Numb=Plur

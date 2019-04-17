@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+nunc,nvnc,ADV,Deg=Pos
+dederit,do,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
+nummos,nvmvs,NOM2,Case=Acc|Numb=Plur
+nisi,nisi,CONsub,MORPH=empty
+fulserit,fvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+anulus,anvlvs,NOM2,Case=Nom|Numb=Sing
+ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

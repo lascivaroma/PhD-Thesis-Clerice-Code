@@ -1,0 +1,5 @@
+form,lemma,pos,morph
+saltatus,salto,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+nigro,niger,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
+tibicine,tibicen,NOM3,Case=Abl|Numb=Sing
+qualiacumque,qvaliscvmqve,PROrel,Case=Acc|Numb=Plur

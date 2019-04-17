@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+unciolam,vnciola,NOM1,Case=Acc|Numb=Sing
+Proculeius,procvleivs,NOM2,Case=Nom|Numb=Sing
+habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+sed,sed,CONcoo,MORPH=empty
+Gillo,gillo,NOM2,Case=Dat|Numb=Sing
+deuncem,devnce,ADV,MORPH=empty

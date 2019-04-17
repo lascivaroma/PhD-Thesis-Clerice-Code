@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+perditus,perditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+ac,ac,CONcoo,MORPH=empty
+uilis,vilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+sacci,saccvs,NOM2,Case=Gen|Numb=Sing|Deg=Pos
+mercator,mercator,NOM3,Case=Nom|Numb=Sing
+olentis,oleo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

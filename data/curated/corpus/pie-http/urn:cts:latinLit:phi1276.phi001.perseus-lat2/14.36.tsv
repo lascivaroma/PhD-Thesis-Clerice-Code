@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sed,sed,CONcoo,MORPH=empty
+reliquos,reliqvi,NOM2,Case=Acc|Numb=Plur|Deg=Pos
+fugienda,fvgio,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
+patrum,pater,NOM3,Case=Gen|Numb=Plur
+uestigia,vestigivm,NOM2,Case=Acc|Numb=Plur
+ducunt,dvco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,0 +1,17 @@
+form,lemma,pos,morph
+Hostem,hostes,NOM3,Case=Acc|Numb=Sing
+cum,cvm,CONsub,MORPH=empty
+fugeret,fvgio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+se,svi,PROref,Case=Acc|Numb=Sing
+Fannius,fannivs,NOM2,Case=Nom|Numb=Sing
+ipse,ipse,PROdem,Case=Nom|Numb=Sing
+peremit,perimo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur
+Hic,hic,NOM2,Case=Voc|Numb=Sing
+rogo,rogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+non,non,ADVneg,MORPH=empty
+furor,fvror,NOM3,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+ne,ne,CONsub,MORPH=empty
+moriare,morior,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=2
+mori,morior,VER,Mood=Inf|Tense=Pres|Voice=Dep

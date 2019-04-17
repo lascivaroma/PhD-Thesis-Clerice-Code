@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+deprendas,deprehendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
+animi,animvs,NOM2,Case=Gen|Numb=Sing
+tormenta,tormentvm,NOM2,Case=Acc|Numb=Plur
+latentis,lateo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+in,in,PRE,MORPH=empty
+aegro,aeger,NOM2,Case=Abl|Numb=Sing

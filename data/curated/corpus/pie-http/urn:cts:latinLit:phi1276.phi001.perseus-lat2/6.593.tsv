@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+nutricis,nvtrix,NOM3,Case=Gen|Numb=Sing
+tolerant,tolero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+fortuna,fortvna,NOM1,Case=Nom|Numb=Sing
+urguente,vrgvo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+labores,labor,NOM3,Case=Acc|Numb=Plur
+;,o,PRE,MORPH=empty

@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+praeberet,praebeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
+spelunca,spelvnca,NOM1,Case=Nom|Numb=Sing
+domos,domvs,NOM2,Case=Acc|Numb=Plur
+ignemque,ignis,NOM3,Case=Acc|Numb=Sing
+Laremque,lares,NOM3,Case=Voc|Numb=Sing

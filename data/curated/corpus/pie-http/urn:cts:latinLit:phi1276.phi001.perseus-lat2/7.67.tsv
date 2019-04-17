@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+attonitae,attonitvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+currus,cvrrvs,NOM4,Case=Acc|Numb=Plur
+et,et,CONcoo,MORPH=empty
+equos,eqvvs,NOM2,Case=Nom|Numb=Plur
+facies,facies,NOM5,Case=Nom|Numb=Sing
+-que,qvove,ADV,MORPH=empty
+deorum,devs,NOM2,Case=Gen|Numb=Plur

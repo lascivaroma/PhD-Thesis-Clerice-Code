@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Carrinatis,carrinas,NOM3,Case=Gen|Numb=Sing
+;,o,PRE,MORPH=empty
+et,et,CONcoo,MORPH=empty
+hunc,hic,PROdem,Case=Acc|Numb=Sing
+inopem,inops,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
+uidistis,video,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=2
+Athenae,athenae,NOM1,Case=Voc|Numb=Sing

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+conuenient,convenio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+carpentis,carpo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
+et,et,CONcoo,MORPH=empty
+nauibus,navis,NOM3,Case=Abl|Numb=Plur
+omnes,omnis,PROind,Case=Nom|Numb=Plur

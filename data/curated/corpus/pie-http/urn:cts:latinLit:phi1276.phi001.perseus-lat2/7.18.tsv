@@ -1,0 +1,6 @@
+form,lemma,pos,morph
+cogetur,cogo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
+posthac,posthac,ADV,Deg=Pos
+nectit,necto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+quicumque,qvicvmqve,PROrel,Case=Nom|Numb=Sing
+canoris,canorvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+saxa,saxvm,NOM2,Case=Acc|Numb=Plur
+inclinatis,inclino,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+per,per,PRE,MORPH=empty
+humum,hvmvs,NOM2,Case=Acc|Numb=Sing
+quaesita,qvaero,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass|Person=3
+lacertis,lacertvs,NOM2,Case=Abl|Numb=Plur

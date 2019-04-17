@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+custodes,cvstos,NOM3,Case=Acc|Numb=Plur
+qui,qvi,PROrel,Case=Nom|Numb=Plur
+nunc,nvnc,ADV,Deg=Pos
+lasciuae,lascivvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+furta,fvrtvm,NOM2,Case=Acc|Numb=Plur
+puellae,pvella,NOM1,Case=Gen|Numb=Sing

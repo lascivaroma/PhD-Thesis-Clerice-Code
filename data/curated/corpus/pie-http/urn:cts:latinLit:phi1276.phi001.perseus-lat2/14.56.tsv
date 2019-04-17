@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+unde,vnde,ADVint,MORPH=empty
+tibi,tv,PROper,Case=Dat|Numb=Sing
+frontem,frons,NOM3,Case=Acc|Numb=Sing
+libertatem,libertas,NOM3,Case=Acc|Numb=Sing
+-que,qvavis,ADV,MORPH=empty
+parentis,parens,NOM3,Case=Gen|Numb=Sing

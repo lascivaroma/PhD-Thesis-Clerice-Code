@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quantum,qvantvm,PROint,Case=Acc|Numb=Sing
+grammaticus,grammaticvs,NOM2,Case=Nom|Numb=Sing
+meruit,mereo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+labor,labor,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+tamen,tamen,ADV,Deg=Pos
+ex,ex,PRE,MORPH=empty
+hoc,hic,PROdem,Case=Abl|Numb=Sing

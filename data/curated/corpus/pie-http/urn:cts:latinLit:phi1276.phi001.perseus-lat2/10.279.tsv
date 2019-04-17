@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+natura,natvra,NOM1,Case=Nom|Numb=Sing
+in,in,PRE,MORPH=empty
+terris,terra,NOM1,Case=Abl|Numb=Plur
+quid,qvis,PROint,Case=Nom|Numb=Sing
+Roma,roma,NOM1,Case=Nom|Numb=Sing
+beatius,beatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
+umquam,vmqvam,ADV,Deg=Pos

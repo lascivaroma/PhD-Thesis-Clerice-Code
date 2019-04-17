@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+ergo,ergo,CONcoo,MORPH=empty
+hic,hic,PROdem,Case=Nom|Numb=Sing
+praecipuum,praecipvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+summumque,svmmvmqve,ADV,Numb=Sing|Deg=Sup
+meretur,mereor,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
+honorem,honor,NOM3,Case=Acc|Numb=Sing

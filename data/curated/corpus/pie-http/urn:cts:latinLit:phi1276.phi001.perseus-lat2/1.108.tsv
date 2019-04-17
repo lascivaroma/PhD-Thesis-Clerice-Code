@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+conductas,condvco,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+Coruinus,corvinvs,NOM2,Case=Nom|Numb=Sing
+oues,ovis,NOM3,Case=Acc|Numb=Plur
+ego,ego,PROper,Case=Nom|Numb=Sing
+possideo,possideo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+plus,mvltvm,ADV,Deg=Comp

@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+si,si,CONsub,MORPH=empty
+quid,qvis,PROind,Case=Acc|Numb=Sing
+Palfurio,palfvrivs,NOM2,Case=Dat|Numb=Sing
+si,si,CONsub,MORPH=empty
+credimus,credo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+Armillato,armillatvs,NOM2,Case=Dat|Numb=Sing

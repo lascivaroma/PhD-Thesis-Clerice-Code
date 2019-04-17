@@ -1,0 +1,5 @@
+form,lemma,pos,morph
+inde,inde,ADV,Deg=Pos
+Dolabella,dolabella,NOM1,Case=Nom|Numb=Sing
+Antonius,antonivs,NOM2,Case=Nom|Numb=Sing
+inde,inde,ADV,Deg=Pos

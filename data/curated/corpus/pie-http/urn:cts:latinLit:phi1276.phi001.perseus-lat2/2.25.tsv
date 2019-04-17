@@ -1,0 +1,9 @@
+form,lemma,pos,morph
+quis,qvis,PROint,Case=Nom|Numb=Sing
+caelum,caelvm,NOM2,Case=Acc|Numb=Sing
+terris,terra,NOM1,Case=Abl|Numb=Plur
+non,non,ADVneg,MORPH=empty
+misceat,misceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+mare,mare,NOM3,Case=Acc|Numb=Sing
+caelo,caelvm,NOM2,Case=Abl|Numb=Sing

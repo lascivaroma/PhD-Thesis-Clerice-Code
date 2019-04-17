@@ -1,0 +1,10 @@
+form,lemma,pos,morph
+quidquid,qvisqvis,PROrel,Case=Nom|Numb=Sing
+id,is,PROdem,Case=Nom|Numb=Sing
+est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+de,de,PRE,MORPH=empty
+quo,qvi,PROrel,Case=Abl|Numb=Sing
+deliberat,delibero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+an,an,ADVint,MORPH=empty
+petat,peto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+urbem,vrbs,NOM3,Case=Acc|Numb=Sing

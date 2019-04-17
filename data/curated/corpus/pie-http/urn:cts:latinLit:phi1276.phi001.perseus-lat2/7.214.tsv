@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+Rufum,rvfvs,NOM2,Case=Acc|Numb=Sing
+quem,qvi,PROrel,Case=Acc|Numb=Sing
+totiens,totiens,ADV,Deg=Pos
+Ciceronem,cicero,NOM3,Case=Acc|Numb=Sing
+Allobroga,allobroga,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+dixit,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

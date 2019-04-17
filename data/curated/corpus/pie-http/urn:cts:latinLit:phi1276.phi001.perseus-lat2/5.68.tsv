@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+uix,vix,ADV,Deg=Pos
+fractum,frango,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+solidae,solidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
+iam,iam,ADV,Deg=Pos
+mucida,mvcidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
+frusta,frvstvm,NOM2,Case=Acc|Numb=Plur
+farinae,farina,NOM1,Case=Gen|Numb=Sing

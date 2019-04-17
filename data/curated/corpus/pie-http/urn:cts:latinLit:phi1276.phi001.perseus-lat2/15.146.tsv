@@ -1,0 +1,7 @@
+form,lemma,pos,morph
+sensum,sensvs,NOM4,Case=Acc|Numb=Sing
+a,ab,PRE,MORPH=empty
+caelesti,caelestis,NOM3,Case=Abl|Numb=Sing|Deg=Pos
+demissum,demitto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
+traximus,traho,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
+arce,arx,NOM3,Case=Abl|Numb=Sing

@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+atque,atqve,CONcoo,MORPH=empty
+oculum,ocvlvs,NOM2,Case=Acc|Numb=Sing
+medico,medicvs,NOM2,Case=Dat|Numb=Sing
+nil,nihil,PROind,Case=Ind
+promittente,promitto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
+relictum,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
+.,vnvs,ADJcar,Case=Acc|Numb=Plur

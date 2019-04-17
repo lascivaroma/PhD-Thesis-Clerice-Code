@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+non,non,ADVneg,MORPH=empty
+audent,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
+homines,homo,NOM3,Case=Nom|Numb=Plur
+perfusa,perfvndo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
+dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
+laena,laena,NOM1,Case=Abl|Numb=Sing
+.,qvintvs,ADJcar,Case=Acc|Numb=Plur

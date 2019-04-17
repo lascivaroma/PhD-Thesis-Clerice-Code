@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+talia,talis,PROdem,Case=Acc|Numb=Plur
+tam,tam,ADV,Deg=Pos
+grauiter,graviter,ADV,Deg=Pos
+si,si,CONsub,MORPH=empty
+quando,qvando,ADV,Deg=Pos
+poetica,poetica,NOM1,Case=Nom|Numb=Sing
+surgit,svrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

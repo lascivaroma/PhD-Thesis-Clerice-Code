@@ -1,0 +1,13 @@
+form,lemma,pos,morph
+NASTES,nastes,NOM3,Case=Nom|Numb=Sing
+Amphimachusque,amphimachvs,NOM2,Case=Nom|Numb=Sing
+Nomionis,nomion,NOM3,Case=Gen|Numb=Sing
+inclita,inclvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
+proles,proles,NOM3,Case=Nom|Numb=Sing
+ductores,dvctor,NOM3,Case=Nom|Numb=Plur
+quondam,qvondam,ADV,Deg=Pos
+puluis,pvlvis,NOM3,Case=Nom|Numb=Sing
+et,et,CONcoo,MORPH=empty
+umbra,vmbra,NOM1,Case=Abl|Numb=Sing
+sumus,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
+.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

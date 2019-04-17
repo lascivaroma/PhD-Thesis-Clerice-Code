@@ -1,0 +1,8 @@
+form,lemma,pos,morph
+his,hic,PROdem,Case=Abl|Numb=Plur
+languentem,langveo,ADJqua,Case=Acc|Numb=Sing|Deg=Pos|Voice=Act
+animum,animvs,NOM2,Case=Acc|Numb=Sing
+seruant,servo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+et,et,CONcoo,MORPH=empty
+seria,serivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
+uitae,vita,NOM1,Case=Gen|Numb=Sing

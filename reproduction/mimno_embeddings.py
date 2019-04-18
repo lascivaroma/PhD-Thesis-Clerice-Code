@@ -5,6 +5,7 @@ import subprocess
 import glob
 import math
 import copy
+import json
 import random
 import logging  # Setting up the loggings to monitor gensim
 from time import time
@@ -17,7 +18,8 @@ from typing import List, Tuple
 from helpers.embeddings.gensim_model import GensimIterator
 
 # Important to get information from gensim
-logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= '%H:%M:%S', level=logging.INFO)
+if __name__ == "__main__":
+    logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= '%H:%M:%S', level=logging.INFO)
 
 # In case it takes ./notebooks
 sys.path.append('../')
@@ -241,3 +243,78 @@ class Mallet(object):
         with open(self.keys) as f:
             for line in f.readlines():
                 yield line.split("\t")[-1].split()
+
+
+####################
+#
+#
+#   Step 2 : Topic Modelling for extracting relevant words
+#
+#
+####################
+
+def word2vec_similarities(word1: str, word2: str, models: List[KeyedVectors]) -> List[float]:
+    """ Given word1  and word 2, returns the distance between these word
+    if they appear in the models
+    """
+    x = []
+    for model in models:
+        if word1 in model and word2 in model:
+            x.append(model.n_similarity([word1], [word2]))
+    return x
+
+
+def build_proximity(topics, models):
+    """ Build a proximity dictionary for the topics given where each word combination
+    in a topic are scored in proximity against each other
+    """
+    structure = {
+        # Topic
+        # topic_index: {
+        word1: {
+            # List of scores over one model
+            word2: []
+            for word2 in words if word2 != word1
+        }
+        for words in topics
+        for word1 in words
+    }
+    #    for topic_index, words in enumerate(topics)
+    # }
+    for word1 in structure:
+        for word2 in structure[word1]:
+            structure[word1][word2] = word2vec_similarities(word1, word2, models=models)
+    return structure
+
+
+def get_models(order="fixed_order", glob_pattern="../reproduction/mimno.models/{order}.*.wv"):
+    """ Get all models in {order} arrangement
+    """
+    if len(glob.glob(glob_pattern.format(order=order))) == 0:
+        raise Exception("No models found")
+    for model in glob.glob(glob_pattern.format(order=order)):
+        yield KeyedVectors.load(model)
+
+
+def get_proximities_dict(topics: List[str], path: str = ".", arrangements: List = None, force=False) -> dict:
+    if not arrangements:
+        arrangements = corpus_arrangements
+    output = {}
+    for arrangement in arrangements:
+        jsonname = os.path.join(path, arrangement.__name__+".json")
+        if os.path.isfile(jsonname) and not force:
+            with open(jsonname) as f:
+                output[arrangement.__name__] = json.load(f)
+        else:
+            proximity_dict = build_proximity(topics, list(get_models(order=arrangement.__name__)))
+            with open(jsonname, "w") as f:
+                # Floats conversion because of numpy float
+                output[arrangement.__name__] = json.dump({
+                    w1: {
+                        w2: [float(score) for score in proximity_dict[w1][w2]]
+                        for w2 in proximity_dict[w1]
+                    }
+                    for w1 in proximity_dict
+                }, f)
+            output[arrangement.__name__] = proximity_dict
+    return output

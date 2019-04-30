@@ -1,5 +1,6 @@
-from .xml import PerseidsXMLCorpus
+from .xml_corpora import PerseidsXMLCorpus
 from .conll import ConlluTreebank
+from .lasla import LaslaCorpus
 from .utils import flatten_doc_dict, doc_token_dict_sum, distribution, idict
 
 
@@ -39,15 +40,19 @@ Perseus_filtered = ConlluTreebank(
     remove="^\W+$"
 )
 
+LASLA = LaslaCorpus("/home/thibault/dev/LASLA/output/*.tsv", "Corpus Lasla 2018")
+LASLA2 = LaslaCorpus("/home/thibault/dev/LASLA/output/*.tsv", "Corpus Lasla 2018")
 
 Corpora = [
     Harrington,
     Proiel,
-    Perseus
+    Perseus,
+    LASLA
 ]
 
 Filtered_Corpora = [
     Harrington_filtered,
     Proiel_filtered,
-    Perseus_filtered
+    Perseus_filtered,
+    LASLA2
 ]

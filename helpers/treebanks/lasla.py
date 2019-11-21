@@ -1,12 +1,9 @@
-import lxml.etree
-import collections
 import os
+import tqdm
 
-from MyCapytain.common.reference import URN
-from csv import reader
+from csv import DictReader, reader
 from helpers.treebanks.base import TreebankCorpus
-from helpers.printing import SUBSUBTASK_SEPARATOR, SUBTASK_SEPARATOR
-
+from collections import Counter
 
 class LaslaCorpus(TreebankCorpus):
 
@@ -19,20 +16,18 @@ class LaslaCorpus(TreebankCorpus):
             }
 
     def parse_sentences(self):
-        for file in self.files:
+        for file in tqdm.tqdm(self.files):
             filename = os.path.basename(file)
             urn = self.equivalency_table[filename]
-            with open(file) as f:
 
+            with open(file) as f:
                 words, lemmas, postags, tags = [], [], [], []
-                for line in reader(f, delimiter="\t"):
-                    if len(line):
-                        if line[0] == "form":
-                            continue
-                        words.append(line[0])
-                        lemmas.append(line[1])
-                        tags.append({"lemma": lemmas[-1], "form": words[-1]})
-                        postags.append(line[3])
+                for line in DictReader(f, delimiter="\t"):
+                    if len(line) and len(line["form"]):
+                        words.append(line["form"])
+                        lemmas.append(line["lemma"])
+                        tags.append({"lemma": line["lemma"], "form": line["form"]})
+                        postags.append(line["pos"])
                     else:
                         yield urn, tags, words, lemmas, postags
                         words, lemmas, postags, morph = [], [], [], []
@@ -40,14 +35,10 @@ class LaslaCorpus(TreebankCorpus):
 
     def parse(self):
         for doc, s, words, lemmas, postags in self.parse_sentences():
-            self._words[doc] += words
-            self._lemmas[doc] += lemmas
+            self._words[doc].extend(words)
+            self._lemmas[doc].extend(lemmas)
             for tag in s:
                 self._lemma_forms[tag.get("lemma")].add(tag.get("form"))
-            for postag in postags:
-                try:
-                    self._types[doc][postag] += 1
-                except:
-                    # Pass
-                    continue
+
+            self._types[doc].update(Counter(postags))
 

@@ -6,6 +6,8 @@ from MyCapytain.common.reference import URN
 from .base import TreebankCorpus
 from ..printing import SUBSUBTASK_SEPARATOR, SUBTASK_SEPARATOR
 
+import logging
+
 # Dictionary of files without document IDs
 Known_errors = {
     "lattb.6202.1.tb.xml": "urn:cts:latinLit:phi0472.phi001.perseus-lat2",  #:6.1",
@@ -96,10 +98,10 @@ class PerseidsXMLCorpus(TreebankCorpus):
                         data[document_id].append(joined_words)
                     else:
                         if filename not in said_it_was_a_duplicate:
-                            print(SUBSUBTASK_SEPARATOR + filename + " is a duplicate treebank")
+                            logging.info(SUBTASK_SEPARATOR + filename + " is a duplicate treebank")
                             said_it_was_a_duplicate.append(filename)
 
-        print(SUBTASK_SEPARATOR + " {}/{} files containing duplicate sentences".format(
+        logging.info("{}/{} files containing duplicate sentences".format(
             len(said_it_was_a_duplicate),
             len(self.files)
         ))

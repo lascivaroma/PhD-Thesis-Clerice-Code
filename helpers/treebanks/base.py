@@ -20,7 +20,7 @@ class TreebankCorpus:
         self._words = collections.defaultdict(list)
         self._lemmas = collections.defaultdict(list)
         self._lemma_forms = collections.defaultdict(set)
-        self._types = collections.defaultdict(lambda: collections.defaultdict(lambda: 0))
+        self._types = collections.defaultdict(lambda: collections.Counter())
         self.remove = remove
         if remove:
             self.remove = re.compile(remove)

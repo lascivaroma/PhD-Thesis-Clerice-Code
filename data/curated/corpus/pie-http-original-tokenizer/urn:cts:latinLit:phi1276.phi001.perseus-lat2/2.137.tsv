@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-interea,interea,ADV,Deg=Pos
-tormentum,tormentvm,NOM2,Case=Acc|Numb=Sing
-ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nubentibus,nvbo,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-haeret,haereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

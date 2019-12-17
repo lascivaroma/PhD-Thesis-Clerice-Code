@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-audet,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-in,in,PRE,MORPH=empty
-historia,historia,NOM1,Case=Abl|Numb=Sing
-constratum,consterno,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-classibus,classis,NOM3,Case=Abl|Numb=Plur
-isdem,idem,PROdem,Case=Abl|Numb=Plur

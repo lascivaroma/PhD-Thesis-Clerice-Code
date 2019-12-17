@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Fidimus,fidimvs,NOM2,Case=Nom|Numb=Sing
-eloquio,eloqvivm,NOM2,Case=Abl|Numb=Sing
-Ciceroni,cicero,NOM3,Case=Dat|Numb=Sing
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-ducentos,dvcenti,ADJcar,Case=Acc|Numb=Plur

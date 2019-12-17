@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Commoda,commoda,NOM1,Case=Nom|Numb=Sing
-tractemus,tracto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-primum,primvm,ADJadv.ord,Deg=Sup
-communia,commvnis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-quorum,qvi,PROrel,Case=Gen|Numb=Plur

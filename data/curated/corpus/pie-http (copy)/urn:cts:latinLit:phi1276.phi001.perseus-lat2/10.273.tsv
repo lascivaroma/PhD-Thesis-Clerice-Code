@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Festino,festinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-ad,ad,PRE,MORPH=empty
-nostros,nostri,PROpos,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-regem,rex,NOM3,Case=Acc|Numb=Sing
-transeo,transeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-Ponti,pontvs,NOM2,Case=Gen|Numb=Sing

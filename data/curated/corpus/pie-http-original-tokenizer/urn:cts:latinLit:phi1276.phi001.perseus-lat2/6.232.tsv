@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-illa,ille,PROdem,Case=Nom|Numb=Sing
-docet,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-spoliis,spolivm,NOM2,Case=Abl|Numb=Plur
-nudi,nvdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-gaudere,gavdeo,VER,Mood=Inf|Tense=Pres|Voice=SemDep
-mariti,maritvs,NOM2,Case=Nom|Numb=Plur

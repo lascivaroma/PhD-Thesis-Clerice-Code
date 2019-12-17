@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-commune,commvnis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-id,is,PROdem,Case=Nom|Numb=Sing
-uitium,vitivm,NOM2,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hic,hic,ADV,MORPH=empty
-uiuimus,vivo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-ambitiosa,ambitiosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

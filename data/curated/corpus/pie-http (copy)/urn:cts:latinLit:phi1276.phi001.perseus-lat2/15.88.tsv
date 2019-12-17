@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sustinuit,svstineo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-nil,nihil,PROind,Case=Ind
-umquam,vmqvam,ADV,Deg=Pos
-hac,hic,PROdem,Case=Abl|Numb=Sing
-carne,caro,NOM3,Case=Abl|Numb=Sing
-libentius,libenter,ADV,Deg=Comp
-edit,edo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-inprobitas,improbitas,NOM3,Case=Nom|Numb=Sing
-illo,ille,PROdem,Numb=Sing
-fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-admirabilis,admirabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-aeuo,aevvm,NOM2,Case=Abl|Numb=Sing

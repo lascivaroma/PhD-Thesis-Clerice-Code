@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-spectandus,specto,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-gaudent,gavdeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-omnes,omnis,PROind,Case=Nom|Numb=Plur
-quae,qvi,PROrel,Case=Nom|Numb=Plur
-labra,labrvm,NOM2,Case=Acc|Numb=Plur
-quis,qvis,PROint,Case=Nom|Numb=Plur
-illi,ille,PROdem,Case=Dat|Numb=Plur

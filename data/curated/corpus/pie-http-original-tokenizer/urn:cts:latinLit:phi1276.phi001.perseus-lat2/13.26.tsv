@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-rari,rarvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-quippe,qvippe,CONcoo,Deg=Pos
-boni,bonvs,NOM2,Case=Nom|Numb=Plur|Deg=Pos
-numera,nvmero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-uix,vix,ADV,Deg=Pos
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-totidem,totidem,PROdem,Case=Ind|Deg=Pos
-quot,qvot,PROint,Case=Ind

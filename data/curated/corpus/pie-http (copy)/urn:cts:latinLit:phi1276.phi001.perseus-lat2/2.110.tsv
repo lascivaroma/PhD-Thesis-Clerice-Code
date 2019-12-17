@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hic,hic,PROdem,Case=Nom|Numb=Sing
-nullus,nvllvs,PROind,Case=Nom|Numb=Sing
-uerbis,verbvm,NOM2,Case=Abl|Numb=Plur
-pudor,pvdor,NOM3,Case=Nom|Numb=Sing
-aut,avt,CONcoo,MORPH=empty
-reuerentia,reverentia,NOM1,Case=Nom|Numb=Sing
-mensae,mensa,NOM1,Case=Gen|Numb=Sing

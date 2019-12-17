@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-coniugium,conivgivm,NOM2,Case=Acc|Numb=Sing
-quaeras,qvaero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-uel,vel,CONcoo,MORPH=empty
-sacri,sacer,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-in,in,PRE,MORPH=empty
-parte,pars,NOM3,Case=Abl|Numb=Sing
-senatus,senatvs,NOM4,Case=Gen|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-creditur,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-a,ab,PRE,MORPH=empty
-multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-fiducia,fidvcia,NOM1,Case=Nom|Numb=Sing
-mimum,mimvs,NOM2,Case=Acc|Numb=Sing
-agit,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing

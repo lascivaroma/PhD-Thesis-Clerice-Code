@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Sed,sedes,NOM7,Case=Voc|Numb=Sing
-si,si,CONsub,MORPH=empty
-cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-uides,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-simili,similis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-fora,forvm,NOM2,Case=Acc|Numb=Plur
-plena,plenvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-querella,qverela,NOM1,Case=Abl|Numb=Sing

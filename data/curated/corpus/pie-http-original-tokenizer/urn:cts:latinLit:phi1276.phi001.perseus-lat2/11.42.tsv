@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-talibus,talis,PROdem,Case=Abl|Numb=Plur
-a,ab,PRE,MORPH=empty
-dominis,dominvs,NOM2,Case=Abl|Numb=Plur
-post,post,PRE,MORPH=empty
-cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-nouissimus,novvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-exit,exeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

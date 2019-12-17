@@ -1,0 +1,26 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/18.txt'>
+	<w pos='NOMcom' lemma='hector' msd='Case=Abl|Numb=Sing'>HECTORE</w>
+	<w pos='VER' lemma='prosterno' msd='Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>prostrato</w>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>nec</w>
+	<w pos='NOMcom' lemma='deus' msd='Case=Abl|Numb=Plur'>dis</w>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>nec</w>
+	<w pos='NOMcom' lemma='uis' msd='Case=Abl|Numb=Plur'>viribus</w>
+	<w pos='ADJqua' lemma='aequus' msd='Case=Abl|Numb=Plur|Deg=Pos'>aequis</w>
+	<w pos='VER' lemma='congredior' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep'>congressus</w>
+	<w pos='ADJqua' lemma='saeuus' msd='Case=Abl|Numb=Sing|Deg=Pos'>saevo</w>
+	<w pos='NOMcom' lemma='troilus' msd='Case=Nom|Numb=Sing'>Troilus</w>
+	<w pos='ADJqua' lemma='aeacidus' msd='Case=Dat|Numb=Sing|Deg=Pos'>Aeacidae</w>
+	<w pos='VER' lemma='rapto' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>raptatus</w>
+	<w pos='NOMcom' lemma='biga' msd='Case=Abl|Numb=Sing'>bigis</w>
+	<w pos='NOMcom' lemma='frater' msd='Case=Gen|Numb=Sing'>fratris</w>
+	<w pos='VER' lemma='coniungo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1'>coniungor</w>
+	<w pos='NOMcom' lemma='honor' msd='Case=Dat|Numb=Sing'>honori</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Gen|Numb=Sing'>cuius</w>
+	<w pos='PRE' lemma='ob' msd='MORPH=empty'>ob</w>
+	<w pos='NOMcom' lemma='exemplum' msd='Case=Acc|Numb=Sing'>exemplum</w>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>nec</w>
+	<w pos='PROper' lemma='ego' msd='Case=Dat|Numb=Sing'>mihi</w>
+	<w pos='NOMcom' lemma='poena' msd='Case=Nom|Numb=Sing'>poena</w>
+	<w pos='ADJqua' lemma='grauis' msd='Case=Nom|Numb=Sing|Deg=Pos'>gravis</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Nos,nos,PROper,Case=Nom|Numb=Plur
-miranda,mirandvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-quidem,qvidem,ADV,Deg=Pos
-set,sed,CONcoo,MORPH=empty
-nuper,nvper,ADV,Deg=Pos
-consule,consvlo,NOM3,Case=Abl|Numb=Sing
-Iunco,ivncvs,NOM2,Case=Abl|Numb=Sing

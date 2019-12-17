@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-nullo,nvllvs,PROind,Case=Abl|Numb=Sing
-credant,credo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-mundum,mvndvs,NOM2,Case=Acc|Numb=Sing
-rectore,rector,NOM3,Case=Abl|Numb=Sing
-moueri,moveo,VER,Mood=Inf|Tense=Pres|Voice=Pass

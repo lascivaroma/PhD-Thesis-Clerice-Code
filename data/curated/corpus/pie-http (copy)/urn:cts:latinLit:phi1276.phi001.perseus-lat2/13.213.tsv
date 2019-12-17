@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-difficili,difficilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-crescente,cresco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-cibo,cibvs,NOM2,Case=Abl|Numb=Sing
-sed,sed,CONcoo,MORPH=empty
-uina,vinvm,NOM2,Case=Acc|Numb=Plur
-misellus,misellvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

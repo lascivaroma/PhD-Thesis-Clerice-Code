@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-omnibus,omnis,PROind,Case=Dat|Numb=Plur
-et,et,CONcoo,MORPH=empty
-crescit,cresco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-multa,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-damnosa,damnosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-papyro,papyrvs,NOM2,Case=Abl|Numb=Sing
-;,o,PRE,MORPH=empty

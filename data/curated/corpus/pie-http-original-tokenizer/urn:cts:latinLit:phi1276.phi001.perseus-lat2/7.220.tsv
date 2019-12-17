@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-patere,patior,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Dep|Person=2
-inde,inde,ADV,Deg=Pos
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-decrescere,decresco,VER,Mood=Inf|Tense=Pres|Voice=Act
-non,non,ADVneg,MORPH=empty
-aliter,aliter,ADV,Deg=Pos
-quam,qvam,ADVrel,MORPH=empty

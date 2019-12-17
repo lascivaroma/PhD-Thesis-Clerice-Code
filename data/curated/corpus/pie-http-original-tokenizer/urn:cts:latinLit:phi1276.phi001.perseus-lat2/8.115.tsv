@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cruraque,crvraqve,ADV,Case=Nom|Deg=Pos
-totius,totvs,PROind,Case=Gen|Numb=Sing
-facient,facio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-tibi,tv,PROper,Case=Dat|Numb=Sing
-leuia,levis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-gentis,gens,NOM3,Case=Gen|Numb=Sing

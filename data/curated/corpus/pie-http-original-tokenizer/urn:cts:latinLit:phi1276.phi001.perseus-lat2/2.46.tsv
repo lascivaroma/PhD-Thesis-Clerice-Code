@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-defendit,defendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-numerus,nvmervs,NOM2,Case=Nom|Numb=Sing
-iunctaeque,ivngo,VER,Case=Gen|Numb=Sing|Deg=Pos|Mood=Par|Tense=Perf|Voice=Pass
-umbone,vmbo,NOM3,Case=Abl|Numb=Sing
-phalanges,phalanx,NOM3,Case=Nom|Numb=Plur

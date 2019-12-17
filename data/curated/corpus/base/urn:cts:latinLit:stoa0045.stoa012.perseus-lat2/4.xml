@@ -1,0 +1,33 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/4.txt'>
+	<w pos='ADVneg' lemma='non' msd='MORPH=empty'>NON</w>
+	<w pos='ADJcar' lemma='unus' msd='Case=Nom|Numb=Sing'>una</w>
+	<w pos='ADV' lemma='aeacide' msd='Numb=Sing|Deg=Pos'>Aeacide</w>
+	<w pos='CONcoo' lemma='ne2' msd='MORPH=empty'>-ne</w>
+	<w pos='NOMcom' lemma='tellus' msd='Case=Nom|Numb=Sing'>tellus</w>
+	<w pos='VER' lemma='habeo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>habet</w>
+	<w pos='NOMcom' lemma='os?' msd='Case=Nom|Numb=Plur'>ossa</w>
+	<w pos='VER' lemma='tego' msd='Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3'>teguntur</w>
+	<w pos='NOMcom' lemma='litus' msd='Case=Abl|Numb=Sing'>litore</w>
+	<w pos='ADJqua' lemma='sigeum' msd='Case=Abl|Numb=Sing'>Sigeo</w>
+	<w pos='NOMcom' lemma='crinis' msd='Case=Acc|Numb=Sing'>crinem</w>
+	<w pos='ADJqua' lemma='larisa' msd='Case=Nom|Numb=Sing'>Larisa</w>
+	<w pos='VER' lemma='cremo' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>cremavit</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='NOMcom' lemma='pars' msd='Case=Nom|Numb=Sing'>pars</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Dat|Numb=Plur'>tumulis</w>
+	<w pos='ADJqua' lemma='secretus' msd='Case=Nom|Numb=Sing|Deg=Pos'>secreta</w>
+	<w pos='VER' lemma='iaceo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>iacet</w>
+	<w pos='NOMcom' lemma='pars' msd='Case=Nom|Numb=Sing'>pars</w>
+	<w pos='NOMcom' lemma='classis' msd='Case=Abl|Numb=Sing'>classe</w>
+	<w pos='VER' lemma='refero' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>relata</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>est</w>
+	<w pos='PUNC' lemma=';' msd='MORPH=empty'>;</w>
+	<w pos='NOMcom' lemma='orbis' msd='Case=Abl|Numb=Sing'>orbe</w>
+	<w pos='CONcoo' lemma='sed' msd='MORPH=empty'>set</w>
+	<w pos='PRE' lemma='in' msd='MORPH=empty'>in</w>
+	<w pos='PROind' lemma='totus' msd='Case=Abl|Numb=Sing'>toto</w>
+	<w pos='ADJqua' lemma='rediuiuus' msd='Case=Acc|Numb=Sing|Deg=Pos'>redivivum</w>
+	<w pos='VER' lemma='ostendo' msd='Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3'>ostendet</w>
+	<w pos='NOMcom' lemma='homerus' msd='Case=Nom|Numb=Sing'>Homerus</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

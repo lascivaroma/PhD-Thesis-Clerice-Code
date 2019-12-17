@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-pupillos,pvpillvs,NOM2,Case=Acc|Numb=Plur
-;,o,PRE,MORPH=empty
-quot,qvot,PROint,Case=Ind
-longa,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uiros,vir,NOM2,Case=Acc|Numb=Plur
-exorbeat,exsorbeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-uno,vnvs,ADJcar,Case=Abl|Numb=Sing

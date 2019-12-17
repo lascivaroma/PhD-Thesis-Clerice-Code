@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uocibus,vox,NOM3,Case=Abl|Numb=Plur
-obscaenis,obscenvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-omni,omnis,PROind,Case=Abl|Numb=Sing
--que,qvoqve,CONcoo,MORPH=empty
-libidinis,libido,NOM3,Case=Gen|Numb=Sing
-arte,ars,NOM3,Case=Abl|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Praeterea,praeterevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-minimus,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-gelido,gelidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-iam,iam,ADV,Deg=Pos
-in,in,PRE,MORPH=empty
-corpore,corpvs,NOM3,Case=Abl|Numb=Sing
-sanguis,sangvis,NOM3,Case=Nom|Numb=Sing

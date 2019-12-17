@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hunc,hic,PROdem,Case=Acc|Numb=Sing
-qualem,qvalis,PROint,Case=Acc|Numb=Sing
-nequeo,neqveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-monstrare,monstro,VER,Mood=Inf|Tense=Pres|Voice=Act
-et,et,CONcoo,MORPH=empty
-sentio,sentio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-tantum,tantvm,ADV,Numb=Sing|Deg=Pos

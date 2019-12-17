@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ilibus,ilia,PROdem,Case=Abl|Numb=Plur
-o,o,INJ,MORPH=empty
-nummi,nvmvs,NOM2,Case=Voc|Numb=Sing
-uobis,vos,PROper,Case=Dat|Numb=Plur
-hunc,hic,PROdem,Case=Acc|Numb=Sing
-praestat,praesto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-honorem,honor,NOM3,Case=Acc|Numb=Sing

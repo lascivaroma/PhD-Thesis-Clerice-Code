@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-ibi,ibi,ADV,Deg=Pos
-per,per,PRE,MORPH=empty
-ludum,lvdvs,NOM2,Case=Acc|Numb=Sing
-simulabitur,simvlo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3
-omnia,omnis,PROind,Case=Nom|Numb=Plur
-fient,fio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-saucius,savcivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-rubra,rvber,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-deterges,detergeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-uulnera,vvlnvs,NOM3,Case=Acc|Numb=Plur
-mappa,mappa,NOM1,Case=Abl|Numb=Sing

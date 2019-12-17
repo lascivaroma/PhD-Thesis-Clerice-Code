@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-umbrarum,vmbra,NOM1,Case=Gen|Numb=Plur
-;,o,PRE,MORPH=empty
-dominos,dominvs,NOM2,Case=Acc|Numb=Plur
-pretiis,pretivm,NOM2,Case=Abl|Numb=Plur
-mutare,mvto,VER,Mood=Inf|Tense=Pres|Voice=Act
-iubentur,ivbeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

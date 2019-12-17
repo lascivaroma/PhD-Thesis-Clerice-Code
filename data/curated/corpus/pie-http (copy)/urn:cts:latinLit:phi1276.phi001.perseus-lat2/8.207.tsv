@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-credamus,credo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-tunicae,tvnica,NOM1,Case=Nom|Numb=Plur
-de,de,PRE,MORPH=empty
-faucibus,favx,NOM3,Case=Abl|Numb=Plur
-aurea,avrevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cum,cvm,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing

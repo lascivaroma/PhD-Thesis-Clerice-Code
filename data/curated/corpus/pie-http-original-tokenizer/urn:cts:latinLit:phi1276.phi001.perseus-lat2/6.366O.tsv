@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-In,invs,ADJcar,Case=Acc|Numb=Sing
-quacumque,qvicvmqve,PROint,Case=Abl|Numb=Sing
-domo,domvs,NOM2,Case=Abl|Numb=Sing
-uiuit,vivo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-luditque,lvditqve,ADV,Deg=Pos
-professus,profiteor,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3

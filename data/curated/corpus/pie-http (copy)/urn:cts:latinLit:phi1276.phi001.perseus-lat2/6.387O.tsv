@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-semper,semper,ADV,Deg=Pos
-habenda,habeo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-fides,fides,NOM5,Case=Nom|Numb=Sing
-oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
-fuligine,fvligo,NOM3,Case=Abl|Numb=Sing
-pascit,pasco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

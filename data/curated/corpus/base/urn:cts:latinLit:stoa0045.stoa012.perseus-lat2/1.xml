@@ -1,0 +1,25 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/1.txt'>
+	<w pos='NOMcom' lemma='rex' msd='Case=Voc|Numb=Sing'>REX</w>
+	<w pos='NOMcom' lemma='rex' msd='Case=Gen|Numb=Plur'>regum</w>
+	<w pos='NOMcom' lemma='atrides' msd='Case=Nom|Numb=Plur'>Atrides</w>
+	<w pos='ADJqua' lemma='fraternus' msd='Case=Gen|Numb=Sing|Deg=Pos'>fraternae</w>
+	<w pos='NOMcom' lemma='coniux' msd='Case=Gen|Numb=Sing'>coniugis</w>
+	<w pos='NOMcom' lemma='ultor' msd='Case=Nom|Numb=Sing'>ultor</w>
+	<w pos='NOMcom' lemma='oppetium' msd='Case=Gen|Numb=Sing'>oppetii</w>
+	<w pos='NOMcom' lemma='manus1' msd='Case=Abl|Numb=Plur'>manibus</w>
+	<w pos='NOMcom' lemma='coniux' msd='Case=Gen|Numb=Sing'>coniugis</w>
+	<w pos='PROdem' lemma='ipse' msd='Case=Nom|Numb=Sing'>ipse</w>
+	<w pos='PROpos' lemma='meus' msd='Case=Gen|Numb=Sing'>meae</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='PROint' lemma='quis1' msd='Case=Acc|Numb=Sing'>quid</w>
+	<w pos='VER' lemma='prosum1' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>prodest</w>
+	<w pos='ADJqua' lemma='helenes' msd='Case=Acc|Numb=Plur|Deg=Pos'>Helenes</w>
+	<w pos='VER' lemma='rapio' msd='Case=Acc|Numb=Sing|Mood=Par|Voice=Pass'>raptum</w>
+	<w pos='VER' lemma='punio' msd='Mood=Inf|Tense=Perf|Voice=Act'>punisse</w>
+	<w pos='VER' lemma='doleo' msd='Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act'>dolentem</w>
+	<w pos='NOMcom' lemma='uindex' msd='Case=Acc|Numb=Sing'>vindicem</w>
+	<w pos='NOMcom' lemma='adulterium' msd='Case=Gen|Numb=Sing'>adulterii</w>
+	<w pos='CONsub' lemma='cum3' msd='MORPH=empty'>cum</w>
+	<w pos='NOMcom' lemma='clytemestra' msd='Case=Acc|Numb=Sing'>Clytemestra</w>
+	<w pos='VER' lemma='neco' msd='Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3'>necet</w>
+</root>

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-a,ab,PRE,MORPH=empty
-nobis,nos,PROper,Case=Abl|Numb=Plur
-taceant,taceo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-illi,ille,PROdem,Case=Nom|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur
-sed,sed,CONcoo,MORPH=empty
-prodere,prodo,VER,Mood=Inf|Tense=Pres|Voice=Act
-malunt,malo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

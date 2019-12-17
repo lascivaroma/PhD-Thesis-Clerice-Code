@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-obseruare,observo,VER,Mood=Inf|Tense=Pres|Voice=Act
-manus,manvs,NOM4,Case=Acc|Numb=Plur
-oculosque,ocvlvsqve,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-in,in,PRE,MORPH=empty
-fine,finis,NOM3,Case=Abl|Numb=Sing
-trementis,tremo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

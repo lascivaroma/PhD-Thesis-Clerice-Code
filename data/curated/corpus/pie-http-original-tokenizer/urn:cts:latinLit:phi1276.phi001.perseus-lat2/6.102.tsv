@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-per,per,PRE,MORPH=empty
-puppem,pvppis,NOM3,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-duros,dvrvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-tractare,tracto,VER,Mood=Inf|Tense=Pres|Voice=Act
-rudentis,rvdens,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

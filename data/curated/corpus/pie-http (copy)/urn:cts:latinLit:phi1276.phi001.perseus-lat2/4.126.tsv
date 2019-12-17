@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-regem,rex,NOM3,Case=Acc|Numb=Sing
-aliquem,aliqvis,PROind,Case=Acc|Numb=Sing
-capies,capio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-aut,avt,CONcoo,MORPH=empty
-de,de,PRE,MORPH=empty
-temone,temo,NOM3,Case=Abl|Numb=Sing
-Britanno,britannvs,NOM2,Case=Abl|Numb=Sing

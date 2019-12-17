@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nullis,nvllvs,PROind,Case=Abl|Numb=Plur
-uisa,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
-umquam,vmqvam,ADV,Deg=Pos
-meritis,meritvm,NOM2,Case=Dat|Numb=Plur
-minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-aut,avt,CONcoo,MORPH=empty
-ingratae,ingratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-substitit,svbsisto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ad,ad,PRE,MORPH=empty
-ueteres,vetvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-arcus,arcvs,NOM4,Case=Acc|Numb=Plur
-madidamque,madidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Capenam,capena,NOM1,Case=Acc|Numb=Sing

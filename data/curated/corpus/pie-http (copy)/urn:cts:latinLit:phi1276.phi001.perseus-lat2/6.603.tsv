@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ad,ad,PRE,MORPH=empty
-spurcos,spvrcvs,NOM2,Case=Acc|Numb=Plur
-decepta,decipio,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-lacus,lacvs,NOM4,Case=Acc|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-inde,inde,ADV,Deg=Pos
-petitos,peto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tollis,tollo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-enim,enim,CONcoo,MORPH=empty
-et,et,CONcoo,MORPH=empty
-libris,liber,NOM2,Case=Abl|Numb=Plur
-actorum,actvm,NOM2,Case=Gen|Numb=Plur
-spargere,spargo,VER,Mood=Inf|Tense=Pres|Voice=Act
-gaudes,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=2

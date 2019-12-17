@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-exiguis,exigvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-trito,tero,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-ducunt,dvco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-epiraedia,epiraedivm,NOM2,Case=Nom|Numb=Plur
-collo,collvm,NOM2,Case=Abl|Numb=Sing

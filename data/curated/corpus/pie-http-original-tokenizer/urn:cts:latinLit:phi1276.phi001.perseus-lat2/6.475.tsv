@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-faciant,facio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-agitentque,agitentve,VER,Numb=Sing
-die,dies,NOM5,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Ind|Numb=Plur
-si,si,CONsub,MORPH=empty
-nocte,nocte,ADV,MORPH=empty
-maritus,maritvs,NOM2,Case=Nom|Numb=Sing

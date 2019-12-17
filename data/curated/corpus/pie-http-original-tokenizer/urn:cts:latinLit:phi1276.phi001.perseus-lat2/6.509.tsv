@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-damnorum,damnvm,NOM2,Case=Gen|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur
-uiuit,vivo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tamquam,tamqvam,ADVrel,MORPH=empty
-uicina,vicinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-mariti,maritvs,NOM2,Case=Gen|Numb=Sing

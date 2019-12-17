@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-tulerit,fero,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-dormire,dormio,VER,Mood=Inf|Tense=Pres|Voice=Act
-uirum,vir,NOM2,Case=Acc|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-senserat,sentio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-uxor,vxor,NOM3,Case=Nom|Numb=Sing

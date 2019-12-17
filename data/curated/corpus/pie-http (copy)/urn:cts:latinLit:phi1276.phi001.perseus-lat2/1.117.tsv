@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Sed,sedes,NOM7,Case=Nom|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-summus,svpervs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-honor,honor,NOM3,Case=Nom|Numb=Sing
-finito,finio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-conputet,compvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-anno,annvs,NOM2,Case=Abl|Numb=Sing

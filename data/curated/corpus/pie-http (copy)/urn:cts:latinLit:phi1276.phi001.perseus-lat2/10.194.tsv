@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quales,qvalis,PROint,Case=Acc|Numb=Plur
-umbriferos,vmbrifer,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ubi,vbi,CONsub,MORPH=empty
-pandit,pando,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Thabraca,thabraca,NOM7,Case=Nom|Numb=Sing
-saltus,saltvs,NOM4,Case=Acc|Numb=Plur

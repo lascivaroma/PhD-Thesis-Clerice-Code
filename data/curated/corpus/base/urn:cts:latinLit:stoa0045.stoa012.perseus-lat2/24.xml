@@ -1,0 +1,35 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/24.txt'>
+	<w pos='PROrel' lemma='qui1' msd='Case=Nom|Numb=Sing'>QUI</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Acc|Numb=Sing'>tumulum</w>
+	<w pos='ADJqua' lemma='priamus' msd='Case=Gen|Numb=Sing|Deg=Sup'>Priami</w>
+	<w pos='VER' lemma='quaero' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>quaerit</w>
+	<w pos='VER' lemma='lego?' msd='Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3'>legat</w>
+	<w pos='NOMcom' lemma='hector' msd='Case=Gen|Numb=Sing'>Hectoris</w>
+	<w pos='ADV' lemma='ante1' msd='MORPH=empty'>ante</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='PROdem' lemma='ille' msd='Case=Nom|Numb=Sing'>ille</w>
+	<w pos='PROpos' lemma='meus' msd='Case=Nom|Numb=Sing'>meus</w>
+	<w pos='NOMcom' lemma='natus1' msd='Case=Dat|Numb=Sing'>nato</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Acc|Numb=Sing'>quem</w>
+	<w pos='ADJadv.ord' lemma='prius' msd='Deg=Comp'>prius</w>
+	<w pos='PROdem' lemma='ipse' msd='Case=Nom|Numb=Sing'>ipse</w>
+	<w pos='VER' lemma='do' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1'>dedi</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='NOMcom' lemma='xcio' msd='Numb=Sing'>XXIV</w>
+	<w pos='PRE' lemma='ab' msd='MORPH=empty'>A</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='NOMcom' lemma='hector' msd='Case=Dat|Numb=Sing'>HECTORI</w>
+	<w pos='NOMcom' lemma='hector' msd='Case=Gen|Numb=Sing'>HECTORIS</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='patria' msd='Case=Dat|Numb=Sing'>patriae</w>
+	<w pos='ADV' lemma='simul1' msd='Deg=Pos'>simul</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>est</w>
+	<w pos='ADJqua' lemma='communis' msd='Case=Nom|Numb=Sing|Deg=Pos'>commune</w>
+	<w pos='NOMcom' lemma='sepulcrum' msd='Case=Nom|Numb=Sing'>sepulcrum</w>
+	<w pos='ADJcar' lemma='ambo2' msd='Case=Gen|Numb=Plur'>amborum</w>
+	<w pos='CONsub' lemma='quoniam' msd='MORPH=empty'>quoniam</w>
+	<w pos='ADJqua' lemma='iunctus' msd='Case=Nom|Numb=Sing|Tense=Perf|Voice=Pass'>iuncta</w>
+	<w pos='NOMcom' lemma='ruina' msd='Case=Nom|Numb=Sing'>ruina</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>fuit</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

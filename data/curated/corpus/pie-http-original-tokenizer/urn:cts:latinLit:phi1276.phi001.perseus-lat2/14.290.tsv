@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-causa,cavsa,NOM1,Case=Nom|Numb=Sing
-mali,malvm,NOM2,Case=Gen|Numb=Sing|Deg=Pos
-tanti,tantvs,PROdem,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-discriminis,discrimen,NOM3,Case=Gen|Numb=Sing
-huius,hic,PROdem,Case=Gen|Numb=Sing

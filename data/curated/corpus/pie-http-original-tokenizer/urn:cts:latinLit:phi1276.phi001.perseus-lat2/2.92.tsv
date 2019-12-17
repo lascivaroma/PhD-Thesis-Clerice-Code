@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Cecropiam,cecropia,NOM1,Case=Acc|Numb=Sing|Deg=Pos
-soliti,soleo,ADJqua,Case=Nom|Numb=Plur|Deg=Pos|Tense=Perf|Voice=SemDep
-Baptae,bapta,NOM1,Case=Dat|Numb=Sing
-lassare,lasso,VER,Mood=Inf|Tense=Pres|Voice=Act
-Cotyton,cotyton,NOM7,Case=Acc|Numb=Sing
-.,qvadranta,ADJcar,Case=Acc|Numb=Plur

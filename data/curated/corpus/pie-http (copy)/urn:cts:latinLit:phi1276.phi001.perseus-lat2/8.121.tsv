@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-curandum,cvro,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-in,in,PRE,MORPH=empty
-primis,primvs,ADJord,Case=Abl|Numb=Plur|Deg=Sup
-ne,ne,CONsub,MORPH=empty
-magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-iniuria,inivria,NOM1,Case=Nom|Numb=Sing
-fiat,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

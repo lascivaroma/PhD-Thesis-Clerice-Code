@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-occursus,occvrsvs,NOM4,Case=Nom|Numb=Sing
-hominum,homo,NOM3,Case=Gen|Numb=Plur
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-prudentia,prvdentia,NOM1,Case=Nom|Numb=Sing
-monstrat,monstro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

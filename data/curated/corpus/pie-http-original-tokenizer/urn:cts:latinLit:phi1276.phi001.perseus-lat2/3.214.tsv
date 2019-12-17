@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tum,tvm,ADV,Deg=Pos
-gemimus,gemo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-casus,casvs,NOM4,Case=Acc|Numb=Plur
-urbis,vrbs,NOM3,Case=Gen|Numb=Sing
-tunc,tvnc,ADV,Deg=Pos
-odimus,odi,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-ignem,ignis,NOM3,Case=Acc|Numb=Sing

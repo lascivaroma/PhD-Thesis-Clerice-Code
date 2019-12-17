@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-mangonum,mango,NOM3,Case=Gen|Numb=Plur
-pueros,pver,NOM2,Case=Acc|Numb=Plur
-uera,vervs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-ac,ac,CONcoo,MORPH=empty
-miserabilis,miserabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-urit,vro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

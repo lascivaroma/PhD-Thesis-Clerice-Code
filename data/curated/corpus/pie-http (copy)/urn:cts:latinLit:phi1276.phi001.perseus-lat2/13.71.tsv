@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Intercepta,intercepta,NOM1,Case=Nom|Numb=Sing
-decem,decem,ADJcar,Case=Ind
-quereris,qveror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
-sestertia,sestertivm,NOM2,Case=Acc|Numb=Plur
-fraude,fravs,NOM3,Case=Abl|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-unde,vnde,ADVint,MORPH=empty
-fit,fio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ut,vt,CONsub,MORPH=empty
-malim,malo,VER,Numb=Sing|Deg=Pos|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-fraterculus,fratercvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-gigantis,gigas,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

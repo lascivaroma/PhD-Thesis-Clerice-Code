@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Qua,qvis,PROrel,Case=Nom|Numb=Sing
-tamen,tamen,ADV,Deg=Pos
-exarsit,exardesco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-forma,forma,NOM1,Case=Abl|Numb=Sing
-qua,qvis,PROrel,Case=Abl|Numb=Sing
-capta,capio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-iuuenta,ivventa,NOM1,Case=Abl|Numb=Sing

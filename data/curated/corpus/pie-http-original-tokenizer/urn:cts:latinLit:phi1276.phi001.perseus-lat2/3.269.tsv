@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quod,qvis,PROint,Case=Nom|Numb=Sing
-spatium,spativm,NOM2,Case=Nom|Numb=Sing
-tectis,tectvm,NOM2,Case=Abl|Numb=Plur
-sublimibus,svblimis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-unde,vnde,ADVint,MORPH=empty
-cerebrum,cerebrvm,NOM2,Case=Acc|Numb=Sing

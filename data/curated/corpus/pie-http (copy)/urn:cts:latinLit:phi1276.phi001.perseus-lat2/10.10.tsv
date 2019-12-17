@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-sua,svvs,PROpos.ref,Case=Nom|Numb=Sing
-mortifera,mortifer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-facundia,facvndia,NOM1,Case=Nom|Numb=Sing
-uiribus,vis,NOM3,Case=Abl|Numb=Plur
-ille,ille,PROdem,Case=Nom|Numb=Sing

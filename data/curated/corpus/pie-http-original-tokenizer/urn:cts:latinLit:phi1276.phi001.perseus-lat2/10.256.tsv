@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-haec,hic,PROdem,Case=Acc|Numb=Plur
-eadem,idem,PROdem,Case=Acc|Numb=Plur
-Peleus,pelevs,NOM7,Case=Nom|Numb=Sing
-raptum,rapio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-cum,cvm,CONsub,MORPH=empty
-luget,lvgeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Achillem,achilles,NOM3,Case=Acc|Numb=Sing

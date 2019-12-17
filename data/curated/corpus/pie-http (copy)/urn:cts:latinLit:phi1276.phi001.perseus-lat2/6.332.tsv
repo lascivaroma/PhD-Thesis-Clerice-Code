@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-seruorum,servvs,NOM2,Case=Gen|Numb=Plur
-ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-conductus,condvco,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
-aquarius,aqvarivs,NOM2,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty
-hic,hic,PROdem,Case=Abl|Numb=Sing
-si,si,CONsub,MORPH=empty

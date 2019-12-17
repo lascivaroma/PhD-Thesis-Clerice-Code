@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-forsan,forsan,ADV,Deg=Pos
-Pacuuio,pacvvivs,NOM2,Case=Dat|Numb=Sing
-breuiter,breviter,ADV,Deg=Pos
-dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing
-superbus,svperbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

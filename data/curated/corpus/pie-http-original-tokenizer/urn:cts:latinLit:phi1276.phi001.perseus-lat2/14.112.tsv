@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tamquam,tamqvam,ADVrel,MORPH=empty
-parcus,parcvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-homo,homo,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-rerum,res,NOM5,Case=Gen|Numb=Plur
-tutela,tvtela,NOM1,Case=Nom|Numb=Sing
-suarum,svvs,PROpos.ref,Case=Gen|Numb=Plur

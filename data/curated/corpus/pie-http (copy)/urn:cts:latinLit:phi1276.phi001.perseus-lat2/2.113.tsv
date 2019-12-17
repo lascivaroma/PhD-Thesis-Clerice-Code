@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sacrorum,sacrvm,NOM2,Case=Gen|Numb=Plur
-antistes,antistes,NOM3,Case=Nom|Numb=Plur|Deg=Pos
-rarum,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ac,ac,CONcoo,MORPH=empty
-memorabile,memorabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

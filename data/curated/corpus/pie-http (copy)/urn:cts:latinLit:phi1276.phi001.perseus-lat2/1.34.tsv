@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-cito,cito,ADV,Deg=Pos
-rapturus,rapio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
-de,de,PRE,MORPH=empty
-nobilitate,nobilitas,NOM3,Case=Abl|Numb=Sing
-comesa,comedo,VER,Case=Abl|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

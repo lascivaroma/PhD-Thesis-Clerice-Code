@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-confundas,confvndo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-homo,homo,NOM3,Case=Nom|Numb=Sing
-sum,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-.,vnvs,ADJcar,Case=Acc|Numb=Sing
-nihil,nihil,PROind,Case=Ind
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-audacius,avdax,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-illis,ille,PROdem,Case=Dat|Numb=Plur

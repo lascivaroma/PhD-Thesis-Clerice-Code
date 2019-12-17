@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sic,sic,ADV,Deg=Pos
-Pedo,pedo,NOM3,Case=Nom|Numb=Sing
-conturbat,contvrbo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Matho,mathon,NOM3,Case=Nom|Numb=Sing
-deficit,deficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-exitus,exitvs,NOM4,Case=Nom|Numb=Sing
-hic,hic,PROdem,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

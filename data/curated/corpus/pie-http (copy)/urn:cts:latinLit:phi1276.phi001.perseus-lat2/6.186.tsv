@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-formosam,formosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-nisi,nisi,CONsub,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-de,de,PRE,MORPH=empty
-Tusca,tvscvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-Graecula,graecvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-facta,facio,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

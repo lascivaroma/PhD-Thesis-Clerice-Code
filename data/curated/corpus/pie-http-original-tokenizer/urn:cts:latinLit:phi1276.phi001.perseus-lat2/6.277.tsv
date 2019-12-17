@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-exorbes,exorbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-quae,qvi,PROrel,Case=Nom|Numb=Plur
-scripta,scriptvm,NOM2,Case=Acc|Numb=Plur|Mood=Ind
-et,et,CONcoo,MORPH=empty
-quot,qvot,PROint,Case=Ind
-lecture,lego,VER,Numb=Sing|Mood=Par|Voice=Act
-tabellas,tabella,NOM1,Case=Acc|Numb=Plur

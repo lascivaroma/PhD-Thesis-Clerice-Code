@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-incipit,incipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-agnosci,agnosco,VER,Mood=Inf|Tense=Pres|Voice=Pass
-atque,atqve,CONcoo,MORPH=empty
-illo,ille,PROdem,Case=Abl|Numb=Sing
-lacte,lac,NOM3,Case=Abl|Numb=Sing
-fouetur,foveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

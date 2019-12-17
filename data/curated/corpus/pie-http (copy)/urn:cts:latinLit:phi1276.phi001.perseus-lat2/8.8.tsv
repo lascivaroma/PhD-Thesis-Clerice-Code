@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-fumosos,fvmosvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-equitum,eqves,NOM3,Case=Gen|Numb=Plur
-cum,cvm,PRE,MORPH=empty
-dictatore,dictator,NOM3,Case=Abl|Numb=Sing
-magistros,magister,NOM2,Case=Acc|Numb=Plur

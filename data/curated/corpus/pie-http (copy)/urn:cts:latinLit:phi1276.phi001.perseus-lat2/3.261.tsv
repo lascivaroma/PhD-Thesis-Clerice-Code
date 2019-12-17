@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-more,mos,NOM3,Case=Abl|Numb=Sing
-animae,anima,NOM1,Case=Gen|Numb=Sing
-domus,domvs,NOM6,Case=Nom|Numb=Sing
-interea,interea,ADV,Deg=Pos
-secura,secvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-patellas,patella,NOM1,Case=Acc|Numb=Plur

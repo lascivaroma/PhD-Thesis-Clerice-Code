@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-stantibus,sto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-et,et,CONcoo,MORPH=empty
-saluis,salvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-his,hic,PROdem,Case=Abl|Numb=Plur
-collibus,collis,NOM3,Case=Abl|Numb=Plur
-undique,vndiqve,ADV,Deg=Pos
-ad,ad,PRE,MORPH=empty
-illos,ille,PROdem,Case=Acc|Numb=Plur

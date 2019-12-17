@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-per,per,PRE,MORPH=empty
-terram,terra,NOM1,Case=Acc|Numb=Sing
-digitis,digitvs,NOM2,Case=Abl|Numb=Plur
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-de,de,PRE,MORPH=empty
-sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
-gustat,gvsto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

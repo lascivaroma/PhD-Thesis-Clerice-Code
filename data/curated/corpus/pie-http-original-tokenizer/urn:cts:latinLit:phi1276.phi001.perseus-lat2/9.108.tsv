@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-proximus,propior,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ante,ante,PRE,MORPH=empty
-diem,dies,NOM5,Case=Acc|Numb=Sing
-caupo,cavpo,NOM3,Case=Nom|Numb=Sing
-sciet,scio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-audiet,avdio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Plur

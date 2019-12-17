@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-instituit,institvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
--que,qvove,ADV,MORPH=empty
-rudes,rvdis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-Lucusta,lvcvsta,NOM1,Case=Nom|Numb=Sing
-propinquas,propinqvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

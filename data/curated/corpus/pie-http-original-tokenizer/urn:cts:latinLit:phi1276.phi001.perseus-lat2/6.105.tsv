@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sustinuit,svstineo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-nam,nam,CONcoo,MORPH=empty
-Sergiolus,sergiolvs,NOM2,Case=Nom|Numb=Sing
-iam,iam,ADV,Deg=Pos
-radere,rado,VER,Mood=Inf|Tense=Pres|Voice=Act
-guttur,gvttvr,NOM3,Case=Acc|Numb=Sing

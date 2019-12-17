@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-parcendum,parco,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-teneris,tener,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
-nondum,nondvm,ADVneg,MORPH=empty
-impleuere,impleo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-medullas,medvlla,NOM1,Case=Acc|Numb=Plur

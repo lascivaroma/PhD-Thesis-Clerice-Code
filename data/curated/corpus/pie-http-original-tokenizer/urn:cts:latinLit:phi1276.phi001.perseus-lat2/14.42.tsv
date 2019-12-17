@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quocumque,qvocvmqve,ADVrel,MORPH=empty
-in,in,PRE,MORPH=empty
-populo,popvlvs,NOM2,Case=Abl|Numb=Sing
-uideas,video,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-quocumque,qvicvmqve,PROrel,Case=Abl|Numb=Sing
-sub,svb,PRE,MORPH=empty
-axe,axis,NOM3,Case=Abl|Numb=Sing

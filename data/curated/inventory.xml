@@ -1,4 +1,16 @@
-<TextInventory tiid="defaultTic" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dts="http://w3id.org/dts-ontology/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns="http://chs.harvard.edu/xmlns/cts" xmlns:ns1="http://purl.org/dc/terms/" xmlns:lr="https://lascivaroma.github.io/ns/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<TextInventory tiid="defaultTic" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dts="http://w3id.org/dts-ontology/" xmlns="http://chs.harvard.edu/xmlns/cts" xmlns:lr="https://lascivaroma.github.io/ns/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<textgroup urn="urn:cts:latinLit:phi0022">
+<groupname xml:lang="fre">Caton</groupname>
+<groupname xml:lang="eng">Cato</groupname>
+<work urn="urn:cts:latinLit:phi0022.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0022">
+<title xml:lang="lat">De Agricultura</title>
+<edition urn="urn:cts:latinLit:phi0022.phi001.thayer-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi0022.phi001">
+<label xml:lang="eng">De Agricultura, Loeb</label>
+<description xml:lang="eng">From Thayer's edition</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:p[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="section"></citation></citation></citationMapping></online>
+</edition>
+</work>
+</textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0196">
 <groupname xml:lang="eng">Maximianus 6th cent.</groupname>
 <groupname xml:lang="fre">Maximien</groupname>
@@ -88,6 +100,17 @@
 </edition>
 </work>
 </textgroup>
+<textgroup urn="urn:cts:latinLit:anthoLat">
+<groupname xml:lang="lat">Anthologia Latina</groupname>
+<work urn="urn:cts:latinLit:anthoLat.anthoLat" xml:lang="lat" groupUrn="urn:cts:latinLit:anthoLat">
+<title xml:lang="eng">Anthologia Latina</title>
+<edition urn="urn:cts:latinLit:anthoLat.anthoLat.musisquedeoque-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:anthoLat.anthoLat">
+<label xml:lang="eng">Anthologia Latina</label>
+<description xml:lang="mul">From Musisque Deoque</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
+</edition>
+</work>
+</textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0200">
 <groupname xml:lang="lat">Pomponius Mela</groupname>
 <work urn="urn:cts:latinLit:stoa0200.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0200">
@@ -100,8 +123,8 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0887">
-<groupname xml:lang="eng">Grattius</groupname>
 <groupname xml:lang="fre">Grattius</groupname>
+<groupname xml:lang="eng">Grattius</groupname>
 <groupname xml:lang="lat">Grattius Faliscus</groupname>
 <work urn="urn:cts:latinLit:phi0887.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0887">
 <title xml:lang="lat">Cynegetica</title>
@@ -113,23 +136,23 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0186">
+<groupname xml:lang="lat">Macrobius</groupname>
 <groupname xml:lang="fre">Macrobe</groupname>
 <groupname xml:lang="eng">Macrobe</groupname>
-<groupname xml:lang="lat">Macrobius</groupname>
 <work urn="urn:cts:latinLit:stoa0186.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0186">
-<title xml:lang="fre">Saturnales</title>
 <title xml:lang="lat">Saturnalia</title>
+<title xml:lang="fre">Saturnales</title>
 <edition urn="urn:cts:latinLit:stoa0186.stoa001.thayer-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0186.stoa001">
-<label xml:lang="lat">Saturnalia</label>
 <label xml:lang="fre">Saturnales</label>
+<label xml:lang="lat">Saturnalia</label>
 <description xml:lang="mul">Ludwig von Jan, published by Gottfried Bass, Quedlinburg and Leipzig, 1852 (Transcribed by Bill Thayer)</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0209">
-<groupname xml:lang="fre">Némésien</groupname>
 <groupname xml:lang="lat">Nemesianus</groupname>
+<groupname xml:lang="fre">Némésien</groupname>
 <work urn="urn:cts:latinLit:stoa0209.stoa002" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0209">
 <title xml:lang="lat">Cynegetica</title>
 <edition urn="urn:cts:latinLit:stoa0209.stoa002.thayer-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0209.stoa002">
@@ -159,8 +182,8 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0213c">
-<groupname xml:lang="lat">Novatianus</groupname>
 <groupname xml:lang="fre">Novatien</groupname>
+<groupname xml:lang="lat">Novatianus</groupname>
 <groupname xml:lang="eng">Novatian</groupname>
 <work urn="urn:cts:latinLit:stoa0213c.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0213c">
 <title xml:lang="lat">De Trinitate</title>
@@ -184,6 +207,14 @@
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0684">
 <groupname xml:lang="eng">Varro, Marcus Terentius</groupname>
+<work urn="urn:cts:latinLit:phi0684.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0684">
+<title xml:lang="lat">De Lingua Latina</title>
+<edition urn="urn:cts:latinLit:phi0684.phi001.remacle-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi0684.phi001">
+<label xml:lang="eng">De Lingua Latina, Nisard/Remacle</label>
+<description xml:lang="eng">From Remacle.org</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
+</edition>
+</work>
 <work urn="urn:cts:latinLit:phi0684.phi002" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0684">
 <title xml:lang="lat">Rerum rusticarum</title>
 <edition urn="urn:cts:latinLit:phi0684.phi002.thayer-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi0684.phi002">
@@ -215,16 +246,51 @@
 </edition>
 </work>
 </textgroup>
+<textgroup urn="urn:cts:latinLit:phi1351">
+<groupname xml:lang="eng">Tacitus, Cornelius</groupname>
+<work urn="urn:cts:latinLit:phi1351.phi005" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
+<title xml:lang="lat">Annales</title>
+<edition urn="urn:cts:latinLit:phi1351.phi005.lascivaroma-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi005">
+<label xml:lang="lat">Annales</label>
+<description xml:lang="mul">Cornelii Taciti Annalium Ab Excessu Divi Augusti Libri. Tacitus, Cornelius; Fisher, Charles Dennis, editor. Oxford, Clarendon Press. 1906.</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
+</edition>
+</work>
+<work urn="urn:cts:latinLit:phi1351.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
+<title xml:lang="lat">Historiae</title>
+<edition urn="urn:cts:latinLit:phi1351.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi004">
+<label xml:lang="lat">Historiae</label>
+<description xml:lang="mul">Cornelii Taciti Historiarum Libri. Tacitus, Cornelius; Fisher, Charles Dennis, editor. Oxford, Clarendon Press. 1911.</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
+</edition>
+</work>
+<work urn="urn:cts:latinLit:phi1351.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
+<title xml:lang="lat">Agricola</title>
+<edition urn="urn:cts:latinLit:phi1351.phi001.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi001">
+<label xml:lang="lat">De Vita Iulii Agricolae</label>
+<description xml:lang="eng">Opera Minora. Tacitus, Cornelius; Furneaux, Henry, editor. Oxford, Clarendon Press. 1900.</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="section"></citation></citation></citationMapping></online>
+</edition>
+</work>
+<work urn="urn:cts:latinLit:phi1351.phi002" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
+<title xml:lang="lat">Germania</title>
+<edition urn="urn:cts:latinLit:phi1351.phi002.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi002">
+<label xml:lang="lat">De Origine et Situ Germanorum Liber</label>
+<description xml:lang="mul">Opera Minora. Tacitus, Cornelius; Furneaux, Henry, editor. Oxford, Clarendon Press. 1900.</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="section"></citation></citation></citationMapping></online>
+</edition>
+</work>
+</textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0159">
-<groupname xml:lang="lat">Isidorus Hispalensis</groupname>
 <groupname xml:lang="eng">Isidore of Seville</groupname>
 <groupname xml:lang="fre">Isidore de Séville</groupname>
+<groupname xml:lang="lat">Isidorus Hispalensis</groupname>
 <work urn="urn:cts:latinLit:stoa0159.stoa004" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0159">
 <title xml:lang="fre">Étymologies</title>
 <title xml:lang="eng">Etymologies</title>
 <edition urn="urn:cts:latinLit:stoa0159.stoa004.thayer-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0159.stoa004">
-<label xml:lang="fre">Étymologies</label>
 <label xml:lang="eng">Etymologies</label>
+<label xml:lang="fre">Étymologies</label>
 <description xml:lang="mul">Loeb Classical Library's Minor Latin Poets, pp207‑285.</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="entry"></citation></citation></citationMapping></online>
 </edition>
@@ -233,12 +299,12 @@
 <textgroup urn="urn:cts:latinLit:phi1103">
 <groupname xml:lang="lat">Priaepia</groupname>
 <work urn="urn:cts:latinLit:phi1103.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1103">
-<title xml:lang="eng">Priapeia</title>
 <title xml:lang="fre">Priapées</title>
 <title xml:lang="lat">Priapeia</title>
+<title xml:lang="eng">Priapeia</title>
 <edition urn="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1103.phi001">
 <label xml:lang="eng">Priapeia from Poeta Latini minores</label>
-<description xml:lang="unk">Poeta Latini minores, ed. Aemilius Baehrens, Leipzig, Teubner, 1879</description>
+<description xml:lang="mul">Poeta Latini minores, ed. Aemilius Baehrens, Leipzig, Teubner, 1879</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
@@ -319,8 +385,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0058.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0058">
-<title xml:lang="lat">De consolatione philosophiae</title>
 <title xml:lang="eng">De consolatione philosophiae</title>
+<title xml:lang="lat">De consolatione philosophiae</title>
 <edition urn="urn:cts:latinLit:stoa0058.stoa001.opp-lat3" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0058.stoa001">
 <label xml:lang="eng">De consolatione philosophiae</label>
 <description xml:lang="eng">Boethius d. 524, De consolatione philosophiae</description>
@@ -376,10 +442,10 @@
 <textgroup urn="urn:cts:latinLit:phi9500">
 <groupname xml:lang="eng">Anonymous</groupname>
 <work urn="urn:cts:latinLit:phi9500.phi035" xml:lang="lat" groupUrn="urn:cts:latinLit:phi9500">
-<title xml:lang="eng">Epitaphium Ennodii</title>
+<title xml:lang="lat">Epitaphium Ennodii</title>
 <edition urn="urn:cts:latinLit:phi9500.phi035.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi9500.phi035">
-<label xml:lang="eng">Epitaphium Ennodii</label>
-<description xml:lang="eng">Anonymous, Epitaphium Ennodii</description>
+<label xml:lang="lat">Epitaphium Ennodii</label>
+<description xml:lang="mul">Anonymous, Epitaphium Ennodii, Corpus Scriptorum ecclesiasticorum Latinorum, Volume 6, Hartel, 1882</description>
 <online><citationMapping><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="line"></citation></citationMapping></online>
 </edition>
 </work>
@@ -526,8 +592,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0275.stoa017" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0275">
-<title xml:lang="eng">De idolatria</title>
 <title xml:lang="lat">De idolatria</title>
+<title xml:lang="eng">De idolatria</title>
 <edition urn="urn:cts:latinLit:stoa0275.stoa017.opp-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0275.stoa017">
 <label xml:lang="eng">De idolatria</label>
 <description xml:lang="eng">Tertullian ca. 160-ca. 230, De idolatria</description>
@@ -610,8 +676,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0275.stoa002" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0275">
-<title xml:lang="eng">Ad Nationes Libri Duo</title>
 <title xml:lang="lat">Ad Nationes Libri Duo</title>
+<title xml:lang="eng">Ad Nationes Libri Duo</title>
 <edition urn="urn:cts:latinLit:stoa0275.stoa002.opp-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0275.stoa002">
 <label xml:lang="eng">Ad Nationes Libri Duo</label>
 <description xml:lang="eng">Tertullian ca. 160-ca. 230, Ad Nationes Libri Duo</description>
@@ -638,8 +704,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0275.stoa030" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0275">
-<title xml:lang="eng">Scorpiace</title>
 <title xml:lang="lat">Scorpiace</title>
+<title xml:lang="eng">Scorpiace</title>
 <edition urn="urn:cts:latinLit:stoa0275.stoa030.opp-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0275.stoa030">
 <label xml:lang="eng">Scorpiace</label>
 <description xml:lang="eng">Tertullian ca. 160-ca. 231, Scorpiace</description>
@@ -826,7 +892,8 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0022">
-<groupname xml:lang="eng">Sanctus Ambrosius</groupname>
+<groupname xml:lang="eng">Ambrose, Saint, Bishop of Milan</groupname>
+<groupname xml:lang="lat">Sanctus Ambrosius</groupname>
 <work urn="urn:cts:latinLit:stoa0022.stoa051" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0022">
 <title xml:lang="eng">Expositio Evangelii secundum Lucan</title>
 <edition urn="urn:cts:latinLit:stoa0022.stoa051.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0022.stoa051">
@@ -860,10 +927,11 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0022.stoa015" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0022">
-<title xml:lang="eng">Apologia Prophetae David Ad Theodosium Augustum</title>
+<title xml:lang="lat">Apologia Prophetae David Ad Theodosium Augustum</title>
 <edition urn="urn:cts:latinLit:stoa0022.stoa015.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0022.stoa015">
-<label xml:lang="eng">Apologia Prophetae David Ad Theodosium Augustum</label>
-<description xml:lang="eng">Ambrose Saint, Bishop of Milan -397, Apologia Prophetae David Ad Theodosium Augustum</description>
+<label xml:lang="lat">Apologia Prophetae David Ad Theodosium Augustum</label>
+<description xml:lang="mul">Ambrose Saint, Bishop of Milan -397, Apologia Prophetae David Ad Theodosium Augustum,
+    Sanctii Ambrosii Opera, Corpus scriptorum ecclesiasticorum Latinorum, Schenkl, 1897</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="section"></citation></citationMapping></online>
 </edition>
 </work>
@@ -948,10 +1016,11 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0022.stoa014" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0022">
-<title xml:lang="eng">Apologia Altera Prophetae David</title>
+<title xml:lang="lat">Apologia Altera Prophetae David</title>
 <edition urn="urn:cts:latinLit:stoa0022.stoa014.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0022.stoa014">
-<label xml:lang="eng">Apologia Altera Prophetae David</label>
-<description xml:lang="eng">Ambrose Saint, Bishop of Milan -397, Apologia Altera Prophetae David</description>
+<label xml:lang="lat">Apologia Altera Prophetae David</label>
+<description xml:lang="mul">Ambrose Saint, Bishop of Milan -397, Apologia Altera Prophetae David, Sanctii Ambrosii Opera,
+    Corpus scriptorum ecclesiasticorum Latinorum</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="section"></citation></citationMapping></online>
 </edition>
 </work>
@@ -1176,10 +1245,10 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0040.stoa072" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0040">
-<title xml:lang="eng">Psamlus Contra Parten Donati</title>
+<title xml:lang="lat">Psalmus Contra Partem Donati</title>
 <edition urn="urn:cts:latinLit:stoa0040.stoa072.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0040.stoa072">
-<label xml:lang="eng">Psamlus Contra Parten Donati</label>
-<description xml:lang="eng">Augustine Saint, Bishop of Hippo, Psamlus Contra Parten Donati</description>
+<label xml:lang="lat">Psalmus Contra Partem Donati</label>
+<description xml:lang="lat">Augustine Saint, Bishop of Hippo, Psalmus Contra Partem Donati</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
@@ -1699,17 +1768,16 @@
 <textgroup urn="urn:cts:latinLit:stoa0007">
 <groupname xml:lang="eng">Adamnan Saint 625?-704</groupname>
 <work urn="urn:cts:latinLit:stoa0007.stoa002" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0007">
-<title xml:lang="eng">De Locis Santis</title>
+<title xml:lang="lat">De Locis Santis</title>
 <edition urn="urn:cts:latinLit:stoa0007.stoa002.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0007.stoa002">
-<label xml:lang="eng">De Locis Santis</label>
-<description xml:lang="eng">Adamnan Saint 625?-704, De Locis Santis</description>
+<label xml:lang="lat">De Locis Santis</label>
+<description xml:lang="mul">Adamnan Saint 625?-704, De Locis Santis, CSEL Volume 39, Geyer, 1898</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0203">
 <groupname xml:lang="eng">Minucius Felix, Marcus</groupname>
-<groupname xml:lang="eng">Minucius Felix, Marcus.</groupname>
 <work urn="urn:cts:latinLit:stoa0203.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0203">
 <title xml:lang="eng">Octavius</title>
 <title xml:lang="lat">Octavius</title>
@@ -2638,7 +2706,6 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0276">
-<groupname xml:lang="eng">Tertullian ca. 160-ca. 230</groupname>
 <groupname xml:lang="eng">Pseudo-Tertullian</groupname>
 <work urn="urn:cts:latinLit:stoa0276.stoa003" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0276">
 <title xml:lang="eng">Adversus Omnes Haereses</title>
@@ -2808,10 +2875,10 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0104p.stoa021" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0104p">
-<title xml:lang="eng">(Cypriani) Ad Quendam Senatoren</title>
+<title xml:lang="eng">(Cypriani) Ad Quendam Senatorem</title>
 <edition urn="urn:cts:latinLit:stoa0104p.stoa021.opp-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0104p.stoa021">
-<label xml:lang="eng">(Cypriani) Ad Quendam Senatoren</label>
-<description xml:lang="eng">Pseudo-Cyprian active 3rd century, Adversus Judaeos</description>
+<label xml:lang="eng">(Cypriani) Ad Quendam Senatorem</label>
+<description xml:lang="eng">Pseudo-Cyprian active 3rd century, Corpus Scriptorum Ecclesiasticorum Latinorum, Volume 23, Peiper, 1891</description>
 <online><citationMapping><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="section"></citation></citationMapping></online>
 </edition>
 </work>
@@ -2916,7 +2983,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0588">
-<groupname xml:lang="eng">Nepos, Cornelius.</groupname>
+<groupname xml:lang="eng">Nepos, Cornelius</groupname>
 <work urn="urn:cts:latinLit:phi0588.abo001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0588">
 <title xml:lang="lat">Miltiades</title>
 <edition urn="urn:cts:latinLit:phi0588.abo001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0588.abo001">
@@ -3261,21 +3328,19 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0448">
-<groupname xml:lang="eng">Caesar, Julius.</groupname>
+<groupname xml:lang="eng">Caesar, Julius</groupname>
 <work urn="urn:cts:latinLit:phi0448.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0448">
 <title xml:lang="eng">Gallic War</title>
+<title xml:lang="lat">De Bello Gallico</title>
 <edition urn="urn:cts:latinLit:phi0448.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0448.phi001">
-<label xml:lang="lat">
-                Gallic War, C. Iuli Caesaris Commentarii rerum in Gallia gestarum VII A. Hirti Commentarius VIII
-            </label>
-<description xml:lang="eng">
-                Caesar, Julius, creator; Hirtius, Aulus, creator; Holmes, T. Rice (Thomas Rice), 1855-1933, editor
-            </description>
+<label xml:lang="lat">De Bello Gallico</label>
+<description xml:lang="mul">C. Iuli Commentarii Rerum in Gallia Gestarum VII A. Hirti Commentarius VII; Caesar, Julius; Hirtius, Aulus; Holmes, T. Rice (Thomas Rice), editor. Oxford: Clarendon Press, 1914.</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="Book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="Chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="Section"></citation></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0448.phi002" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0448">
 <title xml:lang="eng">Civil War</title>
+<title xml:lang="lat">De Bello Civili</title>
 <edition urn="urn:cts:latinLit:phi0448.phi002.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0448.phi002">
 <label xml:lang="lat">De Bello Civili</label>
 <description xml:lang="mul">Caesar, Julius, creator. C. Iuli Caesaris Commentariorum Pars Posterior Qua Continentur Libri III De Bello Civili. Du Pontet, Renatus, editor. Oxford: Clarendon Press, 1901.</description>
@@ -3332,10 +3397,11 @@
 <textgroup urn="urn:cts:latinLit:phi0893">
 <groupname xml:lang="eng">Horace</groupname>
 <work urn="urn:cts:latinLit:phi0893.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0893">
-<title xml:lang="lat">Satires</title>
+<title xml:lang="eng">Satires</title>
+<title xml:lang="lat">Sermones</title>
 <edition urn="urn:cts:latinLit:phi0893.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0893.phi004">
-<label xml:lang="eng">Satires, The works of Horace translated literally into English prose Volume 2</label>
-<description xml:lang="eng">Horace, creator; Smart, Christopher, 1722-1771, editor</description>
+<label xml:lang="lat">Satyrarum libri</label>
+<description xml:lang="eng">Horace. The Works of Horace. Vol. II. Smart, Christopher, editor. Philadelphia: J. Whetham, 1836.</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="poem"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="line"></citation></citation></citation></citationMapping></online>
 </edition>
 </work>
@@ -3356,9 +3422,10 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0893.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0893">
-<title xml:lang="lat">Odes</title>
+<title xml:lang="eng">Odes</title>
+<title xml:lang="lat">Carmina</title>
 <edition urn="urn:cts:latinLit:phi0893.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0893.phi001">
-<label xml:lang="eng">Odes, Horace Odes and epodes</label>
+<label xml:lang="lat">Carmina</label>
 <description xml:lang="eng">Horace, creator; Shorey, Paul, 1857-1934, editor; Laing, Gordon Jennings, 1869-, joint editor; Laing, Gordon Jennings, 1869-1945, joint editor</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="poem"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="line"></citation></citation></citation></citationMapping></online>
 </edition>
@@ -3391,9 +3458,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="lat">Divinatio in Q. Caecilium</title>
-<title xml:lang="eng">Against Quintus Caecilius</title>
 <title xml:lang="lat">In Caecilium</title>
+<title xml:lang="eng">Against Quintus Caecilius</title>
+<title xml:lang="lat">Divinatio in Q. Caecilium</title>
 <title xml:lang="eng">Divinatio against Q. Caecilius</title>
 <edition urn="urn:cts:latinLit:phi0474.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi004">
 <label xml:lang="eng">Divinatio against Q. Caecilius, Orationes Volume III</label>
@@ -3426,9 +3493,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi019" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
+<title xml:lang="lat">Cum Senatui gratias egit</title>
 <title xml:lang="lat">Post reditum in senatu</title>
 <title xml:lang="eng">In the senate after his return</title>
-<title xml:lang="lat">Cum Senatui gratias egit</title>
 <edition urn="urn:cts:latinLit:phi0474.phi019.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi019">
 <label xml:lang="eng">In the Senate after his Return</label>
 <description xml:lang="eng"> Orationes Volume V; Cicero, Marcus Tullius, creator; Peterson, William, 1856-1921, editor</description>
@@ -3436,10 +3503,10 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi018" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
+<title xml:lang="lat">Cum populo gratias egit</title>
+<title xml:lang="eng">To the Citizens after his Return</title>
 <title xml:lang="lat">Post reditum ad quirites</title>
 <title xml:lang="lat">Post reditum ad populum</title>
-<title xml:lang="eng">To the Citizens after his Return</title>
-<title xml:lang="lat">Cum populo gratias egit</title>
 <edition urn="urn:cts:latinLit:phi0474.phi018.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi018">
 <label xml:lang="eng">To the Citizens after his Return</label>
 <description xml:lang="eng">Orationes Volume V; Cicero, Marcus Tullius, creator; Peterson, William, 1856-1921, editor</description>
@@ -3447,10 +3514,10 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi005" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="eng">Against Verres</title>
 <title xml:lang="lat">In Verrem</title>
-<title xml:lang="eng">Orations against Verres</title>
+<title xml:lang="eng">Against Verres</title>
 <title xml:lang="lat">In C. Verrem</title>
+<title xml:lang="eng">Orations against Verres</title>
 <edition urn="urn:cts:latinLit:phi0474.phi005.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi005">
 <label xml:lang="eng">Against Verres, Orationes Volume III</label>
 <description xml:lang="eng">Cicero, Marcus Tullius, creator; Peterson, William, 1856-1921, editor</description>
@@ -3486,8 +3553,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi007" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="lat">Pro Fonteio</title>
 <title xml:lang="eng">For Marcus Fonteius</title>
+<title xml:lang="lat">Pro Fonteio</title>
 <title xml:lang="eng">On Behalf Of Marcus Fonteius</title>
 <edition urn="urn:cts:latinLit:phi0474.phi007.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi007">
 <label xml:lang="eng">For Marcus Fonteius</label>
@@ -3513,8 +3580,8 @@
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi006" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
 <title xml:lang="lat">Pro Tullio</title>
-<title xml:lang="eng">On Behalf of Marcus Tullius</title>
 <title xml:lang="eng">For Marcus Tullius</title>
+<title xml:lang="eng">On Behalf of Marcus Tullius</title>
 <edition urn="urn:cts:latinLit:phi0474.phi006.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi006">
 <label xml:lang="eng">For Marcus Tullius, Orationes Volume VI</label>
 <description xml:lang="eng">
@@ -3524,10 +3591,11 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi052" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
+<title xml:lang="eng">On Friendship</title>
 <title xml:lang="lat">De Amicitia</title>
-<edition urn="urn:cts:latinLit:phi0474.phi052.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi052">
-<label xml:lang="eng">De Amicitia, De senectute; De amicitia; De divinatione</label>
-<description xml:lang="eng">Cicero, Marcus Tullius, creator; Falconer, William Armistead, editor; Falconer, William Armistead, translator, editor</description>
+<edition urn="urn:cts:latinLit:phi0474.phi052.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi052">
+<label xml:lang="lat">Laelius De Amicitia</label>
+<description xml:lang="mul">Cicero. De Senectute, De Amicitia, De Divinatione. Falconer, William Armistead, editor. Cambridge, MA: Harvard University Press. London: William Heinemann Ltd. 1923 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="section"></citation></citationMapping></online>
 </edition>
 </work>
@@ -3540,9 +3608,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi013" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="eng">Against Catiline</title>
-<title xml:lang="lat">In Catilinam</title>
 <title xml:lang="eng">Four Orations Against Lucius Catilina</title>
+<title xml:lang="lat">In Catilinam</title>
+<title xml:lang="eng">Against Catiline</title>
 <edition urn="urn:cts:latinLit:phi0474.phi013.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi013">
 <label xml:lang="eng">Against Catiline</label>
 <description xml:lang="eng">Perseus:bib:oclc,26994431, M. Tullius Cicero. M. Tulli
@@ -3562,8 +3630,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi015" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="lat">Pro Sulla</title>
 <title xml:lang="eng">In Defense of Publius Sulla</title>
+<title xml:lang="lat">Pro Sulla</title>
 <title xml:lang="eng">For Sulla</title>
 <edition urn="urn:cts:latinLit:phi0474.phi015.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi015">
 <label xml:lang="eng">For Sulla</label>
@@ -3591,8 +3659,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="eng">For Publius Quinctius</title>
 <title xml:lang="lat">Pro P. Quinctio</title>
+<title xml:lang="eng">For Publius Quinctius</title>
 <edition urn="urn:cts:latinLit:phi0474.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi001">
 <label xml:lang="eng">For Publius Quinctius, Orationes Volume IV</label>
 <description xml:lang="eng">Cicero, Marcus Tullius, creator; Clark, Albert Curtis, 1859-1937, editor</description>
@@ -3600,9 +3668,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi012" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
+<title xml:lang="lat">Pro C. Rabiro perduellionis reo</title>
 <title xml:lang="eng">For Rabirius on a Charge of Treason</title>
 <title xml:lang="eng">In Defense of Caius Rabirius</title>
-<title xml:lang="lat">Pro C. Rabiro perduellionis reo</title>
 <edition urn="urn:cts:latinLit:phi0474.phi012.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi012">
 <label xml:lang="eng">For Rabirius on a Charge of Treason</label>
 <description xml:lang="eng">Orationes Volume IV, Cicero, Marcus Tullius, creator; Clark, Albert Curtis, 1859-1937, editor</description>
@@ -3667,8 +3735,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi014" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="eng">For Lucius Murena</title>
 <title xml:lang="lat">Pro Murena</title>
+<title xml:lang="eng">For Lucius Murena</title>
 <title xml:lang="eng">In Defense of L. Murena</title>
 <edition urn="urn:cts:latinLit:phi0474.phi014.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi014">
 <label xml:lang="eng">For Lucius Murena</label>
@@ -3677,8 +3745,8 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi010" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="lat">Pro Cluentio</title>
 <title xml:lang="eng">For Aulus Cluentius</title>
+<title xml:lang="lat">Pro Cluentio</title>
 <title xml:lang="eng">In Defense of Aulus Cluentius Habitus</title>
 <edition urn="urn:cts:latinLit:phi0474.phi010.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi010">
 <label xml:lang="eng">For Aulus Cluentius</label>
@@ -3719,9 +3787,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi003" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="eng">For Quintus Roscius the Actor</title>
-<title xml:lang="lat">Pro Q. Roscio comoedo</title>
 <title xml:lang="lat">Pro Roscio comoedo</title>
+<title xml:lang="lat">Pro Q. Roscio comoedo</title>
+<title xml:lang="eng">For Quintus Roscius the Actor</title>
 <edition urn="urn:cts:latinLit:phi0474.phi003.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi003">
 <label xml:lang="eng">For Quintus Roscius the Actor, Orationes Volume IV</label>
 <description xml:lang="eng">
@@ -3732,9 +3800,9 @@
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi017" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
 <title xml:lang="lat">Pro L. Flacco</title>
+<title xml:lang="eng">For Flaccus</title>
 <title xml:lang="lat">Pro Flacco</title>
 <title xml:lang="eng">In Defense of Lucius Flaccus</title>
-<title xml:lang="eng">For Flaccus</title>
 <edition urn="urn:cts:latinLit:phi0474.phi017.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi017">
 <label xml:lang="eng">For Flaccus</label>
 <description xml:lang="eng">Orationes Volume IV; Cicero, Marcus Tullius, creator; Clark, Albert Curtis, 1859-1937, editor</description>
@@ -3758,10 +3826,10 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi009" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
-<title xml:lang="eng">In Defense of the Proposed Manilian Law</title>
 <title xml:lang="lat">Pro lege manilia</title>
-<title xml:lang="eng">On Pompey's Command</title>
+<title xml:lang="eng">In Defense of the Proposed Manilian Law</title>
 <title xml:lang="lat">De imperio Cn. Pompei</title>
+<title xml:lang="eng">On Pompey's Command</title>
 <edition urn="urn:cts:latinLit:phi0474.phi009.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi009">
 <label xml:lang="eng">In Defense of the Proposed Manilian Law</label>
 <description xml:lang="eng">Pro Sex. Roscio, De imperio Cn. Pompei, Pro Cluentio, In Catilinam, Pro
@@ -3771,14 +3839,14 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0474.phi011" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0474">
+<title xml:lang="lat">Orationes de Lege Agraria</title>
 <title xml:lang="eng">Three orations on the Agrarian Law</title>
 <title xml:lang="lat">Contra Rullum</title>
-<title xml:lang="eng">Orations on the Agrarian Law</title>
-<title xml:lang="eng">Against Publius Servilius Rullus</title>
+<title xml:lang="lat">De Lege Agraria</title>
 <title xml:lang="eng">On the Agrarian Law</title>
 <title xml:lang="lat">De lege agraria contra Rullum</title>
-<title xml:lang="lat">De Lege Agraria</title>
-<title xml:lang="lat">Orationes de Lege Agraria</title>
+<title xml:lang="eng">Against Publius Servilius Rullus</title>
+<title xml:lang="eng">Orations on the Agrarian Law</title>
 <edition urn="urn:cts:latinLit:phi0474.phi011.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0474.phi011">
 <label xml:lang="eng">On the Agrarian Law</label>
 <description xml:lang="eng">Orationes Volume IV, Cicero, Marcus Tullius, creator; Clark, Albert Curtis, 1859-1937, editor</description>
@@ -3803,7 +3871,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0836">
-<groupname xml:lang="eng">Celsus, Aulus Cornelius.</groupname>
+<groupname xml:lang="eng">Celsus, Aulus Cornelius</groupname>
 <work urn="urn:cts:latinLit:phi0836.phi002" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0836">
 <title xml:lang="lat">De Medicina</title>
 <edition urn="urn:cts:latinLit:phi0836.phi002.perseus-lat4" xml:lang="lat" workUrn="urn:cts:latinLit:phi0836.phi002">
@@ -3824,7 +3892,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi1242">
-<groupname xml:lang="eng">Florus, Lucius Annaeus.</groupname>
+<groupname xml:lang="eng">Florus, Lucius Annaeus</groupname>
 <work urn="urn:cts:latinLit:phi1242.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1242">
 <title xml:lang="lat">Epitome Rerum Romanorum</title>
 <edition urn="urn:cts:latinLit:phi1242.phi001.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1242.phi001">
@@ -3835,7 +3903,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0860">
-<groupname xml:lang="eng">Curtius Rufus, Quintus.</groupname>
+<groupname xml:lang="eng">Curtius Rufus, Quintus</groupname>
 <work urn="urn:cts:latinLit:phi0860.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0860">
 <title xml:lang="lat">Historiarum Alexandri Magni</title>
 <edition urn="urn:cts:latinLit:phi0860.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0860.phi001">
@@ -3948,9 +4016,10 @@
 <groupname xml:lang="eng">Apuleius</groupname>
 <work urn="urn:cts:latinLit:phi1212.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1212">
 <title xml:lang="lat">Apologia</title>
+<title xml:lang="lat">Pro Se De Magia Liber</title>
 <edition urn="urn:cts:latinLit:phi1212.phi001.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1212.phi001">
-<label xml:lang="eng">Apologia, Apologia</label>
-<description xml:lang="eng">Apuleius, creator; Helm, Rudolf Wilhelm Oskar, 1872-1966, editor</description>
+<label xml:lang="lat">Apologia</label>
+<description xml:lang="mul">Apuleius. Apulei Opera Quae Supersunt, Vol. II, Fasc. I. Helm, Rudolf, editor. Leipzig: Teubner, 1912.</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="section"></citation></citationMapping></online>
 </edition>
 </work>
@@ -3959,20 +4028,20 @@
 <edition urn="urn:cts:latinLit:phi1212.phi002.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1212.phi002">
 <label xml:lang="eng">Metamorphoses. Latin., The golden ass being the Metamorphoses of Lucius Apuleius</label>
 <description xml:lang="eng">Apuleius, creator; Gaselee, S. (Stephen), 1882-1943, editor</description>
-<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapteer"></citation></citation></citationMapping></online>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi1212.phi003" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1212">
 <title xml:lang="lat">Florida</title>
-<edition urn="urn:cts:latinLit:phi1212.phi003.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1212.phi003">
-<label xml:lang="eng">Florida, Florida</label>
-<description xml:lang="eng">Apuleius, creator; Helm, Rudolf Wilhelm Oskar, 1872-1966, editor</description>
-<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="section"></citation></citationMapping></online>
+<edition urn="urn:cts:latinLit:phi1212.phi003.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi1212.phi003">
+<label xml:lang="lat">Florida</label>
+<description xml:lang="mul">Apuleius. Apulei Platonici Madaurensis Florida. Helm, Rudolf, editor. Leipzig: Teubner, 1921.</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="chapter"></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi1254">
-<groupname xml:lang="eng">Gellius, Aulus.</groupname>
+<groupname xml:lang="eng">Gellius, Aulus</groupname>
 <work urn="urn:cts:latinLit:phi1254.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1254">
 <title xml:lang="eng">Attic Nights</title>
 <title xml:lang="lat">Noctes Atticae</title>
@@ -4227,9 +4296,9 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0690">
+<groupname xml:lang="lat">P. Vergilius Maro</groupname>
 <groupname xml:lang="eng">Vergil</groupname>
 <groupname xml:lang="eng">Virgil</groupname>
-<groupname xml:lang="lat">P. Vergilius Maro</groupname>
 <work urn="urn:cts:latinLit:phi0690.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0690">
 <title xml:lang="lat">Eclogues</title>
 <edition urn="urn:cts:latinLit:phi0690.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0690.phi001">
@@ -4385,8 +4454,8 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0660">
-<groupname xml:lang="eng">Tibullus</groupname>
 <groupname xml:lang="lat">Corpus Tibullianum</groupname>
+<groupname xml:lang="eng">Tibullus</groupname>
 <work urn="urn:cts:latinLit:phi0660.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0660">
 <title xml:lang="lat">Elegiae</title>
 <edition urn="urn:cts:latinLit:phi0660.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0660.phi001">
@@ -4405,7 +4474,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0845">
-<groupname xml:lang="eng">Columella, Lucius Junius Moderatus.</groupname>
+<groupname xml:lang="eng">Columella, Lucius Junius Moderatus</groupname>
 <work urn="urn:cts:latinLit:phi0845.phi002" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0845">
 <title xml:lang="lat">Res Rustica</title>
 <edition urn="urn:cts:latinLit:phi0845.phi002.perseus-lat3" xml:lang="lat" workUrn="urn:cts:latinLit:phi0845.phi002">
@@ -4416,7 +4485,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi1002">
-<groupname xml:lang="eng">[Quintilian]</groupname>
+<groupname xml:lang="eng">Quintilian</groupname>
 <work urn="urn:cts:latinLit:phi1002.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1002">
 <title xml:lang="lat">Institutio Oratoria</title>
 <edition urn="urn:cts:latinLit:phi1002.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi1002.phi001">
@@ -4441,7 +4510,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0045">
-<groupname xml:lang="eng">Ausonius, Decimus Magnus.</groupname>
+<groupname xml:lang="eng">Ausonius, Decimus Magnus</groupname>
 <work urn="urn:cts:latinLit:stoa0045.stoa016" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0045">
 <title xml:lang="lat">Liber Protrepticus ad Nepotem</title>
 <edition urn="urn:cts:latinLit:stoa0045.stoa016.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0045.stoa016">
@@ -4613,8 +4682,8 @@
 <work urn="urn:cts:latinLit:stoa0045.stoa002" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0045">
 <title xml:lang="lat">Caesares</title>
 <edition urn="urn:cts:latinLit:stoa0045.stoa002.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0045.stoa002">
-<label xml:lang="eng">Caesares, Ausonius, with an English translation Vol 1</label>
-<description xml:lang="eng">Ausonius, Decimus Magnus, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor</description>
+<label xml:lang="lat">Ausonii de XII Caesaribus per Suetonium Tranquillum scriptis</label>
+<description xml:lang="eng">Ausonius. Vol. I. Evelyn-White, Hugh G., editor. Cambridge, MA: Harvard University Press, 1919.</description>
 <online><citationMapping><citation xpath="//tei:div[@subtype='poem' and @n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div//tei:div[@subtype='poem' and @n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
@@ -4710,7 +4779,7 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0119">
-<groupname xml:lang="eng">Plautus, Titus Maccius.</groupname>
+<groupname xml:lang="eng">Plautus, Titus Maccius</groupname>
 <work urn="urn:cts:latinLit:phi0119.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0119">
 <title xml:lang="lat">Bacchides</title>
 <edition urn="urn:cts:latinLit:phi0119.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0119.phi004">
@@ -4971,8 +5040,8 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi0134">
-<groupname xml:lang="lat">Publius Terentius Afer</groupname>
 <groupname xml:lang="eng">Terence</groupname>
+<groupname xml:lang="lat">Publius Terentius Afer</groupname>
 <work urn="urn:cts:latinLit:phi0134.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0134">
 <title xml:lang="lat">Phormio</title>
 <edition urn="urn:cts:latinLit:phi0134.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0134.phi004">
@@ -5025,9 +5094,9 @@
 <textgroup urn="urn:cts:latinLit:phi0959">
 <groupname xml:lang="eng">Ovid</groupname>
 <work urn="urn:cts:latinLit:phi0959.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
-<title xml:lang="lat">Ars Amatoria</title>
 <title xml:lang="fre">L'Art d'Aimer</title>
 <title xml:lang="eng">Art of Love</title>
+<title xml:lang="lat">Ars Amatoria</title>
 <edition urn="urn:cts:latinLit:phi0959.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0959.phi004">
 <label xml:lang="eng">Art of Love</label>
 <description xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D, creator; Ehwald, Rudolf, 1847-1927,
@@ -5047,8 +5116,8 @@
 </work>
 <work urn="urn:cts:latinLit:phi0959.phi008" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
 <title xml:lang="fre">Tristes</title>
-<title xml:lang="lat">Tristia</title>
 <title xml:lang="eng">Sorrows</title>
+<title xml:lang="lat">Tristia</title>
 <edition urn="urn:cts:latinLit:phi0959.phi008.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0959.phi008">
 <label xml:lang="eng">Tristia</label>
 <description xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D, creator; Wheeler, Arthur Leslie, 1871-1932, editor; Wheeler, Arthur Leslie, 1871-1932, editor, translator</description>
@@ -5056,9 +5125,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0959.phi007" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
+<title xml:lang="fre">Fastes</title>
 <title xml:lang="eng">Book of Days</title>
 <title xml:lang="lat">Fasti</title>
-<title xml:lang="fre">Fastes</title>
 <edition urn="urn:cts:latinLit:phi0959.phi007.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0959.phi007">
 <label xml:lang="eng">Book of Days</label>
 <description xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D, creator; Frazer, James George, Sir, 1854-1941, editor</description>
@@ -5094,9 +5163,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0959.phi010" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
-<title xml:lang="lat">Ibis</title>
 <title xml:lang="fre">Ibis</title>
 <title xml:lang="eng">Ibis</title>
+<title xml:lang="lat">Ibis</title>
 <edition urn="urn:cts:latinLit:phi0959.phi010.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0959.phi010">
 <label xml:lang="eng">Ibis</label>
 <description xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D, creator; Merkel, Rudolf, 1811-1885, editor; Ehwald, Rudolf, 1847-1927, editor</description>
@@ -5114,9 +5183,9 @@
 </edition>
 </work>
 <work urn="urn:cts:latinLit:phi0959.phi009" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
+<title xml:lang="eng">Letters from the Black Sea</title>
 <title xml:lang="fre">Pontiques</title>
 <title xml:lang="lat">Ex Ponto</title>
-<title xml:lang="eng">Letters from the Black Sea</title>
 <edition urn="urn:cts:latinLit:phi0959.phi009.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0959.phi009">
 <label xml:lang="eng">Ex Ponto</label>
 <description xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D, creator; Wheeler, Arthur Leslie, 1871-1932, editor; Wheeler, Arthur Leslie, 1871-1932, editor, translator</description>
@@ -5125,133 +5194,134 @@
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0023">
-<groupname xml:lang="eng">Ammianus Marcellinus.</groupname>
+<groupname xml:lang="eng">Ammianus Marcellinus</groupname>
 <work urn="urn:cts:latinLit:stoa0023.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0023">
-<title xml:lang="lat">Rerum Gestarum</title>
-<edition urn="urn:cts:latinLit:stoa0023.stoa001.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0023.stoa001">
-<label xml:lang="eng">Rerum Gestarum, Ammianus Marcellinus Volume I-III</label>
-<description xml:lang="eng">Ammianus Marcellinus, creator; Rolfe, John Carew, 1859-1943, editor</description>
+<title xml:lang="lat">Res Gestae</title>
+<edition urn="urn:cts:latinLit:stoa0023.stoa001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0023.stoa001">
+<label xml:lang="eng">Res Gestae</label>
+<description xml:lang="eng">Ammianus Marcellinus. Vols. I-III. Rolfe, John C., editor. London: W. Heinemann, 1935-1939 (printing)</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="section"></citation></citation></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:stoa0089">
-<groupname xml:lang="eng">Claudianus, Claudius.</groupname>
+<groupname xml:lang="lat">Claudius Claudianus</groupname>
+<groupname xml:lang="eng">Claudian</groupname>
 <work urn="urn:cts:latinLit:stoa0089.stoa013" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Panegyricus dictus Manlio Theodoro consuli</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa013.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa013">
-<label xml:lang="eng">Panegyricus dictus Manlio Theodoro consuli, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Panegyricus dictus Manlio Theodoro consuli</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa004" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">de consulatu Stilichonis</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa004">
-<label xml:lang="eng">de consulatu Stilichonis, Claudian Vol I-II</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">de consulatu Stilichonis</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa005" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">de raptu Proserpinae</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa005.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa005">
-<label xml:lang="eng">de raptu Proserpinae, Claudian Vol II</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">de raptu Proserpinae</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. II. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="line"></citation></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa012" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Panegyricus de sexto consulatu Honorii Augusti</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa012.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa012">
-<label xml:lang="eng">Panegyricus de sexto consulatu Honorii Augusti, Claudian Vol II</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Panegyricus de sexto consulatu Honorii Augusti</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. II. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa007" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Fescinnina de nuptiis Honorii Augusti</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa007.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa007">
-<label xml:lang="eng">Fescinnina de nuptiis Honorii Augusti</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Fescinnina de nuptiis Honorii Augusti</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa003" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">de Bello Gothico</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa003.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa003">
-<label xml:lang="eng">de Bello Gothico, Claudian Vol II</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">de Bello Gothico</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. II. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa009" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">In Rufinum</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa009.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa009">
-<label xml:lang="eng">In Rufinum, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">In Rufinum</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="line"></citation></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa008" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">In Eutropium</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa008.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa008">
-<label xml:lang="eng">In Eutropium, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">In Eutropium</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="//tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa014" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Panegyricus dictus Probino et Olybrio consulibus</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa014.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa014">
-<label xml:lang="eng">Panegyricus dictus Probino et Olybrio consulibus, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Panegyricus dictus Probino et Olybrio consulibus</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div" label="line"></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa002" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">de bello Gildonico</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa002.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa002">
-<label xml:lang="eng">de bello Gildonico, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">de bello Gildonico</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div" label="line"></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa006" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Epithalamium de nuptiis Honorii Augusti</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa006.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa006">
-<label xml:lang="eng">Epithalamium de nuptiis Honorii Augusti, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Epithalamium de nuptiis Honorii Augusti</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa001" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Carminum minorum corpusculum</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa001">
-<label xml:lang="eng">Carminum minorum corpusculum, Claudian Vol II</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Carminum minorum corpusculum</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. II. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa011" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Panegyricus de quarto consulatu Honorii Augusti</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa011.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa011">
-<label xml:lang="eng">Panegyricus de quarto consulatu Honorii Augusti, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Panegyricus de quarto consulatu Honorii Augusti</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div" label="line"></citation></citationMapping></online>
 </edition>
 </work>
 <work urn="urn:cts:latinLit:stoa0089.stoa010" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0089">
 <title xml:lang="lat">Panegyricus de tertio consulatu Honorii Augusti</title>
 <edition urn="urn:cts:latinLit:stoa0089.stoa010.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0089.stoa010">
-<label xml:lang="eng">Panegyricus de tertio consulatu Honorii Augusti, Claudian Vol I</label>
-<description xml:lang="eng">Claudianus, Claudius, creator; Platnauer, Maurice, editor; Platnauer, Maurice, translator</description>
+<label xml:lang="lat">Panegyricus de tertio consulatu Honorii Augusti</label>
+<description xml:lang="eng">Claudian, with an English translation, in Two Volumes, Vol. I. Platnauer, Maurice, editor. Harvard University Press: Cambridge, MA, London, England. 1922 (printing).</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="poem"><citation xpath="/tei:l[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="line"></citation></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>
 <textgroup urn="urn:cts:latinLit:phi1056">
-<groupname xml:lang="eng">Vitruvius Pollio.</groupname>
+<groupname xml:lang="eng">Vitruvius Pollio</groupname>
 <work urn="urn:cts:latinLit:phi1056.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1056">
 <title xml:lang="lat">On Architecture</title>
 <edition urn="urn:cts:latinLit:phi1056.phi001.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1056.phi001">
@@ -5269,33 +5339,6 @@
 <label xml:lang="eng">Facta et Dicta Memorabilia, Factorum et dictorum memorabilium libri novem cum Iulii Paridis et Ianuarii Nepotiani epitomis</label>
 <description xml:lang="eng">Valerius Maximus, creator; Kempf, Karl Friedrich, 1819-, editor</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']/tei:div[@n='?']" label="section"></citation></citation></citation></citationMapping></online>
-</edition>
-</work>
-</textgroup>
-<textgroup urn="urn:cts:latinLit:phi1351">
-<groupname xml:lang="eng">Tacitus, Cornelius</groupname>
-<work urn="urn:cts:latinLit:phi1351.phi004" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
-<title xml:lang="lat">Historiae</title>
-<edition urn="urn:cts:latinLit:phi1351.phi004.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi004">
-<label xml:lang="lat">Historiae</label>
-<description xml:lang="mul">Cornelii Taciti Historiarum Libri. Tacitus, Cornelius; Fisher, Charles Dennis, editor. Oxford, Clarendon Press. 1911.</description>
-<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']" label="book"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@n='?']" label="chapter"></citation></citation></citationMapping></online>
-</edition>
-</work>
-<work urn="urn:cts:latinLit:phi1351.phi001" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
-<title xml:lang="lat">Agricola</title>
-<edition urn="urn:cts:latinLit:phi1351.phi001.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi001">
-<label xml:lang="lat">De Vita Iulii Agricolae</label>
-<description xml:lang="eng">Opera Minora. Tacitus, Cornelius; Furneaux, Henry, editor. Oxford, Clarendon Press. 1900.</description>
-<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="section"></citation></citation></citationMapping></online>
-</edition>
-</work>
-<work urn="urn:cts:latinLit:phi1351.phi002" xml:lang="lat" groupUrn="urn:cts:latinLit:phi1351">
-<title xml:lang="lat">Germania</title>
-<edition urn="urn:cts:latinLit:phi1351.phi002.perseus-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:phi1351.phi002">
-<label xml:lang="lat">De Origine et Situ Germanorum Liber</label>
-<description xml:lang="mul">Opera Minora. Tacitus, Cornelius; Furneaux, Henry, editor. Oxford, Clarendon Press. 1900.</description>
-<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="chapter"><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='?']" label="section"></citation></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>
@@ -5317,8 +5360,7 @@
 <edition urn="urn:cts:latinLit:phi0972.phi001.perseus-lat2" xml:lang="lat" workUrn="urn:cts:latinLit:phi0972.phi001">
 <label xml:lang="lat">Titi Petroni Arbitri Satyricon</label>
 <description xml:lang="eng">Petronius, with an English translation by Michael Heseltine.
-            Seneca. Apocolocyntosis, with an English translation by W.H.D. Rouse. Petronius Arbiter, creator; 
-            Heseltine, Michael, editor and translator. London: William Heinemann Ltd. New York: G. P. Putnam's Sons. 1913.</description>
+            Petronius Arbiter, creator; Heseltine, Michael, editor and translator. London: William Heinemann Ltd. New York: G. P. Putnam's Sons. 1913.</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="section"></citation></citationMapping></online>
 </edition>
 </work>
@@ -5353,6 +5395,17 @@
 <label xml:lang="lat">Panegyricus dictus Constantino imperatori (Romae a. 321 p. Chr.)</label>
 <description xml:lang="lat">Edition from DigilibLT dlt000388</description>
 <online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body/tei:div" label="unknown"></citation></citationMapping></online>
+</edition>
+</work>
+</textgroup>
+<textgroup urn="urn:cts:latinLit:stoa0293b">
+<groupname xml:lang="lat">Vindicianus</groupname>
+<work urn="urn:cts:latinLit:stoa0293b.stoa005" xml:lang="lat" groupUrn="urn:cts:latinLit:stoa0293b">
+<title xml:lang="eng">Expositionis membrorum epitome anonyma altera uberior</title>
+<edition urn="urn:cts:latinLit:stoa0293b.stoa005.digilibLT-lat1" xml:lang="lat" workUrn="urn:cts:latinLit:stoa0293b.stoa005">
+<label xml:lang="lat">Expositionis membrorum epitome anonyma altera uberior</label>
+<description xml:lang="lat">Edition from DigilibLT dlt000511</description>
+<online><citationMapping><citation xpath="/tei:div[@n='?']" scope="/tei:TEI/tei:text/tei:body" label="chapter"></citation></citationMapping></online>
 </edition>
 </work>
 </textgroup>

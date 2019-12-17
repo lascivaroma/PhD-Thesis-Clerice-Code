@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-excusaturos,excvso,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Fut|Voice=Act
-non,non,ADVneg,MORPH=empty
-sollicitemus,sollicito,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-amicos,amicvs,NOM2,Case=Acc|Numb=Plur
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

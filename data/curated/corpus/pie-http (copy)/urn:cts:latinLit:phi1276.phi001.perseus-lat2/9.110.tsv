@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-carptores,carptor,NOM3,Case=Acc|Numb=Plur
-.,qvadranta,ADJcar,Case=Acc|Numb=Plur
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-dubitant,dvbito,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-componere,compono,VER,Mood=Inf|Tense=Pres|Voice=Act
-crimen,crimen,NOM3,Case=Acc|Numb=Sing

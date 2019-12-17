@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Mamercorum,mamercvs,NOM2,Case=Gen|Numb=Plur
-alapas,alapa,NOM1,Case=Acc|Numb=Plur
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
-quanti,qvantvs,PROint,Case=Gen|Numb=Sing
-sua,svvs,PROpos.ref,Case=Acc|Numb=Plur
-funera,fvnvs,NOM3,Case=Acc|Numb=Plur
-uendant,vendo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3

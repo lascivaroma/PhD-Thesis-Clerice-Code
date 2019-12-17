@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quandoquidem,qvandoqvidem,ADVrel,MORPH=empty
-data,do,VER,Case=Nom|Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ipsis,ipse,PROdem,Case=Dat|Numb=Plur
-quoque,qvoqve,ADV,Deg=Pos
-fata,fatvm,NOM2,Case=Nom|Numb=Plur
-sepulcris,sepvlcrvm,NOM2,Case=Abl|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

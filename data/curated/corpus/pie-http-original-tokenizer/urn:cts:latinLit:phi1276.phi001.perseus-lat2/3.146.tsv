@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-creditur,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-atque,atqve,CONcoo,MORPH=empty
-deos,devs,NOM2,Case=Acc|Numb=Plur
-dis,devs,NOM2,Case=Dat|Numb=Plur
-ignoscentibus,ignosco,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-ipsis,ipse,PROdem,Case=Dat|Numb=Plur
-.,qvintvs,ADJcar,Case=Dat|Numb=Plur

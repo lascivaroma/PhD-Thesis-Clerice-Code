@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-summis,svmma,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
-minimisque,minimisqve,ADV,Deg=Pos
-etiam,etiam,ADV,Deg=Pos
-cum,cvm,CONsub,MORPH=empty
-piscis,piscis,NOM3,Case=Nom|Numb=Sing
-emetur,emo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3

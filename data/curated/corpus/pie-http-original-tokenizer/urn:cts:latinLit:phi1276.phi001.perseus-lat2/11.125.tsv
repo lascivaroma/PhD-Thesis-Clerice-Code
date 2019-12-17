@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-Mauri,mavri,NOM2,Case=Nom|Numb=Plur|Deg=Pos
-celeres,celer,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-Mauro,mavrvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-obscurior,obscvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-Indus,indvs,NOM2,Case=Nom|Numb=Sing|Deg=Pos

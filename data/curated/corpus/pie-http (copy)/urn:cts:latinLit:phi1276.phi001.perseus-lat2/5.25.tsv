@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-lana,lana,NOM1,Case=Abl|Numb=Sing
-pati,patior,VER,Mood=Inf|Tense=Pres|Voice=Dep
-de,de,PRE,MORPH=empty
-conuiua,conviva,NOM1,Case=Abl|Numb=Sing
-Corybanta,corybas,NOM7,Case=Acc|Numb=Sing
-uidebis,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

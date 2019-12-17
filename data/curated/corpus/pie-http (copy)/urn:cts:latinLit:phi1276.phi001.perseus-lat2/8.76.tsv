@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-laudis,lavs,NOM3,Case=Gen|Numb=Sing
-agas,ago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-miserum,miser,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aliorum,alivs,PROind,Case=Gen|Numb=Plur
-incumbere,incvmbo,VER,Mood=Inf|Tense=Pres|Voice=Act
-famae,fama,NOM1,Case=Dat|Numb=Sing

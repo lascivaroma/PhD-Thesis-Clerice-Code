@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Hirpini,hirpinvs,NOM2,Case=Gen|Numb=Sing
-si,si,CONsub,MORPH=empty
-rara,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-iugo,ivgvm,NOM2,Case=Abl|Numb=Sing
-uictoria,victoria,NOM1,Case=Abl|Numb=Sing
-sedit,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-;,o,PRE,MORPH=empty

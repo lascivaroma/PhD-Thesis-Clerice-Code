@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hoc,hic,PROdem,Case=Acc|Numb=Sing
-monstrant,monstro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uetulae,vetvla,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-pueris,pver,NOM2,Case=Dat|Numb=Plur
-repentibus,repo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-assae,assvs,NOM1,Case=Nom|Numb=Plur

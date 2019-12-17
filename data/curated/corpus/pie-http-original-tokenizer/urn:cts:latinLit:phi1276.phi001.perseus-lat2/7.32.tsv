@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ut,vt,ADVrel,MORPH=empty
-pueri,pver,NOM2,Case=Gen|Numb=Sing
-Iunonis,ivno,NOM3,Case=Gen|Numb=Sing
-auem,avis,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Sing
-sed,sed,CONcoo,MORPH=empty
-defluit,deflvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aetas,aetas,NOM3,Case=Nom|Numb=Sing

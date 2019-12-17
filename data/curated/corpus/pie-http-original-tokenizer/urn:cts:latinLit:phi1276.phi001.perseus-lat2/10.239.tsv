@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-steterat,sto,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-multis,mvltvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-in,in,PRE,MORPH=empty
-carcere,carcer,NOM3,Case=Abl|Numb=Sing
-fornicis,fornix,NOM3,Case=Gen|Numb=Sing
-annis,annvs,NOM2,Case=Abl|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

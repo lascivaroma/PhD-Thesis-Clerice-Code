@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Euandrum,evander,NOM2,Case=Acc|Numb=Sing
-uenies,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-Tirynthius,tirynthivs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
-aut,avt,CONcoo,MORPH=empty
-minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-illo,ille,PROdem,Case=Abl

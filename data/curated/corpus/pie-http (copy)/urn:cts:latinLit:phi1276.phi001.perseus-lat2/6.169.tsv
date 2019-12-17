@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-grande,grandis,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-supercilium,svpercilivm,NOM2,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-numeras,nvmero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-in,in,PRE,MORPH=empty
-dote,dos,NOM3,Case=Abl|Numb=Sing
-triumphos,trivmphvs,NOM2,Case=Acc|Numb=Plur

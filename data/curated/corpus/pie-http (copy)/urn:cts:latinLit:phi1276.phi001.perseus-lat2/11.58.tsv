@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-laudem,lavdo,NOM3,Numb=Sing|Mood=Sub|Voice=Act|Person=1
-siliquas,siliqva,ADJdis,Case=Acc|Numb=Plur
-occultus,occvltvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ganeo,ganeo,NOM2,Case=Abl|Numb=Sing
-pultes,pvls,NOM3,Case=Acc|Numb=Plur|Mood=Sub|Person=2

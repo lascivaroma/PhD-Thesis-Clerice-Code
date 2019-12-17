@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-inquisitores,inqvisitor,NOM3,Case=Nom|Numb=Plur
-agerent,ago,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-cum,cvm,PRE,MORPH=empty
-remige,remex,NOM3,Case=Abl|Numb=Sing
-nudo,nvdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

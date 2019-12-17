@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-cum,cvm,CONsub,MORPH=empty
-Parrhasii,parrhasivs,ADJqua,Case=Gen|Numb=Sing
-tabulis,tabvla,NOM1,Case=Abl|Numb=Plur
-signisque,signisqve,ADJqua,Case=Nom|Numb=Plur
-Myronis,myron,NOM3,Case=Gen|Numb=Sing

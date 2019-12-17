@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-patricias,patricivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-quis,qvis,PROint,Case=Nom|Numb=Sing
-priscum,priscvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-illud,ille,PROdem,Case=Acc|Numb=Sing
-miratur,miror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-acumen,acvmen,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Sing

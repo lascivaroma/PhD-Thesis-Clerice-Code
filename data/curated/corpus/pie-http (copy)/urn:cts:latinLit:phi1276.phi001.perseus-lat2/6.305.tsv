@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ambulat,ambvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-geminis,geminvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-exsurgit,exsvrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-mensa,mensa,NOM1,Case=Nom|Numb=Sing
-lucernis,lvcerna,NOM1,Case=Abl|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

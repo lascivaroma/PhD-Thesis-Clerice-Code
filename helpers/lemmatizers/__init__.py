@@ -1,5 +1,5 @@
 from .collatinus import Collatinus
-from .pie_impl import PieLemmatizer
+from .pie_impl import PieLemmatizer, PieLemmatizerWeb
 import os
 import shutil
 from multiprocessing.pool import ThreadPool
@@ -11,7 +11,7 @@ def run_pie_web(text_files, target_path="data/curated/corpus/generic/", verbose=
         print(TASK_SEPARATOR+"Lemmatizing {} texts with Pie".format(len(text_files)))
 
     files = 0
-    lemmatizer = PieLemmatizer()
+    lemmatizer = PieLemmatizerWeb()
 
     if os.path.isdir(lemmatizer.path(target_path)):
         if verbose:

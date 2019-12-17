@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-obscenum,obscenvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-tremula,tremvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-promittit,promitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-dextra,dextera,NOM1,Case=Abl|Numb=Sing

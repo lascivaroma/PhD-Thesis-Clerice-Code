@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tecta,tego,VER,Numb=Plur
-labor,labor,NOM3,Case=Nom|Numb=Sing
-somnique,somniqve,NOM2,Case=Nom
-breues,brevis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-uellere,vello,VER,Mood=Inf|Tense=Pres|Voice=Act
-Tusco,tvscvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-unde,vnde,ADVint,MORPH=empty
-emeret,emo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-multa,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-pascendum,pasco,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
-carne,caro,NOM3,Case=Abl|Numb=Sing
-leonem,leo,NOM3,Case=Acc|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-domini,dominvs,NOM2,Case=Gen|Numb=Sing
-gladiis,gladivs,NOM2,Case=Abl|Numb=Plur
-tam,tam,ADV,Deg=Pos
-festinata,festino,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
-;,o,PRE,MORPH=empty
-sed,sed,CONcoo,MORPH=empty
-olim,olim,ADV,Deg=Pos

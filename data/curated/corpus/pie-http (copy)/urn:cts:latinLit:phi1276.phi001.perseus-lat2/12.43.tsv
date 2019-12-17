@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ille,ille,PROdem,Case=Nom|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-argentum,argentvm,NOM2,Case=Acc|Numb=Sing
-dubitabat,dvbito,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-mittere,mitto,VER,Mood=Inf|Tense=Pres|Voice=Act
-lances,lanx,NOM3,Case=Acc|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-lapsum,labor,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
-aut,avt,CONcoo,MORPH=empty
-ingenti,ingens,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-nutantem,nvto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-uulnere,vvlnvs,NOM3,Case=Abl|Numb=Sing
-ciuem,civis,NOM3,Case=Acc|Numb=Sing

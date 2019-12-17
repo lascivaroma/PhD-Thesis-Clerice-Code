@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-caedit,caedo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-donec,donec,CONsub,MORPH=empty
-lassis,lassvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-caedentibus,caedo,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-exi,exeo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

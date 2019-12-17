@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-strident,strideo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-ignes,ignis,NOM3,Case=Nom|Numb=Plur
-iam,iam,ADV,Deg=Pos
-follibus,follis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-atque,atqve,CONcoo,MORPH=empty
-caminis,caminvs,NOM2,Case=Abl|Numb=Plur

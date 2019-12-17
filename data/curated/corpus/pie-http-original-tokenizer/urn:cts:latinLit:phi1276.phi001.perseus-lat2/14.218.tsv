@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-falsus,falsvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-testis,testis,NOM3,Case=Nom|Numb=Sing
-uendet,vendo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-periuria,perivrivm,NOM2,Case=Acc|Numb=Plur
-summa,svmmvm,ADJqua,Case=Acc|Numb=Plur

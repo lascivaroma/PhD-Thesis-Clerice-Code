@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-causidicum,cavsidicvs,NOM2,Case=Acc|Numb=Sing
-uendunt,vendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-amethystina,amethystina,NOM2,Case=Nom|Numb=Plur
-;,o,INJ,MORPH=empty
-conuenit,convenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-illi,ille,PROdem,Case=Dat|Numb=Plur

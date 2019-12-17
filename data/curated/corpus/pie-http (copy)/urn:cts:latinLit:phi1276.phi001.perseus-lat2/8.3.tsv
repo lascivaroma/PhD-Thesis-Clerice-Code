@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-maiorum,maiores,NOM3,Case=Gen|Numb=Plur
-et,et,CONcoo,MORPH=empty
-stantis,sto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-in,in,PRE,MORPH=empty
-curribus,cvrrvs,NOM3,Case=Abl|Numb=Plur
-Aemilianos,aemilianvs,NOM2,Case=Acc|Numb=Plur|Deg=Pos

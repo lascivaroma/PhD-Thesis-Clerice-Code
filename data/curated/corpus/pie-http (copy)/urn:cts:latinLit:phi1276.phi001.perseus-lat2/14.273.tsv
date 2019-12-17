@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-uictum,vinco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-illa,ille,PROdem,Case=Abl|Numb=Sing
-mercede,merces,NOM3,Case=Abl|Numb=Sing
-parat,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-brumam,brvma,NOM1,Case=Acc|Numb=Sing
--que,qvavis,ADV,MORPH=empty
-famem,fames,NOM3,Case=Acc|Numb=Sing
--que,qvavis,ADV,Deg=Pos

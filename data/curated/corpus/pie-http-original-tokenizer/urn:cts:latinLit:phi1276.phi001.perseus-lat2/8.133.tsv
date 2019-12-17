@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-inter,inter,PRE,MORPH=empty
-maiores,maiores,NOM3,Case=Acc|Numb=Plur
-ipsumque,ipse,PROdem,Case=Nom|Numb=Sing
-Promethea,promethevs,NOM1,Case=Acc|Numb=Sing
-ponas,pono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

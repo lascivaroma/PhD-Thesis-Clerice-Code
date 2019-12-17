@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Nil,nil,NOM2,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-permittit,permitto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-mulier,mvlier,NOM3,Case=Nom|Numb=Sing
-sibi,svi,PROref,Case=Dat|Numb=Sing
-turpe,tvrpis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-putat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nil,nihil,PROind,Case=Ind

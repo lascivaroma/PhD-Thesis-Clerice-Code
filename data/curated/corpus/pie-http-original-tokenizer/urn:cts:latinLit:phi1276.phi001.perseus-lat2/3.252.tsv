@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-inpositas,impono,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-capiti,capvt,NOM3,Case=Dat|Numb=Sing
-quas,qvi,PROrel,Case=Acc|Numb=Plur
-recto,rectvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-uertice,vertex,NOM3,Case=Abl|Numb=Sing
-portat,porto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

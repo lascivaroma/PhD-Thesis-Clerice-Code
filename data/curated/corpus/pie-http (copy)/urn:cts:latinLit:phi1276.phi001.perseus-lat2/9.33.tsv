@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quas,qvis,PROrel,Case=Acc|Numb=Plur
-sinus,sinvs,NOM4,Case=Nom|Numb=Plur
-abscondit,abscondo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nam,nam,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-tibi,tv,PROper,Case=Dat|Numb=Sing
-sidera,sidvs,NOM3,Case=Nom|Numb=Plur
-cessant,cesso,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

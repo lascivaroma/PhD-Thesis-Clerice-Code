@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-miratur,miror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-opes,ops,NOM3,Case=Acc|Numb=Plur
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-nulla,nvllvs,PROind,Case=Acc|Numb=Plur
-exempla,exemplvm,NOM2,Case=Acc|Numb=Plur
-beati,beatvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-;,o,PRE,MORPH=empty

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-triumphales,trivmphalis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-inter,inter,PRE,MORPH=empty
-quas,qvi,PROrel,Case=Acc|Numb=Plur
-ausus,avdeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
-habere,habeo,VER,Mood=Inf|Tense=Pres|Voice=Act

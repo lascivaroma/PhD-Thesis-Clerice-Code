@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quod,qvi,PROrel,Case=Nom|Numb=Sing
-fremat,fremo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-terris,terra,NOM1,Case=Abl|Numb=Plur
-uiolentius,violenter,ADV,Deg=Comp
-;,o,INJ,MORPH=empty
-ergo,ergo,CONcoo,MORPH=empty
-cauebis,caveo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

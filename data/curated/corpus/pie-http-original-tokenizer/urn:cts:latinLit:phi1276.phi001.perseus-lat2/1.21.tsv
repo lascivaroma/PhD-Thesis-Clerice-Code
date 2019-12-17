@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-uacat,vaco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ac,ac,CONcoo,MORPH=empty
-placidi,placidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-rationem,ratio,NOM3,Case=Acc|Numb=Sing
-admittitis,admitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-edam,edo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-nimios,nimivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-capitique,capitiqve,ADV,Deg=Pos
-graues,gravis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-hinc,hinc,ADV,Deg=Pos
-surgit,svrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-orexis,orexa,NOM3,Case=Nom|Numb=Plur

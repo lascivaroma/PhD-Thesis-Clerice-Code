@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hinc,hinc,ADV,Deg=Pos
-totidem,totidem,PROdem,Case=Ind|Deg=Pos
-cupiet,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-lauto,lavtvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cenare,ceno,VER,Mood=Inf|Tense=Pres|Voice=Act
-paratu,paratvs,NOM4,Case=Abl|Numb=Sing

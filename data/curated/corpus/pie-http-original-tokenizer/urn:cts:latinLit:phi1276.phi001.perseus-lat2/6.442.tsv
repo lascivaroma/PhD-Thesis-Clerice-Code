@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-pulsari,pvlso,VER,Mood=Inf|Tense=Pres|Voice=Pass
-iam,iam,ADV,Deg=Pos
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-tubas,tvba,NOM1,Case=Acc|Numb=Plur
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-aera,aes,NOM3,Case=Acc|Numb=Sing
-fatiget,fatigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

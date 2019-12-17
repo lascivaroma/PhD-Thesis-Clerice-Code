@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-dignum,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-sitiente,sitio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-Pholo,pholvs,NOM2,Case=Abl|Numb=Sing
-uel,vel,CONcoo,MORPH=empty
-coniuge,conivx,NOM3,Case=Abl|Numb=Sing
-Fusci,fvscvs,NOM2,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty

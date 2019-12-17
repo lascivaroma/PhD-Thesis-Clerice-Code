@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-officia,officivm,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-comites,comes,NOM3,Case=Nom|Numb=Plur
-in,in,PRE,MORPH=empty
-fasce,fascis,NOM3,Case=Abl|Numb=Sing
-libelli,libellvs,NOM2,Case=Nom|Numb=Plur
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

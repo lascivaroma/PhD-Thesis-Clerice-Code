@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tam,tam,ADV,Deg=Pos
-uacui,vacvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-capitis,capvt,NOM3,Case=Gen|Numb=Sing
-populum,popvlvs,NOM2,Case=Acc|Numb=Sing
-Phaeaca,phaeaces,NOM7,Case=Nom|Numb=Sing
-putauit,pvto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

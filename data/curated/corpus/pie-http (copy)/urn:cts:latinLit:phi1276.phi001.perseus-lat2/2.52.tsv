@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nouimus,nosco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-aut,avt,CONcoo,MORPH=empty
-ullo,vllvs,PROind,Case=Abl|Numb=Sing
-strepitu,strepitvs,NOM4,Case=Abl|Numb=Sing
-fora,forvm,NOM2,Case=Acc|Numb=Plur
-uestra,vester,PROpos,Case=Acc|Numb=Plur
-mouemus,moveo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

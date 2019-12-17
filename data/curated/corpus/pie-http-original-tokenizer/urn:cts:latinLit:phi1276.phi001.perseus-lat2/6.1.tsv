@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Credo,credo,NOM3,Case=Nom|Numb=Sing
-Pudicitiam,pvdicitia,NOM1,Case=Acc|Numb=Sing
-Saturno,satvrnvs,NOM2,Case=Abl|Numb=Sing
-rege,rex,NOM3,Case=Abl|Numb=Sing
-moratam,moror,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Perf|Voice=Dep

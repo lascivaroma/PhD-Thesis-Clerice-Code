@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tot,tot,PROdem,Case=Ind
-rugae,rvga,NOM1,Case=Dat|Numb=Plur
-certe,certe,ADV,Deg=Pos
-modico,modicvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-contentus,contentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-agebas,ago,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-primaque,primaqve,ADV,Deg=Pos
-par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-adeo,adeo,ADV,Deg=Pos
-sacrae,sacer,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-lanugo,lanvgvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-senectae,senecta,NOM1,Case=Gen|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Plur

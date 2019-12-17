@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-turpe,tvrpis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-paras,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-;,o,INJ,MORPH=empty
-nec,nec,CONcoo,MORPH=empty
-tu,tv,PROper,Case=Nom|Numb=Sing
-pueri,pver,NOM2,Case=Voc|Numb=Sing
-contempseris,contemno,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
-annos,annvs,NOM2,Case=Acc|Numb=Plur

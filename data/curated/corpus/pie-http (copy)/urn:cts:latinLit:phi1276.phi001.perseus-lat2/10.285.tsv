@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uicerunt,vinco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-igitur,igitvr,CONcoo,MORPH=empty
-Fortuna,fortvna,NOM1,Case=Nom|Numb=Sing
-ipsius,ipse,PROdem,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-urbis,vrbs,NOM3,Case=Gen|Numb=Sing

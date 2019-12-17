@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sideribus,sidvs,NOM3,Case=Abl|Numb=Plur
-dubiis,dvbivs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-aut,avt,CONcoo,MORPH=empty
-illo,ille,PROdem,Case=Abl|Numb=Sing
-tempore,tempvs,NOM3,Case=Abl|Numb=Sing
-quo,qvi,PROrel,Case=Abl|Numb=Sing
-se,svi,PROref,Case=Acc|Numb=Sing

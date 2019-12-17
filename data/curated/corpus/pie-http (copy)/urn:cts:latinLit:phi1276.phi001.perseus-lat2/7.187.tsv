@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-multum,mvltvm,ADV,Case=Acc|Deg=Pos
-duo,dvo,ADJcar,Case=Nom|Numb=Plur
-sufficient,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-;,o,PRE,MORPH=empty
-res,res,NOM5,Case=Nom|Numb=Sing
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-minoris,parvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp

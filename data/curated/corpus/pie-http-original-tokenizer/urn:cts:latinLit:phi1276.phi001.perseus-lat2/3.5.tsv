@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-secessus,secessvs,NOM4,Case=Nom|Numb=Sing
-ego,ego,PROper,Case=Nom|Numb=Sing
-uel,vel,CONcoo,MORPH=empty
-Prochytam,prochyta,NOM1,Case=Acc|Numb=Sing
-praepono,praepono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-Suburae,svbvra,NOM1,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty

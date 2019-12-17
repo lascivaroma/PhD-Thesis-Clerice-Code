@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-Venafrano,venafranvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-piscem,piscis,NOM3,Case=Acc|Numb=Sing
-perfundit,perfvndo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-at,at,CONcoo,MORPH=empty
-hic,hic,PROdem,Case=Nom|Numb=Sing
-qui,qvi,PROrel,Case=Nom|Numb=Sing

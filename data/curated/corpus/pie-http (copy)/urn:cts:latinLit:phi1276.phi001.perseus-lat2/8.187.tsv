@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Laureolum,lavreolvs,NOM2,Case=Acc|Numb=Sing
-uelox,velox,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-etiam,etiam,ADV,Deg=Pos
-bene,bene,ADV,Deg=Pos
-Lentulus,lentvlvs,NOM2,Case=Nom|Numb=Sing
-egit,ago,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

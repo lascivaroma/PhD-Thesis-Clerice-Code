@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-inuenies,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-aliquo,aliqvis,PROind,Case=Abl|Numb=Sing
-cum,cvm,PRE,MORPH=empty
-percussore,percvssor,NOM3,Case=Abl|Numb=Sing
-iacentem,iaceo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

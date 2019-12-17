@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quorum,qvi,PROrel,Case=Gen|Numb=Plur
-ope,ops,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-auxilio,avxilivm,NOM2,Case=Abl|Numb=Sing
-gratae,gratvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-post,post,PRE,MORPH=empty
-munus,mvnvs,NOM3,Case=Acc|Numb=Sing
-aristae,arista,NOM1,Case=Gen|Numb=Sing

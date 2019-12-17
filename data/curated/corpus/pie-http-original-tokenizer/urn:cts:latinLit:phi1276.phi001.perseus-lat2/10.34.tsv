@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Democritus,democritvs,NOM2,Case=Nom|Numb=Sing
-quamquam,qvamqvam,CONsub,MORPH=empty
-non,non,ADVneg,MORPH=empty
-essent,svm,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-urbibus,vrbs,NOM3,Case=Dat|Numb=Plur
-illis,ille,PROdem,Case=Dat|Numb=Plur

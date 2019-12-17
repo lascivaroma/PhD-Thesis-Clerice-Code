@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-omnibus,omnis,PROind,Case=Dat|Numb=Plur
-hic,hic,PROdem,Numb=Sing
-idem,idem,PROdem,Case=Nom|Numb=Sing
-si,si,CONsub,MORPH=empty
-foeda,foedvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-scissa,scindo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-lacerna,lacerna,NOM1,Case=Abl|Numb=Sing

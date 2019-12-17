@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-natalicium,natalicivs,NOM2,Case=Acc|Numb=Sing
-cognatis,cognatvs,NOM2,Case=Dat|Numb=Plur
-ponere,pono,VER,Mood=Inf|Tense=Pres|Voice=Act
-lardum,lardvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

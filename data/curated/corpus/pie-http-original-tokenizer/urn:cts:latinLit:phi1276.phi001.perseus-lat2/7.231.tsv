@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-legat,lego,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-historias,historia,NOM1,Case=Acc|Numb=Plur
-auctores,avctor,NOM3,Case=Acc|Numb=Plur
-nouerit,nosco,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-omnes,omnis,PROind,Case=Acc|Numb=Plur

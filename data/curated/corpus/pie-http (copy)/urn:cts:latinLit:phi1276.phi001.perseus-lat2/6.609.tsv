@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ingerit,ingero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ut,vt,ADVrel,MORPH=empty
--que,qvove,ADV,MORPH=empty
-suos,svi,PROpos.ref,Case=Acc|Numb=Plur
-semper,semper,ADV,Deg=Pos
-producit,prodvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-alumnos,alvmnvs,NOM2,Case=Acc|Numb=Plur
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

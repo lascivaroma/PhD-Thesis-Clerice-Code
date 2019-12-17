@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tertia,tertivs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
-ne,ne,CONsub,MORPH=empty
-uacuo,vacvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cessaret,cesso,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-culcita,cvlcita,NOM1,Case=Nom|Numb=Sing
-lecto,lectvs,NOM2,Case=Abl|Numb=Sing

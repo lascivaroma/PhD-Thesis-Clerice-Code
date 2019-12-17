@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-numina,nvmen,NOM3,Case=Acc|Numb=Plur
-lanatis,lanatvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-animalibus,animal,NOM3,Case=Abl|Numb=Plur
-abstinet,abstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-omnis,omnis,PROind,Case=Acc|Numb=Plur

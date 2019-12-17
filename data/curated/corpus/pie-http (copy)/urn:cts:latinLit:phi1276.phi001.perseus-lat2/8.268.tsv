@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-adficiunt,afficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-poenis,poena,NOM1,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-legum,lex,NOM3,Case=Gen|Numb=Plur
-prima,primvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
-securis,secvris,NOM3,Case=Nom|Numb=Plur|Deg=Pos
-.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nempe,nempe,ADV,Deg=Pos
-in,in,PRE,MORPH=empty
-Lucanos,lvcani,NOM2,Case=Acc|Numb=Plur
-aut,avt,CONcoo,MORPH=empty
-Tusca,tvscvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ergastula,ergastvlvm,NOM2,Case=Acc|Numb=Plur
-mittas,mitto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

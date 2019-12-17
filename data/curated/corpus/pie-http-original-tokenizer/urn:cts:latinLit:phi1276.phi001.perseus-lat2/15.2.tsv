@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Aegyptos,aegyptvs,NOM2,Case=Acc|Numb=Plur
-portenta,portentvm,NOM2,Case=Acc|Numb=Plur
-colat,colo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-crocodilon,crocodilvs,NOM3,Case=Nom|Numb=Sing
-adorat,adoro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

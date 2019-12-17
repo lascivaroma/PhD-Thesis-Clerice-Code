@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-exemplo,exemplvm,NOM2,Case=Abl|Numb=Sing
-quodcumque,qvicvmqve,PROrel,Case=Nom|Numb=Sing
-malo,malvm,NOM2,Case=Abl|Numb=Sing|Deg=Pos
-committitur,committo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-ipsi,ipse,PROdem,Case=Nom|Numb=Plur

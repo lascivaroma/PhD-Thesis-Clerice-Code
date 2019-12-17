@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-A,abvs,PROdem,Case=Abl|Numb=Sing
-deuerticulo,deverticvlvm,NOM2,Case=Abl|Numb=Sing
-repetatur,repeto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-fabula,fabvla,NOM1,Case=Nom|Numb=Sing
-postquam,postqvam,CONsub,MORPH=empty

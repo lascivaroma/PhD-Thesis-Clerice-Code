@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-pro,pro,PRE,MORPH=empty
-iucundis,ivcvndvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-aptissima,aptvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
-quaeque,qvisqve,PROind,Case=Acc|Numb=Plur
-dabunt,do,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-di,devs,NOM2,Case=Nom|Numb=Plur

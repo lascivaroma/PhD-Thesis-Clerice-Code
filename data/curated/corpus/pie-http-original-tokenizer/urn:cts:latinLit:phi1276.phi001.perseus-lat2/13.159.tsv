@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-humani,hvmanvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-generis,genvs,NOM3,Case=Gen|Numb=Sing
-mores,mos,NOM3,Case=Acc|Numb=Plur
-tibi,tv,PROper,Case=Dat|Numb=Sing
-nosse,nosco,VER,Mood=Inf|Tense=Perf|Voice=Act
-uolenti,volo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
-senior,senex,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-publica,pvblicvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-fulgura,fvlgvr,NOM3,Case=Acc|Numb=Plur
-condit,condo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

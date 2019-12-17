@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ad,ad,PRE,MORPH=empty
-generum,gener,NOM2,Case=Acc|Numb=Sing
-Cereris,ceres,NOM3,Case=Gen|Numb=Sing
-sine,sine,PRE,MORPH=empty
-caede,caedes,NOM3,Case=Abl|Numb=Sing
-ac,ac,CONcoo,MORPH=empty
-uulnere,vvlnvs,NOM3,Case=Abl|Numb=Sing
-pauci,pavci,NOM2,Case=Nom|Numb=Plur

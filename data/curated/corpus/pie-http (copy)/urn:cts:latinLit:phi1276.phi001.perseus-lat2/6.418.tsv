@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-deinde,deinde,ADV,Deg=Pos
-canem,canis,NOM3,Case=Acc|Numb=Sing
-grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-occursu,occvrsvs,NOM4,Case=Abl|Numb=Sing
-taeterrima,teter,ADJqua,Case=Abl|Numb=Sing|Deg=Sup
-uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Gen|Numb=Sing

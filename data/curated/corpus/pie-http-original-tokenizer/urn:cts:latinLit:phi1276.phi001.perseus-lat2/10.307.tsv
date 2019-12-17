@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-deformem,deformis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-saeua,saevvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-castrauit,castro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-arce,arx,NOM3,Case=Abl|Numb=Sing
-tyrannus,tyrannvs,NOM2,Case=Nom|Numb=Sing

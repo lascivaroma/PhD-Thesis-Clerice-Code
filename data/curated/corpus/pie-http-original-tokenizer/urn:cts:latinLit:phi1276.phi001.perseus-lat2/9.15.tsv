@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-fruticante,frvticor,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
-pilo,pilvm,NOM2,Case=Abl|Numb=Sing
-neglecta,negligo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-et,et,CONcoo,MORPH=empty
-squalida,sqvalidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-crura,crvs,NOM3,Case=Acc|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

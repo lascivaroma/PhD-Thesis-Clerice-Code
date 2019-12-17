@@ -1,0 +1,15 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/17.txt'>
+	<w pos='NOMcom' lemma='nasto' msd='Case=Nom|Numb=Sing'>NASTES</w>
+	<w pos='NOMcom' lemma='amphimachus' msd='Case=Nom|Numb=Sing'>Amphimachus</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='NOMcom' lemma='nomio' msd='Case=Gen|Numb=Sing'>Nomionis</w>
+	<w pos='ADJqua' lemma='inclutus' msd='Case=Nom|Numb=Sing|Deg=Pos'>inclita</w>
+	<w pos='NOMcom' lemma='proles' msd='Case=Nom|Numb=Sing'>proles</w>
+	<w pos='NOMcom' lemma='ductor' msd='Case=Nom|Numb=Plur'>ductores</w>
+	<w pos='ADV' lemma='quondam' msd='Deg=Pos'>quondam</w>
+	<w pos='NOMcom' lemma='puluis' msd='Case=Nom|Numb=Sing'>pulvis</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='umbra' msd='Case=Nom|Numb=Sing'>umbra</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1'>sumus</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

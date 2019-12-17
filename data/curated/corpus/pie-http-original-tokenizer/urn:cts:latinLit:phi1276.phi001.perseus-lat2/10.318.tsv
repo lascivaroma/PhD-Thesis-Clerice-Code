@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-tuus,tvvs,PROpos,Case=Nom|Numb=Sing
-Endymion,endymion,NOM7,Case=Nom|Numb=Sing
-dilectae,diligo,ADJqua,Case=Gen|Numb=Sing
-fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-adulter,advlter,NOM2,Case=Nom|Numb=Sing

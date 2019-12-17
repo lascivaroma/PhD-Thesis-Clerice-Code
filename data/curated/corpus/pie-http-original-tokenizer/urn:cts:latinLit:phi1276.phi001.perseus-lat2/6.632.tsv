@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-mordeat,mordeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ante,ante,ADV,Deg=Pos
-aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
-quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
-porrexerit,porrigo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-illa,ille,PROdem,Case=Nom|Numb=Sing

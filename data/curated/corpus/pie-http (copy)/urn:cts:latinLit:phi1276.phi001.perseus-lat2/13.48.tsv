@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-numinibus,nvmen,NOM3,Case=Abl|Numb=Plur
-miserum,miser,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-urguebant,vrgeo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-Atlanta,atlas,NOM1,Case=Nom|Numb=Sing
-minori,parvvs,ADJqua,Case=Dat|Numb=Sing|Deg=Comp

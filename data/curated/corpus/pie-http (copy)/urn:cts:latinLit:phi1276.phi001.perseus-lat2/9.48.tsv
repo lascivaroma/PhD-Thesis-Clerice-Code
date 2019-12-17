@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uos,vos,PROper,Case=Nom|Numb=Plur
-humili,hvmilis,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-adseculae,assecla,NOM1,Case=Voc|Numb=Plur
-uos,vos,PROper,Case=Nom|Numb=Plur
-indulgebitis,indvlgeo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-umquam,vmqvam,ADV,Deg=Pos

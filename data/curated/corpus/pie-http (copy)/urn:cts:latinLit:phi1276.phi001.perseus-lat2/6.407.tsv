@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-instantem,insto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-regi,rex,NOM3,Case=Dat|Numb=Sing
-Armenio,armenivs,NOM2,Case=Dat|Numb=Sing
-Partim,pars,NOM3,Case=Acc|Numb=Sing
--que,qvisqve,CONcoo,MORPH=empty
-comete,comete,NOM2,Case=Voc|Numb=Sing
--ne,ne,CONsub,MORPH=empty

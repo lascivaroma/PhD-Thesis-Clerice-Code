@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-eloquium,eloqvivm,NOM2,Case=Acc|Numb=Sing
-uocale,vocalis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-modis,modvs,NOM2,Case=Abl|Numb=Plur
-laurumque,lavrvmqve,ADV,Deg=Pos
-momordit,mordeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Sing

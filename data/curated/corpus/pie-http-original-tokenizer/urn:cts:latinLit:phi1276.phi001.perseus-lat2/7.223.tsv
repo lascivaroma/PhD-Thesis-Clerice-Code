@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sedisti,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
-qua,qvi,PROrel,Case=Abl|Numb=Sing
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-faber,faber,NOM2,Case=Nom|Numb=Sing
-qua,qvi,PROrel,Case=Abl|Numb=Sing
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-sederet,sedeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

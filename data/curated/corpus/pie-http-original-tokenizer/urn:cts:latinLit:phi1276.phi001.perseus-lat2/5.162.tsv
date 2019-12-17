@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-captum,capio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-te,tv,PROper,Case=Acc|Numb=Sing
-nidore,nidor,NOM3,Case=Abl|Numb=Sing
-suae,svvs,PROpos.ref,Case=Dat|Numb=Sing
-putat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing
-culinae,cvlina,NOM1,Case=Dat|Numb=Sing
-;,o,PRE,MORPH=empty

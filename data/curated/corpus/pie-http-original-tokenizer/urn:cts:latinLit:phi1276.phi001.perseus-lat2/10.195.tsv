@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-uetula,vetvla,NOM1,Case=Abl|Numb=Sing|Deg=Pos
-scalpit,scalpo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-iam,iam,ADV,Deg=Pos
-mater,mater,NOM3,Case=Nom|Numb=Sing
-simia,simia,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-bucca,bvcca,NOM1,Case=Abl|Numb=Sing
-.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

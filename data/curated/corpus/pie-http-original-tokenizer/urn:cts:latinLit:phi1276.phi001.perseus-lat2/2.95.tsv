@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-attolens,attolens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act
-oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
-;,o,PRE,MORPH=empty
-uitreo,vitrevm,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-bibit,bibo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing
-priapo,priapvs,NOM3,Case=Abl|Numb=Sing

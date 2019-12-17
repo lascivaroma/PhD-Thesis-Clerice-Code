@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quaeritur,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-desunt,desvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-homines,homo,NOM3,Case=Nom|Numb=Plur
-mora,mora,NOM1,Case=Nom|Numb=Sing
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-per,per,PRE,MORPH=empty
-ipsam,ipse,PROdem,Case=Acc|Numb=Sing

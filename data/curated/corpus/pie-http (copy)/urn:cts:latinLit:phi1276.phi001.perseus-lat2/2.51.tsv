@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Numquid,nvmqvid,ADVint,Numb=Sing
-nos,nos,PROper,Case=Acc|Numb=Plur
-agimus,ago,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-causas,cavsa,NOM1,Case=Acc|Numb=Plur
-ciuilia,civilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-iura,ivs,NOM3,Case=Acc|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-conuerte,converto,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-a,ab,PRE,MORPH=empty
-Cumis,cvmae,NOM1,Case=Abl|Numb=Plur
-saturarum,satvra,NOM1,Case=Gen|Numb=Plur
-ego,ego,PROper,Case=Nom|Numb=Sing
-ni,ni,CONsub,MORPH=empty
-pudet,pvdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-illas,ille,PROdem,Case=Acc|Numb=Plur

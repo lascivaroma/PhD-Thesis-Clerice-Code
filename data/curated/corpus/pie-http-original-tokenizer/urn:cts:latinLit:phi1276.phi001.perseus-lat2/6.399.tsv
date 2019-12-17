@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-audax,avdax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-coetus,coetvs,NOM4,Case=Nom|Numb=Sing
-possit,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quae,qvi,PROrel,Case=Acc|Numb=Plur
-ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
-uirorum,vir,NOM2,Case=Gen|Numb=Plur

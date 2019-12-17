@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Europen,evrope,NOM7,Case=Acc|Numb=Sing
-;,o,PRE,MORPH=empty
-canibus,canis,NOM3,Case=Abl|Numb=Plur
-pigris,piger,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-scabicque,scabicvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-uetusta,vetvstvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

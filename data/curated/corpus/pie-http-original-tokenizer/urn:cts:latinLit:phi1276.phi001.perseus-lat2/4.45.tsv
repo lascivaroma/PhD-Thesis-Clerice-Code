@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-destinat,destino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hoc,hic,PROdem,Case=Nom|Numb=Sing
-monstrum,monstrvm,NOM2,Case=Nom|Numb=Sing
-cumbae,cymba,NOM1,Case=Gen|Numb=Sing
-Vnique,vniqve,NOM2,Case=Voc|Numb=Sing
-magister,magister,NOM2,Case=Nom|Numb=Sing

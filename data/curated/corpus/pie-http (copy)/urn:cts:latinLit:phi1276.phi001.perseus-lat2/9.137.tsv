@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-o,o,INJ,MORPH=empty
-parui,parvvm,VER,Numb=Sing
-nostri,noster,PROpos,Case=Gen|Numb=Plur
--que,qvoqve,CONcoo,MORPH=empty
-Lares,lar,NOM3,Case=Acc|Numb=Plur
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-ture,tvs,NOM3,Case=Abl|Numb=Sing
-minuto,minvtvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

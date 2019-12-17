@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-paupertas,pavpertas,NOM3,Case=Nom|Numb=Sing
-durius,dvre,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-in,in,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing

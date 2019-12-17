@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-facile,facilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aedem,aedes,NOM3,Case=Acc|Numb=Sing
-conducere,condvco,VER,Mood=Inf|Tense=Pres|Voice=Act
-flumina,flvmen,NOM3,Case=Acc|Numb=Plur
-portus,portvs,NOM4,Case=Acc|Numb=Plur

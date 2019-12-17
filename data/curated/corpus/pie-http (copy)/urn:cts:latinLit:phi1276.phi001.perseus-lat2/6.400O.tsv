@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-prospicit,prospicio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hoc,hic,PROdem,Case=Acc|Numb=Sing
-prudens,prvdens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-ab,ab,PRE,MORPH=empty
-illis,ille,PROdem,Case=Abl|Numb=Plur
-incipit,incipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uxor,vxor,NOM3,Case=Nom|Numb=Sing

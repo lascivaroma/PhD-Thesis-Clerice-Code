@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-indulsit,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-pueris,pver,NOM2,Case=Dat|Numb=Plur
-non,non,ADVneg,MORPH=empty
-umquam,vmqvam,ADV,Deg=Pos
-derit,desvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-amator,amator,NOM3,Case=Nom|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-produxisse,prodvco,VER,Mood=Inf|Tense=Perf|Voice=Act
-parum,parvm,NOM2,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-cum,cvm,CONsub,MORPH=empty
-rastra,rastra,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-sarcula,sarcvlvm,NOM2,Case=Acc|Numb=Plur
-tantum,tantvm,PROdem,Numb=Sing|Deg=Pos

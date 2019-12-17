@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-protulerat,profero,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
--que,qvavis,ADV,MORPH=empty
-pedem,pes,NOM3,Case=Acc|Numb=Sing
-flebat,fleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-contrarius,contrarivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-auctor,avctor,NOM3,Case=Nom|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-plebeios,plebeivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-calices,calix,NOM3,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-paucis,pavcvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-assibus,as,NOM3,Case=Abl|Numb=Plur
-emptos,emo,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Perf|Voice=Pass

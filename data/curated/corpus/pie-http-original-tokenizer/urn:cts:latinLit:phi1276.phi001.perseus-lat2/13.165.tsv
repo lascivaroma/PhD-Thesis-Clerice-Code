@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-caesariem,caesaries,NOM5,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-madido,madidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-torquentem,torqveo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-cornua,cornv,NOM4,Case=Acc|Numb=Plur
-cirro,cirro,ADV,Numb=Sing

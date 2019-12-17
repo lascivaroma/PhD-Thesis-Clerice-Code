@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-tibi,tv,PROper,Case=Dat|Numb=Sing
-uestiti,vestio,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-facies,facies,NOM5,Case=Nom|Numb=Sing
-scorti,scortvm,NOM2,Case=Gen|Numb=Sing
-placet,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-haeres,haereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

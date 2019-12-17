@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-frangenda,frango,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-miseram,miser,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-funestat,fvnesto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-imagine,imago,NOM3,Case=Abl|Numb=Sing
-gentem,gens,NOM3,Case=Acc|Numb=Sing

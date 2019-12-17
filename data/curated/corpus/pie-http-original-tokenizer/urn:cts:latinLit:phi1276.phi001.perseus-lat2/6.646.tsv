@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-propter,propter,PRE,MORPH=empty
-nummos,nvmvs,NOM2,Case=Acc|Numb=Plur
-;,o,INJ,MORPH=empty
-minor,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-admiratio,admiratio,NOM3,Case=Nom|Numb=Sing
-summis,svpervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup

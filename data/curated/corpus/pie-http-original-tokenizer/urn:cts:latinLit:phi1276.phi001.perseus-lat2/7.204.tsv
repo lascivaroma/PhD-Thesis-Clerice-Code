@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sicut,sicvt,ADVrel,MORPH=empty
-Thrasimachi,thrasimachvs,NOM2,Case=Gen|Numb=Sing
-probat,probo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-exitus,exitvs,NOM4,Case=Nom|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-Secundi,secvndvs,NOM2,Case=Gen|Numb=Sing

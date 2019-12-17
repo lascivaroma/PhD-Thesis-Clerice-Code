@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sic,sic,ADV,Deg=Pos
-natura,natvra,NOM1,Case=Nom|Numb=Sing
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uelocius,velociter,ADV,Deg=Comp
-et,et,CONcoo,MORPH=empty
-citius,cito,ADV,Deg=Comp
-nos,nos,PROper,Case=Nom|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-maiorem,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-quam,qvam,ADVrel,MORPH=empty
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-duo,dvo,ADJcar,Case=Nom|Numb=Plur
-Caesaris,caesar,NOM3,Case=Gen|Numb=Sing
-Anticatones,anticato,NOM3,Case=Nom|Numb=Plur

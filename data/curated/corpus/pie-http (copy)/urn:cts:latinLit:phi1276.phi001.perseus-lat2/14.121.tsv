@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-pauperis,pavper,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-putat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-iuuenes,ivvenis,NOM3,Case=Acc|Numb=Plur
-hortatur,hortor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-ut,vt,CONsub,MORPH=empty
-illa,ille,PROdem,Case=Nom|Numb=Sing

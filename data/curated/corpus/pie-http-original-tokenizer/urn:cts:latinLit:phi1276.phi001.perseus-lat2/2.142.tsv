@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-prodest,prosvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-agili,agilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-palmas,palma,NOM1,Case=Acc|Numb=Plur
-praebere,praebeo,VER,Mood=Inf|Tense=Pres|Voice=Act
-luperco,lvpercvs,NOM2,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

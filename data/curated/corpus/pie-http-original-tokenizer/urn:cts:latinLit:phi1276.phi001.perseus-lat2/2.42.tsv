@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-ne,ne,ADVneg,MORPH=empty
-pudeat,pvdeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-dominum,dominvs,NOM2,Case=Acc|Numb=Sing
-monstrare,monstro,VER,Mood=Inf|Tense=Pres|Voice=Act
-tabernae,taberna,NOM1,Case=Gen|Numb=Sing

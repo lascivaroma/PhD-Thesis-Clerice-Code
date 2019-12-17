@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Esquilias,esqviliae,NOM1,Case=Acc|Numb=Plur
-a,ab,PRE,MORPH=empty
-feruenti,ferveo,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-migrare,migro,VER,Mood=Inf|Tense=Pres|Voice=Act
-Subura,svbvra,NOM1,Case=Abl|Numb=Sing
-;,o,PRE,MORPH=empty

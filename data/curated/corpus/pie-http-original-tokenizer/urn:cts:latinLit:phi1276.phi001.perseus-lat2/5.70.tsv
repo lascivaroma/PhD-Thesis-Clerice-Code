@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-tener,tener,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-niueus,nivevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-mollique,molliqve,ADV,Deg=Pos
-siligine,siligo,NOM3,Case=Abl|Numb=Sing
-fictus,fingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

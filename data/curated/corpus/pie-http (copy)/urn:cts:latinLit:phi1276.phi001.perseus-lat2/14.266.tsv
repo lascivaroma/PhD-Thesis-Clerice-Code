@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-corpora,corpvs,NOM3,Case=Acc|Numb=Plur
-quique,qvisqve,PROind,Case=Nom|Numb=Sing
-solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-rectum,rectvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-descendere,descendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-funem,fvnis,NOM3,Case=Acc|Numb=Sing

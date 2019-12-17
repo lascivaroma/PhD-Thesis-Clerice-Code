@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-ostrea,ostrevm,NOM2,Case=Acc|Numb=Plur
-callebat,calleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-primo,primvs,ADJord,Numb=Sing|Deg=Sup
-deprendere,deprehendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-morsu,morsvs,NOM4,Case=Abl|Numb=Sing

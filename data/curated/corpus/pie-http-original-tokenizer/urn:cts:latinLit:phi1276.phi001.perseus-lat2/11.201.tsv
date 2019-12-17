@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-consulibus,consvl,NOM3,Case=Dat|Numb=Plur
-spectent,specto,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-iuuenes,ivvenis,NOM3,Case=Nom|Numb=Plur
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-clamor,clamor,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-audax,avdax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

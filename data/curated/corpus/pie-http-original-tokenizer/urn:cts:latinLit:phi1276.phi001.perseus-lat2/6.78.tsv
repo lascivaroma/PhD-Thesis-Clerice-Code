@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-longa,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-per,per,PRE,MORPH=empty
-angustos,angvstvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-figamus,figo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-pulpita,pvlpitvm,NOM2,Case=Acc|Numb=Plur
-uicos,vicvs,NOM2,Case=Acc|Numb=Plur

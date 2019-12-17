@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-mutatis,mvto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-inducitur,indvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-atque,atqve,CONcoo,MORPH=empty
-fouetur,foveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

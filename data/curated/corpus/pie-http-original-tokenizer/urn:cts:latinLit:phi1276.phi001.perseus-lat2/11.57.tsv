@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Persice,persicvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-non,non,ADVneg,MORPH=empty
-praestem,praesto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-uitae,vita,NOM1,Case=Gen|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-moribus,mos,NOM3,Case=Dat|Numb=Plur
-et,et,CONcoo,MORPH=empty
-re,res,NOM5,Case=Abl|Numb=Sing

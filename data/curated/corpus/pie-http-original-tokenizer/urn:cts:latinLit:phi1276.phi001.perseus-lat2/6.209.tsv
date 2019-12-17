@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ardeat,ardeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing
-licet,licet,CONsub,Tense=Pres
-tormentis,tormentvm,NOM2,Case=Abl|Numb=Plur
-gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-amantis,amans,NOM3,Case=Acc|Numb=Sing

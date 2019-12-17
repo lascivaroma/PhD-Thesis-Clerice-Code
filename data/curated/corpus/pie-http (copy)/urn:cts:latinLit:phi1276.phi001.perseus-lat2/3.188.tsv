@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-fermentum,fermentvm,NOM2,Case=Acc|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-habe,habeo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-praestare,praesto,VER,Mood=Inf|Tense=Pres|Voice=Act
-tributa,tribvtvm,NOM2,Case=Acc|Numb=Plur
-clientes,cliens,NOM3,Case=Voc|Numb=Plur

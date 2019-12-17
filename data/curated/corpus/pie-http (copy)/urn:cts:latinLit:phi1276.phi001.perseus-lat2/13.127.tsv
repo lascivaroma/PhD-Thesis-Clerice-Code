@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ostendis,ostendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-taceo,taceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-nec,nec,CONcoo,MORPH=empty
-pugnis,pvgnvs,NOM2,Case=Abl|Numb=Plur
-caedere,caedo,VER,Mood=Inf|Tense=Pres|Voice=Act
-pectus,pectvs,NOM3,Case=Acc|Numb=Sing

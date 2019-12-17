@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tunc,tvnc,ADV,Deg=Pos
-par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ingenio,ingenivm,NOM2,Case=Abl|Numb=Sing
-pretium,pretivm,NOM2,Case=Nom|Numb=Sing
-tunc,tvnc,ADV,Deg=Pos
-utile,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-multis,mvlti,NOM2,Case=Dat|Numb=Plur|Deg=Pos

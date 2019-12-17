@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Quod,qvi,PROint,Case=Nom|Numb=Sing
-porro,porro,ADV,Deg=Pos
-officium,officivm,NOM2,Case=Acc|Numb=Sing
-ne,ne,CONsub,MORPH=empty
-nobis,nos,PROper,Case=Dat|Numb=Plur
-blandiar,blandior,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=1
-aut,avt,CONcoo,MORPH=empty
-quod,qvod,CONsub,MORPH=empty

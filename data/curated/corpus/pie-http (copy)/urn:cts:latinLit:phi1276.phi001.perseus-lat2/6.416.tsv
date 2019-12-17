@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-rumpuntur,rvmpo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-somni,somnvs,NOM2,Case=Nom|Numb=Plur
-fustes,fvstis,NOM3,Case=Nom|Numb=Plur
-huc,hvc,ADV,Deg=Pos
-ocius,ociter,ADV,Deg=Comp
-inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

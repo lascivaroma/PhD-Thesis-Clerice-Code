@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Pompeius,pompeivs,NOM2,Case=Nom|Numb=Sing
-tenui,tenvis,VER,Case=Abl|Numb=Sing|Deg=Pos
-iugulos,ivgvlvs,NOM2,Case=Acc|Numb=Plur
-aperire,aperio,VER,Mood=Inf|Tense=Pres|Voice=Act
-susurro,svsvrro,VER,Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act

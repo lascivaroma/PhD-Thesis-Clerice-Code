@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-di,devs,NOM2,Case=Voc|Numb=Plur
-maiorum,maiores,NOM3,Case=Gen|Numb=Plur
-umbris,vmbra,NOM1,Case=Abl|Numb=Plur
-tenuem,tenvis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-sine,sine,PRE,MORPH=empty
-pondere,pondvs,NOM3,Case=Abl|Numb=Sing
-terram,terra,NOM1,Case=Acc|Numb=Sing

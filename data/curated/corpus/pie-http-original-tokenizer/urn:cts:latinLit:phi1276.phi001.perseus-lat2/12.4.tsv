@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uellus,vellvs,NOM3,Case=Acc|Numb=Sing
-dabitur,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-pugnanti,pvgno,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-Gorgone,gorgo,NOM3,Case=Abl|Numb=Sing
-Maura,mavra,NOM1,Case=Abl|Numb=Sing
-;,o,PRE,MORPH=empty

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-rex,rex,NOM3,Case=Nom|Numb=Sing
-horum,hic,PROdem,Case=Gen|Numb=Plur
-uacuis,vacvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
--que,qvivis,CONcoo,MORPH=empty
-toris,torvs,NOM2,Case=Abl|Numb=Plur
-cantum,cantvs,VER,Case=Acc|Numb=Sing
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-iacebit,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

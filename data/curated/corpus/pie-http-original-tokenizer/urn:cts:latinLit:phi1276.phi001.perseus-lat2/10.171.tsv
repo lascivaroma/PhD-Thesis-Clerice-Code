@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-a,ab,PRE,MORPH=empty
-figulis,figvla,NOM2,Case=Abl|Numb=Plur
-munitam,mvnio,VER,Case=Acc|Numb=Sing|Deg=Pos|Tense=Perf|Voice=Pass
-intrauerit,intro,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-urbem,vrbs,NOM3,Case=Acc|Numb=Sing

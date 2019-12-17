@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ex,ex,PRE,MORPH=empty
-nobis,nos,PROper,Case=Abl|Numb=Plur
-geniti,gigno,VER,Case=Nom|Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-quoniam,qvoniam,CONsub,MORPH=empty
-dociles,docilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-imitandis,imitor,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Dep

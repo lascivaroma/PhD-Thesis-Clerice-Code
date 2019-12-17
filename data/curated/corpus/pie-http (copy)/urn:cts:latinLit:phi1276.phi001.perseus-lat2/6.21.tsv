@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Anticum,anticvs,NOM2,Case=Acc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-uetus,vetvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-alienum,alienvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Postume,postvmvs,NOM2,Case=Voc|Numb=Sing
-lectum,lectvs,NOM2,Case=Acc|Numb=Sing

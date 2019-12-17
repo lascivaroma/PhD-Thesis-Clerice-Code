@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-consilia,consilivm,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-uitae,vita,NOM1,Case=Gen|Numb=Sing
-diuersum,diversvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-iter,iter,NOM3,Case=Acc|Numb=Sing
-ingredietur,ingredior,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3

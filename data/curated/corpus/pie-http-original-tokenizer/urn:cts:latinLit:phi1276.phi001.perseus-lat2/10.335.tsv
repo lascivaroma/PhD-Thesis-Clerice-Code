@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sternitur,sterno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-ritu,ritvs,NOM4,Case=Abl|Numb=Sing
-decies,deciens,ADJadv.mul,MORPH=empty
-centena,centenvs,ADJdis,Case=Nom|Numb=Plur
-dabuntur,do,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3

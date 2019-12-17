@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Vulcani,vvlcanvs,NOM2,Case=Gen|Numb=Sing
-.,qvinqvaginta,ADJcar,Case=Gen|Numb=Sing
-Quid,qvis,PROint,Case=Acc|Numb=Sing
-agant,ago,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-uenti,ventvs,NOM2,Case=Nom|Numb=Plur
-quas,qvi,PROrel,Case=Acc|Numb=Plur
-torqueat,torqveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-umbras,vmbra,NOM1,Case=Acc|Numb=Plur

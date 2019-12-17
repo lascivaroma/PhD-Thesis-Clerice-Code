@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Illa,illa,NOM1,Case=Nom|Numb=Sing
-tamen,tamen,ADV,Deg=Pos
-grauior,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-discumbere,discvmbo,VER,Mood=Inf|Tense=Pres|Voice=Act
-coepit,coepio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

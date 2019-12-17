@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Si,sivs,NOM2,Numb=Sing
-potes,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-auelli,avello,VER,Mood=Inf|Tense=Pres|Voice=Pass
-circensibus,circenses,NOM3,Case=Dat|Numb=Plur
-optima,bonvs,ADJqua,Case=Voc|Numb=Sing|Deg=Sup
-Sorae,sora,NOM1,Case=Dat|Numb=Sing

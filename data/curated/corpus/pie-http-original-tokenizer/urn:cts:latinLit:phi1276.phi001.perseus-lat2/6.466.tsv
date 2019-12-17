@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-his,hic,PROdem,Case=Abl|Numb=Plur
-emitur,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
-graciles,gracilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-huc,hvc,ADV,Deg=Pos
-mittitis,mitto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-Indi,indi,NOM2,Case=Voc|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

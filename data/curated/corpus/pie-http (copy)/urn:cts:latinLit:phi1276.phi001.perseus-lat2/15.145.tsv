@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-exercendis,exerceo,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Pass
-pariendis,pario,VER,Case=Abl|Numb=Plur|Mood=Adj|Voice=Pass
--que,qvove,CONcoo,MORPH=empty
-artibus,ars,NOM3,Case=Abl|Numb=Plur
-apti,aptvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

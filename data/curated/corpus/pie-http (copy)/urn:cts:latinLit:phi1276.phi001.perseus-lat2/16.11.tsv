@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-nigram,niger,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-in,in,PRE,MORPH=empty
-facie,facies,NOM5,Case=Abl|Numb=Sing
-tumidis,tvmidvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-liuoribus,livor,NOM3,Case=Abl|Numb=Plur
-offam,offa,NOM1,Case=Acc|Numb=Sing

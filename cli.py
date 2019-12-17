@@ -104,6 +104,68 @@ def lemmatize(lemmatizers=[], debug=False):
 
 
 @corpus_group.command()
+def check():
+    """ Checks which text has no datation or split scheme """
+    from MyCapytain.resolvers.cts.local import CtsCapitainsLocalResolver
+    from MyCapytain.common.reference import URN
+    from collections import defaultdict
+    import csv
+    print("Checking: {}".format(", ").join(glob.glob("data/raw/corpora/*/*")))
+    print()
+
+    dates = {
+
+    }
+    schemes = {
+
+    }
+
+    # Loading schemes
+    with open("data/raw/datation.tsv") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        header = reader.fieldnames
+        for text_dict in reader:
+            urn = URN(text_dict["URN"])
+            text_group = str(urn.upTo(URN.TEXTGROUP))
+            text = str(urn)
+            date, scheme = (text_dict["Birth"], text_dict["Death"]), text_dict["Citation level"]
+            dates[text_group] = dates[text] = date
+            schemes[text] = scheme
+
+    # Loading texts
+    resolver = CtsCapitainsLocalResolver(resource=glob.glob("data/raw/corpora/*/*"))
+    from io import StringIO
+    texts = defaultdict(lambda: dict(date=False, scheme=False))
+    false_file = StringIO()
+    output = csv.DictWriter(false_file, fieldnames=header, delimiter=";")
+    output.writeheader()
+    for obj in resolver.inventory.readableDescendants:
+        if obj.lang != "lat":
+            if obj.lang != "eng":
+                print(obj)
+            continue
+        text = str(obj.id)
+        sc, da = True, True
+        if str(text) not in schemes:
+            sc = False
+        if str(URN(text).upTo(URN.TEXTGROUP)) not in dates:
+            da = False
+        if not sc or not da:
+            ds = dates.get(str(URN(text).upTo(URN.TEXTGROUP)), ("", ""))
+            output.writerow({
+                "URN": text,
+                "Nom FR": obj.parent.parent.get_label(),
+                "Birth": ds[0],
+                "Death": ds[1],
+                "Name of citation level": ",".join([citation.name for citation in obj.citation])
+            })
+    # Retournons au début
+    false_file.seek(0)
+    # Affichons
+    print(false_file.read())
+
+
+@corpus_group.command()
 def infos():
     """ Retrieve statistics and information about the corpus """
     resolver = helpers.reader.make_resolver()

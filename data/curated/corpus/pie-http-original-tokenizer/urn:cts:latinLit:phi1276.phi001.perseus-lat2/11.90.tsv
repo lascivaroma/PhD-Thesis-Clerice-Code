@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-tremerent,tremo,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-autem,avtem,CONcoo,MORPH=empty
-Fabios,fabivs,NOM2,Case=Acc|Numb=Plur
-durumque,dvrvmqve,ADV,MORPH=empty
-Catonem,cato,NOM3,Case=Acc|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-accusatori,accvsator,NOM3,Case=Dat|Numb=Sing
-nollet,nolo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-plurima,mvltvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

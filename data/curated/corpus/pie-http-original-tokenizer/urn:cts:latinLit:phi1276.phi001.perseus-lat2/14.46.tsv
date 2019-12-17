@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-lenonum,leno,NOM3,Case=Gen|Numb=Plur
-et,et,CONcoo,MORPH=empty
-cantus,cantvs,NOM4,Case=Acc|Numb=Plur
-pernoctantis,pernocto,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-parasiti,parasitvs,NOM2,Case=Gen|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

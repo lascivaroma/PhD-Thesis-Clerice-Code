@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-praecedit,praecedo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-trahere,traho,VER,Mood=Inf|Tense=Pres|Voice=Act
-immo,immo,ADV,Deg=Pos
-ultro,vltro,ADV,Deg=Pos
-ac,ac,CONcoo,MORPH=empty
-uexare,vexo,VER,Mood=Inf|Tense=Pres|Voice=Act
-paratus,paratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

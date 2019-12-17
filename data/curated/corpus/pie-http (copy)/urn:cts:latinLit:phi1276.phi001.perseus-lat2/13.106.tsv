@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Sic,sic,ADV,Deg=Pos
-animum,animvs,NOM2,Case=Acc|Numb=Sing
-dirae,dirvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-trepidum,trepidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-formidine,formido,NOM3,Case=Abl|Numb=Sing
-culpae,cvlpa,NOM1,Case=Gen|Numb=Sing

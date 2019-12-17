@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-arma,arma,NOM2,Case=Acc|Numb=Plur
-coegerunt,cogo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-tam,tam,ADV,Deg=Pos
-detestabile,detestabilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-monstrum,monstrvm,NOM2,Case=Acc|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quicquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
-praeterea,praeterea,ADV,Deg=Pos
-scit,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-docet,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-haud,havd,ADVneg,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-illi,ille,PROdem,Case=Dat|Numb=Sing

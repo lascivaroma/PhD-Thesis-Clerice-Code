@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-an,an,ADVint,MORPH=empty
-nihil,nihil,PROind,Case=Ind
-in,in,PRE,MORPH=empty
-melius,bonvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-tot,tot,PROdem,Case=Ind
-rerum,res,NOM5,Case=Gen|Numb=Plur
-proficis,proficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-usu,vsvs,NOM4,Case=Abl|Numb=Sing

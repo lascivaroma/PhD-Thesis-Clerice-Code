@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-perfidus,perfidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-nigri,niger,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-patietur,patior,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3
-carceris,carcer,NOM3,Case=Gen|Numb=Sing
-uncum,vncvs,NOM2,Case=Acc|Numb=Sing

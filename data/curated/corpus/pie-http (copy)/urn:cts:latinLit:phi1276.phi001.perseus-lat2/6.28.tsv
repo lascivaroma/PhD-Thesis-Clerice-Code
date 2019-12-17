@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-certe,certe,ADV,Deg=Pos
-sanus,sanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-eras,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2
-;,o,PRE,MORPH=empty
-uxorem,vxor,NOM3,Case=Acc|Numb=Sing
-Postume,postvmvs,NOM2,Case=Voc|Numb=Sing
-ducis,dvco,NOM3,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

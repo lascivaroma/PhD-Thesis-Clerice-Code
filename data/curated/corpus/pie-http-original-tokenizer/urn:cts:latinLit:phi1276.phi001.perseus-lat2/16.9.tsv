@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-audeat,avdeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3
-immo,immo,ADV,Deg=Pos
-etsi,etsi,CONsub,MORPH=empty
-pulsetur,pvlso,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-dissimulet,dissimvlo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-nec,nec,CONcoo,MORPH=empty

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-omnibus,omnis,PROind,Case=Dat|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-ipsis,ipse,PROdem,Case=Dat|Numb=Plur
-Veneri,venvs,NOM3,Case=Dat|Numb=Sing
-Martique,martiqve,NOM2,Case=Voc|Numb=Sing
-timendas,timeo,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass

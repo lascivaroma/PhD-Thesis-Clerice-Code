@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-faciet,facio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-longi,longvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-mensura,mensvra,NOM1,Case=Nom|Numb=Sing
-incognita,incognitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nerui,nervvs,NOM2,Case=Gen|Numb=Sing

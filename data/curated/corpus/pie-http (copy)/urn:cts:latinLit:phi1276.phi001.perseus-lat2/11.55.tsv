@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-pauci,pavci,NOM2,Case=Nom|Numb=Plur
-ridiculum,ridicvlvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-fugientem,fvgio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-ex,ex,PRE,MORPH=empty
-urbe,vrbs,NOM3,Case=Abl|Numb=Sing
-pudorem,pvdor,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

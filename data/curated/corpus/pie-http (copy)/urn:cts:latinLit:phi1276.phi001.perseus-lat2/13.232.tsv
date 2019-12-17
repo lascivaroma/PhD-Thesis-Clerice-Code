@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-haec,hic,PROdem,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-tela,telvm,NOM2,Case=Acc|Numb=Plur
-putant,pvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-pecudem,pecvs,NOM3,Case=Acc|Numb=Sing
-spondere,spondeo,VER,Mood=Inf|Tense=Pres|Voice=Act
-sacello,sacellvm,NOM2,Case=Abl|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cras,cras,ADV,Deg=Pos
-bibet,bibo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Albanis,albani,NOM2,Case=Dat|Numb=Plur
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-de,de,PRE,MORPH=empty
-montibus,mons,NOM3,Case=Abl|Numb=Plur
-aut,avt,CONcoo,MORPH=empty
-de,de,PRE,MORPH=empty

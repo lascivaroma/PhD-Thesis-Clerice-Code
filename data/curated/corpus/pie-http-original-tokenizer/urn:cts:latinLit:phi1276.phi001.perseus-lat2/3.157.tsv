@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hic,hic,PROdem,Case=Nom|Numb=Sing
-plaudat,plavdo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-nitidi,nitidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-praeconis,praeco,NOM3,Case=Gen|Numb=Sing
-filius,filivs,NOM2,Case=Nom|Numb=Sing
-inter,inter,PRE,MORPH=empty

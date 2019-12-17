@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-res,res,NOM5,Case=Nom|Numb=Sing
-legi,lex,VER,Case=Dat|Numb=Sing
-non,non,ADVneg,MORPH=empty
-sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-sedeant,sedeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-hic,hic,ADV,Case=Nom|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-huius,hic,PROdem,Case=Gen|Numb=Sing
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-post,post,PRE,MORPH=empty
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-aetate,aetas,NOM3,Case=Abl|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-arte,ars,NOM3,Case=Abl|Numb=Sing
-minores,parvvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp

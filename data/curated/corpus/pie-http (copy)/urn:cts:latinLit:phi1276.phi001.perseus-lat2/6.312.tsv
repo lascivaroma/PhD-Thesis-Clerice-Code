@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-inde,inde,ADV,Deg=Pos
-domos,domvs,NOM2,Case=Acc|Numb=Plur
-abeunt,abeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tu,tv,PROper,Case=Nom|Numb=Sing
-calcas,calco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-luce,lvx,NOM3,Case=Abl|Numb=Sing
-reuersa,revertor,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

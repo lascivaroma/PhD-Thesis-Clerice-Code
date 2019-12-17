@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nosse,nosco,VER,Mood=Inf|Tense=Perf|Voice=Act
-uolunt,volo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-omnes,omnis,PROind,Case=Acc|Numb=Plur
-mercedem,merces,NOM3,Case=Acc|Numb=Sing
-soluere,solvo,VER,Mood=Inf|Tense=Pres|Voice=Act
-nemo,nemo,PROind,Case=Nom|Numb=Sing

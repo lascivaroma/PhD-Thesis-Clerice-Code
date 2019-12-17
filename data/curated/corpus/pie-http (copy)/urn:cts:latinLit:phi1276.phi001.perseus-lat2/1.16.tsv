@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-consilium,consilivm,NOM2,Case=Acc|Numb=Sing
-dedimus,do,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-Sullae,sylla,NOM1,Case=Gen|Numb=Sing
-priuatus,privatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ut,vt,CONsub,MORPH=empty
-altum,altvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-arcanum,arcanvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-quam,qvam,ADVrel,MORPH=empty
-subrepti,svbripio,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-potare,poto,VER,Mood=Inf|Tense=Pres|Voice=Act
-Falerni,falernvm,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

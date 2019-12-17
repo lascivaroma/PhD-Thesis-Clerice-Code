@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-fingentem,fingo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-inmanes,immanis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-Laestrygonas,laestrygones,NOM1,Case=Acc|Numb=Plur|Deg=Pos
-atque,atqve,CONcoo,MORPH=empty
-Cyclopas,cyclops,NOM7,Case=Acc|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-curriculo,cvrricvlvm,NOM2,Case=Abl|Numb=Sing
-quem,qvi,PROrel,Case=Acc|Numb=Sing
-si,si,CONsub,MORPH=empty
-reuoces,revoco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-subsistere,svbsisto,VER,Mood=Inf|Tense=Pres|Voice=Act
-nescit,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

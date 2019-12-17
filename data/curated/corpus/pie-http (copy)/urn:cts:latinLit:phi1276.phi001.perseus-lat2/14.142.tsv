@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-proferre,profero,VER,Mood=Inf|Tense=Pres|Voice=Act
-libet,libet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-fines,finis,NOM3,Case=Acc|Numb=Plur
-maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
--que,qvove,CONcoo,MORPH=empty
-uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

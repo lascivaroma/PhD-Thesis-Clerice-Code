@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-frumenti,frvmentvm,NOM2,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty
-quippe,qvippe,CONcoo,MORPH=empty
-haec,hic,PROdem,Case=Nom|Numb=Sing
-merces,merces,NOM3,Case=Nom|Numb=Sing
-lautissima,lavtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-.,vnvs,ADJcar,Case=Gen|Numb=Sing
-tempta,tento,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quaeque,qvisqve,PROind,Case=Acc|Numb=Sing
-salutate,salvtate,ADV,Case=Abl|Numb=Sing|Deg=Pos
-crepitat,crepito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Concordia,concordia,NOM1,Case=Nom|Numb=Sing
-nido,nidvs,NOM2,Case=Abl|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

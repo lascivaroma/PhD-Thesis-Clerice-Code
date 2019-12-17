@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-forsitan,forsitan,ADV,Deg=Pos
-haec,hic,PROdem,Case=Nom|Numb=Plur
-spernant,sperno,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-iuuenes,ivvenis,NOM3,Case=Nom|Numb=Plur
-quibus,qvi,PROrel,Case=Abl|Numb=Plur
-arte,ars,NOM3,Case=Abl|Numb=Sing
-benigna,benignvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-malo,malo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-Venusinam,venvsinvs,NOM1,Case=Acc|Numb=Sing|Deg=Pos
-quam,qvam,ADVrel,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-Cornelia,cornelivs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-mater,mater,NOM3,Case=Voc|Numb=Sing

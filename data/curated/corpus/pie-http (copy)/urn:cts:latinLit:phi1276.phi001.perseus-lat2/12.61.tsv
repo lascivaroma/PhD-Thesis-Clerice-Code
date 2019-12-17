@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aspice,aspicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-sumendas,svmo,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
-in,in,PRE,MORPH=empty
-tempestate,tempestas,NOM3,Case=Abl|Numb=Sing
-secures,secvris,NOM3,Case=Acc|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

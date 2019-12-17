@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quem,qvis,PROrel,Case=Acc|Numb=Sing
-praestare,praesto,VER,Mood=Inf|Tense=Pres|Voice=Act
-potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-mulier,mvlier,NOM3,Case=Nom|Numb=Sing
-galeata,galeatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-pudorem,pvdor,NOM3,Case=Acc|Numb=Sing

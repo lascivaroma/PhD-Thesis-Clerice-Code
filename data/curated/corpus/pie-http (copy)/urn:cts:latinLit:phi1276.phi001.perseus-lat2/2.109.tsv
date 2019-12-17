@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-maesta,maestvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-Actiaca,actiacvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-fecit,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Cleopatra,cleopatra,NOM1,Case=Nom|Numb=Sing
-carina,carina,NOM1,Case=Abl|Numb=Sing

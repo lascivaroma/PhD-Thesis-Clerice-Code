@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-siluestrem,silvestris,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-montana,montanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-torum,torvs,NOM2,Case=Acc|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-sterneret,sterno,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-uxor,vxor,NOM3,Case=Nom|Numb=Sing

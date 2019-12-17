@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Cretice,creticvs,NOM2,Case=Voc|Numb=Sing|Deg=Pos
-perluces,pellvceo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur
-dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-contagio,contagio,NOM3,Case=Nom|Numb=Sing
-labem,labes,NOM3,Case=Acc|Numb=Sing

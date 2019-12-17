@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-extulit,effero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ergo,ergo,CONcoo,MORPH=empty
-greges,grex,NOM3,Case=Acc|Numb=Plur
-natorum,natvs,NOM2,Case=Gen|Numb=Plur
-ipsumque,ipse,PROdem,Case=Nom|Numb=Sing
-parentem,parens,NOM3,Case=Acc|Numb=Sing

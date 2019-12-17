@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-piscator,piscator,NOM3,Case=Voc|Numb=Sing
-quam,qvam,ADVrel,MORPH=empty
-piscis,piscis,NOM3,Case=Nom|Numb=Sing
-emi,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-;,o,PRE,MORPH=empty
-prouincia,provincia,NOM1,Case=Abl|Numb=Sing
-tanti,tantvs,PROdem,Case=Gen|Numb=Sing

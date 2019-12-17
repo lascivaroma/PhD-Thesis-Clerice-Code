@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dimidium,dimidivm,NOM2,Case=Nom|Numb=Sing|Deg=Pos
-tegime,tegime,ADV,Numb=Sing
--ne,ne,CONsub,MORPH=empty
-uel,vel,ADV,MORPH=empty
-si,si,CONsub,MORPH=empty
-diuersa,diversvm,NOM2,Case=Acc|Numb=Plur
-mouebit,moveo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

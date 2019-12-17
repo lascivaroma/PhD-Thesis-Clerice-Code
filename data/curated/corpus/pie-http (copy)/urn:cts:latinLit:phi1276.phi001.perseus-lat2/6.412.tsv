@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quocumque,qvicvmqve,ADVrel,MORPH=empty
-in,in,PRE,MORPH=empty
-triuio,trivivm,NOM2,Case=Abl|Numb=Sing
-cuicumque,qvicvmqve,PROrel,Case=Dat|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-obuia,obvivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-narrat,narro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quod,qvis,PROint,Case=Nom|Numb=Sing
-tamen,tamen,ADV,Deg=Pos
-ulterius,vltra,ADV,Deg=Comp
-monstrum,monstrvm,NOM2,Case=Nom|Numb=Sing
-quam,qvam,ADVrel,MORPH=empty
-mollis,mollis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-auarus,avarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

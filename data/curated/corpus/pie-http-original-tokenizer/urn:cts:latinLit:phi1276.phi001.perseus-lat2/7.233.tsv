@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-dum,dvm,CONsub,MORPH=empty
-petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aut,avt,CONcoo,MORPH=empty
-thermas,thermae,NOM1,Case=Acc|Numb=Plur
-aut,avt,CONcoo,MORPH=empty
-Phoebi,phoebvs,NOM2,Case=Gen|Numb=Sing
-balnea,balinevm,NOM2,Case=Acc|Numb=Plur
-dicat,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

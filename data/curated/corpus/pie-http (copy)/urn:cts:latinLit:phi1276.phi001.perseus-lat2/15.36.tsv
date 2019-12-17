@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-inde,inde,ADV,Deg=Pos
-furor,fvror,NOM3,Case=Nom|Numb=Sing
-uolgo,vvlgo,ADV,Deg=Pos
-quod,qvod,CONsub,MORPH=empty
-numina,nvmen,NOM3,Case=Nom|Numb=Plur
-uicinorum,vicinvs,NOM2,Case=Gen|Numb=Plur

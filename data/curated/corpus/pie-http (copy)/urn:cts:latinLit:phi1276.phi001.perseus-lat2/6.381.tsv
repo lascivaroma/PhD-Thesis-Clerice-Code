@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-manibus,manvs,NOM4,Case=Abl|Numb=Plur
-densi,densvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-radiant,radio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-testudine,testvdo,NOM3,Case=Abl|Numb=Sing
-tota,totvs,PROind,Case=Abl|Numb=Sing

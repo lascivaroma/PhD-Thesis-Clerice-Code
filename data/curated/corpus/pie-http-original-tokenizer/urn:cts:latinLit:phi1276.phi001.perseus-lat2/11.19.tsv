@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-quadringentis,qvadringenti,ADJcar,Case=Abl|Numb=Plur
-nummis,nvmvs,NOM2,Case=Abl|Numb=Plur
-condire,condio,VER,Mood=Inf|Tense=Pres|Voice=Act
-gulosum,gvlosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

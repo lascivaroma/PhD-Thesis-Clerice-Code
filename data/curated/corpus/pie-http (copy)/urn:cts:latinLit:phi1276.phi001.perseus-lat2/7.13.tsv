@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-hoc,hic,PROdem,Case=Acc|Numb=Sing
-satius,satis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-quam,qvam,ADVrel,MORPH=empty
-si,si,CONsub,MORPH=empty
-dicas,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-sub,svb,PRE,MORPH=empty
-iudice,ivdex,NOM3,Case=Abl|Numb=Sing
-uidi,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-cum,cvm,CONsub,MORPH=empty
-uenali,venalis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-Cyane,cyane,NOM7,Case=Nom|Numb=Sing
-succincta,svccingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-lagona,lagena,NOM1,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

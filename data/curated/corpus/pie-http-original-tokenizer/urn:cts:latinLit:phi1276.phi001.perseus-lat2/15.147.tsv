@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-egent,egeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-prona,pronvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-terram,terra,NOM1,Case=Acc|Numb=Sing
-spectantia,specto,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur
-mundi,mvndvs,NOM2,Case=Gen|Numb=Sing

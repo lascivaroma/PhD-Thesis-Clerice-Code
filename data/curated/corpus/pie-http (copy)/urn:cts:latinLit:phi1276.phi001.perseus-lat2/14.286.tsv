@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hic,hic,PROdem,Case=Nom|Numb=Sing
-boue,bos,NOM3,Case=Abl|Numb=Sing
-percusso,percvtio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-mugire,mvgio,VER,Mood=Inf|Tense=Pres|Voice=Act
-Agamemnona,agamemnon,NOM7,Case=Acc|Numb=Sing
-credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

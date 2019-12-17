@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-exigua,exigvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-Cereris,ceres,NOM3,Case=Gen|Numb=Sing
-tangens,tango,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-aramque,aramqve,ADV,Deg=Pos
-pedemque,pedemqve,ADV,Deg=Pos

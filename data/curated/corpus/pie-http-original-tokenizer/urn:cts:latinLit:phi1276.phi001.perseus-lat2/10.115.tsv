@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-incipit,incipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-optare,opto,VER,Mood=Inf|Tense=Pres|Voice=Act
-et,et,CONcoo,MORPH=empty
-totis,totvs,PROind,Case=Abl|Numb=Plur
-quinquatribus,qvinqvatria,NOM3,Case=Abl|Numb=Plur
-optat,opto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

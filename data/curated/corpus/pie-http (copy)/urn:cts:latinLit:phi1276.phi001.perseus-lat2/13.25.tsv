@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quaesitum,qvaero,VER,Case=Acc|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-partos,pario,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-gladio,gladivs,NOM2,Case=Abl|Numb=Sing
-uel,vel,CONcoo,MORPH=empty
-pyxide,pyxis,NOM3,Case=Abl|Numb=Sing
-nummos,nvmvs,NOM2,Case=Acc|Numb=Plur

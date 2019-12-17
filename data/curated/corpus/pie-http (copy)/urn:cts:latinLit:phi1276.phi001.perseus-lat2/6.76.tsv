@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-accipis,accipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-uxorem,vxor,NOM3,Case=Acc|Numb=Sing
-de,de,PRE,MORPH=empty
-qua,qvi,PROrel,Case=Abl|Numb=Sing
-citharoedus,citharoedvs,NOM2,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Sing
-Echio,echivs,NOM2,Case=Nom|Numb=Sing
--ne,ne,CONsub,MORPH=empty

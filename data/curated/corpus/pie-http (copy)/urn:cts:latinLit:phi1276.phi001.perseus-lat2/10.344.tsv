@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-paucorum,pavci,NOM2,Case=Gen|Numb=Plur
-quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
-leuius,levis,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-melius,bonvs,ADJqua,Numb=Sing|Deg=Comp
--ue,qve,NOM3,Numb=Sing
-putaris,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

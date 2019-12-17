@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-uocem,vox,NOM3,Case=Acc|Numb=Sing
-uendentis,vendo,VER,Case=Gen|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-praetoribus,praetor,NOM3,Case=Dat|Numb=Plur
-organa,organvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-semper,semper,ADV,Deg=Pos

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-securum,secvrvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-iubeant,ivbeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-clamoso,clamosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-insistere,insisto,VER,Mood=Inf|Tense=Pres|Voice=Act
-circo,circvs,NOM2,Case=Abl|Numb=Sing
-;,o,PRE,MORPH=empty

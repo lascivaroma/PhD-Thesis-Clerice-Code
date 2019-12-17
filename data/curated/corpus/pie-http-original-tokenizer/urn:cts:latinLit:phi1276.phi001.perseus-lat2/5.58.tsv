@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-ne,ne,CONsub,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-teneam,teneo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-Romanorum,romani,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-regum,rex,NOM3,Case=Gen|Numb=Plur

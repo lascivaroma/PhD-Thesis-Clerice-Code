@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-saeuitiam,saevitia,NOM1,Case=Acc|Numb=Sing
-damnare,damno,VER,Mood=Inf|Tense=Pres|Voice=Act
-et,et,CONcoo,MORPH=empty
-honestum,honestvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-adferre,affero,VER,Mood=Inf|Tense=Pres|Voice=Act
-liceret,licet,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

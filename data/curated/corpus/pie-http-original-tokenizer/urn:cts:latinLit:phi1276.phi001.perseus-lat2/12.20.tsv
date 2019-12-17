@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-quisque,qvisqve,PROind,Case=Nom|Numb=Sing
-illo,ille,PROdem,Case=Abl|Numb=Sing
-percussum,percvtio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-crederet,credo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-mox,mox,ADV,Deg=Pos

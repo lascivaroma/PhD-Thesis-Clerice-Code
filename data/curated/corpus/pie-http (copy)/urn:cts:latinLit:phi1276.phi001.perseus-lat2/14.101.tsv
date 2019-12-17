@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Iudaicum,ivdaicvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-ediscunt,edisco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-seruant,servo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ac,ac,CONcoo,MORPH=empty
-metuunt,metvo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ius,ivs,NOM3,Case=Acc|Numb=Sing

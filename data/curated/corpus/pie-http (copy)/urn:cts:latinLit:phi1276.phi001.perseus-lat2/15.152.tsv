@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-de,de,PRE,MORPH=empty
-nemore,nemvs,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-proauis,proavvs,NOM2,Case=Abl|Numb=Plur
-habitatas,habito,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-linquere,linqvo,VER,Mood=Inf|Tense=Pres|Voice=Act
-siluas,silva,NOM1,Case=Acc|Numb=Plur

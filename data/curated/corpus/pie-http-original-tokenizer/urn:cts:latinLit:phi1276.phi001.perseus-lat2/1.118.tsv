@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sportula,sportvla,NOM1,Case=Nom|Numb=Sing
-quid,qvis,PROint,Case=Acc|Numb=Sing
-referat,refero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quantum,qvantvm,PROint,Numb=Sing
-rationibus,ratio,NOM3,Case=Abl|Numb=Plur
-addat,addo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

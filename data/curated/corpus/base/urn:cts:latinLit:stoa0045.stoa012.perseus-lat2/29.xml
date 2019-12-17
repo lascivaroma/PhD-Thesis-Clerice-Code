@@ -1,0 +1,31 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/29.txt'>
+	<w pos='VER' lemma='pera' msd='Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2'>PERA</w>
+	<w pos='NOMcom' lemma='polenta' msd='Case=Acc|Numb=Plur'>polenta</w>
+	<w pos='VER' lemma='tribo' msd='Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1'>tribo</w>
+	<w pos='CONcoo' lemma='ne2' msd='MORPH=empty'>-ne</w>
+	<w pos='NOMcom' lemma='baculus' msd='Case=Nom|Numb=Sing'>baculus</w>
+	<w pos='NOMcom' lemma='scyphus' msd='Case=Nom|Numb=Sing'>scyphus</w>
+	<w pos='ADJqua' lemma='artus2' msd='Case=Nom|Numb=Sing|Deg=Pos'>arta</w>
+	<w pos='NOMcom' lemma='supellex' msd='Case=Nom|Numb=Sing'>supellex</w>
+	<w pos='PROdem' lemma='iste' msd='Case=Nom|Numb=Sing'>ista</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>fuit</w>
+	<w pos='NOMcom' lemma='cynicus' msd='Case=Gen|Numb=Sing'>Cynici</w>
+	<w pos='CONcoo' lemma='sed' msd='MORPH=empty'>set</w>
+	<w pos='VER' lemma='puto' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>putat</w>
+	<w pos='PROdem' lemma='hic1' msd='Case=Acc|Numb=Sing'>hanc</w>
+	<w pos='ADJqua' lemma='nimius' msd='Case=Acc|Numb=Sing|Deg=Pos'>nimiam</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='CONcoo' lemma='namque' msd='MORPH=empty'>namque</w>
+	<w pos='ADJqua' lemma='cauus2' msd='Case=Abl|Numb=Plur|Deg=Pos'>cavis</w>
+	<w pos='NOMcom' lemma='manus1' msd='Case=Abl|Numb=Plur'>manibus</w>
+	<w pos='VER' lemma='cerno' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act'>cernens</w>
+	<w pos='VER' lemma='poto' msd='Mood=Inf|Tense=Pres|Voice=Act'>potare</w>
+	<w pos='NOMcom' lemma='bubulcus' msd='Case=Acc|Numb=Sing'>bubulcum</w>
+	<w pos='ADVint' lemma='cur' msd='MORPH=empty'>cur</w>
+	<w pos='NOMcom' lemma='scyphus' msd='Case=Nom|Numb=Sing'>scyphe</w>
+	<w pos='PROper' lemma='tu' msd='Case=Acc|Numb=Sing'>te</w>
+	<w pos='VER' lemma='dico?' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>dixit</w>
+	<w pos='VER' lemma='gero' msd='Case=Abl|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act'>gesto</w>
+	<w pos='ADJqua' lemma='superuacuus' msd='Case=Acc|Numb=Sing|Deg=Pos'>supervacuum</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

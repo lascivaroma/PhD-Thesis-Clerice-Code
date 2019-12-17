@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-uocat,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-officium,officivm,NOM2,Case=Nom|Numb=Sing
-turba,tvrba,NOM1,Case=Nom|Numb=Sing
-cedente,cedo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-uehetur,veho,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3

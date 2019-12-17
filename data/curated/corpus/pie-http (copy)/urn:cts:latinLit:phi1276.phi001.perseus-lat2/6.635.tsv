@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-scilicet,scilicet,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-finem,finis,NOM3,Case=Acc|Numb=Sing
-egressi,egredior,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Dep
-legem,lex,NOM3,Case=Acc|Numb=Sing
--que,qvovs,ADV,MORPH=empty
-priorum,prior,ADJord,Case=Gen|Numb=Plur|Deg=Comp

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-numinibus,nvmen,NOM3,Case=Dat|Numb=Plur
-uota,votvm,NOM2,Case=Acc|Numb=Plur
-exaudita,exavdio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-malignis,malignvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-semesum,semesvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-leporem,lepor,NOM3,Case=Acc|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-de,de,PRE,MORPH=empty
-clunibus,clvnis,NOM3,Case=Abl|Numb=Plur
-apri,aper,NOM2,Case=Gen|Numb=Sing

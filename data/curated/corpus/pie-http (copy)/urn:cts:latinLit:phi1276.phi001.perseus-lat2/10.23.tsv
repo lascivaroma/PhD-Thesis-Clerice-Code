@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Prima,prima,NOM1,Case=Nom|Numb=Sing
-fere,fere,ADV,Deg=Pos
-uota,votvm,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-cunctis,cvnctvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-notissima,notvs,ADJqua,Case=Nom|Numb=Plur|Deg=Sup
-templis,templvm,NOM2,Case=Abl|Numb=Plur

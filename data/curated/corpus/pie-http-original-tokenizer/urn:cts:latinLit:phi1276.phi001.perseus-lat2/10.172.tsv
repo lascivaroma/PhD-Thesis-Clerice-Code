@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sarcophago,sarcophagvs,NOM2,Case=Dat|Numb=Sing
-contentus,contentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-.,qvintvs,ADJcar,Case=Dat|Numb=Sing
-mors,mors,NOM3,Case=Nom|Numb=Sing
-sola,solvs,PROind,Case=Nom|Numb=Sing
-fatetur,fateor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3

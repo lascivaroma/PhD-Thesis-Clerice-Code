@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-haec,hic,PROdem,Case=Nom|Numb=Plur
-iuuenes,ivvenis,NOM3,Case=Nom|Numb=Plur
-.,qvadranta,ADJcar,Case=Ind|Numb=Plur
-esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2
-desisti,desino,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-nempe,nempe,ADV,Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-ultra,vltra,PRE,Deg=Pos

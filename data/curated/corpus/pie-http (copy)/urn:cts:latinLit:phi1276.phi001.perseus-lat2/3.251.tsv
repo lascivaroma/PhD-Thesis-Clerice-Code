@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Corbulo,corbvlo,NOM3,Case=Nom|Numb=Sing
-uix,vix,ADV,Deg=Pos
-ferret,fero,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-tot,tot,PROdem,Case=Ind
-uasa,vas,NOM2,Case=Acc|Numb=Plur
-ingentia,ingens,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-tot,tot,PROdem,Case=Ind
-res,res,NOM5,Case=Nom|Numb=Plur

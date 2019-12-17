@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Plurimus,plvrimvs,NOM2,Case=Nom|Numb=Sing
-hic,hic,PROdem,Case=Nom|Numb=Sing
-aeger,aeger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-moritur,morior,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-uigilando,vigilo,VER,Case=Abl|Numb=Sing|Mood=Ger|Voice=Act
-set,sed,CONcoo,MORPH=empty
-ipsum,ipse,PROdem,Case=Acc|Numb=Sing

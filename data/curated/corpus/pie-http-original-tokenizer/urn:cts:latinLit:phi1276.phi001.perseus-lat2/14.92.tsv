@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dum,dvm,CONsub,MORPH=empty
-sic,sic,ADV,Deg=Pos
-ergo,ergo,CONcoo,MORPH=empty
-habitat,habito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Cretonius,cretonivs,NOM2,Case=Nom|Numb=Sing
-inminuit,imminvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-rem,res,NOM5,Case=Acc|Numb=Sing

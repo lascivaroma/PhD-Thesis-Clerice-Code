@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uiuendum,vivo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-illic,illic,ADV,Deg=Pos
-ubi,vbi,CONsub,MORPH=empty
-nulla,nvllvs,PROind,Case=Nom|Numb=Plur
-incendia,incendivm,NOM2,Case=Nom|Numb=Plur
-nulli,nvllvs,PROind,Case=Nom|Numb=Sing

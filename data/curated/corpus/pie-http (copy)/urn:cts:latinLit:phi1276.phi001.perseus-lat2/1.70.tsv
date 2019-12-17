@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-porrectura,porrigo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
-uiro,vir,NOM2,Case=Dat|Numb=Sing
-miscet,misceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sitiente,sitio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-rubetam,rvbeta,NOM1,Case=Acc|Numb=Sing

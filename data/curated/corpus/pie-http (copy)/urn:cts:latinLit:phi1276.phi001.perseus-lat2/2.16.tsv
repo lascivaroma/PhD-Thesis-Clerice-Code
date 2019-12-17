@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-magis,magis,ADV,Deg=Comp
-ingenue,ingenve,ADV,Deg=Pos
-Peribomius,peribomivs,NOM2,Case=Nom|Numb=Sing
-;,,PRE,MORPH=empty
-hunc,hic,PROdem,Case=Acc|Numb=Sing
-ego,ego,PROper,Case=Nom|Numb=Sing
-fatis,fatvm,NOM2,Case=Abl|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-donauit,dono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-terris,terra,NOM1,Case=Abl|Numb=Plur
-;,o,PRE,MORPH=empty
-elemento,elementvm,NOM2,Case=Abl|Numb=Sing
-gratulor,gratvlor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
-et,et,CONcoo,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing

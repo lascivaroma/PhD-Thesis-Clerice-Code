@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-debeat,debeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-ligulas,ligvla,NOM1,Case=Acc|Numb=Plur
-dimittere,dimitto,VER,Mood=Inf|Tense=Pres|Voice=Act
-sollicitus,sollicitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ne,ne,CONsub,MORPH=empty

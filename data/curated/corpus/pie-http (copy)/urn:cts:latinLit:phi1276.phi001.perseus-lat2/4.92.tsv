@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sic,sic,ADV,Deg=Pos
-multas,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-hiemes,hiems,NOM3,Case=Acc|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-octogensima,octogesimvs,ADJord,Case=Acc|Numb=Plur|Deg=Pos
-uidit,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

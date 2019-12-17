@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aegra,aeger,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-licet,licet,VER,Mood=Ind|Tense=Pres|Voice=Act|Person=3
-iaceat,iaceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-capiendo,capio,VER,Case=Abl|Numb=Sing|Mood=Ger|Voice=Act
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

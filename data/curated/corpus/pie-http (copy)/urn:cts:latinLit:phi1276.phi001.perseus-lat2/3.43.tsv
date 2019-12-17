@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-astrorum,astrvm,NOM2,Case=Gen|Numb=Plur
-ignoro,ignoro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-;,o,PRE,MORPH=empty
-funus,fvnvs,NOM3,Case=Acc|Numb=Sing
-promittere,promitto,VER,Mood=Inf|Tense=Pres|Voice=Act
-patris,pater,NOM3,Case=Gen|Numb=Sing

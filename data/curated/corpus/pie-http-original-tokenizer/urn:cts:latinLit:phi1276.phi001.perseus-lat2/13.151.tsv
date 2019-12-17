@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-radat,rado,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-inaurati,inavro,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-femur,femvr,NOM3,Case=Acc|Numb=Sing
-Herculis,hercvles,NOM3,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-faciem,facies,NOM5,Case=Acc|Numb=Sing
-ipsam,ipse,PROdem,Case=Acc|Numb=Sing

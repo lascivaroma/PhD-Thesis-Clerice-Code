@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-conspicuus,conspicvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-longe,longe,ADV,Deg=Pos
-cunctis,cvnctvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
--que,qvovs,CONcoo,MORPH=empty
-notabilis,notabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-intrat,intro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

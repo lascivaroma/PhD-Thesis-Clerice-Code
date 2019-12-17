@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-unguenta,vngventvm,NOM2,Case=Nom|Numb=Plur
-et,et,CONcoo,MORPH=empty
-flores,flos,NOM3,Case=Nom|Numb=Plur
-multae,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
--que,qvisqve,CONcoo,MORPH=empty
-in,in,PRE,MORPH=empty
-fronte,frons,NOM3,Case=Abl|Numb=Sing
-coronae,corona,NOM1,Case=Nom|Numb=Plur

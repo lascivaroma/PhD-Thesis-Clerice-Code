@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-qualis,qvalis,PROint,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-Oceani,oceanvs,NOM2,Case=Gen|Numb=Sing
-fluctu,flvctvs,NOM4,Case=Abl|Numb=Sing
-testudo,testvdo,NOM3,Case=Nom|Numb=Sing
-nataret,nato,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

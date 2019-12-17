@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-haec,hic,PROdem,Case=Acc|Numb=Plur
-eadem,idem,PROdem,Case=Acc|Numb=Plur
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,ADV,MORPH=empty
-nobis,nos,PROper,Case=Dat|Numb=Plur
-laudare,lavdo,VER,Mood=Inf|Tense=Pres|Voice=Act
-sed,sed,CONcoo,MORPH=empty
-illis,ille,PROdem,Case=Dat|Numb=Plur

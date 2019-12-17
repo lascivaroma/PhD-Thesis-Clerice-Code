@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Consulit,consvlo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ictericae,ictericvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-lento,lentvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-de,de,PRE,MORPH=empty
-funere,fvnvs,NOM3,Case=Abl|Numb=Sing
-matris,mater,NOM3,Case=Gen|Numb=Sing

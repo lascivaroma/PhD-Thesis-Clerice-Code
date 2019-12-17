@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-parte,pars,NOM3,Case=Abl|Numb=Sing
-sui,svi,PROref,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty
-nam,nam,CONcoo,MORPH=empty
-sic,sic,ADV,Deg=Pos
-labentibus,labor,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Dep
-obstat,obsto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

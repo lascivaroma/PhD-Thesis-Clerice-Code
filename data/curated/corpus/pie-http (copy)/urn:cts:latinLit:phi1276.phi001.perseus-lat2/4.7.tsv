@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iugera,ivgervm,NOM3,Case=Acc|Numb=Plur
-quot,qvot,PROint,Case=Ind
-uicina,vicinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-foro,forvm,NOM2,Case=Dat|Numb=Sing
-quas,qvis,PROint,Case=Acc|Numb=Plur
-emerit,emo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-aedes,aedes,NOM3,Case=Acc|Numb=Plur

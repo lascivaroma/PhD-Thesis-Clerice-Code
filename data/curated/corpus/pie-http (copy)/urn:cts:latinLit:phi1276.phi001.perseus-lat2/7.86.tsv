@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-auditur,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-;,o,PRE,MORPH=empty
-sed,sed,CONcoo,MORPH=empty
-cum,cvm,CONsub,MORPH=empty
-fregit,frango,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-subsellia,svbsellivm,NOM2,Case=Acc|Numb=Plur
-uersu,versvs,NOM4,Case=Abl|Numb=Sing

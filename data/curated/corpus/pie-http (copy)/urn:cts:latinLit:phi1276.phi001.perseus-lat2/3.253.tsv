@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-seruulus,servvlvs,NOM2,Case=Nom|Numb=Sing
-infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-cursu,cvrsvs,NOM4,Case=Abl|Numb=Sing
-uentilat,ventilo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ignem,ignis,NOM3,Case=Acc|Numb=Sing

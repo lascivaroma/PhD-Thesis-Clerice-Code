@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-periit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-postquam,postqvam,CONsub,MORPH=empty
-cerdonibus,cerdo,NOM3,Case=Dat|Numb=Plur
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-timendus,timeo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass

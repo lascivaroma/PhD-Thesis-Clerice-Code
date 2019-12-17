@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Dacicus,dacicvs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-scripto,scriptvm,NOM2,Case=Abl|Numb=Sing|Voice=Pass
-radiat,radio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Germanicus,germanicvs,NOM2,Case=Nom|Numb=Sing
-auro,avrvm,NOM2,Case=Abl|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ultra,vltra,PRE,MORPH=empty
-Sauromatas,savromates,NOM1,Case=Acc|Numb=Plur
-fugere,fvgio,VER,Mood=Inf|Tense=Pres|Voice=Act
-hinc,hinc,ADV,Deg=Pos
-libet,libet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-glacialem,glacialis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

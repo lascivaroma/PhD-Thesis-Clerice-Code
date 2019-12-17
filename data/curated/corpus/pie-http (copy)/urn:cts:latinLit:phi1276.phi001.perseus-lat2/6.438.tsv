@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-cedunt,cedo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-grammatici,grammaticvs,NOM2,Case=Nom|Numb=Plur
-uincuntur,vinco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-rhetores,rhetor,NOM3,Case=Nom|Numb=Plur
-omnis,omnis,PROind,Case=Acc|Numb=Plur

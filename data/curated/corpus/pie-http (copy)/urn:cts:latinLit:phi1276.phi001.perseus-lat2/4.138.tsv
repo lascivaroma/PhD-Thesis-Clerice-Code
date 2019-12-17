@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-medias,medivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-aliam,alivs,PROind,Case=Acc|Numb=Sing
--que,qvivis,ADV,MORPH=empty
-famem,fames,NOM3,Case=Acc|Numb=Sing
-cum,cvm,PRE,MORPH=empty
-pulmo,pvlmo,NOM2,Case=Abl|Numb=Sing
-Falerno,falernvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

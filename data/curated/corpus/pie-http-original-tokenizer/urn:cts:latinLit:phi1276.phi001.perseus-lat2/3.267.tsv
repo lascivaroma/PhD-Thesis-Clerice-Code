@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quem,qvi,PROrel,Case=Acc|Numb=Sing
-porrigat,porrigo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ore,os,NOM3,Case=Abl|Numb=Sing
-trientem,triens,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

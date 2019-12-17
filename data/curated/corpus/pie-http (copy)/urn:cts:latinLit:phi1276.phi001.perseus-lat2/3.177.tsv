@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aequales,aeqvalis,NOM3,Case=Acc|Numb=Plur
-habitus,habitvs,NOM4,Case=Acc|Numb=Plur
-illic,illic,ADV,Deg=Pos
-similes,similis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-uidebis,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

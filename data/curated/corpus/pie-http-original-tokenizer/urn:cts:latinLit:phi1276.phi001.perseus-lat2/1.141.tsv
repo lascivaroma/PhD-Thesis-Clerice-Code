@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ponit,pono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-apros,aper,NOM2,Case=Acc|Numb=Plur
-animal,animal,NOM3,Case=Acc|Numb=Sing
-propter,propter,PRE,MORPH=empty
-conuiuia,convivivm,NOM2,Case=Acc|Numb=Plur
-natum,nascor,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep

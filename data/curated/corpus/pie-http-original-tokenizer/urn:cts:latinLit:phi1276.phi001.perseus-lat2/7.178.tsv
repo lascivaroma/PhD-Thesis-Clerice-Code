@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Balnea,balnea,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sescentis,sescenti,ADJcar,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-pluris,mvltvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp
-porticus,porticvs,NOM4,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-qua,qvi,PROrel,Case=Abl|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-extorquebis,extorqveo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-haec,hic,PROdem,Case=Nom|Numb=Sing
-oculo,ocvlvs,NOM2,Case=Dat|Numb=Sing
-contenta,contentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-uno,vnvs,ADJcar,Case=Abl|Numb=Sing
-.,qvintvs,ADJcar,Case=Dat|Numb=Plur

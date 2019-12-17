@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-parte,pars,NOM3,Case=Abl|Numb=Sing
-anni,annvs,NOM2,Case=Nom|Numb=Plur
-quales,qvalis,PROrel,Case=Nom|Numb=Plur
-fuerant,svm,VER,Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-uitibus,vitis,NOM3,Case=Abl|Numb=Plur
-uuae,vva,NOM1,Case=Gen|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-arbusta,arbvstvm,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-densa,densvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-montem,mons,NOM3,Case=Acc|Numb=Sing
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-canet,cano,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-oliua,oliva,NOM1,Case=Abl|Numb=Sing

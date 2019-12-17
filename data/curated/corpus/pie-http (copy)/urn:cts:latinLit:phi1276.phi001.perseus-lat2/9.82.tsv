@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nullum,nvllvs,PROind,Case=Nom|Numb=Sing
-ergo,ergo,CONcoo,MORPH=empty
-meritum,meritvm,NOM2,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ingrate,ingratvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ac,ac,CONcoo,MORPH=empty
-perfide,perfidvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-nullum,nvllvs,PROind,Case=Nom|Numb=Sing

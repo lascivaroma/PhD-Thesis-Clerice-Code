@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-impleri,impleo,VER,Mood=Inf|Tense=Pres|Voice=Pass
-panis,panis,NOM3,Case=Gen|Numb=Sing
--que,qvavis,CONcoo,MORPH=empty
-tui,tv,PROpos,Case=Gen|Numb=Sing
-nouisse,nosco,VER,Mood=Inf|Tense=Perf|Voice=Act
-colorem,color,NOM3,Case=Acc|Numb=Sing

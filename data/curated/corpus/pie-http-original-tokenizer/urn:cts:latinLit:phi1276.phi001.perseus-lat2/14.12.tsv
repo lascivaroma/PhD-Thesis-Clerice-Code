@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-barbatos,barbatvs,NOM2,Case=Acc|Numb=Plur|Deg=Pos
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-admoueas,admoveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-mille,mille,ADJcar,Case=Ind
-inde,inde,ADV,Deg=Pos
-magistros,magister,NOM2,Case=Acc|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-omnibus,omnis,PROind,Case=Abl|Numb=Plur
-auxiliis,avxilivm,NOM2,Case=Abl|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-omni,omnis,PROind,Case=Abl|Numb=Sing
-pube,pvbes,NOM3,Case=Abl|Numb=Sing
-Latina,latinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

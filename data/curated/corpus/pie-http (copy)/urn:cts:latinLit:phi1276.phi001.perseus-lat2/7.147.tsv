@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-bene,bene,ADV,Deg=Pos
-dicentem,dico,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-Basilum,basilvs,NOM2,Case=Acc|Numb=Sing
-ferat,fero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-accipiat,accipio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-te,tv,PROper,Case=Acc|Numb=Sing

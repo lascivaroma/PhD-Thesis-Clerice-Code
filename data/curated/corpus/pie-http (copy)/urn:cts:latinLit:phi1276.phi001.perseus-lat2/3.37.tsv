@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-occidunt,occido,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-populariter,popvlariter,ADV,Deg=Pos
-;,o,PRE,MORPH=empty
-inde,inde,ADV,Deg=Pos
-reuersi,revertor,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Dep

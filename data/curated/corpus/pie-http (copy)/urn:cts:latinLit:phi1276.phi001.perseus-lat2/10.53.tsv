@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-mandaret,mando,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-laqueum,laqvevs,NOM2,Case=Acc|Numb=Sing
-medium,medivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-ostenderet,ostendo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-unguem,vngvis,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

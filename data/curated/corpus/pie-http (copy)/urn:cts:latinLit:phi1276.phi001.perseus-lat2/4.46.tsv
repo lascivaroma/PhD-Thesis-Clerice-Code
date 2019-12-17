@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-pontifici,pontifex,NOM3,Case=Dat|Numb=Sing
-summo,svpervs,ADJqua,Case=Dat|Numb=Sing|Deg=Sup
-quis,qvis,PROint,Case=Nom|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-proponere,propono,VER,Mood=Inf|Tense=Pres|Voice=Act
-talem,talis,PROdem,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nos,nos,PROper,Case=Nom|Numb=Plur
-colaphum,colaphvs,NOM2,Case=Acc|Numb=Sing
-incutimus,incvtio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-lambenti,lambo,VER,Case=Dat|Numb=Sing|Deg=Pos|Mood=Par|Tense=Pres|Voice=Dep
-crustula,crvstvlvm,NOM1,Case=Acc|Numb=Plur
-seruo,servvs,NOM2,Case=Dat|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

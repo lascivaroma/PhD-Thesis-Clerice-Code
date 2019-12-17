@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Ergo,ergo,NOM2,Case=Dat|Numb=Sing
-sibi,svi,PROref,Case=Dat|Numb=Sing
-dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-rudem,rvdis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-si,si,CONsub,MORPH=empty
-nostra,noster,PROpos,Case=Nom|Numb=Plur
-mouebunt,moveo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3

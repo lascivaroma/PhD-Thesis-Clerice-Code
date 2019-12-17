@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-boni,bonvm,NOM2,Case=Gen|Numb=Sing
-quotiens,qvotiens,ADVrel,MORPH=empty
-animo,animvs,NOM2,Case=Abl|Numb=Sing
-corrupta,corrvmpo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-superbo,svperbvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

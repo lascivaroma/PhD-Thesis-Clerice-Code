@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dum,dvm,CONsub,MORPH=empty
-redit,redeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-loto,lotvs,NOM2,Case=Abl|Numb=Sing
-terram,terra,NOM1,Case=Acc|Numb=Sing
-ferit,ferio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-intestino,intestinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

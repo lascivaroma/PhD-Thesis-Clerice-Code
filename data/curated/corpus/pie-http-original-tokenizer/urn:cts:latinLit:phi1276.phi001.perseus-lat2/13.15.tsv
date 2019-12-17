@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uisceribus,viscvs,NOM3,Case=Abl|Numb=Plur
-sacrum,sacer,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-tibi,tv,PROper,Case=Dat|Numb=Sing
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-non,non,ADVneg,MORPH=empty
-reddat,reddo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-amicus,amicvs,NOM2,Case=Nom|Numb=Sing

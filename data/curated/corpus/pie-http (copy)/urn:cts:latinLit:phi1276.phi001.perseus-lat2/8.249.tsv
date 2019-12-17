@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-hic,hic,ADV,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-Cimbros,cimbri,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-summa,svpervs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
-pericula,pericvlvm,NOM2,Case=Nom|Numb=Plur
-rerum,res,NOM5,Case=Gen|Numb=Plur

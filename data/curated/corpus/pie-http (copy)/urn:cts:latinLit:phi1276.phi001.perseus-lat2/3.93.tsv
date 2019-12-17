@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-creditur,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-an,an,ADVint,MORPH=empty
-melior,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-cum,cvm,PRE,MORPH=empty
-Thaida,thais,NOM7,Case=Nom|Numb=Sing
-sustinet,svstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aut,avt,CONcoo,MORPH=empty
-cum,cvm,CONsub,MORPH=empty

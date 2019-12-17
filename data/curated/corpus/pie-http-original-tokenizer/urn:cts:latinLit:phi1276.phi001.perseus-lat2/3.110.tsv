@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-matrona,matrona,NOM1,Case=Nom|Numb=Sing
-Laris,lar,NOM3,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-filia,filia,NOM1,Case=Nom|Numb=Sing
-uirgo,virgo,NOM3,Case=Nom|Numb=Sing
-neque,neqve,CONcoo,MORPH=empty
-ipse,ipse,PROdem,Case=Nom|Numb=Sing

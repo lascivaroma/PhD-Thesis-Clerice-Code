@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-sternuntur,sterno,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-iam,iam,ADV,Deg=Pos
-facundo,facvndvs,VER,Case=Abl|Numb=Sing|Voice=Act
-ponente,pono,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-lacernas,lacerna,NOM1,Case=Acc|Numb=Plur

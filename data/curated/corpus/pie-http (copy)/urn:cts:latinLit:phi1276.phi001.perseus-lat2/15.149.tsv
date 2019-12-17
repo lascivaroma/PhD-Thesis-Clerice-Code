@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tantum,tantvm,ADV,MORPH=empty
-animas,anima,NOM1,Case=Acc|Numb=Plur
-nobis,nos,PROper,Case=Dat|Numb=Plur
-animum,animvs,NOM2,Case=Acc|Numb=Sing
-quoque,qvoqve,ADV,Deg=Pos
-mutnus,mvtnvs,NOM2,Case=Nom|Numb=Sing
-ut,vt,CONsub,MORPH=empty
-nos,nos,PROper,Case=Acc|Numb=Plur

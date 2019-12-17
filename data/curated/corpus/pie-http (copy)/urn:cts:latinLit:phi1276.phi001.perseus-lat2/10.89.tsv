@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tunc,tvnc,ADV,Deg=Pos
-de,de,PRE,MORPH=empty
-Seiano,seianvs,NOM2,Case=Abl|Numb=Sing
-secreta,secretvs,NOM2,Case=Acc|Numb=Plur
-haec,hic,PROdem,Case=Acc|Numb=Plur
-murmura,mvrmvr,NOM3,Case=Acc|Numb=Plur
-uulgi,vvlgvs,NOM2,Case=Gen|Numb=Sing

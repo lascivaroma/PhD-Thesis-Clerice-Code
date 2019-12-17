@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Nom|Numb=Sing
-quod,qvod,PROrel,MORPH=empty
-et,et,CONcoo,MORPH=empty
-antiquis,antiqvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-uxor,vxor,NOM3,Case=Nom|Numb=Sing
-de,de,PRE,MORPH=empty
-moribus,mos,NOM3,Case=Abl|Numb=Plur
-illi,ille,PROdem,Case=Nom|Numb=Plur

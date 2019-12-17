@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-porto,porto,NOM2,Case=Abl|Numb=Sing
-meis,mevs,PROpos,Case=Abl|Numb=Plur
-nullo,nvllvs,PROind,Case=Abl|Numb=Sing
-dextram,dextera,NOM1,Case=Acc|Numb=Sing
-subeunte,svbeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-bacillo,bacillvs,NOM2,Case=Abl|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

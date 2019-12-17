@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-an,an,ADVint,MORPH=empty
-saeuire,saevio,VER,Mood=Inf|Tense=Pres|Voice=Act
-docet,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Rutilus,rvtilvs,NOM2,Case=Nom|Numb=Sing
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-acerbo,acerbvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

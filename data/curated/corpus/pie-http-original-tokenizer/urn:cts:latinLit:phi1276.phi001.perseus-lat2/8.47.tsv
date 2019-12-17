@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-gaudia,gavdivm,NOM2,Case=Acc|Numb=Plur
-longa,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-feras,fero,NOM1,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-tamen,tamen,ADV,Deg=Pos
-ima,infervs,ADJqua,Case=Abl|Numb=Sing|Deg=Sup
-plebe,plebs,NOM6,Case=Abl|Numb=Sing
-Quiritem,qvirites,NOM3,Case=Acc|Numb=Sing

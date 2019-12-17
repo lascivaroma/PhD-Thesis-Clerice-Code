@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-interdum,interdvm,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
-subitus,svbitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-grassator,grassator,NOM3,Case=Nom|Numb=Sing
-agit,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-rem,res,NOM5,Case=Acc|Numb=Sing
-;,o,PRE,MORPH=empty

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-anne,anne,ADVint,MORPH=empty
-aliud,alivs,PROind,Case=Acc|Numb=Sing
-tum,tvm,ADV,Deg=Pos
-praefecti,praefectvs,NOM2,Case=Nom|Numb=Plur
-quorum,qvi,PROrel,Case=Gen|Numb=Plur
-optimus,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-atque,atqve,CONcoo,MORPH=empty

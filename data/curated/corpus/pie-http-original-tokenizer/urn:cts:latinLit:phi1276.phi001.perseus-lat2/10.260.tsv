@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-portante,porto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-ac,ac,CONcoo,MORPH=empty
-reliquis,reliqvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-fratrum,frater,NOM3,Case=Gen|Numb=Plur
-ceruicibus,cervix,NOM3,Case=Abl|Numb=Plur
-inter,inter,PRE,MORPH=empty

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-intolerabilis,intolerabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nihil,nihil,PROind,Case=Ind
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quam,qvam,ADVrel,MORPH=empty
-femina,femina,NOM1,Case=Nom|Numb=Sing
-diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-.,vnvs,ADJcar,Case=Gen|Numb=Sing

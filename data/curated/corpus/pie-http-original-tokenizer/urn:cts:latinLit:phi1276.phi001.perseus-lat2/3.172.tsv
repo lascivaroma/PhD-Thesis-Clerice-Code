@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-togam,toga,NOM1,Case=Acc|Numb=Sing
-sumit,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nisi,nisi,CONsub,MORPH=empty
-mortuus,morior,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing
-dierum,dies,NOM5,Case=Gen|Numb=Plur

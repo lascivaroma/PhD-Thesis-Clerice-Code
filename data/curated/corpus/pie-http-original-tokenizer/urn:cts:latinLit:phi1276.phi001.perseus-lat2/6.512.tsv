@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Bellonae,bellona,NOM1,Case=Gen|Numb=Sing
-matrisque,materqve,NOM2,Case=Abl|Numb=Sing
-deum,devs,NOM2,Case=Gen|Numb=Plur
-chorus,chorvs,NOM2,Case=Nom|Numb=Sing
-intrat,intro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-ingens,ingens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

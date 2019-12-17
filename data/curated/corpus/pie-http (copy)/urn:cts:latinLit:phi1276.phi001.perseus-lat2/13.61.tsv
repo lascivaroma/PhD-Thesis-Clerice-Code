@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-reddat,reddo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ueterem,vetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-cum,cvm,PRE,MORPH=empty
-tota,totvs,PROind,Case=Abl|Numb=Sing
-aerugine,aervgo,NOM3,Case=Abl|Numb=Sing
-follem,follis,NOM3,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Augustum,avgvstvs,NOM2,Case=Acc|Numb=Sing
-iam,iam,ADV,Deg=Pos
-pridem,pridem,ADV,Deg=Pos
-ex,ex,PRE,MORPH=empty
-quo,qvi,PROrel,Case=Abl|Numb=Sing
-suffragia,svffragivm,NOM2,Case=Acc|Numb=Plur
-nulli,nvllvs,PROind,Case=Nom|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quas,qvi,PROrel,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-Caedicius,caedicivs,NOM2,Case=Nom|Numb=Sing
-grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-inuenit,invenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-Rhadamanthus,rhadamanthvs,NOM2,Case=Nom|Numb=Sing

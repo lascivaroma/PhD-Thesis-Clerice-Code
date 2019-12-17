@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Haec,haect,NOM7,Case=Voc|Numb=Sing
-ego,ego,PROper,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-credam,credo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
-Venusina,venvsinvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-digna,dignvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-lucerna,lvcerna,NOM1,Case=Abl|Numb=Sing

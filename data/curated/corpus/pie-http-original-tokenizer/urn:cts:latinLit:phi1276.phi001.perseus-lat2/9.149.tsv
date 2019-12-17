@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-adfixit,affigo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ceras,cera,NOM1,Case=Acc|Numb=Plur
-illa,ille,PROdem,Case=Abl|Numb=Sing
-de,de,PRE,MORPH=empty
-naue,navis,NOM3,Case=Abl|Numb=Sing
-petitas,peto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Electrae,electra,NOM1,Case=Gen|Numb=Sing
-iugulo,ivgvlvm,NOM2,Case=Abl|Numb=Sing
-se,svi,PROref,Case=Acc|Numb=Sing
-polluit,pollvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-aut,avt,CONcoo,MORPH=empty
-Spartam,sparta,NOM1,Case=Acc|Numb=Sing

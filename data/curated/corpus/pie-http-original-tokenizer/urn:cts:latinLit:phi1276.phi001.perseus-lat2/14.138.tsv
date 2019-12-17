@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-interea,interea,ADV,Deg=Pos
-pleno,plenvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cum,cvm,CONsub,MORPH=empty
-turget,tvrgeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sacculus,saccvlvs,NOM2,Case=Nom|Numb=Sing
-ore,os,NOM3,Case=Abl|Numb=Sing

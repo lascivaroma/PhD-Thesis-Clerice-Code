@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aduentum,adventvs,NOM4,Case=Acc|Numb=Sing
-nisi,nisi,CONsub,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-centum,centvm,ADJcar,Case=Ind
-lustrauerit,lvstro,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
-ouis,ovis,NOM3,Case=Gen|Numb=Sing

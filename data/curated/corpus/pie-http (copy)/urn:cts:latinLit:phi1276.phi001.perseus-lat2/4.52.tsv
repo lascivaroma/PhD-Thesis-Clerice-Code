@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-elapsum,elabor,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
-ueterem,vetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-ad,ad,PRE,MORPH=empty
-dominum,dominvs,NOM2,Case=Acc|Numb=Sing
-debere,debeo,VER,Mood=Inf|Tense=Pres|Voice=Act
-reuerti,revertor,VER,Mood=Inf|Tense=Pres|Voice=Dep

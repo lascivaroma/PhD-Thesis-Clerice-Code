@@ -1,0 +1,31 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/22.txt'>
+	<w pos='VER' lemma='ennomo' msd='Numb=Sing|Tense=Pres|Voice=Act|Person=2'>ENNOMUS</w>
+	<w pos='ADV' lemma='hic2' msd='MORPH=empty'>hic</w>
+	<w pos='NOMcom' lemma='chromius' msd='Case=Nom|Numb=Sing|Deg=Comp'>Chromius</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='VER' lemma='iaceo' msd='Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>iacent</w>
+	<w pos='PROint' lemma='qui?' msd='Case=Nom|Numb=Sing'>quis</w>
+	<w pos='NOMcom' lemma='mysia' msd='Case=Nom|Numb=Plur'>Mysia</w>
+	<w pos='NOMcom' lemma='regnum' msd='Case=Acc|Numb=Sing'>regnum</w>
+	<w pos='PROint' lemma='quis1' msd='Case=Nom|Numb=Sing'>quis</w>
+	<w pos='NOMcom' lemma='pater' msd='Case=Nom|Numb=Sing'>pater</w>
+	<w pos='ADJqua' lemma='alcinous' msd='Case=Nom|Numb=Sing|Deg=Pos'>Alcinous</w>
+	<w pos='NOMcom' lemma='oceanus1' msd='Case=Nom|Numb=Sing'>Oceanus</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='NOMcom' lemma='atauus' msd='Case=Nom|Numb=Sing'>atavus</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='NOMcom' lemma='nobilitas' msd='Case=Nom|Numb=Sing'>nobilitas</w>
+	<w pos='PROint' lemma='quis1' msd='Case=Acc|Numb=Sing'>quid</w>
+	<w pos='PROdem' lemma='tantus' msd='Case=Nom|Numb=Sing'>tanta</w>
+	<w pos='VER' lemma='iuuo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>iuvat</w>
+	<w pos='ADVrel' lemma='quo?' msd='MORPH=empty'>quo</w>
+	<w pos='ADV' lemma='clare' msd='Deg=Comp'>clarius</w>
+	<w pos='PROdem' lemma='iste' msd='Case=Dat|Numb=Plur'>istis</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>est</w>
+	<w pos='NOMcom' lemma='genus?' msd='Case=Nom|Numb=Sing'>genus</w>
+	<w pos='PROdem' lemma='hic1' msd='Case=Nom|Numb=Sing'>hoc</w>
+	<w pos='NOMcom' lemma='mors' msd='Case=Gen|Numb=Sing'>mortis</w>
+	<w pos='NOMcom' lemma='condicio' msd='Case=Nom|Numb=Sing'>condicio</w>
+	<w pos='ADJqua' lemma='grauis' msd='Case=Nom|Numb=Sing|Deg=Comp'>gravior</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-haut,havd,ADVneg,MORPH=empty
-minimum,minimvm,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-illud,ille,PROdem,Case=Nom|Numb=Sing
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-ne,ne,CONsub,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-pulsare,pvlso,VER,Mood=Inf|Tense=Pres|Voice=Act
-togatus,togatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

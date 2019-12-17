@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-permittes,permitto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-ipsis,ipse,PROdem,Case=Dat|Numb=Plur
-expendere,expendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-numinibus,nvmen,NOM3,Case=Abl|Numb=Plur
-quid,qvis,PROint,Case=Acc|Numb=Sing

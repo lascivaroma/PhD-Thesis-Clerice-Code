@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quam,qvam,ADVrel,MORPH=empty
-fuit,svm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-Tulli,tvllivs,NOM2,Case=Gen|Numb=Sing
-census,censvs,NOM4,Case=Nom|Numb=Sing
-pugnacis,pvgnax,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-Anci,ancvs,NOM2,Case=Gen|Numb=Sing

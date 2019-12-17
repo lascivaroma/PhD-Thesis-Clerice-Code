@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nuper,nvper,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-incolumem,incolvmis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-sese,svi,PROref,Case=Acc|Numb=Sing
-mirantis,miror,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
-amici,amicvs,NOM2,Case=Gen|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

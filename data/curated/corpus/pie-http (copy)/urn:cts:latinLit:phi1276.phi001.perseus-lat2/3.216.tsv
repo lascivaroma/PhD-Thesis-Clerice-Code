@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-conferat,confero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-inpensas,impensa,NOM1,Case=Acc|Numb=Plur
-;,o,INJ,MORPH=empty
-hic,hic,PROdem,Numb=Sing
-nuda,nvdvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-candida,candidvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-signa,signvm,NOM2,Case=Acc|Numb=Plur

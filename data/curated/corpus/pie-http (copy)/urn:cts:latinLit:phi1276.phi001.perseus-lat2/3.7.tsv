@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-deterius,deterior,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-credas,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-horrere,horreo,VER,Mood=Inf|Tense=Pres|Voice=Act
-incendia,incendivm,NOM2,Case=Acc|Numb=Plur
-lapsus,labor,VER,Numb=Sing|Tense=Perf|Voice=Dep

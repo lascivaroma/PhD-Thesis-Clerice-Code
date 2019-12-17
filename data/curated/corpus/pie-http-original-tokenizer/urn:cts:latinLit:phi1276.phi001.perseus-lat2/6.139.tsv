@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-inde,inde,ADV,Deg=Pos
-faces,fax,NOM3,Case=Nom|Numb=Plur
-ardent,ardeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ueniunt,venio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-a,ab,PRE,MORPH=empty
-dote,dos,NOM3,Case=Abl|Numb=Sing
-sagittae,sagitta,NOM1,Case=Nom|Numb=Sing

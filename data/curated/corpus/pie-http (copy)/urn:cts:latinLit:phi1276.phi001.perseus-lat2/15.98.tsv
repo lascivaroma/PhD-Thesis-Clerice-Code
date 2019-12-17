@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-exemplum,exemplvm,NOM2,Case=Acc|Numb=Sing
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-cibi,cibvs,NOM2,Case=Gen|Numb=Sing
-sicut,sicvt,ADVrel,MORPH=empty
-modo,modo,ADV,Deg=Pos
-dicta,dico,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-mihi,ego,PROper,Case=Dat|Numb=Sing
-gens,gens,NOM3,Case=Nom|Numb=Sing

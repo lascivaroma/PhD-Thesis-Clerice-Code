@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tamquam,tamqvam,CONsub,MORPH=empty
-prodiderim,prodo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1
-quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
-scio,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-.,vnvs,ADJcar,Case=Acc|Numb=Sing
-sumere,svmo,VER,Mood=Inf|Tense=Pres|Voice=Act
-ferrum,ferrvm,NOM2,Case=Acc|Numb=Sing

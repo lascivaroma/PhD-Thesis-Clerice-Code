@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Anseris,anser,NOM3,Case=Gen|Numb=Sing
-ante,ante,PRE,MORPH=empty
-ipsum,ipse,PROdem,Case=Acc|Numb=Sing
-magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-iecur,iecvr,NOM3,Case=Nom|Numb=Sing
-anseribus,anser,NOM3,Case=Abl|Numb=Plur
-par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nocte,nox,NOM3,Numb=Sing
-dieque,dieqve,ADV,Deg=Pos
-suum,svvs,PROpos.ref,Case=Acc|Numb=Sing
-gestare,gesto,VER,Mood=Inf|Tense=Pres|Voice=Act
-in,in,PRE,MORPH=empty
-pectore,pectvs,NOM3,Case=Abl|Numb=Sing
-testem,testis,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Plur

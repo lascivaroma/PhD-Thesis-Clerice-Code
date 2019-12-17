@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-illa,ille,PROdem,Case=Abl|Numb=Sing
-reste,restis,NOM3,Case=Abl|Numb=Sing
-cauet,caveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tu,tv,PROper,Case=Nom|Numb=Sing
-propter,propter,PRE,MORPH=empty
-mille,mille,ADJcar,Case=Ind
-talenta,talentvm,NOM2,Case=Acc|Numb=Plur

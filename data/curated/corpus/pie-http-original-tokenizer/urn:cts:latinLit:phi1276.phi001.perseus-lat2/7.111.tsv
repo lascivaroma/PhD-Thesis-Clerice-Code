@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tunc,tvnc,ADV,Deg=Pos
-inmensa,immensvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-caui,cavvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-spirant,spiro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-mendacia,mendacivm,NOM2,Case=Nom|Numb=Plur
-folles,follis,NOM3,Case=Nom|Numb=Plur

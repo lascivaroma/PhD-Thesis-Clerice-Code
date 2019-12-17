@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-at,at,CONcoo,MORPH=empty
-nunc,nvnc,ADV,Deg=Pos
-res,res,NOM5,Case=Nom|Numb=Sing
-agitur,ago,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-pulmone,pvlmo,NOM3,Case=Abl|Numb=Sing
-rubetae,rvbeta,NOM1,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

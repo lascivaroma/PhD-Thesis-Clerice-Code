@@ -1,0 +1,29 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/21.txt'>
+	<w pos='NOMcom' lemma='hippothos' msd='Case=Acc|Numb=Sing'>HIPPOTHOUM</w>
+	<w pos='NOMcom' lemma='pyleus' msd='Case=Acc|Numb=Sing'>Pyleum</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='VER' lemma='teneo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>tenet</w>
+	<w pos='NOMcom' lemma='gremium' msd='Case=Abl|Numb=Sing'>gremio</w>
+	<w pos='ADJqua' lemma='inferus' msd='Case=Nom|Numb=Sing|Deg=Sup'>infima</w>
+	<w pos='NOMcom' lemma='tellus' msd='Case=Nom|Numb=Sing'>tellus</w>
+	<w pos='NOMcom' lemma='caulis' msd='Case=Abl|Numb=Plur'>caulibus</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='ADJqua' lemma='maluus' msd='Case=Abl|Numb=Plur|Deg=Pos'>malvis</w>
+	<w pos='NOMcom' lemma='tergum' msd='Case=Nom|Numb=Plur'>terga</w>
+	<w pos='ADJqua' lemma='supernus' msd='Case=Nom|Numb=Plur|Deg=Pos'>superna</w>
+	<w pos='VER' lemma='uireo2' msd='Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>virent</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>nec</w>
+	<w pos='VER' lemma='uexo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>vexat</w>
+	<w pos='NOMcom' lemma='cinis' msd='Case=Acc|Numb=Plur'>cineres</w>
+	<w pos='NOMcom' lemma='hortus' msd='Case=Gen|Numb=Sing'>horti</w>
+	<w pos='NOMcom' lemma='cultura' msd='Case=Nom|Numb=Sing'>cultura</w>
+	<w pos='ADJqua' lemma='quietus' msd='Case=Acc|Numb=Plur|Deg=Pos'>quietos</w>
+	<w pos='CONsub' lemma='dum2' msd='MORPH=empty'>dum</w>
+	<w pos='VER' lemma='parco' msd='Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act'>parcente</w>
+	<w pos='NOMcom' lemma='manus1' msd='Case=Abl|Numb=Sing'>manu</w>
+	<w pos='ADJqua' lemma='mollis' msd='Case=Nom|Numb=Sing|Deg=Pos'>molle</w>
+	<w pos='NOMcom' lemma='olus' msd='Case=Nom|Numb=Sing'>holus</w>
+	<w pos='VER' lemma='excolo2' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3'>excolitur</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

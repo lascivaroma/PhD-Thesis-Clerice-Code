@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-omenta,omentvm,NOM2,Case=Acc|Numb=Plur
-ut,vt,ADVrel,MORPH=empty
-uideo,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-nullum,nvllvs,PROind,Case=Nom|Numb=Sing
-discrimen,discrimen,NOM3,Case=Nom|Numb=Sing
-habendum,habeo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

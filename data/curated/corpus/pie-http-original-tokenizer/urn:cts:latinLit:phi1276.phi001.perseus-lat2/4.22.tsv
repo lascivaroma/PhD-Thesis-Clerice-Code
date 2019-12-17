@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-tale,talis,PROdem,Case=Acc|Numb=Sing
-expectes,exspecto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-emit,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sibi,svi,PROref,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-multa,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-uidemus,video,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

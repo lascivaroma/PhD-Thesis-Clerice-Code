@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iura,ivs,NOM3,Case=Acc|Numb=Plur
-parentis,parens,NOM3,Case=Gen|Numb=Sing
-habes,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-propter,propter,PRE,MORPH=empty
-me,ego,PROper,Case=Acc|Numb=Sing
-scribens,scribo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-heres,heres,NOM3,Case=Nom|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-Vaticano,vaticanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-fragiles,fragilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-de,de,PRE,MORPH=empty
-monte,mons,NOM3,Case=Abl|Numb=Sing
-patellas,patella,NOM1,Case=Acc|Numb=Plur

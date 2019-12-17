@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-archetypos,archetypvs,NOM2,Case=Acc|Numb=Plur
-pluteum,plvtevs,NOM4,Case=Acc|Numb=Sing
-seruare,servo,VER,Mood=Inf|Tense=Pres|Voice=Act
-Cleanthas,cleanthes,NOM7,Case=Acc|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

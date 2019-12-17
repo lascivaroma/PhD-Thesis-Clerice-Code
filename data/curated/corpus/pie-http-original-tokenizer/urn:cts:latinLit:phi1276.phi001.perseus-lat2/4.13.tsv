@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-quod,qvi,PROrel,MORPH=empty
-turpe,tvrpis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-bonis,bonvm,NOM2,Case=Dat|Numb=Plur
-Titio,titivs,NOM2,Case=Dat|Numb=Sing
-Seioque,seivs,NOM2,Case=Nom|Numb=Sing
-decebat,decet,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

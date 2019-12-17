@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ire,eo,VER,Mood=Inf|Tense=Pres|Voice=Act
-uia,via,NOM1,Case=Abl|Numb=Sing
-pergant,pergo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-eidem,idem,PROdem,Case=Dat|Numb=Sing
-incumbere,incvmbo,VER,Mood=Inf|Tense=Pres|Voice=Act
-sectae,secta,NOM1,Case=Dat|Numb=Plur

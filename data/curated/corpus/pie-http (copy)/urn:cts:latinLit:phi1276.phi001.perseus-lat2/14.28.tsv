@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-non,non,ADVneg,MORPH=empty
-terdecies,terdecies,NOM5,Case=Nom|Numb=Sing
-respiret,respiro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-conscia,conscivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-matri,mater,NOM3,Case=Dat|Numb=Sing

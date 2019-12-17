@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-mare,mare,NOM3,Case=Acc|Numb=Sing
-percussum,percvtio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-puero,pver,NOM2,Case=Dat|Numb=Sing
-fabrum,faber,NOM2,Case=Acc|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-uolantem,volo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

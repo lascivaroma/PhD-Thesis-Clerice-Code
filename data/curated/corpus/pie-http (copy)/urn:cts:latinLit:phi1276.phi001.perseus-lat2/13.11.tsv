@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-ponamus,pono,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-nimios,nimivs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-gemitus,gemitvs,NOM4,Case=Acc|Numb=Plur
-flagrantior,flagrans,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-aequo,aeqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

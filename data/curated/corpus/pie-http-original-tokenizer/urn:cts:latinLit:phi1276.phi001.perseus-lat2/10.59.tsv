@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ipsas,ipse,PROdem,Case=Acc|Numb=Plur
-deinde,deinde,ADV,Deg=Pos
-rotas,rota,NOM1,Case=Acc|Numb=Plur
-bigarum,biga,NOM1,Case=Gen|Numb=Plur
-inpacta,impingo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-securis,secvris,NOM3,Case=Acc|Numb=Plur

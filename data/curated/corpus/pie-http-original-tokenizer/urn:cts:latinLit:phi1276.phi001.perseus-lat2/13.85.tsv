@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sinciput,sincipvt,PROind,Case=Gen|Numb=Sing
-elixi,elixvs,ADJqua,Case=Gen|Numb=Sing
-Pharioque,pharioqve,NOM2,Case=Gen|Numb=Sing
-madentis,madeo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-aceto,acetvm,NOM2,Case=Abl|Numb=Sing
-.,qvadranta,ADJcar,Case=Acc|Numb=Plur

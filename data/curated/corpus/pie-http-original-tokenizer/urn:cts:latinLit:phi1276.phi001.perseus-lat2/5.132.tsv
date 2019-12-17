@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quadringenta,qvadringenti,ADJcar,Case=Nom|Numb=Plur
-tibi,tv,PROper,Case=Dat|Numb=Sing
-si,si,CONsub,MORPH=empty
-quis,qvis,PROind,Case=Nom|Numb=Sing
-deus,devs,NOM2,Case=Nom|Numb=Sing
-aut,avt,CONcoo,MORPH=empty
-similis,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-dis,devs,NOM2,Case=Dat|Numb=Plur

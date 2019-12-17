@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-gratia,gratia,NOM1,Case=Nom|Numb=Sing
-fallaci,fallax,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-praetoris,praetor,NOM3,Case=Gen|Numb=Sing
-uicerit,vinco,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-urna,vrna,NOM1,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-inter,inter,PRE,MORPH=empty
-carnifices,carnifex,NOM3,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-fabros,faber,NOM2,Case=Acc|Numb=Plur
-sandapilarum,sandapila,NOM2,Case=Gen|Numb=Plur

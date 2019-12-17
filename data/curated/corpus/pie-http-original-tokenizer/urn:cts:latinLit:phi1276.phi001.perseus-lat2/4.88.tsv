@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-uere,vere,ADV,Deg=Pos
-locuturi,loqvor,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Fut|Voice=Dep
-fatum,fatvm,NOM2,Case=Acc|Numb=Sing
-pendebat,pendeo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-amici,amicvs,NOM2,Case=Nom|Numb=Plur

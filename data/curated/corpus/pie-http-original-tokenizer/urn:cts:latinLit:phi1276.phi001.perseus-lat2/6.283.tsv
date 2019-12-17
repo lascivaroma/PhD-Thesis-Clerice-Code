@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-indulgere,indvlgeo,VER,Mood=Inf|Tense=Pres|Voice=Act
-mihi,ego,PROper,Case=Dat|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur
-clames,clamo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-mare,mare,NOM3,Case=Acc|Numb=Sing
-caelo,caelvm,NOM2,Case=Dat|Numb=Sing

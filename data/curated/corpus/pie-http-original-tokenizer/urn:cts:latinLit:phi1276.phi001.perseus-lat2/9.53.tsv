@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-munera,mvnvs,NOM3,Case=Acc|Numb=Plur
-femineis,feminevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-tractat,tracto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-secreta,secretvm,NOM2,Case=Acc|Numb=Plur
-kalendis,kalendae,NOM1,Case=Abl|Numb=Plur
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Ite,ite,NOM7,Case=Voc|Numb=Sing
-igitur,igitvr,CONcoo,MORPH=empty
-pueri,pver,NOM2,Case=Nom|Numb=Plur
-linguis,lingva,NOM1,Case=Abl|Numb=Plur
-animisque,animvs,NOM2,Case=Abl|Numb=Plur
-fauentes,faveo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act

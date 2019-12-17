@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hortulus,hortvlvs,NOM2,Case=Nom|Numb=Sing
-hic,hic,ADV,MORPH=empty
-puteusque,pvtevsqve,ADV,Deg=Pos
-breuis,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-reste,restis,NOM5,Case=Abl|Numb=Sing
-mouendus,moveo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass

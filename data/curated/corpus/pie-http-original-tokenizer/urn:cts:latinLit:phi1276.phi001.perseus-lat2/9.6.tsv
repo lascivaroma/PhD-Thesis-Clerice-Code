@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-hac,hic,PROdem,Case=Abl|Numb=Sing
-facie,facies,NOM5,Case=Abl|Numb=Sing
-miserabilior,miserabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-Crepereius,crepereivs,NOM2,Case=Nom|Numb=Sing

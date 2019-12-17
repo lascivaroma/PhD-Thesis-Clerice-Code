@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Bardaicus,bardaicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-iudex,ivdex,NOM3,Case=Nom|Numb=Sing
-datur,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-haec,hic,PROdem,Case=Acc|Numb=Plur
-punire,pvnio,VER,Mood=Inf|Tense=Pres|Voice=Act
-uolenti,volo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

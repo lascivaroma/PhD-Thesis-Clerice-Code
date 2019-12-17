@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ostendatur,ostendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-ames,amo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-nomen,nomen,NOM3,Case=Acc|Numb=Sing
-uictum,vinco,VER,Case=Acc|Numb=Sing|Tense=Perf|Voice=Pass
--que,qvavis,ADV,MORPH=empty
-Machaerae,machaera,NOM1,Case=Gen|Numb=Sing

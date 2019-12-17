@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-genuit,gigno,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-eduxit,edvco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-nam,nam,CONcoo,MORPH=empty
-codice,cavdex,NOM3,Case=Abl|Numb=Sing
-saeuo,saevvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

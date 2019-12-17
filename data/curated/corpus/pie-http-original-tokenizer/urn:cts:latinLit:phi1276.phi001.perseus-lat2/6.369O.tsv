@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-his,hic,PROdem,Case=Abl|Numb=Plur
-uiolare,violo,VER,Mood=Inf|Tense=Pres|Voice=Act
-cibos,cibvs,NOM2,Case=Acc|Numb=Plur
-sacraeque,sacerqve,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-adsistere,assisto,VER,Mood=Inf|Tense=Pres|Voice=Act
-mensae,mensa,NOM1,Case=Gen|Numb=Sing

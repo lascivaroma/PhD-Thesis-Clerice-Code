@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-matutino,matvtinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-sudans,svdo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-Crispinus,crispinvs,NOM2,Case=Nom|Numb=Sing
-amomo,amomvm,NOM2,Case=Abl|Numb=Sing

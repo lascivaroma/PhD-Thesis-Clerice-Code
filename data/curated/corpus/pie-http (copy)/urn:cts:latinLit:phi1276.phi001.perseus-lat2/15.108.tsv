@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-pro,pro,PRE,MORPH=empty
-uita,vita,NOM1,Case=Abl|Numb=Sing
-facienda,facio,VER,Case=Abl|Numb=Plur|Mood=Adj|Voice=Pass
-putant,pvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,INJ,MORPH=empty
-sed,sed,CONcoo,MORPH=empty
-Cantaber,cantaber,NOM2,Case=Voc|Numb=Sing
-unde,vnde,ADVint,MORPH=empty

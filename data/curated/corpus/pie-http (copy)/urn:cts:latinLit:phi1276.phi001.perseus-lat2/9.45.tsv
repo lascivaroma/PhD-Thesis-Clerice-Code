@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-seruus,servvs,NOM2,Case=Nom|Numb=Sing
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-minus,parvvs,ADJqua,Deg=Comp
-ille,ille,PROdem,Case=Nom|Numb=Sing
-miser,miser,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-foderit,fodio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-agrum,ager,NOM2,Case=Acc|Numb=Sing

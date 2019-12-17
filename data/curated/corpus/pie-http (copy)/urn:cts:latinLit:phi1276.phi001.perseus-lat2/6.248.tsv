@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quem,qvis,PROrel,Case=Acc|Numb=Sing
-cauat,cavo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-adsiduis,assidvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-rudibus,rvdis,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-scuto,scvtvm,NOM2,Case=Abl|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-lacessit,lacesso,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

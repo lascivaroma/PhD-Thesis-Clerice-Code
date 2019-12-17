@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-princeps,princeps,NOM3,Case=Nom|Numb=Sing
-equitum,eqves,NOM3,Case=Gen|Numb=Plur
-magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-uoce,vox,NOM3,Case=Abl|Numb=Sing
-solebat,soleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3

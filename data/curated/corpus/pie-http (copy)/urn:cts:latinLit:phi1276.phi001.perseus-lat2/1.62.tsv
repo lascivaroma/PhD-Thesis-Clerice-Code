@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-lacernatae,lacernatvs,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-cum,cvm,CONsub,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-iactaret,iacto,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-amicae,amica,NOM1,Case=Dat|Numb=Sing
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

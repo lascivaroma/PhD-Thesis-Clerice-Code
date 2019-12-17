@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-inmensae,immensvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-nimiaeque,nimiaqve,ADV,Deg=Pos
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-si,si,CONsub,MORPH=empty
-dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
-plebis,plebs,NOM3,Case=Gen|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Antilochi,antilochvs,NOM2,Case=Gen|Numb=Sing
-barbam,barba,NOM1,Case=Acc|Numb=Sing
-ardentem,ardens,ADJqua,Case=Acc|Numb=Sing|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act
-cum,cvm,CONsub,MORPH=empty
-quaerit,qvaero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ab,ab,PRE,MORPH=empty
-omni,omnis,PROind,Case=Abl|Numb=Sing

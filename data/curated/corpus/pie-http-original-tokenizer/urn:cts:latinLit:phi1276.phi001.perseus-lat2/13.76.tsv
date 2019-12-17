@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-mortalis,mortalis,NOM3,Case=Nom|Numb=Sing
-idem,idem,PROdem,Case=Nom|Numb=Sing
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-sciat,scio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-aspice,aspicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-quanta,qvantvs,PROint,Case=Abl|Numb=Sing

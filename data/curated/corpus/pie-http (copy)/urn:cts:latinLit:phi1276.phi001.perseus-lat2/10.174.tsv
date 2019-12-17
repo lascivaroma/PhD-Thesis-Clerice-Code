@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uelificatus,velifico,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-Athos,athos,NOM7,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-quidquid,qvisqvis,PROrel,Case=Acc|Numb=Sing
-Graecia,graecia,NOM1,Case=Nom|Numb=Sing
-mendax,mendax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-carbone,carbo,NOM3,Case=Abl|Numb=Sing
-tuo,tvvs,PROpos,Case=Abl|Numb=Sing
-charta,charta,NOM1,Case=Nom|Numb=Sing
-pia,pivs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-tura,tvs,NOM3,Case=Acc|Numb=Plur
-soluta,solvo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

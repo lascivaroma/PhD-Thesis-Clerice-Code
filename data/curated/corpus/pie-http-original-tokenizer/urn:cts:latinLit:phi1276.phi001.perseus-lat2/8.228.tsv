@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ante,ante,PRE,MORPH=empty
-pedes,pes,NOM3,Case=Acc|Numb=Plur
-Domiti,domitivs,NOM2,Case=Voc|Numb=Sing
-longum,longvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-tu,tv,PROper,Case=Voc|Numb=Sing
-pone,pono,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-Thyestae,thyestes,NOM1,Case=Gen|Numb=Sing

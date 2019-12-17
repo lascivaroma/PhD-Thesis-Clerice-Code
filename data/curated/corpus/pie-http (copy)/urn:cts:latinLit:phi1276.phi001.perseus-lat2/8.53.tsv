@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-nisi,nisi,CONsub,MORPH=empty
-Cecropides,cecropides,NOM7,Case=Nom|Numb=Sing
-trunco,trvncvs,NOM2,Case=Abl|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-simillimus,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-Hermae,hermes,NOM1,Case=Gen|Numb=Sing

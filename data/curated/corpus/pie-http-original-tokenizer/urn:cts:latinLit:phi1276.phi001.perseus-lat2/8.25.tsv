@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-iustitiaeque,ivstitiae,ADV,MORPH=empty
-tenax,tenax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-factis,factvm,NOM2,Case=Abl|Numb=Plur
-dictisque,dictvs,NOM2,Case=Dat|Numb=Plur
-mereris,mereor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2

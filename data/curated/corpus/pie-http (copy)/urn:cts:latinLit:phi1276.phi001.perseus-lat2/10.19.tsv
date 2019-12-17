@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-pauca,pavcvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-portes,porto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-argenti,argentvm,NOM2,Case=Gen|Numb=Sing
-uascula,vascvlvm,NOM1,Case=Nom|Numb=Sing
-puri,pvrvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

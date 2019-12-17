@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quam,qvi,PROrel,Case=Acc|Numb=Sing
-primum,primvm,ADJadv.ord,Deg=Sup
-praedam,praeda,NOM1,Case=Acc|Numb=Sing
-rupto,rvmpo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-gustauerat,gvsto,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-ouo,ovvm,NOM2,Case=Abl|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

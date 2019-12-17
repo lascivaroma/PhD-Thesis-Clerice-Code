@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-matronis,matrona,NOM2,Case=Abl|Numb=Plur
-lugendus,lvgeo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-at,at,CONcoo,MORPH=empty
-illos,ille,PROdem,Case=Acc|Numb=Plur
-uerbera,verber,NOM3,Case=Acc|Numb=Plur
-iustis,ivstvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos

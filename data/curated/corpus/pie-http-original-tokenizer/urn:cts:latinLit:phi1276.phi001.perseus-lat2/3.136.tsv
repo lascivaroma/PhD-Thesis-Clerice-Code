@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-dubitas,dvbito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-alta,altvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Chionen,chione,NOM7,Case=Acc|Numb=Sing
-deducere,dedvco,VER,Mood=Inf|Tense=Pres|Voice=Act
-sella,sella,NOM1,Case=Abl|Numb=Sing

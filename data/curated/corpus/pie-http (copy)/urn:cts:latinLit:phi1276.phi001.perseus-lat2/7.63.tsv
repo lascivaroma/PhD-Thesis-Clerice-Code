@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-locus,locvs,NOM2,Case=Nom|Numb=Sing
-ingenio,ingenivm,NOM2,Case=Abl|Numb=Sing
-nisi,nisi,CONsub,MORPH=empty
-cum,cvm,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-carmine,carmen,NOM3,Case=Abl|Numb=Sing
-solo,solvm,NOM2,Case=Abl|Numb=Sing

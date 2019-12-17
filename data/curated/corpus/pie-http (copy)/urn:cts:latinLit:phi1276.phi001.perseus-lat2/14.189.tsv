@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Haec,haectvs,NOM3,Case=Nom|Numb=Sing
-illi,ille,PROdem,Case=Nom|Numb=Plur
-ueteres,vetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-praecepta,praeceptvm,NOM2,Case=Nom|Numb=Plur
-minoribus,parvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Comp
-at,at,CONcoo,MORPH=empty
-nunc,nvnc,ADV,Deg=Pos

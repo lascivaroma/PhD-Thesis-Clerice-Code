@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-testandi,testor,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Dep
-cum,cvm,CONsub,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-lenonibus,leno,NOM3,Case=Abl|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-lanistis,lanista,NOM1,Case=Abl|Numb=Plur

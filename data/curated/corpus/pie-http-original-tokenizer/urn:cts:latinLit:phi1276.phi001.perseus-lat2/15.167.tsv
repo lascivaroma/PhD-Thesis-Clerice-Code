@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-adsueti,assvetvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-coquere,coqvo,VER,Mood=Inf|Tense=Pres|Voice=Act
-et,et,CONcoo,MORPH=empty
-martis,mars,NOM3,Case=Gen|Numb=Sing
-ac,ac,CONcoo,MORPH=empty
-uomere,vomer,NOM3,Case=Abl|Numb=Sing
-lassi,lassvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uel,vel,CONcoo,MORPH=empty
-potius,potivs,ADV,Deg=Comp
-quantum,qvantvm,ADVrel,Case=Acc
-Gradiuus,gradivvs,NOM2,Case=Nom|Numb=Sing
-Homericus,homericvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-audis,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2

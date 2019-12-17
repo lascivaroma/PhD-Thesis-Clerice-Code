@@ -1,0 +1,37 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/15.txt'>
+	<w pos='NOMcom' lemma='flos' msd='Case=Nom|Numb=Sing'>FLOS</w>
+	<w pos='NOMcom' lemma='asia' msd='Case=Gen|Numb=Sing'>Asiae</w>
+	<w pos='PROdem' lemma='tantus' msd='Case=Abl|Numb=Sing'>tanta</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='ADJcar' lemma='unus' msd='Case=Nom|Numb=Sing'>unus</w>
+	<w pos='PRE' lemma='de' msd='MORPH=empty'>de</w>
+	<w pos='NOMcom' lemma='gens' msd='Case=Abl|Numb=Sing'>gente</w>
+	<w pos='ADJqua' lemma='superstes' msd='Case=Nom|Numb=Sing|Deg=Pos'>superstes</w>
+	<w pos='ADJqua' lemma='paruulus' msd='Case=Nom|Numb=Sing|Deg=Pos'>parvulus</w>
+	<w pos='NOMcom' lemma='argiuus' msd='Case=Abl|Numb=Plur'>Argivis</w>
+	<w pos='CONcoo' lemma='sed' msd='MORPH=empty'>set</w>
+	<w pos='ADV' lemma='iam' msd='Deg=Pos'>iam</w>
+	<w pos='PRE' lemma='de' msd='MORPH=empty'>de</w>
+	<w pos='NOMcom' lemma='pater' msd='Case=Abl|Numb=Sing'>patre</w>
+	<w pos='VER' lemma='timeo' msd='Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass'>timendus</w>
+	<w pos='ADV' lemma='hic2' msd='Deg=Pos'>hic</w>
+	<w pos='VER' lemma='iaceo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1'>iaceo</w>
+	<w pos='NOMcom' lemma='astyanax' msd='Case=Nom|Numb=Sing'>Astyanax</w>
+	<w pos='NOMcom' lemma='scena' msd='Case=Abl|Numb=Plur'>Scaeis</w>
+	<w pos='VER' lemma='deicio' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>deiectus</w>
+	<w pos='PRE' lemma='ab' msd='MORPH=empty'>ab</w>
+	<w pos='ADJqua' lemma='altus' msd='Case=Abl|Numb=Plur|Deg=Pos'>altis</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='INJ' lemma='pro2' msd='MORPH=empty'>pro</w>
+	<w pos='NOMcom' lemma='dolor' msd='Case=Voc|Numb=Sing'>dolor</w>
+	<w pos='ADJqua' lemma='iliacus' msd='Case=Gen|Numb=Sing|Deg=Pos'>Iliaci</w>
+	<w pos='NOMcom' lemma='neptunius' msd='Case=Nom|Numb=Plur'>Neptunia</w>
+	<w pos='NOMcom' lemma='moenia' msd='Case=Acc|Numb=Plur'>moenia</w>
+	<w pos='NOMcom' lemma='murus' msd='Case=Nom|Numb=Plur'>muri</w>
+	<w pos='VER' lemma='uideo' msd='Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>viderunt</w>
+	<w pos='PROind' lemma='aliquis' msd='Case=Acc|Numb=Sing'>aliquid</w>
+	<w pos='ADJqua' lemma='crudelis' msd='Case=Acc|Numb=Sing|Deg=Comp'>crudelius</w>
+	<w pos='NOMcom' lemma='hector' msd='Case=Abl|Numb=Sing'>Hectore</w>
+	<w pos='VER' lemma='traho' msd='Case=Abl|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act'>tracto</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-feret,fero,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-uxorem,vxor,NOM3,Case=Acc|Numb=Sing
-cui,qvi,PROrel,Case=Dat|Numb=Sing
-constant,consto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-omnia,omnis,PROind,Case=Nom|Numb=Plur
-malo,malo,NOM2,Numb=Sing|Person=1

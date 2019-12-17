@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-bullatus,bvllatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-paruo,parvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-eadem,idem,PROdem,Case=Acc|Numb=Plur
-mouet,moveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-arma,arma,NOM2,Case=Acc|Numb=Plur
-fritillo,fritillvs,NOM2,Case=Dat|Numb=Sing
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

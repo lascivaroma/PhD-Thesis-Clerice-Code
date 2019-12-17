@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-terga,tergvm,NOM2,Case=Acc|Numb=Plur
-fugae,fvga,NOM1,Case=Gen|Numb=Sing
-celeri,celer,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-praestant,praesto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-instantibus,instans,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-Ombis,ombis,NOM3,Case=Nom|Numb=Sing

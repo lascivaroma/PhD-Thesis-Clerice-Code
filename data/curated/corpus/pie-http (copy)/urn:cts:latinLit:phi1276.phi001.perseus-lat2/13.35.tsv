@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quem,qvis,PROint,Case=Acc|Numb=Sing
-tua,tvvs,PROpos,Case=Nom|Numb=Sing
-simplicitas,simplicitas,NOM3,Case=Nom|Numb=Sing
-risum,risvs,NOM4,Case=Acc|Numb=Sing
-uulgo,vvlgo,NOM2,Case=Dat|Deg=Pos
-moueat,moveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-cum,cvm,CONsub,MORPH=empty

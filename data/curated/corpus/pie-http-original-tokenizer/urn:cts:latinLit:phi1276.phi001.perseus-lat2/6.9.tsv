@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-potanda,poto,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
-ferens,fero,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-infantibus,infans,NOM3,Case=Dat|Numb=Plur
-ubera,vber,NOM3,Case=Acc|Numb=Plur
-magnis,magnvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

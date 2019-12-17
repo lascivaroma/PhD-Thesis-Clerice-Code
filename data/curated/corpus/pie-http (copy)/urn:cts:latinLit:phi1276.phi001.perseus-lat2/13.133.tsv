@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-contentus,contentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uexare,vexo,VER,Mood=Inf|Tense=Pres|Voice=Act
-oculos,ocvlvs,NOM2,Case=Acc|Numb=Plur
-umore,hvmor,NOM3,Case=Abl|Numb=Sing
-coacto,cogo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

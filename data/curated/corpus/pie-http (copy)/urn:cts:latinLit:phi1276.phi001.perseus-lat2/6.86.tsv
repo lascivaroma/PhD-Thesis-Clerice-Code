@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-patriae,patria,NOM1,Case=Gen|Numb=Sing
-indulsit,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-plorantes,ploro,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
--que,qvove,CONcoo,MORPH=empty
-improba,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-natos,natvs,NOM2,Case=Acc|Numb=Plur

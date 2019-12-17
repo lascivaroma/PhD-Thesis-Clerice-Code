@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-euersa,everto,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-flammis,flamma,NOM1,Case=Abl|Numb=Plur
-Asiam,asia,NOM1,Case=Acc|Numb=Sing
-ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-cadentem,cado,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

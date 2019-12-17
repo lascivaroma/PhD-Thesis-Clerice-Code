@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-deceptas,decipio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-festinat,festino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-enim,enim,CONcoo,MORPH=empty
-decurrere,decvrro,VER,Mood=Inf|Tense=Pres|Voice=Act
-uelox,velox,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

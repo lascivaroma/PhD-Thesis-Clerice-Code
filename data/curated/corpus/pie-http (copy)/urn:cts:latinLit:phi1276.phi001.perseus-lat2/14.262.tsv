@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-potuit,possvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-seruare,servo,VER,Mood=Inf|Tense=Pres|Voice=Act
-suas,svvs,PROpos.ref,Case=Acc|Numb=Plur
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-ergo,ergo,CONcoo,MORPH=empty
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-Florae,flora,NOM1,Case=Dat|Numb=Sing

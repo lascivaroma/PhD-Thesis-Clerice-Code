@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uallibus,vallis,NOM3,Case=Abl|Numb=Plur
-esuriens,esvrio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-migraret,migro,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-atria,atrivm,NOM2,Case=Acc|Numb=Plur
-Clio,clio,NOM3,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

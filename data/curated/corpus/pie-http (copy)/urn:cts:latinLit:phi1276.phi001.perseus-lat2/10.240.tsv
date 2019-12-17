@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Vt,vt,ADVint,Case=Ind
-uigeant,vigeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-sensus,sensvs,NOM4,Case=Nom|Numb=Plur
-animi,animvs,NOM2,Case=Gen|Numb=Sing
-ducenda,dvco,VER,Case=Nom|Numb=Plur|Mood=Adj|Voice=Pass
-tamen,tamen,ADV,Deg=Pos
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

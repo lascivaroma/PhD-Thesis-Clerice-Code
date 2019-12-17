@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Vtile,vtilvs,NOM2,Case=Voc|Numb=Sing
-consilium,consilivm,NOM2,Case=Acc|Numb=Sing
-modo,modo,ADV,Deg=Pos
-sed,sed,CONcoo,MORPH=empty
-commune,commvnis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-dedisti,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2

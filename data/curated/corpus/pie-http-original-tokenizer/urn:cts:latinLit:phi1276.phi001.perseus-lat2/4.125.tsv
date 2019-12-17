@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-omen,omen,NOM3,Case=Acc|Numb=Sing
-habes,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-clarique,clariqve,ADV,Deg=Pos
-triumphi,trivmphvs,NOM2,Case=Gen|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Plur

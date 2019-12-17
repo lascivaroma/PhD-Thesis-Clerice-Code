@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Nunc,nvnc,NOM3,Case=Voc|Numb=Sing
-si,si,CONsub,MORPH=empty
-depositum,depositvm,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-non,non,ADVneg,MORPH=empty
-infitietur,infitior,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=3
-amicus,amicvs,NOM2,Case=Nom|Numb=Sing

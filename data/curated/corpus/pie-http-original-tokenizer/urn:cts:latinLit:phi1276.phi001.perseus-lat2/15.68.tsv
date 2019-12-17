@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-illis,ille,PROdem,Case=Abl|Numb=Plur
-dissimiles,dissimilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-nostro,noster,PROpos,Case=Abl|Numb=Sing
-tempore,tempvs,NOM3,Case=Abl|Numb=Sing
-natae,nascor,NOM1,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Dep
-.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

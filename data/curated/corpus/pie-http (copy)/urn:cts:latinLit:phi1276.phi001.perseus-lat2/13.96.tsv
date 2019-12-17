@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tanti,tantvs,PROdem,Case=Gen|Numb=Plur
-pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-locupletem,locvples,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-optare,opto,VER,Mood=Inf|Tense=Pres|Voice=Act
-podagram,podagra,NOM1,Case=Acc|Numb=Sing

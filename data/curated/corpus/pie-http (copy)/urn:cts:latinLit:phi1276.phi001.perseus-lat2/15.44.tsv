@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-septimus,septimvs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
-interdum,interdvm,ADV,Deg=Pos
-sol,sol,NOM3,Case=Nom|Numb=Sing
-inuenit,invenio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-horrida,horridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sane,sane,ADV,Deg=Pos

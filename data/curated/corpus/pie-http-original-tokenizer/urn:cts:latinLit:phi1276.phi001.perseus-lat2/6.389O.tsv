@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-suspectus,svspectvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-tibi,tv,PROper,Case=Dat|Numb=Sing
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quanto,qvantvs,PROint,Case=Abl|Numb=Sing
-uox,vox,NOM3,Case=Nom|Numb=Sing
-mollior,mollis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-et,et,CONcoo,MORPH=empty
-quo,qvis,ADVrel,Case=Abl|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-omnibus,omnis,PROind,Case=Abl|Numb=Plur
-in,in,PRE,MORPH=empty
-terris,terra,NOM1,Case=Abl|Numb=Plur
-quae,qvi,PROrel,Case=Nom|Numb=Plur
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-a,ab,PRE,MORPH=empty
-Gadibus,gades,NOM3,Case=Abl|Numb=Plur
-usque,vsqve,ADV,Deg=Pos

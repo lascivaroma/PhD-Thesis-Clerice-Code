@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quo,qvo,PROrel,Numb=Sing
-loquor,loqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
-egregium,egregivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-populus,popvlvs,NOM2,Case=Nom|Numb=Sing
-putat,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-adquirendi,acqviro,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act

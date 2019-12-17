@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tota,totvs,PROind,Case=Nom|Numb=Sing
-cohors,cohors,NOM3,Case=Nom|Numb=Sing
-rarus,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-cenacula,cenacvlvm,NOM2,Case=Acc|Numb=Sing
-miles,miles,NOM3,Case=Nom|Numb=Sing
-.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

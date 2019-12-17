@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tota,totvs,PROind,Case=Nom|Numb=Sing
-cohors,cohors,NOM3,Case=Nom|Numb=Sing
-tamen,tamen,ADV,Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-inimica,inimicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-omnes,omnis,PROind,Case=Nom|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-manipli,manipvlvs,NOM2,Case=Gen|Numb=Sing

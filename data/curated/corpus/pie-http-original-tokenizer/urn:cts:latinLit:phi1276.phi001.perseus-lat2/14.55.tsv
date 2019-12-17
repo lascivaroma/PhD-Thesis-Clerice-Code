@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-clamore,clamor,NOM3,Case=Abl|Numb=Sing
-ac,ac,CONcoo,MORPH=empty
-post,post,PRE,MORPH=empty
-haec,hic,PROdem,Case=Acc|Numb=Plur
-tabulas,tabvla,NOM1,Case=Acc|Numb=Plur
-mutare,mvto,VER,Mood=Inf|Tense=Pres|Voice=Act
-parabis,paro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

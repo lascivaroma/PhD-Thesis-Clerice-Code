@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-dat,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-libertatem,libertas,NOM3,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-totas,totvs,PROind,Case=Acc|Numb=Plur
-effundit,effvndo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-habenas,habena,NOM1,Case=Acc|Numb=Plur

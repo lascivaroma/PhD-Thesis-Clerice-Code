@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Transeo,transevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-suppositos,svppono,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-et,et,CONcoo,MORPH=empty
-gaudia,gavdivm,NOM2,Case=Acc|Numb=Plur
-uotaque,votaqve,ADV,Deg=Pos
-saepe,saepe,ADV,Deg=Pos

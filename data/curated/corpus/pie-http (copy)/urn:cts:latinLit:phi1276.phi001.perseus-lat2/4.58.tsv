@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-stridebat,strideo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-deformis,deformis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-hiems,hiems,NOM3,Case=Nom|Numb=Sing
-praedam,praeda,NOM1,Case=Acc|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-recentem,recens,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

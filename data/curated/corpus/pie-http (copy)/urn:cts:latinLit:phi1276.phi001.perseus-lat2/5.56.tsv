@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-flos,flos,NOM3,Case=Nom|Numb=Sing
-Asiae,asia,NOM1,Case=Gen|Numb=Sing
-ante,ante,PRE,MORPH=empty
-ipsum,ipse,PROdem,Case=Acc|Numb=Sing
-pretio,pretivm,NOM2,Case=Abl|Numb=Sing
-maiore,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
-paratus,paratvs,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

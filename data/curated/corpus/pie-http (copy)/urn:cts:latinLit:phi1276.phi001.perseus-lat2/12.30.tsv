@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-plenus,plenvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-fluctu,flvctvs,NOM4,Case=Abl|Numb=Sing
-medius,medivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-foret,svm,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
-alueus,alvevs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-iam,iam,ADV,Deg=Pos

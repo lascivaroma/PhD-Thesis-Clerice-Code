@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-melius,bonvs,ADV,Deg=Comp
-quod,qvod,PROrel,MORPH=empty
-nil,nihil,PROind,Case=Ind
-animis,animvs,NOM2,Case=Abl|Numb=Plur
-in,in,PRE,MORPH=empty
-corpora,corpvs,NOM3,Case=Acc|Numb=Plur
-iuris,ivs,NOM3,Case=Gen|Numb=Sing

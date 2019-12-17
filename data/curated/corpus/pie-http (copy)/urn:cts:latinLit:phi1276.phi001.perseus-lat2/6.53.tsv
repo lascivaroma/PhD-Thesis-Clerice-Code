@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-unus,vnvs,ADJcar,Case=Nom|Numb=Sing
-Hiberinae,hiberina,NOM1,Case=Gen|Numb=Sing|Deg=Pos
-uir,vir,NOM2,Case=Nom|Numb=Sing
-sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ocius,ociter,ADV,Deg=Comp
-illud,ille,PROdem,Case=Acc|Numb=Sing

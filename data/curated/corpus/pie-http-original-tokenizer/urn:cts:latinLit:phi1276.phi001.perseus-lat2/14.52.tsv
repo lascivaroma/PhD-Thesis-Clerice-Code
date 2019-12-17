@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-uultu,vvltvs,NOM4,Case=Abl|Numb=Sing
-dederit,do,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-morum,mos,NOM3,Case=Gen|Numb=Plur
-quoque,qvoqve,ADV,Deg=Pos
-filius,filivs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-qui,qvi,PROrel,Case=Nom|Numb=Sing

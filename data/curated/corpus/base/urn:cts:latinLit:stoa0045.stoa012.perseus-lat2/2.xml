@@ -1,0 +1,36 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/2.txt'>
+	<w pos='ADJqua' lemma='felix' msd='Case=Nom|Numb=Sing|Deg=Pos'>FELIX</w>
+	<w pos='INJ' lemma='o' msd='MORPH=empty'>O</w>
+	<w pos='NOMcom' lemma='menela' msd='Case=Voc|Numb=Sing'>Menelae</w>
+	<w pos='NOMcom' lemma='deus' msd='Case=Gen|Numb=Plur'>deum</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Dat|Numb=Sing'>cui</w>
+	<w pos='VER' lemma='debeo' msd='Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass'>debita</w>
+	<w pos='NOMcom' lemma='sedes' msd='Case=Nom|Numb=Sing'>sedes</w>
+	<w pos='VER' lemma='decerno' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3'>decretum</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='ADJqua' lemma='pius' msd='Case=Abl|Numb=Plur|Deg=Pos'>piis</w>
+	<w pos='NOMcom' lemma='manus1' msd='Case=Abl|Numb=Plur'>manibus</w>
+	<w pos='NOMcom' lemma='elysis' msd='Case=Nom|Numb=Plur'>Elysium</w>
+	<w pos='NOMcom' lemma='tyndareus' msd='Case=Abl|Numb=Sing'>Tyndareo</w>
+	<w pos='ADJqua' lemma='dilectus2' msd='Case=Voc|Numb=Sing|Deg=Pos'>dilecte</w>
+	<w pos='NOMcom' lemma='gener' msd='Case=Voc|Numb=Sing'>gener</w>
+	<w pos='ADJqua' lemma='dilectus2' msd='Case=Voc|Numb=Sing|Deg=Pos'>dilecte</w>
+	<w pos='VER' lemma='tono' msd='Case=Dat|Numb=Sing|Mood=Par|Tense=Pres'>Tonanti</w>
+	<w pos='NOMcom' lemma='coniugium' msd='Case=Gen|Numb=Sing'>coniugii</w>
+	<w pos='NOMcom' lemma='uindex' msd='Case=Nom|Numb=Sing'>vindex</w>
+	<w pos='NOMcom' lemma='ultor' msd='Case=Nom|Numb=Sing'>ultor</w>
+	<w pos='NOMcom' lemma='adulterium' msd='Case=Gen|Numb=Sing'>adulterii</w>
+	<w pos='ADJqua' lemma='aeternus' msd='Case=Abl|Numb=Sing|Deg=Pos'>aeterno</w>
+	<w pos='ADJqua' lemma='pollens' msd='Case=Nom|Numb=Sing|Deg=Pos'>pollens</w>
+	<w pos='NOMcom' lemma='aeuum' msd='Case=Abl|Numb=Sing'>aevo</w>
+	<w pos='ADJqua' lemma='aeternus' msd='Case=Abl|Numb=Sing|Deg=Pos'>aeterna</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='NOMcom' lemma='iuuenta' msd='Case=Abl|Numb=Sing'>iuventa</w>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>nec</w>
+	<w pos='NOMcom' lemma='letum' msd='Case=Gen|Numb=Sing'>leti</w>
+	<w pos='NOMcom' lemma='passus1' msd='Case=Acc|Numb=Sing'>passus</w>
+	<w pos='NOMcom' lemma='tempus?' msd='Case=Acc|Numb=Plur'>tempora</w>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>nec</w>
+	<w pos='NOMcom' lemma='senium' msd='Case=Gen|Numb=Sing'>senii</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

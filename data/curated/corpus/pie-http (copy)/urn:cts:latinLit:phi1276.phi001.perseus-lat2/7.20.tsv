@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-hoc,hic,PROdem,Case=Acc|Numb=Sing
-agite,ago,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-o,o,INJ,MORPH=empty
-iuuenes,ivvenis,NOM3,Case=Voc|Numb=Plur
-circumspicit,circvmspicio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-stimulat,stimvlo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uos,vos,PROper,Case=Acc|Numb=Plur

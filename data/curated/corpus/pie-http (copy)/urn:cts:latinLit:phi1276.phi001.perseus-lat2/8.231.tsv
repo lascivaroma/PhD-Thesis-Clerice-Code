@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Quid,qvis,PROint,Case=Nom|Numb=Sing
-Catilina,catilina,NOM1,Case=Voc|Numb=Sing
-tuis,tvvs,PROpos,Case=Dat|Numb=Plur
-natalibus,natales,NOM3,Case=Dat|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-Cethegi,cethegvs,NOM2,Case=Gen|Numb=Sing

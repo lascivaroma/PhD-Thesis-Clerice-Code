@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-ardent,ardeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-cynici,cynicvs,NOM2,Case=Nom|Numb=Plur|Deg=Pos
-;,ce,PRE,MORPH=empty
-si,si,CONsub,MORPH=empty
-fregeris,frango,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-altera,alter,PROind,Case=Nom|Numb=Sing
-fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

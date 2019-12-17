@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-quamuis,qvamvis,CONsub,MORPH=empty
-tota,totvs,PROind,Case=Abl|Numb=Sing
-palpetur,palpo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-nocte,nox,NOM3,Case=Abl|Numb=Sing
-iacebit,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Gen|Numb=Sing

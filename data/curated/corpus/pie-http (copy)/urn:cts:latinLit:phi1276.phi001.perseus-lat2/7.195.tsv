@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sidera,sidvs,NOM3,Case=Nom|Numb=Plur
-te,tv,PROper,Case=Acc|Numb=Sing
-excipiant,excipio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-modo,modo,ADV,Deg=Pos
-primos,primvs,ADJord,Case=Acc|Numb=Plur|Deg=Sup
-incipientem,incipio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-semper,semper,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-a,ab,PRE,MORPH=empty
-magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-non,non,ADVneg,MORPH=empty
-degenerare,degenero,VER,Mood=Inf|Tense=Pres|Voice=Act
-culina,cvlina,NOM1,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Ind|Numb=Plur

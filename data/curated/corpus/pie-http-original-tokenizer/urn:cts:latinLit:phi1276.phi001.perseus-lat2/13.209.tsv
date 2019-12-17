@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-scelus,scelvs,NOM3,Case=Nom|Numb=Sing
-intra,intra,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-tacitum,tacitvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-cogitat,cogito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ullum,vllvs,PROind,Case=Acc|Numb=Sing

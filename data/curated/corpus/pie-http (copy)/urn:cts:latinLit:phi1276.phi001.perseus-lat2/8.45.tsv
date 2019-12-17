@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quorum,qvi,PROrel,Case=Gen|Numb=Plur
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-queat,qveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-patriam,patria,NOM1,Case=Acc|Numb=Sing
-monstrare,monstro,VER,Mood=Inf|Tense=Pres|Voice=Act
-parentis,parens,NOM3,Case=Gen|Numb=Sing
-;,,PRE,MORPH=empty

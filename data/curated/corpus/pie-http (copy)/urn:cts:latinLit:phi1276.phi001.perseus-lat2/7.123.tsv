@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-inde,inde,ADV,Deg=Pos
-cadunt,cado,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-partes,pars,NOM3,Case=Nom|Numb=Plur
-ex,ex,PRE,MORPH=empty
-foedere,foedvs,NOM3,Case=Abl|Numb=Sing
-pragmaticorum,pragmaticvs,NOM2,Case=Gen|Numb=Plur
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ille,ille,PROdem,Case=Nom|Numb=Sing
-tamen,tamen,ADV,Deg=Pos
-coruo,corvvs,NOM2,Case=Abl|Numb=Sing
-quoque,qvoqve,ADV,Deg=Pos
-rarior,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-albo,albvm,NOM2,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Dat|Numb=Sing

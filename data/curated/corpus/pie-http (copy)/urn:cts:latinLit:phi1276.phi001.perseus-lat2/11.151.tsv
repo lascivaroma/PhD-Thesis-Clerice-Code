@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-pastoris,pastor,NOM3,Case=Gen|Numb=Sing
-duri,dvrvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-hic,hic,PROdem,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-filius,filivs,NOM2,Case=Nom|Numb=Sing
-ille,ille,PROdem,Case=Nom|Numb=Sing
-bubulci,bvbvlcvs,NOM2,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty

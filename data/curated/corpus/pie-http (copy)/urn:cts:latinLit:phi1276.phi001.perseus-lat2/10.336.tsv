@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-antiquo,antiqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-ueniet,venio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-cum,cvm,PRE,MORPH=empty
-signatoribus,signator,NOM3,Case=Abl|Numb=Plur
-auspex,avspex,NOM3,Case=Nom|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

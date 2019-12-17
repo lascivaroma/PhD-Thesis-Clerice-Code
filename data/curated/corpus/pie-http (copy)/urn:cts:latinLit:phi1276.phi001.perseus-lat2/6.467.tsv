@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tandem,tandem,ADV,Deg=Pos
-aperit,aperio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uultum,vvltvs,NOM4,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-tectoria,tectorivm,NOM2,Case=Acc|Numb=Plur
-prima,primvs,ADJord,Case=Acc|Numb=Sing|Deg=Sup
-reponit,repono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,PRE,MORPH=empty

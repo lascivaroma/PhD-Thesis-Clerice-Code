@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nullo,nvllvs,PROind,Case=Abl|Numb=Sing
-quippe,qvippe,ADV,MORPH=empty
-alio,alivs,ADV,Case=Abl|Numb=Sing
-uineis,vinea,NOM2,Case=Abl|Numb=Plur
-discrimine,discrimen,NOM3,Case=Abl|Numb=Sing
-quam,qvam,ADVrel,MORPH=empty
-quod,qvod,PROrel,MORPH=empty

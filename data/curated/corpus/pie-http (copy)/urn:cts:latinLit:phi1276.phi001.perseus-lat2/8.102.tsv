@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-cum,cvm,CONsub,MORPH=empty
-Parrhasii,parrhasivs,NOM2,Case=Gen|Numb=Sing
-tabulis,tabvla,NOM1,Case=Abl|Numb=Plur
-signis,signvm,NOM2,Case=Abl|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-Myronis,myron,NOM3,Case=Gen|Numb=Sing

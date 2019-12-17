@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tres,tres,ADJcar,Case=Nom|Numb=Plur
-rugae,rvga,NOM1,Case=Nom|Numb=Plur
-subeant,svbeo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-cutis,cvtis,NOM3,Case=Gen|Numb=Sing
-arida,aridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-laxet,laxo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

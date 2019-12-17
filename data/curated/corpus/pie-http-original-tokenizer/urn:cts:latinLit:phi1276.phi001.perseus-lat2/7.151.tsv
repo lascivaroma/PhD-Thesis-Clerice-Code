@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-perimit,perimo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-saeuos,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-classis,classis,NOM3,Case=Nom|Numb=Sing
-numerosa,nvmerosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-tyrannos,tyrannvs,NOM2,Case=Acc|Numb=Plur
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

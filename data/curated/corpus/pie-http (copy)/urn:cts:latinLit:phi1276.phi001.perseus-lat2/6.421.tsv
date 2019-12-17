@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-lassata,lasso,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-graui,gravis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-ceciderunt,cado,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-bracchia,brachivm,NOM2,Case=Nom|Numb=Plur
-massa,massa,NOM1,Case=Abl|Numb=Sing

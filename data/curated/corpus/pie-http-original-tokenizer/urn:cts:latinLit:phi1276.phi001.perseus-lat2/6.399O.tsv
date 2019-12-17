@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hac,hic,PROdem,Case=Abl|Numb=Sing
-mercede,merces,NOM3,Case=Abl|Numb=Sing
-silent,sileo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-crimen,crimen,NOM3,Case=Nom|Numb=Sing
-commune,commvnis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-tacetur,taceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

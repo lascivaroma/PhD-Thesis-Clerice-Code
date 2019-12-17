@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-libertas,libertas,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-crine,crinis,NOM3,Case=Abl|Numb=Sing
-senex,senex,NOM3,Case=Nom|Numb=Sing
-fanaticus,fanaticvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-albo,albvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-damna,damnvm,NOM2,Case=Acc|Numb=Plur
-leuant,levo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tunc,tvnc,ADV,Deg=Pos
-aduersis,adversvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-urguentibus,vrgvo,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-illuc,illvc,ADV,Deg=Pos

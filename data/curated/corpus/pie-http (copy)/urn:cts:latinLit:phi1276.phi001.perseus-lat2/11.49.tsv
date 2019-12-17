@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Plur
-uertere,verto,VER,Mood=Inf|Tense=Pres|Voice=Act
-solum,solvm,NOM2,Case=Acc|Numb=Sing
-Baias,baiae,NOM1,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-ad,ad,PRE,MORPH=empty
-ostrea,ostrevm,NOM2,Case=Acc|Numb=Plur
-currunt,cvrro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

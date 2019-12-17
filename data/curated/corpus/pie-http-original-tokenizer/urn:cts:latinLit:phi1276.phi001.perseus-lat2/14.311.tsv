@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sensit,sentio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Alexander,alexander,NOM2,Case=Nom|Numb=Sing
-testa,testa,NOM1,Case=Nom|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-uidit,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-illa,ille,PROdem,Case=Abl|Numb=Sing

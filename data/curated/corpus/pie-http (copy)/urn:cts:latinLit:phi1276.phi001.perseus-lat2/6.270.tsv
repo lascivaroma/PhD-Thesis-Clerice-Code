@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tum,tvm,ADV,Deg=Pos
-grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-illa,ille,PROdem,Case=Nom|Numb=Sing
-uiro,vir,NOM2,Case=Abl|Numb=Sing
-tunc,tvnc,ADV,Deg=Pos
-orba,orbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-tigride,tigris,NOM3,Case=Abl|Numb=Sing
-peior,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp

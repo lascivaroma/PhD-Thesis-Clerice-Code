@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Idaeum,idaevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-sollemne,sollemnis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-colunt,colo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-similis,similis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvavis,ADV,MORPH=empty
-triumpho,trivmphvs,NOM2,Case=Abl|Numb=Sing

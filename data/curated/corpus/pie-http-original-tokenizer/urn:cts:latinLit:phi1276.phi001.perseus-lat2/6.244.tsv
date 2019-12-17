@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-conponunt,compono,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ipsae,ipse,PROdem,Case=Nom|Numb=Plur
-per,per,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-formantque,formo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act
-libellos,libellvs,NOM2,Case=Acc|Numb=Plur

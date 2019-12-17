@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quisquis,qvisqvis,PROrel,Case=Nom|Numb=Sing
-adhuc,adhvc,ADV,Deg=Pos
-uno,vnvs,ADJcar,Case=Abl|Numb=Sing
-parcam,parco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act
-colit,colo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-asse,as,NOM3,Case=Abl|Numb=Sing
-Mineruam,minerva,NOM1,Case=Acc|Numb=Sing

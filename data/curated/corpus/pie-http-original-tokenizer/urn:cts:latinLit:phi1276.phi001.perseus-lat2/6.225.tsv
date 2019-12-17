@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-permutatque,permvto,VER,Mood=Ind|Tense=Pres|Voice=Act
-domos,domvs,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-flammea,flammevs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-conterit,contero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-inde,inde,ADV,Deg=Pos

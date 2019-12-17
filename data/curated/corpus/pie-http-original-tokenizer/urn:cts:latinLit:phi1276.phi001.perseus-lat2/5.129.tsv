@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
-quis,qvis,PROint,Case=Nom|Numb=Sing
-uestrum,vos,PROper,Case=Gen|Numb=Plur
-temerarius,temerarivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-usque,vsqve,ADV,Deg=Pos
-adeo,adeo,ADV,Deg=Pos
-quis,qvis,PROint,Case=Nom|Numb=Sing

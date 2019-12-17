@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-res,res,NOM5,Case=Nom|Numb=Sing
-fisci,fiscvs,NOM2,Case=Gen|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ubicumque,vbicvmqve,ADVrel,MORPH=empty
-natat,nato,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-donabitur,dono,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-ergo,ergo,CONcoo,MORPH=empty

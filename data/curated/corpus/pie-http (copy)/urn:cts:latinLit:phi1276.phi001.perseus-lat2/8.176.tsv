@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-resupinati,resvpino,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-cessantia,cesso,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-tympana,tympanvm,NOM2,Case=Acc|Numb=Plur
-galli,gallvs,NOM2,Case=Gen|Numb=Sing

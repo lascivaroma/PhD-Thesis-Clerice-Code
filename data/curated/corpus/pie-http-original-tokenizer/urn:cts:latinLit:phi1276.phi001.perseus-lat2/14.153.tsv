@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-nocet,noceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-haec,hic,PROdem,Case=Nom|Numb=Sing
-inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tunicam,tvnica,NOM1,Case=Acc|Numb=Sing
-mihi,ego,PROper,Case=Dat|Numb=Sing
-malo,malo,VER,Case=Dat|Numb=Sing|Deg=Pos|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-lupini,lvpinvs,NOM2,Case=Gen|Numb=Sing

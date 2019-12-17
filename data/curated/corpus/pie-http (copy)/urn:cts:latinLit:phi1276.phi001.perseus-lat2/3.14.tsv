@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Iudaeis,ivdaei,NOM2,Case=Dat|Numb=Plur
-quorum,qvi,PROrel,Case=Gen|Numb=Plur
-cophinus,cophinvs,NOM2,Case=Nom|Numb=Sing
-faenum,fenvm,NOM2,Case=Acc|Numb=Sing
--que,qvivis,CONcoo,MORPH=empty
-supellex,svpellex,NOM3,Case=Nom|Numb=Sing

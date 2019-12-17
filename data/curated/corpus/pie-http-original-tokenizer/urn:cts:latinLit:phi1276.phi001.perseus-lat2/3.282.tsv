@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-somnum,somnvs,NOM2,Case=Acc|Numb=Sing
-rixa,rixa,NOM1,Case=Nom|Numb=Sing
-facit,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sed,sed,CONcoo,MORPH=empty
-quamuis,qvamvis,CONsub,MORPH=empty
-improbus,improbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-annis,annvs,NOM2,Case=Abl|Numb=Plur

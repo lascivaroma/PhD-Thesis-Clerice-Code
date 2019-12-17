@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Plur
-digito,digitvs,NOM2,Case=Abl|Numb=Sing
-scalpunt,scalpo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uno,vnvs,ADJcar,Case=Abl|Numb=Sing
-caput,capvt,NOM3,Case=Acc|Numb=Sing
-altera,alter,PROind,Case=Nom|Numb=Sing
-maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp

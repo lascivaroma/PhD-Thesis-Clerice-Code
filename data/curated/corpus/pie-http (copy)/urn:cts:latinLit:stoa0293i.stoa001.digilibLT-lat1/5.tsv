@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nuces,nvx,NOM3,Case=Acc|Numb=Plur
-maiores,maiores,NOM3,Case=Acc|Numb=Plur|Deg=Comp
-nucleos,nvclevs,NOM2,Case=Acc|Numb=Plur
-pineos,pinevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-amicdula,amicdvla,NOM1,Case=Nom|Numb=Sing
-abellana,abellanvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

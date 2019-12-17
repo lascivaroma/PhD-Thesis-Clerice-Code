@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quale,qvalis,PROint,Case=Nom|Numb=Sing
-decus,decvs,NOM3,Case=Nom|Numb=Sing
-rerum,res,NOM5,Case=Gen|Numb=Plur
-si,si,CONsub,MORPH=empty
-coniugis,conivx,NOM3,Case=Gen|Numb=Sing
-auctio,avctio,NOM3,Case=Nom|Numb=Sing
-fiat,fio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

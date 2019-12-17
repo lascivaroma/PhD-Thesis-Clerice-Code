@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-multum,mvltvm,ADV,Deg=Pos
-referens,refero,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-de,de,PRE,MORPH=empty
-Maecenate,maecenas,NOM3,Case=Abl|Numb=Sing
-supino,svpinvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

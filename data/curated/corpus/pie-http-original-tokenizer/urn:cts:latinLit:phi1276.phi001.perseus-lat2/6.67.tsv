@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Ast,ast,INJ,Case=Nom|Numb=Sing
-aliae,alivs,PROind,Case=Nom|Numb=Plur
-quotiens,qvotiens,ADVrel,MORPH=empty
-aulaea,avlaevm,NOM2,Case=Nom|Numb=Plur
-recondita,reconditvs,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-cessant,cesso,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

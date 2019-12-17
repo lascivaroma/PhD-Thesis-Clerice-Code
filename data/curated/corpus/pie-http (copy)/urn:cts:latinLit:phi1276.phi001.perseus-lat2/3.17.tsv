@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-uallem,vallis,NOM3,Case=Acc|Numb=Sing
-Egeriae,egeria,NOM1,Case=Gen|Numb=Sing
-descendimus,descendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-et,et,CONcoo,MORPH=empty
-speluncas,spelvnca,NOM1,Case=Acc|Numb=Plur

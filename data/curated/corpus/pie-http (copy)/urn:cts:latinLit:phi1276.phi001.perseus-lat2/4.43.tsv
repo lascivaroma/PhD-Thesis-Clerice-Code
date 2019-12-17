@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-solibus,sol,NOM3,Case=Abl|Numb=Plur
-effundit,effvndo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-torrentis,torrens,NOM3,Case=Acc|Numb=Plur
-ad,ad,PRE,MORPH=empty
-ostia,ostivm,NOM2,Case=Acc|Numb=Plur
-Ponti,pontvs,NOM2,Case=Gen|Numb=Sing

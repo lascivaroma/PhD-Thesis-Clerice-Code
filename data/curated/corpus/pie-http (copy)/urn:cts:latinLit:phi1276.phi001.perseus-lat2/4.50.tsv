@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-dubitaturi,dvbito,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act
-fugitiuum,fvgitivvs,NOM2,Case=Acc|Numb=Sing
-dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
-piscem,piscis,NOM3,Case=Acc|Numb=Sing

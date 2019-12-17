@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Sed,sede,NOM2,Case=Nom|Numb=Sing
-cantet,canto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-potius,potivs,ADV,Deg=Comp
-quam,qvam,ADVrel,MORPH=empty
-totam,totvs,PROind,Case=Acc|Numb=Sing
-peruolet,pervolo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-urbem,vrbs,NOM3,Case=Acc|Numb=Sing

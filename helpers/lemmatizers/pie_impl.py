@@ -1,14 +1,55 @@
 import csv
 import os
+import time
+from io import StringIO
 from pie.tagger import Tagger, simple_tokenizer
 import pie.utils
 from .base import LemmatizerBase, Lemma
 
 from cltk.tokenize.sentence import TokenizeSentence
 from cltk.tokenize.word import WordTokenizer
+import requests
 
 import re
 
+
+class PieLemmatizerWeb(LemmatizerBase):
+    def __init__(self, model_path="http://localhost:5000/api/"):
+        self.remote = model_path
+
+    def output(self, file_path):
+        text_file_path = self.path(file_path)
+        csv_file_path = self.path(file_path.replace(".txt", ".tsv"))
+        xml_file_path = self.path(file_path.replace(".txt", ".xml"))
+
+        # Create directories
+        os.makedirs(os.path.dirname(text_file_path), exist_ok=True)
+
+        with open(text_file_path, "w") as text_io:
+            with open(csv_file_path, "w") as csv_io:
+                with open(xml_file_path, "w") as xml_io:
+                    with open(file_path) as f:
+                        content = f.read()
+                    req = requests.post(self.remote, data={"data": content.replace(".", " . ")})
+                    result = req.text
+
+                    csv_io.write(result)
+
+                    csv_reader = csv.DictReader(
+                        StringIO(result), delimiter="\t"
+                    )
+                    xml_io.write("<root id='{}'>\n".format(file_path))
+                    lemmas = []
+                    for line in csv_reader:
+                        if line:
+                            lemmas.append(line["lemma"])
+                            xml_io.write("\t<w pos='{}' lemma='{}' msd='{}'>{}</w>\n".format(
+                                line["POS"], line["lemma"], line["morph"], line["form"]
+                            ))
+                    text_io.write(" ".join(lemmas))
+                    xml_io.write("</root>")
+
+        time.sleep(0.1)
 
 class PieLemmatizer(LemmatizerBase):
     dirName = "pie-http"

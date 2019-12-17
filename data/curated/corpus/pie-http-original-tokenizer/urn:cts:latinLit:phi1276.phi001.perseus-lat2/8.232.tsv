@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-inueniet,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-quisquam,qvisqvam,PROind,Case=Nom|Numb=Sing
-sublimius,svblimis,ADV,Deg=Comp
-arma,arma,NOM2,Case=Acc|Numb=Plur
-tamen,tamen,ADV,Deg=Pos
-uos,vos,PROper,Case=Acc|Numb=Plur

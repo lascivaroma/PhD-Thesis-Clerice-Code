@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-bis,bis,ADJadv.mul,MORPH=empty
-septem,septem,ADJcar,Case=Ind
-ordinibus,ordo,NOM3,Case=Abl|Numb=Plur
-quam,qvam,ADVrel,MORPH=empty
-lex,lex,NOM3,Case=Nom|Numb=Sing
-dignatur,dignor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-Othonis,otho,NOM3,Case=Gen|Numb=Sing

@@ -1,0 +1,30 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/9.txt'>
+	<w pos='NOMcom' lemma='orbis' msd='Case=Abl|Numb=Sing'>ORBE</w>
+	<w pos='VER' lemma='tego' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1'>tegor</w>
+	<w pos='ADJqua' lemma='medius' msd='Case=Abl|Numb=Sing|Deg=Pos'>medio</w>
+	<w pos='ADJqua' lemma='magnus' msd='Case=Nom|Numb=Sing|Deg=Comp'>maior</w>
+	<w pos='NOMcom' lemma='uirtus' msd='Case=Abl|Numb=Sing'>virtute</w>
+	<w pos='ADJqua' lemma='paternus' msd='Case=Abl|Numb=Sing|Deg=Pos'>paterna</w>
+	<w pos='CONsub' lemma='quod2' msd='MORPH=empty'>quod</w>
+	<w pos='NOMcom' lemma='puer' msd='Case=Nom|Numb=Sing'>puer</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='rex' msd='Case=Gen|Numb=Sing'>regis</w>
+	<w pos='NOMcom' lemma='pyrrhus' msd='Case=Nom|Numb=Sing'>Pyrrhus</w>
+	<w pos='ADJqua' lemma='opimus' msd='Case=Acc|Numb=Sing|Deg=Pos'>opima</w>
+	<w pos='VER' lemma='fero' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1'>tuli</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='ADJqua' lemma='impius' msd='Case=Nom|Numb=Sing|Deg=Pos'>Impius</w>
+	<w pos='PRE' lemma='ante2' msd='MORPH=empty'>ante</w>
+	<w pos='NOMcom' lemma='ara' msd='Case=Acc|Numb=Plur'>aras</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Acc|Numb=Sing'>quem</w>
+	<w pos='NOMcom' lemma='fraus' msd='Case=Abl|Numb=Sing'>fraude</w>
+	<w pos='VER' lemma='perimo' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>peremit</w>
+	<w pos='NOMcom' lemma='orestis' msd='Case=Nom|Numb=Plur'>Orestes</w>
+	<w pos='PROint' lemma='quis1' msd='Case=Nom|Numb=Sing'>quid</w>
+	<w pos='ADJqua' lemma='mirus' msd='Case=Nom|Numb=Sing|Deg=Pos'>mirum</w>
+	<w pos='VER' lemma='caedo' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3'>caesa</w>
+	<w pos='ADV' lemma='iam' msd='Deg=Pos'>iam</w>
+	<w pos='NOMcom' lemma='genetrix' msd='Case=Abl|Numb=Sing'>genetrice</w>
+	<w pos='VER' lemma='furo' msd='Case=Nom|Numb=Sing|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act'>furens</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-curant,cvro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-igitur,igitvr,CONcoo,MORPH=empty
-cunctos,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-punire,pvnio,VER,Mood=Inf|Tense=Pres|Voice=Act
-nocentes,nocens,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

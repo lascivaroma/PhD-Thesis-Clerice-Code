@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-damnatos,damno,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Perf|Voice=Pass
-idem,idem,PROdem,Case=Nom|Numb=Sing
-populus,popvlvs,NOM2,Case=Nom|Numb=Sing
-si,si,CONsub,MORPH=empty
-Nortia,nortia,NOM1,Case=Nom|Numb=Sing|Deg=Pos
-Tusco,tvscvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

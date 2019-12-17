@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-dispensat,dispenso,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-frangit,frango,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sibi,svi,PROref,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-cede,cedo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-Palaemon,palaemon,NOM7,Case=Voc|Numb=Sing

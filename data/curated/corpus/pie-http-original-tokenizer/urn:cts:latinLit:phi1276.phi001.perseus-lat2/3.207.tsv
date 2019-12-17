@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-diuina,divinvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-opici,opicvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-rodebant,rodo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-carmina,carmen,NOM3,Case=Nom|Numb=Plur
-mures,mvs,NOM3,Case=Nom|Numb=Plur

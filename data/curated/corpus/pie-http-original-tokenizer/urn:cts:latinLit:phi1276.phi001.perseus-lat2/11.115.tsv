@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-rebus,res,NOM5,Case=Dat|Numb=Plur
-Latiis,lativs,NOM2,Case=Dat|Numb=Plur
-curam,cvra,NOM1,Case=Acc|Numb=Sing
-praestare,praesto,VER,Mood=Inf|Tense=Pres|Voice=Act
-solebat,soleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3

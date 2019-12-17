@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-stimulos,stimvlvs,NOM2,Case=Acc|Numb=Plur
-odio,odivm,NOM2,Case=Abl|Numb=Sing
-pudor,pvdor,NOM3,Case=Nom|Numb=Sing
-admouet,admoveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur
-Elige,elige,NOM2,Case=Voc|Numb=Sing
-quidnam,qvisnam,PROint,Case=Acc|Numb=Sing

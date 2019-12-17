@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-Maecenas,maecenas,NOM7,Case=Voc|Numb=Sing
-quis,qvis,PROint,Case=Nom|Numb=Sing
-nunc,nvnc,ADV,Deg=Pos
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-aut,avt,CONcoo,MORPH=empty
-Proculeius,procvleivs,NOM2,Case=Nom|Numb=Sing

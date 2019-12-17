@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ense,ensis,NOM3,Case=Abl|Numb=Sing
-uelut,velvt,ADVrel,MORPH=empty
-stricto,stringo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-quotiens,qvotiens,ADVint,MORPH=empty
-Lucilius,lvcilivs,NOM2,Case=Nom|Numb=Sing
-ardens,ardens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Tense=Pres|Voice=Act

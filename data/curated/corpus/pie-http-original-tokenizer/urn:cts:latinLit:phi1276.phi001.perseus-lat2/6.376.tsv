@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-prouocat,provoco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-a,ab,PRE,MORPH=empty
-domina,domina,NOM1,Case=Abl|Numb=Sing
-factus,facio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-spado,spado,NOM3,Case=Nom|Numb=Sing
-dormiat,dormio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-filaque,filaqve,NOM2,Case=Nom|Numb=Sing
-sectiui,sectivvs,NOM2,Case=Gen|Numb=Sing|Deg=Pos
-numerata,nvmero,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass|Person=3
-includere,inclvdo,VER,Mood=Inf|Tense=Pres|Voice=Act
-porri,porrvs,NOM2,Case=Gen|Numb=Sing
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

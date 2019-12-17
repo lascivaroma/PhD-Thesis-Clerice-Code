@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-pertulit,perfero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Ionium,ionivm,NOM2,Case=Acc|Numb=Sing|Deg=Pos
-constanti,constans,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-pectore,pectvs,NOM3,Case=Abl|Numb=Sing
-quamuis,qvamvis,CONsub,MORPH=empty

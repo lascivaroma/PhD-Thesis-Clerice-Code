@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ut,vt,ADVrel,MORPH=empty
-Gyarae,gyara,NOM1,Case=Loc|Numb=Sing
-clausus,clavdo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
-scopulis,scopvlvs,NOM2,Case=Abl|Numb=Plur
-parua,parvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvovs,ADV,MORPH=empty
-Seripho,seripho,NOM2,Case=Dat|Numb=Sing
-;,o,PRE,MORPH=empty

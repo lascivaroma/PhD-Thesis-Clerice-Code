@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-abditus,abdo,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-interea,interea,ADV,Deg=Pos
-latet,lateo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-secretus,secretvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-adulter,advlter,NOM2,Case=Nom|Numb=Sing

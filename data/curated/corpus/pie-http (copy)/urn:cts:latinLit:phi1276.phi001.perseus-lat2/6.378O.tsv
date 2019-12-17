@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-nudus,nvdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-pugnare,pvgno,VER,Mood=Inf|Tense=Pres|Voice=Act
-solet,soleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-pars,pars,NOM3,Case=Nom|Numb=Sing
-ultima,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ludi,lvdvs,NOM2,Case=Gen|Numb=Sing

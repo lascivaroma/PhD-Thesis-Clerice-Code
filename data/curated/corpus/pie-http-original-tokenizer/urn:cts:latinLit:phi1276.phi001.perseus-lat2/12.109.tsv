@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-horum,hic,PROdem,Case=Gen|Numb=Plur
-maiores,maiores,NOM3,Case=Acc|Numb=Plur
-ac,ac,CONcoo,MORPH=empty
-dorso,dorsvm,NOM2,Case=Abl|Numb=Sing
-ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
-cohortis,cohors,NOM3,Case=Acc|Numb=Plur

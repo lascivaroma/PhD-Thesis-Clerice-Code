@@ -1,0 +1,31 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/10.txt'>
+	<w pos='CONcoo' lemma='nec2' msd='MORPH=empty'>NEC</w>
+	<w pos='PROper' lemma='ego' msd='Case=Acc|Numb=Sing'>me</w>
+	<w pos='ADVneg' lemma='non' msd='MORPH=empty'>non</w>
+	<w pos='ADJqua' lemma='dignus' msd='Case=Acc|Numb=Sing|Deg=Pos'>dignum</w>
+	<w pos='NOMcom' lemma='titulus' msd='Case=Abl|Numb=Sing'>titulo</w>
+	<w pos='NOMcom' lemma='pleuronia' msd='Case=Nom|Numb=Sing'>Pleuronia</w>
+	<w pos='VER' lemma='credo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>credit</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Nom|Numb=Sing'>quae</w>
+	<w pos='ADJqua' lemma='communis' msd='Case=Nom|Numb=Sing|Deg=Pos'>communis</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3'>erat</w>
+	<w pos='CONsub' lemma='cum3' msd='MORPH=empty'>cum</w>
+	<w pos='NOMcom' lemma='diomes' msd='Numb=Sing'>Diomede</w>
+	<w pos='NOMcom' lemma='domus' msd='Case=Nom|Numb=Sing'>domus</w>
+	<w pos='NOMcom' lemma='euryalus' msd='Case=Abl|Numb=Sing'>Euryalo</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='sthenelus' msd='Case=Abl|Numb=Sing'>Sthenelo</w>
+	<w pos='CONcoo' lemma='nam' msd='MORPH=empty'>nam</w>
+	<w pos='ADJord' lemma='tertius' msd='Case=Nom|Numb=Sing|Deg=Pos'>tertius</w>
+	<w pos='PROdem' lemma='hic1' msd='Case=Acc|Numb=Sing'>hoc</w>
+	<w pos='PROper' lemma='ego' msd='Case=Nom|Numb=Sing'>ego</w>
+	<w pos='NOMcom' lemma='regnum' msd='Case=Acc|Numb=Sing'>regnum</w>
+	<w pos='VER' lemma='possideo' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1'>possedi</w>
+	<w pos='PRE' lemma='de' msd='MORPH=empty'>de</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Abl|Numb=Sing'>quo</w>
+	<w pos='ADV' lemma='nunc' msd='Deg=Pos'>nunc</w>
+	<w pos='ADJqua' lemma='satis1' msd='Case=Ind|Deg=Pos'>satis</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>est</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Nom|Numb=Sing'>tumulus</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

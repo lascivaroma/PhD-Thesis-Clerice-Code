@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quandoque,qvandoqve,ADV,MORPH=empty
-et,et,CONcoo,MORPH=empty
-similem,similis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-tibi,tv,PROper,Case=Dat|Numb=Sing
-se,svi,PROref,Case=Acc|Numb=Sing
-non,non,ADVneg,MORPH=empty
-corpore,corpvs,NOM3,Case=Abl|Numb=Sing
-tantum,tantvm,ADV,Numb=Sing|Deg=Pos

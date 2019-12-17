@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-curta,cvrtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-fides,fides,NOM5,Case=Nom|Numb=Sing
-patriae,patria,NOM1,Case=Gen|Numb=Sing
-;,o,INJ,MORPH=empty
-saturabat,satvro,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-glaebula,glaebvla,NOM1,Case=Nom|Numb=Sing
-talis,talis,PROdem,Case=Nom|Numb=Sing

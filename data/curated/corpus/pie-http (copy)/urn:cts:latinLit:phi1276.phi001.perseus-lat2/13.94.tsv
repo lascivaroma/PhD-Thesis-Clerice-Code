@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dummodo,dvmmodo,ADVint,MORPH=empty
-uel,vel,ADV,MORPH=empty
-caecus,caecvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-teneam,teneo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-abnego,abnego,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-nummos,nvmvs,NOM2,Case=Acc|Numb=Plur

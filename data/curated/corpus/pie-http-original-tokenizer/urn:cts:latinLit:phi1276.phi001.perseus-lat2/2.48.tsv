@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-exemplum,exemplvm,NOM2,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-nostro,noster,PROpos,Case=Abl|Numb=Sing
-tam,tam,ADV,Deg=Pos
-detestabile,detestabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sexu,sexvs,NOM4,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Sing

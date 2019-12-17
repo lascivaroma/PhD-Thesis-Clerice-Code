@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-testudineo,testvdinevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-tibi,tv,PROper,Case=Dat|Numb=Sing
-Lentule,lentvlvs,NOM2,Case=Voc|Numb=Sing
-conopeo,conopevs,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1

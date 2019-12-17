@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-multos,mvlti,NOM2,Case=Acc|Numb=Plur
-porro,porro,ADV,Deg=Pos
-uides,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-saepe,saepe,ADV,Deg=Pos
-elusus,elvdo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-ad,ad,PRE,MORPH=empty
-ipsum,ipse,PROdem,Case=Acc|Numb=Sing

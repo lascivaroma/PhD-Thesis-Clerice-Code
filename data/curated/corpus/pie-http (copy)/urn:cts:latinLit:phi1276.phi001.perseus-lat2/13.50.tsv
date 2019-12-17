@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-imperium,imperivm,NOM2,Case=Acc|Numb=Sing
-aut,avt,CONcoo,MORPH=empty
-Sicula,sicvlvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-toruos,torvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-cum,cvm,PRE,MORPH=empty
-coniuge,conivx,NOM3,Case=Abl|Numb=Sing
-Pluto,plvtvs,NOM2,Case=Abl|Numb=Sing
--ne,ne,CONsub,MORPH=empty

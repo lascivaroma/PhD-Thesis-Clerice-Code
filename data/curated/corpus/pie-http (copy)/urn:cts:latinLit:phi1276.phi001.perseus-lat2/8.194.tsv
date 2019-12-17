@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-dubitant,dvbito,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-celsi,celsvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-praetoris,praetor,NOM3,Case=Gen|Numb=Sing
-uendere,vendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-ludis,lvdvs,NOM2,Case=Abl|Numb=Plur

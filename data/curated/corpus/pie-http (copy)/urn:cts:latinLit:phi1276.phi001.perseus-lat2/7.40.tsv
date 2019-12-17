@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-succensus,svccendo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-recites,recito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-maculosas,macvlosvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-commodat,commodo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aedes,aedes,NOM3,Case=Acc|Numb=Plur
-;,o,PRE,MORPH=empty

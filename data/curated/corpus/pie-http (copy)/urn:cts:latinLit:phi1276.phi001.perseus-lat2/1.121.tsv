@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quadrantes,qvadrans,NOM3,Case=Nom|Numb=Plur
-lectica,lectica,NOM1,Case=Nom|Numb=Sing
-petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sequitur,seqvor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
--que,qvove,ADV,MORPH=empty
-maritum,maritvs,NOM2,Case=Acc|Numb=Sing

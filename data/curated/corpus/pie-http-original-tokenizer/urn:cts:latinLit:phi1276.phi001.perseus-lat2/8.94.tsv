@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-piratae,pirata,NOM1,Case=Gen|Numb=Sing
-Cilicum,cilices,NOM3,Case=Gen|Numb=Plur
-sed,sed,CONcoo,MORPH=empty
-quid,qvis,PROint,Case=Acc|Numb=Sing
-damnatio,damnatio,NOM3,Case=Nom|Numb=Sing
-confert,confero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

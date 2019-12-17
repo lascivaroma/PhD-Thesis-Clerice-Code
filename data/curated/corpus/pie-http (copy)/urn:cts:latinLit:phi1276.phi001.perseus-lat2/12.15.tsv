@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ob,ob,PRE,MORPH=empty
-reditum,reditvs,NOM4,Case=Acc|Numb=Sing
-trepidantis,trepido,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-adhuc,adhvc,ADV,Deg=Pos
-horrenda,horrendvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
--que,qvove,ADV,MORPH=empty
-passi,patior,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Dep|Person=3

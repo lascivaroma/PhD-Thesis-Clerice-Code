@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-surda,svrdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nihil,nihil,PROind,Case=Ind
-gemeret,gemo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-graue,gravis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-bucina,bvcina,NOM1,Case=Abl|Numb=Sing
-poscimus,posco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-ut,vt,CONsub,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

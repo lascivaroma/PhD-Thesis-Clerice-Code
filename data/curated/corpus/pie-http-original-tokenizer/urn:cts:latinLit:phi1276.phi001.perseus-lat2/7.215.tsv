@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Quis,qvi,PROrel,Case=Dat|Numb=Plur
-gremio,gremivm,NOM2,Case=Dat|Numb=Sing
-Celadi,celadivs,NOM2,Case=Loc|Numb=Sing
-doctique,doctiqve,ADV,Deg=Pos
-Palaemonis,palaemon,NOM3,Case=Gen|Numb=Sing
-adfert,affero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

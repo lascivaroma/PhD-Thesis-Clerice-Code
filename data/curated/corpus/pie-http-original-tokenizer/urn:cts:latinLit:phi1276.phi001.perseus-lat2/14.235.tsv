@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Cum,cvm,NOM2,Case=Acc|Numb=Sing
-dicis,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-iuueni,ivvenis,NOM3,Case=Dat|Numb=Sing
-stultum,stvltvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-donet,dono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-amico,amicvs,NOM2,Case=Dat|Numb=Sing

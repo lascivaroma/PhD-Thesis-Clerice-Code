@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-pellibus,pellis,NOM3,Case=Abl|Numb=Plur
-inuersis,inverto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-peregrina,peregrinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ignota,ignotvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-nobis,nos,PROper,Case=Dat|Numb=Plur

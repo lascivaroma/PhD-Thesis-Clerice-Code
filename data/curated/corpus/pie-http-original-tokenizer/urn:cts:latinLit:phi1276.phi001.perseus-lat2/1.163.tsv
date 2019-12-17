@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-committas,committo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-nulli,nvllvs,PROind,Case=Dat|Numb=Sing
-grauis,gravis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-percussus,percvtio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-Achilles,achilles,NOM7,Case=Nom|Numb=Sing

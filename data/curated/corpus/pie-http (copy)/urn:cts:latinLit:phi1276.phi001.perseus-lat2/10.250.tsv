@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quique,qvisqve,PROind,Case=Nom|Numb=Sing
-nouum,novvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-totiens,totiens,ADV,Deg=Pos
-mustum,mvstvm,NOM2,Case=Acc|Numb=Sing
-bibit,bibo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-.,qvadranta,ADJcar,Case=Acc|Numb=Plur
-oro,oro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-parumper,parvmper,ADV,Deg=Pos

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-sumet,svmo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-damnata,damno,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-togam,toga,NOM1,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-sed,sed,CONcoo,MORPH=empty
-Iulius,ivlivs,NOM2,Case=Nom|Numb=Sing
-ardet,ardeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

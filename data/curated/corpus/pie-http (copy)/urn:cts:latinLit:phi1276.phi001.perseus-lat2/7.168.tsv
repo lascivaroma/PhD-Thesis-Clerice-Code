@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-ueras,vervs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-agitant,agito,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-lites,lis,NOM3,Case=Acc|Numb=Plur
-raptore,raptor,NOM3,Case=Abl|Numb=Sing
-relicto,relinqvo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-;,o,PRE,MORPH=empty

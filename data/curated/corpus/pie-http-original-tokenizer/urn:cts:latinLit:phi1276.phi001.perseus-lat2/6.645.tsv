@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-grandia,grandis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-monstra,monstrvm,NOM2,Case=Acc|Numb=Plur
-suis,svvs,PROpos.ref,Case=Dat|Numb=Plur
-audebant,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3
-temporibus,tempvs,NOM3,Case=Abl|Numb=Plur
-sed,sed,CONcoo,MORPH=empty

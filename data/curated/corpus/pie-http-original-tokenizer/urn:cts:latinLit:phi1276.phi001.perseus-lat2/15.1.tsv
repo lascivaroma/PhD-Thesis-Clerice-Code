@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Quis,qvis,PROind,Case=Dat|Numb=Plur
-nescit,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Volusi,volvsivs,NOM2,Case=Gen|Numb=Sing
-Bithynice,bithynice,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-qualia,qvalis,PROrel,Case=Acc|Numb=Plur
-demens,demens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

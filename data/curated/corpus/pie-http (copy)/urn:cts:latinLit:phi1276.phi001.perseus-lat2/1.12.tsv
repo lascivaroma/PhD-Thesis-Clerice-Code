@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Frontonis,fronto,NOM3,Case=Gen|Numb=Sing
-platani,platanvs,NOM2,Case=Gen|Numb=Sing
-conuulsa,convello,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
--que,qvavis,CONcoo,MORPH=empty
-marmora,marmor,NOM3,Case=Acc|Numb=Plur
-clamant,clamo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

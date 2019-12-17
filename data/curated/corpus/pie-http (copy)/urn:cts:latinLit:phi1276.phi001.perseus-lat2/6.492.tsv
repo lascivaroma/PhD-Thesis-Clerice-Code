@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-altior,altvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-hic,hic,PROdem,Numb=Sing
-quare,qvare,ADVrel,MORPH=empty
-cincinnus,cincinnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-taurea,tavrevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-punit,pvnio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

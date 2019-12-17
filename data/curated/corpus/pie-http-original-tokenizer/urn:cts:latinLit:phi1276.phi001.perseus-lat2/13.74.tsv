@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-summam,svmma,NOM1,Case=Acc|Numb=Sing
-quam,qvi,PROrel,Case=Acc
-patulae,patvla,NOM1,Case=Gen|Numb=Sing|Deg=Pos
-uix,vix,ADV,Deg=Pos
-ceperat,capio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-angulus,angvlvs,NOM2,Case=Nom|Numb=Sing
-arcae,arca,NOM1,Case=Gen|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-rotam,rota,NOM1,Case=Acc|Numb=Sing
-adstringit,astringo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sufflamine,svfflamen,NOM3,Case=Abl|Numb=Sing
-mulio,mvlio,NOM3,Case=Nom|Numb=Sing
-consul,consvl,NOM3,Case=Nom|Numb=Sing
-.,qvadranta,ADJcar,Case=Acc|Numb=Plur

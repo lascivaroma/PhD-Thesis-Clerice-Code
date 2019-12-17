@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-arcano,arcanvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-sacra,sacrvm,NOM2,Case=Acc|Numb=Plur
-ferens,fero,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-nutantia,nvto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-loro,lorvm,NOM2,Case=Abl|Numb=Sing

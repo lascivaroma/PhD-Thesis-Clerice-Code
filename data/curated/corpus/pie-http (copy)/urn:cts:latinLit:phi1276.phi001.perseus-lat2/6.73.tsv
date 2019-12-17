@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-soluitur,solvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-his,hic,PROdem,Case=Dat|Numb=Plur
-magno,magnvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-comoedi,comoedvs,NOM2,Case=Nom|Numb=Sing
-fibula,fibvla,NOM1,Case=Nom|Numb=Sing
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quae,qvi,PROrel,Case=Nom|Numb=Plur

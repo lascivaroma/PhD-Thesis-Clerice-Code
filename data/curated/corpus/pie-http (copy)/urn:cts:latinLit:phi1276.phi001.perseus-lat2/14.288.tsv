@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-curatoris,cvrator,NOM3,Case=Gen|Numb=Sing
-eget,egeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-nauem,navis,NOM3,Case=Acc|Numb=Sing
-mercibus,merx,NOM3,Case=Abl|Numb=Plur
-implet,impleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

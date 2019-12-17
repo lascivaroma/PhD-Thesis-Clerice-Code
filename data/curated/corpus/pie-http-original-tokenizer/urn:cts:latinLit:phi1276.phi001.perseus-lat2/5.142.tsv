@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-gremium,gremivm,NOM2,Case=Acc|Numb=Sing
-patris,pater,NOM3,Case=Gen|Numb=Sing
-fundat,fvndo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-semel,semel,ADJadv.mul,MORPH=empty
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-loquaci,loqvax,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

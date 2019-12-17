@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-incitat,incito,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-cornu,cornv,NOM4,Case=Abl|Numb=Sing
-pariter,pariter,ADV,Deg=Pos
-uino,vinvm,NOM2,Case=Abl|Numb=Sing
--que,qvovs,CONcoo,MORPH=empty
-feruntur,fero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-post,post,PRE,MORPH=empty
-finem,finis,NOM3,Case=Acc|Numb=Sing
-autumni,avtvmnvs,NOM2,Case=Gen|Numb=Sing
-media,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-de,de,PRE,MORPH=empty
-nocte,nox,NOM3,Case=Abl|Numb=Sing
-supinum,svpinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

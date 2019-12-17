@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Praefectura,praefectvra,NOM1,Case=Nom|Numb=Sing
-domus,domvs,NOM6,Case=Nom|Numb=Sing
-Sicilia,sicilia,NOM1,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-mitior,mitis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-aula,avla,NOM1,Case=Abl|Numb=Sing
-;,o,PRE,MORPH=empty

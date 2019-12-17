@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-consilio,consilivm,NOM2,Case=Abl|Numb=Sing
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-Albanam,albanvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-dux,dvx,NOM3,Case=Nom|Numb=Sing
-magnus,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-in,in,PRE,MORPH=empty
-arcem,arx,NOM3,Case=Acc|Numb=Sing

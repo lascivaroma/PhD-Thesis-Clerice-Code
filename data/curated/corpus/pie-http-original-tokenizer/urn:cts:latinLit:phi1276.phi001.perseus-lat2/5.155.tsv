@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-discit,disco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ab,ab,PRE,MORPH=empty
-hirsuta,hirsvtvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-iaculum,iacvlvm,NOM2,Case=Acc|Numb=Sing
-torquere,torqveo,VER,Mood=Inf|Tense=Pres|Voice=Act
-capella,capella,NOM1,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

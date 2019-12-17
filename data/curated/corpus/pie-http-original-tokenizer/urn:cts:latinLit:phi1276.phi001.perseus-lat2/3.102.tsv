@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-dolet,doleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,PRE,MORPH=empty
-igniculum,ignicvlvs,NOM2,Case=Acc|Numb=Sing
-brumae,brvma,NOM1,Case=Gen|Numb=Sing
-si,si,CONsub,MORPH=empty
-tempore,tempvs,NOM3,Case=Abl|Numb=Sing
-poscas,posco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

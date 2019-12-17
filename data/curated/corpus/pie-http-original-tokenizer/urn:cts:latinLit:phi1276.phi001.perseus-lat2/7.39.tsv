@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-propter,propter,PRE,MORPH=empty
-mille,mille,ADJcar,Case=Ind
-annos,annvs,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-dulcedine,dvlcedo,NOM3,Case=Abl|Numb=Sing
-famae,fama,NOM1,Case=Gen|Numb=Sing

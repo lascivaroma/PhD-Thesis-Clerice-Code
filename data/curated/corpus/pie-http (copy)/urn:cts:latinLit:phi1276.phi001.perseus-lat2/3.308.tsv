@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sic,sic,ADV,Deg=Pos
-inde,inde,ADV,Deg=Pos
-huc,hvc,ADV,Deg=Pos
-omnes,omnis,PROind,Case=Nom|Numb=Plur
-tamquam,tamqvam,ADVrel,MORPH=empty
-ad,ad,PRE,MORPH=empty
-uiuaria,vivarivm,NOM2,Case=Acc|Numb=Plur
-currunt,cvrro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

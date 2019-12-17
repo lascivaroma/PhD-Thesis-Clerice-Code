@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ante,ante,ADV,Deg=Pos
-tamen,tamen,ADV,Deg=Pos
-de,de,PRE,MORPH=empty
-te,tv,PROper,Case=Abl|Numb=Sing
-Tanaquil,tanaqvil,NOM3,Case=Nom|Numb=Sing
-tua,tvvs,PROpos,Case=Nom|Numb=Plur
-quando,qvando,ADVint,MORPH=empty
-sororem,soror,NOM3,Case=Acc|Numb=Sing

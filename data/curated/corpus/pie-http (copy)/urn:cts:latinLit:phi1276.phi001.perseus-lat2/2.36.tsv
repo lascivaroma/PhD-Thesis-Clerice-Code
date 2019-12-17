@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Non,non,ADVint,Case=Acc
-tulit,fero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ex,ex,PRE,MORPH=empty
-illis,ille,PROdem,Case=Abl|Numb=Plur
-toruum,torvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Laronia,laronia,NOM1,Case=Abl|Numb=Sing
-quendam,qvidam,PROind,Case=Acc|Numb=Sing

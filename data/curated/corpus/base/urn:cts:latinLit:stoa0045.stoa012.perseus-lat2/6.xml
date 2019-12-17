@@ -1,0 +1,29 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/6.txt'>
+	<w pos='VER' lemma='conditer' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass'>CONDITUR</w>
+	<w pos='ADV' lemma='hic2' msd='MORPH=empty'>hic</w>
+	<w pos='NOMcom' lemma='genitor' msd='Case=Abl|Numb=Sing'>genitore</w>
+	<w pos='ADJqua' lemma='bonus' msd='Case=Abl|Numb=Sing|Deg=Pos'>bono</w>
+	<w pos='ADJqua' lemma='bonus' msd='Case=Nom|Numb=Sing|Deg=Comp'>melior</w>
+	<w pos='VER' lemma='diomedo' msd='Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2'>Diomedes</w>
+	<w pos='NOMcom' lemma='crimen' msd='Case=Acc|Numb=Sing'>crimen</w>
+	<w pos='PRE' lemma='ob' msd='MORPH=empty'>ob</w>
+	<w pos='NOMcom' lemma='uxor' msd='Case=Gen|Numb=Sing'>uxoris</w>
+	<w pos='VER' lemma='pello' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>pulsus</w>
+	<w pos='ADJqua' lemma='dotalis' msd='Case=Abl|Numb=Plur|Deg=Pos'>dotalibus</w>
+	<w pos='NOMcom' lemma='argus' msd='Numb=Plur'>Argis</w>
+	<w pos='NOMcom' lemma='argyripa' msd='Case=Acc|Numb=Sing'>Argyripam</w>
+	<w pos='ADJqua' lemma='clarus' msd='Case=Acc|Numb=Plur|Deg=Pos'>claros</w>
+	<w pos='CONcoo' lemma='que' msd='MORPH=empty'>-que</w>
+	<w pos='NOMcom' lemma='uis' msd='Case=Acc|Numb=Plur'>viris</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Nom|Numb=Sing'>qui</w>
+	<w pos='VER' lemma='condo' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>condidit</w>
+	<w pos='NOMcom' lemma='arpor' msd='Case=Acc|Numb=Plur'>Arpos</w>
+	<w pos='ADJqua' lemma='clarus' msd='Case=Nom|Numb=Sing|Deg=Comp'>clarior</w>
+	<w pos='NOMcom' lemma='urbs' msd='Case=Abl|Numb=Sing'>urbe</w>
+	<w pos='ADJqua' lemma='nouus' msd='Case=Abl|Numb=Sing|Deg=Pos'>nova</w>
+	<w pos='NOMcom' lemma='patria' msd='Case=Gen|Numb=Sing'>patriae</w>
+	<w pos='ADVrel' lemma='quam1' msd='MORPH=empty'>quam</w>
+	<w pos='NOMcom' lemma='sedes' msd='Case=Abl|Numb=Sing'>sede</w>
+	<w pos='ADJqua' lemma='uetustus' msd='Case=Abl|Numb=Sing|Deg=Pos'>vetusta</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

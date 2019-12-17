@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Iliadum,iliades,NOM3,Case=Gen|Numb=Plur
-lacrimas,lacrima,NOM1,Case=Acc|Numb=Plur
-ut,vt,ADVrel,MORPH=empty
-primos,primvs,ADJord,Case=Acc|Numb=Plur|Deg=Sup
-edere,edo,VER,Mood=Inf|Tense=Pres|Voice=Act
-planctus,planctvs,NOM4,Case=Acc|Numb=Plur

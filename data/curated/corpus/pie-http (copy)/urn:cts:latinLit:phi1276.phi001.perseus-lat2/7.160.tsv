@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-salit,salio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Arcadico,arcadicvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-iuueni,ivvenis,NOM3,Case=Dat|Numb=Sing
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-mihi,ego,PROper,Case=Dat|Numb=Sing
-sexta,sextvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

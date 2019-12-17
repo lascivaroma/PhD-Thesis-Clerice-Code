@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ora,os,NOM3,Case=Acc|Numb=Plur
-puellares,pvellaris,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-incerta,incertvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-capilli,capillvs,NOM2,Case=Nom|Numb=Plur
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

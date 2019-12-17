@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uera,vervs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-bona,bonvm,NOM2,Case=Nom|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-illis,ille,PROdem,Case=Dat|Numb=Plur
-multum,mvltvm,NOM2,Deg=Pos
-diuersa,diversvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-remota,removeo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

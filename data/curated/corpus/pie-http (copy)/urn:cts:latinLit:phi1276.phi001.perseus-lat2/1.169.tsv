@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-haec,hic,PROdem,Case=Nom|Numb=Plur
-animo,animvs,NOM2,Case=Abl|Numb=Sing
-ante,ante,PRE,MORPH=empty
-tubas,tvba,NOM1,Case=Acc|Numb=Plur
-galeatum,galeo,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Perf|Voice=Pass
-sero,sero,ADV,Deg=Pos
-duelli,dvellvm,NOM2,Case=Gen|Numb=Sing

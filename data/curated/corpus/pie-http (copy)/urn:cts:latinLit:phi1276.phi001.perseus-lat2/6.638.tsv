@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nos,nos,PROper,Case=Nom|Numb=Plur
-utinam,vtinam,ADV,Deg=Pos
-uani,vanvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur
-set,sed,CONcoo,MORPH=empty
-clamat,clamo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Pontia,pontia,NOM1,Case=Nom|Numb=Sing
-feci,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

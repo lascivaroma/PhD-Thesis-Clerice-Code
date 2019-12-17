@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-quanto,qvanto,ADVint,MORPH=empty
-Facsidium,facsidivs,NOM2,Case=Acc|Numb=Sing
-laudat,lavdo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uocalis,vocalis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-agentem,ago,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

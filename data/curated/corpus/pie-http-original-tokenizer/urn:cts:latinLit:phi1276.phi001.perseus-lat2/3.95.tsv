@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cultam,colo,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-palliolo,palliolvs,NOM2,Case=Abl|Numb=Sing|Deg=Pos
-mulier,mvlier,NOM3,Case=Nom|Numb=Sing
-nempe,nempe,ADV,Deg=Pos
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing
-uidetur,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

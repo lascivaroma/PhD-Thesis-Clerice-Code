@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uult,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-formosa,formosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-domi,domvs,NOM2,Case=Loc|Numb=Sing
-moechis,moechvs,NOM2,Case=Abl|Numb=Plur
-foliata,folio,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-parantur,paro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

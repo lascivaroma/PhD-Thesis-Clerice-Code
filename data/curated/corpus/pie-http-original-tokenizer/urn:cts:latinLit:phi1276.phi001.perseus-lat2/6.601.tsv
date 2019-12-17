@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-impleret,impleo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-tabulas,tabvla,NOM1,Case=Acc|Numb=Plur
-numquam,nvmqvam,ADVneg,MORPH=empty
-tibi,tv,PROper,Case=Dat|Numb=Sing
-mane,mane,ADV,Deg=Pos
-uidendus,video,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-.,vnvs,ADJcar,Case=Acc|Numb=Sing

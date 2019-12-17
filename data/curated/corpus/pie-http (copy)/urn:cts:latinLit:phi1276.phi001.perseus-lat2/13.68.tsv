@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-examen,examen,NOM3,Case=Nom|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-apium,apis,NOM2,Case=Gen|Numb=Plur
-longa,longvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-consederit,consido,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-uua,vva,NOM1,Case=Nom|Numb=Sing

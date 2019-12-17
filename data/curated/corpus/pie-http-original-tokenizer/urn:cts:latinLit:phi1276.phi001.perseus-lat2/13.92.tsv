@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-decernat,decerno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quodcumque,qvicvmqve,PROrel,Case=Acc|Numb=Sing
-uolet,volo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-de,de,PRE,MORPH=empty
-corpore,corpvs,NOM3,Case=Abl|Numb=Sing
-nostro,noster,PROpos,Case=Abl|Numb=Sing

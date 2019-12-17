@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-coepit,coepio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-cum,cvm,PRE,MORPH=empty
-uentis,ventvs,NOM2,Case=Abl|Numb=Plur
-imitatus,imitor,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3
-castora,castor,NOM3,Case=Acc|Numb=Plur
-qui,qvi,PROrel,Case=Nom|Numb=Plur
-se,svi,PROref,Case=Acc|Numb=Sing

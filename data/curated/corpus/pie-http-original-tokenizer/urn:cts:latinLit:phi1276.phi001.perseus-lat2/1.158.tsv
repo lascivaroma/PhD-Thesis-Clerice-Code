@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Qui,qvi,PROrel,Case=Gen|Numb=Sing
-dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ergo,ergo,CONcoo,MORPH=empty
-tribus,tres,ADJcar,Case=Abl|Numb=Plur
-patruis,patrvvs,NOM2,Case=Dat|Numb=Plur
-aconita,aconitvm,VER,Case=Nom|Numb=Sing
-uehatur,veho,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3

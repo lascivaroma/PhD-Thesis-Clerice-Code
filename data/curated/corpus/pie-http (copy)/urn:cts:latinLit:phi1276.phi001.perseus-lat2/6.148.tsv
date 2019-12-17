@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ocius,ociter,ADV,Deg=Comp
-et,et,CONcoo,MORPH=empty
-propera,propero,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-sicco,siccvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-altera,alter,PROind,Case=Nom|Numb=Sing
-naso,nasvs,NOM2,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Ind|Numb=Plur

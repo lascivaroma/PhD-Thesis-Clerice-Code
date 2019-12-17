@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-dicam,dico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-scapulis,scapvla,NOM2,Case=Dat|Numb=Plur
-puerorum,pver,NOM2,Case=Gen|Numb=Plur
-aquilone,aqvilo,NOM3,Case=Abl|Numb=Sing
-Decembri,december,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

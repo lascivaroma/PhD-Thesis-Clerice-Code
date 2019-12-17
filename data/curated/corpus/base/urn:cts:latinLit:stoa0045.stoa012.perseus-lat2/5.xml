@@ -1,0 +1,15 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/5.txt'>
+	<w pos='VER' lemma='conditer' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass'>CONDITUR</w>
+	<w pos='PROdem' lemma='hic1' msd='Case=Abl|Numb=Sing'>hoc</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Abl|Numb=Sing'>tumulo</w>
+	<w pos='VER' lemma='laertus' msd='Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>Laerta</w>
+	<w pos='VER' lemma='natus?' msd='Case=Nom|Numb=Sing|Mood=Par|Voice=Dep'>natus</w>
+	<w pos='NOMcom' lemma='ilixes' msd='Case=Voc|Numb=Sing'>Ulixes</w>
+	<w pos='VER' lemma='perlego2' msd='Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2'>perlege</w>
+	<w pos='ADJqua' lemma='odysseus' msd='Case=Acc|Numb=Plur|Deg=Pos'>Odyssea</w>
+	<w pos='CONcoo' lemma='ne2' msd='MORPH=empty'>-ne</w>
+	<w pos='PROind' lemma='omnis' msd='Case=Acc|Numb=Plur'>omnia</w>
+	<w pos='VER' lemma='nosco' msd='Mood=Inf|Tense=Perf|Voice=Act'>nosse</w>
+	<w pos='ADJqua' lemma='uolens' msd='Case=Nom|Numb=Sing|Deg=Pos|Tense=Pres|Voice=Act'>volens</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

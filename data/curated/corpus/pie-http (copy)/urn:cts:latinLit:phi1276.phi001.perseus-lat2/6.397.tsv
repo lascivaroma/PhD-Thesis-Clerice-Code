@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-commendare,commendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-uolet,volo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-uaricosus,varicosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-haruspex,harvspex,NOM3,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Sing

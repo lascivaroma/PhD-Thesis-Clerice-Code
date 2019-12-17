@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-crescit,cresco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-amor,amor,NOM3,Case=Nom|Numb=Sing
-nummi,nvmvs,NOM2,Case=Gen|Numb=Sing
-quantum,qvantvm,PROrel,Numb=Sing
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing
-pecunia,pecvnia,NOM1,Case=Nom|Numb=Sing
-creuit,cresco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

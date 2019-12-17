@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tu,tv,PROper,Case=Nom|Numb=Sing
--ne,ne,CONsub,MORPH=empty
-duos,dvo,ADJcar,Case=Acc|Numb=Plur
-septem,septem,ADJcar,Case=Ind
-si,si,CONsub,MORPH=empty
-septem,septem,ADJcar,Case=Ind
-forte,forte,ADV,Deg=Pos
-fuissent,svm,VER,Numb=Plur|Mood=Sub|Tense=Pqp|Voice=Act|Person=3

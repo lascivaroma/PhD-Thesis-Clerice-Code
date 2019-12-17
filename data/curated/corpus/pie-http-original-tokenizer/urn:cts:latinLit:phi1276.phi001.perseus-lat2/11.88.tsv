@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-functus,fvngor,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep
-ad,ad,PRE,MORPH=empty
-has,hic,PROdem,Case=Acc|Numb=Plur
-epulas,epvlae,NOM1,Case=Acc|Numb=Plur
-solito,solitvm,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-maturius,matvre,ADV,Deg=Comp
-ibat,eo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

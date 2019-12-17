@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-frustum,frvstvm,NOM2,Case=Acc|Numb=Sing
-capreae,caprea,NOM1,Case=Nom|Numb=Plur
-subducere,svbdvco,VER,Mood=Inf|Tense=Pres|Voice=Act
-nec,nec,CONcoo,MORPH=empty
-latus,latvs,NOM3,Case=Acc|Numb=Sing
-Afrae,afer,NOM1,Case=Gen|Numb=Sing

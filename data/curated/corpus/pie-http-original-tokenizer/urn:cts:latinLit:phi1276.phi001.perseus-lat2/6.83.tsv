@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ad,ad,PRE,MORPH=empty
-Pharon,pharvs,NOM7,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-Nilum,nilvs,NOM2,Case=Acc|Numb=Sing
-famosaque,famosvs,ADV,Deg=Pos
-moenia,moenia,NOM3,Case=Acc|Numb=Plur
-Lagi,lagvs,NOM2,Case=Gen|Numb=Sing

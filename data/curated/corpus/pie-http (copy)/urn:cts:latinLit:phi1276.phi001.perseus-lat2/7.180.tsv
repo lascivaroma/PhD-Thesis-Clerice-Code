@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-expectet,exspecto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-spargat,spargo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
--ue,qveo,NOM3,Case=Abl|Numb=Sing
-luto,lvtvm,NOM2,Case=Abl|Numb=Sing
-iumenta,ivmentvm,NOM2,Case=Acc|Numb=Plur
-recenti,recens,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

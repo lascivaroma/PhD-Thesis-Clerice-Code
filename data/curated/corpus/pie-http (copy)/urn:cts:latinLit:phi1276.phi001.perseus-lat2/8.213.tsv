@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-supplicio,svpplicivm,NOM2,Case=Dat|Numb=Sing
-non,non,ADVneg,MORPH=empty
-debuit,debeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-una,vna,ADV,MORPH=empty
-parari,paro,VER,Mood=Inf|Tense=Pres|Voice=Pass

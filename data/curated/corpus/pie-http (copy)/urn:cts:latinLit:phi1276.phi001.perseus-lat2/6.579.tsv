@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-angulus,angvlvs,NOM2,Case=Nom|Numb=Sing
-inspecta,inspicio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-genesi,genesis,NOM2,Case=Gen|Numb=Sing
-collyria,collyrivm,NOM2,Case=Acc|Numb=Plur
-poscit,posco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,PRE,MORPH=empty

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uis,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-tu,tv,PROper,Case=Nom|Numb=Sing
-consuetis,consvesco,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass|Person=2
-audax,avdax,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-conuiua,conviva,NOM1,Case=Voc|Numb=Sing
-canistris,canistrvm,NOM2,Case=Abl|Numb=Plur

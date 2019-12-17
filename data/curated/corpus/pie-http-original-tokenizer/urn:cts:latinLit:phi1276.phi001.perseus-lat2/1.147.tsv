@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Nil,nihilvs,NOM3,Case=Nom|Numb=Sing
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-ulterius,vlterior,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-quod,qvi,PROrel,Case=Nom|Numb=Sing
-nostris,noster,PROpos,Case=Dat|Numb=Plur
-moribus,mos,NOM3,Case=Dat|Numb=Plur
-addat,addo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

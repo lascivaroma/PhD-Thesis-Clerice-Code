@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-argenti,argentvm,NOM2,Case=Gen|Numb=Sing
-quod,qvi,PROrel,Case=Nom|Numb=Sing
-erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-solis,sol,NOM3,Case=Gen|Numb=Sing
-fulgebat,fvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-armis,arma,NOM2,Case=Abl|Numb=Plur

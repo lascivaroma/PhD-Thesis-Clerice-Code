@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ingenio,ingenivm,NOM2,Case=Abl|Numb=Sing
-manus,manvs,NOM4,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-ceruix,cervix,NOM3,Case=Nom|Numb=Sing
-caesa,caedo,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-nec,nec,CONcoo,MORPH=empty
-umquam,vmqvam,ADV,Deg=Pos

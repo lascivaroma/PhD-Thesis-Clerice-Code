@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-incipiant,incipio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-prurire,prvrio,VER,Mood=Inf|Tense=Pres|Voice=Act
-choro,chorvs,NOM2,Case=Abl|Numb=Sing
-plausu,plavsvs,NOM4,Case=Abl|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-probatae,probo,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

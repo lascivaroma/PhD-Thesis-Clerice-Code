@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-continuis,continvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-quia,qvia,CONsub,MORPH=empty
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-talis,talis,PROdem,Case=Nom|Numb=Sing
-quoque,qvoqve,ADV,Deg=Pos
-taedia,taedivm,NOM2,Case=Nom|Numb=Plur
-uitae,vita,NOM1,Case=Gen|Numb=Sing

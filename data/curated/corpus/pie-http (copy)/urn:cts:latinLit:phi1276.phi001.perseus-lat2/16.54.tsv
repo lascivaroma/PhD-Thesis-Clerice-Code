@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-omne,omnis,PROind,Case=Acc|Numb=Sing
-tenet,teneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-regime,regime,NOM3,Numb=Sing
--ne,ne,CONsub,MORPH=empty
-pater,pater,NOM3,Case=Nom|Numb=Sing
-ergo,ergo,CONcoo,MORPH=empty
-Coranum,coranvs,NOM2,Case=Acc|Numb=Sing

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-perpetuo,perpetvo,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-risu,risvs,NOM4,Case=Abl|Numb=Sing
-pulmonem,pvlmo,NOM3,Case=Acc|Numb=Sing
-agitare,agito,VER,Mood=Inf|Tense=Pres|Voice=Act
-solebat,soleo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3

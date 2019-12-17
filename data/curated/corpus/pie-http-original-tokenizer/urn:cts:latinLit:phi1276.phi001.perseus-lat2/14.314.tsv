@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-passurus,patior,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Dep
-gestis,gero,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-aequanda,aeqvo,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
-pericula,pericvlvm,NOM2,Case=Acc|Numb=Plur
-rebus,res,NOM5,Case=Dat|Numb=Plur
-nullum,nvllvs,PROind,Case=Acc|Numb=Sing

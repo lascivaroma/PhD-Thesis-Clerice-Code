@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-pudor,pvdor,NOM3,Case=Nom|Numb=Sing
-opstabit,obsto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-non,non,ADVneg,MORPH=empty
-possum,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
-Quirites,qvirites,NOM3,Case=Voc|Numb=Plur

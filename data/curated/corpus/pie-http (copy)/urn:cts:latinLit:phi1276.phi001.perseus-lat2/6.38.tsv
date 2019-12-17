@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Sed,sede,NOM7,Case=Nom|Numb=Sing
-placet,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Vrsidio,vrsidivs,NOM2,Case=Dat|Numb=Sing
-lex,lex,NOM3,Case=Nom|Numb=Sing
-Iulia,ivlivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-tollere,tollo,VER,Mood=Inf|Tense=Pres|Voice=Act
-dulcem,dvlcis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

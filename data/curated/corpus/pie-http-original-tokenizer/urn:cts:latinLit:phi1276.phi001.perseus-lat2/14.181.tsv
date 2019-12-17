@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Vestinusque,vestinvs,NOM2,Case=Nom|Numb=Sing
-senex,senex,NOM3,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty
-panem,panis,NOM3,Case=Acc|Numb=Sing
-quaeramus,qvaero,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-aratro,aratrvm,NOM2,Case=Abl|Numb=Sing

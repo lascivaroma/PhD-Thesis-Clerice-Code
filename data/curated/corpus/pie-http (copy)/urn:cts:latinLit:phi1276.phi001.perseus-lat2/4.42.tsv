@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quos,qvis,PROrel,Case=Acc|Numb=Plur
-operit,operio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-glacies,glacies,NOM5,Case=Nom|Numb=Sing
-Maeotica,maeoticvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-rupta,rvmpo,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
--que,qvove,CONcoo,MORPH=empty
-tandem,tandem,ADV,Deg=Pos

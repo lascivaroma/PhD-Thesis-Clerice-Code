@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aliquid,aliqvis,PROind,Case=Nom|Numb=Sing
-quocumque,qvicvmqve,PROrel,Case=Abl|Numb=Sing
-loco,locvs,NOM2,Case=Abl|Numb=Sing
-quocumque,qvicvmqve,PROrel,Case=Abl|Numb=Sing
-recessu,recessvs,NOM4,Case=Abl|Numb=Sing

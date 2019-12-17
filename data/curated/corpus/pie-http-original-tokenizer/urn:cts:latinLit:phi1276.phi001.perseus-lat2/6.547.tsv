@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-qualiacumque,qvaliscvmqve,PROrel,Case=Acc|Numb=Plur
-uoles,volo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-Iudaei,ivdaei,NOM2,Case=Gen|Numb=Plur
-somnia,somnivm,NOM2,Case=Acc|Numb=Plur
-uendunt,vendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Ind|Numb=Plur

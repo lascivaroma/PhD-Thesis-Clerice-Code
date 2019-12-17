@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quod,qvis,PROrel,Case=Nom|Numb=Sing
-uocis,vox,NOM3,Case=Gen|Numb=Sing|Mood=Ind
-pretium,pretivm,NOM2,Case=Nom|Numb=Sing
-siccus,siccvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-petasunculus,petasvncvlvs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-uas,vas,NOM3,Case=Nom|Numb=Sing

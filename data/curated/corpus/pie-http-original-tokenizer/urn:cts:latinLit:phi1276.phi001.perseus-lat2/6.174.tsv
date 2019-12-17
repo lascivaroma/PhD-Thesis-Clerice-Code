@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Amphion,amphion,NOM7,Case=Nom|Numb=Sing
-clamat,clamo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,PRE,MORPH=empty
-sed,sed,CONcoo,MORPH=empty
-Paean,paean,NOM7,Case=Acc|Numb=Sing
-contrahit,contraho,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-arcum,arcvs,NOM4,Case=Acc|Numb=Sing

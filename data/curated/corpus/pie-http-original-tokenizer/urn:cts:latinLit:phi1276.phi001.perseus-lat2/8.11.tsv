@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ante,ante,PRE,MORPH=empty
-Numantinos,nvmantini,NOM2,Case=Acc|Numb=Plur
-si,si,CONsub,MORPH=empty
-dormire,dormio,VER,Mood=Inf|Tense=Pres|Voice=Act
-incipis,incipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ortu,ortvs,NOM4,Case=Abl|Numb=Sing

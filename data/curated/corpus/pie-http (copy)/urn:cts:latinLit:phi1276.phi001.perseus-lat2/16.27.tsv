@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-ueniat,venio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-lacrimae,lacrima,NOM1,Case=Nom|Numb=Plur
-siccentur,sicco,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-protinus,protinvs,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing

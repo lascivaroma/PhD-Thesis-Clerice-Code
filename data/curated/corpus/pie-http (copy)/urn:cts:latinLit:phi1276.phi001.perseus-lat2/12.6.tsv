@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Tarpeio,tarpeivs,NOM2,Case=Dat|Numb=Sing
-seruata,servo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-Ioui,ivppiter,NOM3,Case=Dat|Numb=Sing
-frontem,frons,NOM3,Case=Acc|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-coruscat,corvsco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-eiusdem,idem,PROdem,Case=Gen|Numb=Sing
-pars,pars,NOM3,Case=Nom|Numb=Sing
-dira,dirvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-quidem,qvidem,ADV,Deg=Pos
-sed,sed,CONcoo,MORPH=empty
-cognita,cognosco,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass
-multis,mvlti,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Praeterea,praeterevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sanctum,sancio,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nihil,nihil,PROind,Case=Ind
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-neque,neqve,CONcoo,MORPH=empty
-ab,ab,PRE,MORPH=empty
-inguine,ingven,NOM3,Case=Abl|Numb=Sing
-tutum,tvtvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

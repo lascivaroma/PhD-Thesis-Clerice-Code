@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Hic,hic,NOM2,Case=Nom|Numb=Sing
-magicos,magicvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-adfert,affero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-cantus,cantvs,NOM4,Case=Acc|Numb=Plur
-hic,hic,PROdem,Case=Nom|Numb=Sing
-Thessala,thessalvs,NOM1,Case=Nom|Numb=Sing
-uendit,vendo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

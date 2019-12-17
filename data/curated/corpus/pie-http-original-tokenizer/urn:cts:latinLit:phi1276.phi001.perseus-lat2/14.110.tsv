@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-triste,tristis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-habitu,habitvs,NOM4,Case=Abl|Numb=Sing|Mood=SupUm
-uultuque,vvltvs,NOM4,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-ueste,vestis,NOM3,Case=Abl|Numb=Sing
-seuerum,severvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

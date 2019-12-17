@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-extendit,extendo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-pectitque,pectitvs,ADV,Deg=Pos
-comas,coma,NOM1,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-uoluit,volo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-orbem,orbis,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

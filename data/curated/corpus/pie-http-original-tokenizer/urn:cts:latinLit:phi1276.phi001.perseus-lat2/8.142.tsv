@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quo,qvo,ADVint,Case=Abl
-mihi,ego,PROper,Case=Dat|Numb=Sing
-te,tv,PROper,Case=Acc|Numb=Sing
-solitum,soleo,VER,Case=Acc|Numb=Sing|Deg=Pos|Mood=Inf|Tense=Perf|Voice=SemDep
-falsas,falsvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-signare,signo,VER,Mood=Inf|Tense=Pres|Voice=Act
-tabellas,tabella,NOM1,Case=Acc|Numb=Plur

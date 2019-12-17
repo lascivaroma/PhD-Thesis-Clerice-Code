@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ergo,ergo,CONcoo,MORPH=empty
-in,in,PRE,MORPH=empty
-consilium,consilivm,NOM2,Case=Acc|Numb=Sing
-proceres,procer,NOM3,Case=Acc|Numb=Plur
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-oderat,odi,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing

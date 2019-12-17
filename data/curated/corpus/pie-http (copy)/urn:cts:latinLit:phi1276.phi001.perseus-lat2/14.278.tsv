@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-spes,spes,NOM5,Case=Nom|Numb=Sing
-lucri,lvcrvm,NOM2,Case=Gen|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-Carpathium,carpathivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Gaetula,gaetvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvavis,CONcoo,MORPH=empty
-tantum,tantvm,PROdem,Numb=Sing|Deg=Pos

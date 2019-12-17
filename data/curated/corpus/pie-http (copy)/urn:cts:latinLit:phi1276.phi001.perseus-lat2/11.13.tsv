@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-cito,cito,ADV,Deg=Pos
-casurus,cado,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
-iam,iam,ADV,Deg=Pos
-perlucente,pellvceo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-ruina,rvina,NOM1,Case=Abl|Numb=Sing

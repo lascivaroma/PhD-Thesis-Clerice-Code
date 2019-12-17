@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uos,vos,PROper,Case=Nom|Numb=Plur
-lanam,lana,NOM1,Case=Acc|Numb=Sing
-trahitis,traho,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-calathisque,calathisqve,NOM2,Case=Voc|Numb=Plur|Deg=Pos
-peracta,perago,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-refertis,refero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2

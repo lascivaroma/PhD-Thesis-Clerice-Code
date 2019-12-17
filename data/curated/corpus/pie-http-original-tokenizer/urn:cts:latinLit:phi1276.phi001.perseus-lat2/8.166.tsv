@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quaedam,qvidam,PROind,Case=Nom|Numb=Plur
-cum,cvm,CONsub,MORPH=empty
-prima,primvs,ADJord,Case=Nom|Numb=Plur|Deg=Sup
-resecentur,reseco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-crimina,crimen,NOM3,Case=Nom|Numb=Plur
-barba,barba,NOM1,Case=Nom|Numb=Sing

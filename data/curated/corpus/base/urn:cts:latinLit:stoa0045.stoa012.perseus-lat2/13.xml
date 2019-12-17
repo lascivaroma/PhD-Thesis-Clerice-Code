@@ -1,0 +1,27 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/13.txt'>
+	<w pos='VER' lemma='prodo' msd='Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>PRODITUS</w>
+	<w pos='PRE' lemma='ad2' msd='MORPH=empty'>ad</w>
+	<w pos='NOMcom' lemma='poena' msd='Case=Acc|Numb=Sing'>poenam</w>
+	<w pos='ADJqua' lemma='sceleratus' msd='Case=Gen|Numb=Sing|Deg=Pos'>sceleratae</w>
+	<w pos='NOMcom' lemma='fraus' msd='Case=Abl|Numb=Sing'>fraude</w>
+	<w pos='NOMcom' lemma='lacaena' msd='Case=Gen|Numb=Sing'>Lacaenae</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='VER' lemma='deformo?' msd='Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>deformato</w>
+	<w pos='NOMcom' lemma='corpus' msd='Case=Abl|Numb=Sing'>corpore</w>
+	<w pos='NOMcom' lemma='deiphobus' msd='Case=Nom|Numb=Sing'>Deiphobus</w>
+	<w pos='ADVneg' lemma='non' msd='MORPH=empty'>non</w>
+	<w pos='VER' lemma='habeo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1'>habeo</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Acc|Numb=Sing'>tumulum</w>
+	<w pos='CONsub' lemma='nisi' msd='MORPH=empty'>nisi</w>
+	<w pos='PROrel' lemma='qui1' msd='Case=Acc|Numb=Sing'>quem</w>
+	<w pos='PROper' lemma='ego' msd='Case=Dat|Numb=Sing'>mihi</w>
+	<w pos='NOMcom' lemma='uox' msd='Case=Abl|Numb=Sing'>voce</w>
+	<w pos='VER' lemma='uoco' msd='Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act'>vocantis</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='ADJqua' lemma='pius' msd='Case=Nom|Numb=Sing|Deg=Pos'>pius</w>
+	<w pos='ADJqua' lemma='aeneus' msd='Case=Acc|Numb=Plur|Deg=Pos'>Aeneas</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='ADJqua' lemma='marus' msd='Case=Abl|Numb=Sing|Deg=Pos'>Maro</w>
+	<w pos='VER' lemma='compono' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>conposuit</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

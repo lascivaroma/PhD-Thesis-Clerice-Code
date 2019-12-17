@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-laedant,laedo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-silicem,silex,NOM3,Case=Acc|Numb=Sing
-possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-ignauus,ignavvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-haberi,habeo,VER,Mood=Inf|Tense=Pres|Voice=Pass

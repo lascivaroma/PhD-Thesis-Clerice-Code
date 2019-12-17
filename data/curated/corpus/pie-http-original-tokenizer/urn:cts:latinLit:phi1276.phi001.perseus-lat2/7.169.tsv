@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-fusa,fvndo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-uenena,venenvm,NOM2,Case=Nom|Numb=Plur
-silent,sileo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-malus,malvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ingratusque,ingratvsqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-maritus,maritvs,NOM2,Case=Nom|Numb=Sing

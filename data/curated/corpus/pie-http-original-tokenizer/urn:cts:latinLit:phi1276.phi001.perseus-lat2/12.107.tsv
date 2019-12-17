@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-priuato,privatvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-siquidem,siqvidem,CONsub,MORPH=empty
-Tyrio,tyrivs,NOM2,Case=Dat|Numb=Sing|Deg=Pos
-parere,pareo,VER,Mood=Inf|Tense=Pres|Voice=Act
-solebant,soleo,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=SemDep|Person=3

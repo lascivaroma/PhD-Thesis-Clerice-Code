@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-fixa,figo,VER,Case=Nom|Numb=Sing|Tense=Perf|Voice=Pass
-catenatae,catenatvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-siluit,sileo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-compago,compago,NOM3,Case=Nom|Numb=Sing
-tabernae,taberna,NOM1,Case=Gen|Numb=Sing
-.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

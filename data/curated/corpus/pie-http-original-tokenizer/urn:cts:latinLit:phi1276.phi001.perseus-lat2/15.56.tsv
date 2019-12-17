@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-integer,integer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-aspiceres,aspicio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2
-iam,iam,ADV,Deg=Pos
-cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-per,per,PRE,MORPH=empty
-agmina,agmen,NOM3,Case=Acc|Numb=Plur
-uultus,vvltvs,NOM4,Case=Acc|Numb=Plur

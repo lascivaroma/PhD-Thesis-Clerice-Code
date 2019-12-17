@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-indignus,indignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-genere,genvs,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-praeclaro,praeclarvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-nomine,nomen,NOM3,Case=Abl|Numb=Sing
-tantum,tantvm,PROdem,Numb=Sing|Deg=Pos

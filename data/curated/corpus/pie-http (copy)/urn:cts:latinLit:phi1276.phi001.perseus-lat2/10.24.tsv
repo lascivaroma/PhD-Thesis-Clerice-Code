@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-diuitiae,divitiae,NOM1,Case=Nom|Numb=Plur
-crescant,cresco,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ut,vt,CONsub,MORPH=empty
-opes,ops,NOM3,Case=Nom|Numb=Plur
-ut,vt,ADVrel,MORPH=empty
-maxima,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Sup
-toto,totvs,PROind,Case=Abl|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-eloquio,eloqvivm,NOM2,Case=Abl|Numb=Sing
-sed,sed,CONcoo,MORPH=empty
-uterque,vterqve,PROind,Case=Nom|Numb=Sing
-perit,pereo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-orator,orator,NOM3,Case=Nom|Numb=Sing
-utrumque,vterqve,PROind,Case=Acc|Numb=Sing

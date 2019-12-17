@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Plur
-saturant,satvro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-urbem,vrbs,NOM3,Case=Acc|Numb=Sing
-circo,circvs,NOM2,Case=Abl|Numb=Sing
-scaenaeque,scenaeqve,ADV,Deg=Pos
-uacantem,vaco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-;,o,PRE,MORPH=empty

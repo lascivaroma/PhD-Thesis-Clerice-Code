@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-rectoris,rector,NOM3,Case=Gen|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-ferret,fero,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-opem,ops,NOM3,Case=Acc|Numb=Sing
-decidere,decido,VER,Mood=Inf|Tense=Pres|Voice=Act
-iactu,iactvs,NOM4,Case=Abl|Numb=Sing

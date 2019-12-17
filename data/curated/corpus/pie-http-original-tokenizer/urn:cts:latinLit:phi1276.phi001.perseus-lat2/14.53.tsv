@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-deterius,deterior,ADJqua,Case=Acc|Deg=Comp
-tua,tvvs,PROpos,Case=Acc|Numb=Plur
-per,per,PRE,MORPH=empty
-uestigia,vestigivm,NOM2,Case=Acc|Numb=Plur
-peccet,pecco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

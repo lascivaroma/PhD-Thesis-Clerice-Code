@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-saeuit,saevio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nuda,nvdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-manus,manvs,NOM4,Case=Nom|Numb=Plur
-paucae,pavcvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-sine,sine,PRE,MORPH=empty
-uulnere,vvlnvs,NOM3,Case=Abl|Numb=Sing
-malae,malvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-;,o,PRE,MORPH=empty

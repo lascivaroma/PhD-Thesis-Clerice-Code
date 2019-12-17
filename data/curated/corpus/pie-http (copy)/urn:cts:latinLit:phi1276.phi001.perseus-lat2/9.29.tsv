@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-munimenta,mvnimentvm,NOM2,Case=Acc|Numb=Plur
-togae,toga,NOM1,Case=Gen|Numb=Sing
-duri,dvrvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-crassi,crassvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
--que,qvisqve,CONcoo,MORPH=empty
-coloris,color,NOM3,Case=Gen|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aut,avt,CONcoo,MORPH=empty
-aput,apvd,PRE,MORPH=empty
-Isiacae,isiacvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-potius,potivs,ADV,Deg=Comp
-sacraria,sacrarivm,NOM2,Case=Acc|Numb=Plur
-lenae,lena,NOM1,Case=Gen|Numb=Sing

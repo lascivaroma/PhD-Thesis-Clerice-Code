@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-pudor,pvdor,NOM3,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-de,de,PRE,MORPH=empty
-puluino,pvlvinvs,NOM2,Case=Abl|Numb=Sing
-surgat,svrgo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-equestri,eqvester,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

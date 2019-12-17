@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-facis,facio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-patriae,patria,NOM1,Case=Dat|Numb=Sing
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-idoneus,idonevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-utilis,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-agris,ager,NOM2,Case=Dat|Numb=Plur

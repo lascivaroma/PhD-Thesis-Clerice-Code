@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tunc,tvnc,ADV,Deg=Pos
-prurigo,prvrigo,NOM3,Case=Nom|Numb=Sing
-morae,mora,NOM1,Case=Gen|Numb=Sing
-inpatiens,impatiens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-tum,tvm,ADV,Deg=Pos
-femina,femina,NOM1,Case=Nom|Numb=Sing
-simplex,simplex,ADJmul,Case=Nom|Numb=Sing|Deg=Pos

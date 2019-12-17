@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-solatur,solor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-gratoque,gratoqve,ADV,Deg=Pos
-indulget,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-basia,basivm,NOM2,Case=Nom|Numb=Plur
-plectro,plectrvm,NOM2,Case=Abl|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

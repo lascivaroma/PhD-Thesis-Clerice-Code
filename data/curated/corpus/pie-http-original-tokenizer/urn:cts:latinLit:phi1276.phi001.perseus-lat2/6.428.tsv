@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ducitur,dvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-ante,ante,PRE,MORPH=empty
-cibum,cibvs,NOM2,Case=Acc|Numb=Sing
-rabidam,rabidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-facturus,facio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
-orexim,orexis,NOM3,Case=Acc|Numb=Sing

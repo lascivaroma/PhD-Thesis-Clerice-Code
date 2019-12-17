@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-illum,ille,PROdem,Case=Acc|Numb=Sing
-exercitibus,exercitvs,NOM4,Case=Dat|Numb=Plur
-praeponere,praepono,VER,Mood=Inf|Tense=Pres|Voice=Act
-tutor,tvtor,NOM3,Case=Nom|Numb=Sing
-haberi,habeo,VER,Mood=Inf|Tense=Pres|Voice=Pass

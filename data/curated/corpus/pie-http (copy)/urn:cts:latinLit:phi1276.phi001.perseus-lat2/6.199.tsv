@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quamquam,qvamqvam,ADVrel,MORPH=empty
-et,et,CONcoo,MORPH=empty
-Carpophoro,carpophorvs,NOM2,Case=Dat|Numb=Sing
-facies,facies,NOM5,Case=Nom|Numb=Sing
-tua,tvvs,PROpos,Case=Nom|Numb=Sing
-conputat,compvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-annos,annvs,NOM2,Case=Acc|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-interea,interea,ADV,Deg=Pos
-calet,caleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-regnat,regno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-poscit,posco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
--que,qvove,ADV,MORPH=empty
-maritum,maritvs,NOM2,Case=Acc|Numb=Sing

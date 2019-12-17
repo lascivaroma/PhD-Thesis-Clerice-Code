@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uiue,vivo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-bidentis,bidens,NOM3,Case=Gen|Numb=Sing
-amans,amans,ADJqua,Case=Nom|Numb=Sing|Voice=Act
-et,et,CONcoo,MORPH=empty
-culti,cvltvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-uilicus,villicvs,NOM2,Case=Nom|Numb=Sing
-horti,hortvs,NOM2,Case=Gen|Numb=Sing

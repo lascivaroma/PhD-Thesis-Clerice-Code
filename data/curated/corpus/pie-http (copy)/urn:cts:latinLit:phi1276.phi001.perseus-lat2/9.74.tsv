@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-quae,qvi,PROrel,Case=Acc|Numb=Plur
-pollicitus,polliceor,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep|Person=3
-fugientem,fvgio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-saepe,saepe,ADV,Deg=Pos
-puellam,pvella,NOM1,Case=Acc|Numb=Sing

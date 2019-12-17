@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-an,an,ADVint,MORPH=empty
-Capitolinam,capitolinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-deberet,debeo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-Pollio,pollio,NOM3,Case=Nom|Numb=Sing
-quercum,qvercvs,NOM4,Case=Acc|Numb=Sing

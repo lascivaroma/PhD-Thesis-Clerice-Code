@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quam,qvam,ADVint,MORPH=empty
-si,si,CONsub,MORPH=empty
-me,ego,PROper,Case=Acc|Numb=Sing
-toto,totvs,PROind,Case=Abl|Numb=Sing
-laudet,lavdo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-uicinia,vicinia,NOM1,Case=Nom|Numb=Sing
-pago,pagvs,NOM2,Case=Abl|Numb=Sing

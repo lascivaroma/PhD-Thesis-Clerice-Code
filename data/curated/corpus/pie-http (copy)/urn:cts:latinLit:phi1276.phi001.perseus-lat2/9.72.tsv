@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-deuotus,devoveo,VER,Case=Nom|Numb=Sing|Deg=Pos|Tense=Perf|Voice=Pass
--que,qvovs,ADV,MORPH=empty
-cliens,cliens,NOM3,Case=Nom|Numb=Sing
-uxor,vxor,NOM3,Case=Nom|Numb=Sing
-tua,tvvs,PROpos,Case=Nom|Numb=Sing
-uirgo,virgo,NOM3,Case=Nom|Numb=Sing
-maneret,maneo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

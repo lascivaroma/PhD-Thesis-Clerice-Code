@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-male,male,ADV,Deg=Pos
-defensus,defendo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Sing
-curramus,cvrro,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-praecipites,praeceps,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty

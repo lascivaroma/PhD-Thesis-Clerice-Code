@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-peccandi,pecco,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
-finem,finis,NOM3,Case=Acc|Numb=Sing
-posuit,pono,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-sibi,svi,PROref,Case=Dat|Numb=Sing
-quando,qvando,ADVint,MORPH=empty
-recepit,recipio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

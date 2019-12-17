@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-aestiuum,aestivvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-tonat,tono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-infelix,infelix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-hac,hac,ADV,Deg=Pos
-forsitan,forsitan,ADV,Deg=Pos
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing

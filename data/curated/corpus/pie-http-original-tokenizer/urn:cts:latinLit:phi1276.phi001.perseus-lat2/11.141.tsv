@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-caeditur,caedo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-tota,totvs,PROind,Case=Abl|Numb=Sing
-sonat,sono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ulmea,vlmevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cena,cena,NOM1,Case=Abl|Numb=Sing
-Subura,svbvra,NOM1,Case=Nom|Numb=Sing
-.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

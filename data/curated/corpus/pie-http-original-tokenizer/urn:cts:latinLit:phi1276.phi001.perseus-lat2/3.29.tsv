@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-cedamus,cedo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-patria,patria,NOM1,Case=Nom|Numb=Sing
-uiuant,vivo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Artorius,artorivs,NOM2,Case=Nom|Numb=Sing
-istic,istic,ADV,Deg=Pos

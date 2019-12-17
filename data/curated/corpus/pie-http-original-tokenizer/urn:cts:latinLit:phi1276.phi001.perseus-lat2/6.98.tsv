@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-iubeat,ivbeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-coniunx,conivx,NOM3,Case=Nom|Numb=Sing
-durum,dvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-conscendere,conscendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-nauem,navis,NOM3,Case=Acc|Numb=Sing
-;,o,PRE,MORPH=empty

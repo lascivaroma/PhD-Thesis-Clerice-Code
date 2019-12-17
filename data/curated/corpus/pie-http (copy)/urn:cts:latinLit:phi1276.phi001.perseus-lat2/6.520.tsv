@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-quidquid,qvisqvis,PROrel,Case=Nom|Numb=Sing
-subiti,svbitvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-discriminis,discrimen,NOM3,Case=Gen|Numb=Sing
-instat,insto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

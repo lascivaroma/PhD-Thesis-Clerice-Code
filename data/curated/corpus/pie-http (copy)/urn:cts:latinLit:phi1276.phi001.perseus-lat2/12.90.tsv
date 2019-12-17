@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tura,tvs,NOM3,Case=Acc|Numb=Plur
-dabo,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
-atque,atqve,CONcoo,MORPH=empty
-omnis,omnis,PROind,Case=Acc|Numb=Plur
-uiolae,viola,NOM1,Case=Gen|Numb=Sing
-iactabo,iacto,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
-colores,color,NOM3,Case=Acc|Numb=Plur
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

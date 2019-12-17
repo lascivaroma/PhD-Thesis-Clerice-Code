@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-coniugium,conivgivm,NOM2,Case=Acc|Numb=Sing
-petimus,peto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-partum,partvs,NOM4,Case=Acc|Numb=Sing
--que,qvavis,CONcoo,MORPH=empty
-uxoris,vxor,NOM3,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty
-at,at,ADV,MORPH=empty
-illis,ille,PROdem,Case=Abl|Numb=Plur

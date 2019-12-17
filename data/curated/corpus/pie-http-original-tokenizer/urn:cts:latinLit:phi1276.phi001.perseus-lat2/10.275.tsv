@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-respicere,respicio,VER,Mood=Inf|Tense=Pres|Voice=Act
-ad,ad,PRE,MORPH=empty
-longae,longvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-iussit,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-spatia,spativm,NOM2,Case=Acc|Numb=Plur
-ultima,vltimvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-uitae,vita,NOM1,Case=Gen|Numb=Sing
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-a,ab,PRE,MORPH=empty
-grege,grex,NOM3,Case=Abl|Numb=Sing
-mutorum,mvtvs,NOM2,Case=Gen|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-ideo,ideo,ADV,Deg=Pos
-uenerabile,venerabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-soli,solvs,NOM2,Case=Dat|Numb=Sing

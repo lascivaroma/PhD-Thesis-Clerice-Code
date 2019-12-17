@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-perditus,perditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ut,vt,CONsub,MORPH=empty
-dicat,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-regi,rex,NOM3,Case=Dat|Numb=Sing|Tense=Pres
-bibe,bibo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-plurima,mvltvs,ADJqua,Case=Nom|Numb=Plur|Deg=Sup
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quae,qvi,PROrel,Case=Nom|Numb=Plur

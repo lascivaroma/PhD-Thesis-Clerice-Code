@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nunc,nvnc,ADV,Deg=Pos
-Praenestinis,praenestinvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
-in,in,PRE,MORPH=empty
-montibus,mons,NOM3,Case=Abl|Numb=Plur
-alta,altvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-parabat,paro,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

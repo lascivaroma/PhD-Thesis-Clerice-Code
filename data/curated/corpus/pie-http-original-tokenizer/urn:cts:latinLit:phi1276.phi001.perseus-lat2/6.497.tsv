@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-consilio,consilivm,NOM2,Case=Abl|Numb=Sing
-materna,maternvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-admotaque,admoveo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf
-lanis,lana,NOM1,Case=Abl|Numb=Plur

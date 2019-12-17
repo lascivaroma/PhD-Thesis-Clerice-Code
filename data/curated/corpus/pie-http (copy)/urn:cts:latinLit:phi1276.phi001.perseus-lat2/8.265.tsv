@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-imperii,imperivm,NOM2,Case=Gen|Numb=Sing
-fines,finis,NOM3,Case=Acc|Numb=Plur
-Tiberinum,tiberinvs,NOM2,Case=Acc|Numb=Sing
-uirgo,virgo,NOM3,Case=Nom|Numb=Sing
-natauit,nato,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

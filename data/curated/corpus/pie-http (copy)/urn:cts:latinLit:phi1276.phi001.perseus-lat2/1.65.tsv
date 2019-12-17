@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-hinc,hinc,ADV,Deg=Pos
-atque,atqve,CONcoo,MORPH=empty
-inde,inde,ADV,Deg=Pos
-patens,pateo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-ac,ac,CONcoo,MORPH=empty
-nuda,nvdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-paene,paene,ADV,Deg=Pos
-cathedra,cathedra,NOM1,Case=Abl|Numb=Sing

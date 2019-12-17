@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hospitium,hospitivm,NOM2,Case=Acc|Numb=Sing
-caderent,cado,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-omnes,omnis,PROind,Case=Nom|Numb=Plur
-a,ab,PRE,MORPH=empty
-crinibus,crinis,NOM3,Case=Abl|Numb=Plur
-hydri,hydrvs,NOM2,Case=Nom|Numb=Plur

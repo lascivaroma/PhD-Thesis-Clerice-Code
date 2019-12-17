@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-adferte,affero,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-atque,atqve,CONcoo,MORPH=empty
-illis,ille,PROdem,Case=Dat|Numb=Plur
-dominum,dominvs,NOM2,Case=Acc|Numb=Sing
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ante,ante,ADV,Deg=Pos
-feriri,ferio,VER,Mood=Inf|Tense=Pres|Voice=Pass

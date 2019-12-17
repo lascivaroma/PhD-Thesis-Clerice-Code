@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-obliquas,obliqvvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-non,non,ADVneg,MORPH=empty
-gentilia,gentilis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-tympana,tympanvm,NOM2,Case=Acc|Numb=Plur
-cum,cvm,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing

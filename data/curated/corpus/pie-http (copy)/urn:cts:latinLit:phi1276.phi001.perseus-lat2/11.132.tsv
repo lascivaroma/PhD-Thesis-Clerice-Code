@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-eboris,ebvr,NOM3,Case=Gen|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-tessellae,tessela,NOM1,Case=Nom|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-calculus,calcvlvs,NOM2,Case=Nom|Numb=Sing
-ex,ex,PRE,MORPH=empty
-hac,hic,PROdem,Case=Abl|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-conducit,condvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-gaude,gavdeo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=SemDep|Person=2
-infelix,infelix,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-atque,atqve,CONcoo,MORPH=empty
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-bibendum,bibo,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass

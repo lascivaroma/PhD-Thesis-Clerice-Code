@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nonne,nonne,ADVint.neg,MORPH=empty
-igitur,igitvr,CONcoo,MORPH=empty
-iure,ivre,NOM3,Case=Abl|Numb=Sing
-ac,ac,CONcoo,MORPH=empty
-merito,merito,ADV,Deg=Pos
-uitia,vitivm,NOM2,Case=Acc|Numb=Plur
-ultima,vltimvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-fictos,fingo,VER,Case=Acc|Numb=Plur|Mood=Inf|Tense=Perf|Voice=Pass

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-quibus,qvi,PROrel,Case=Dat|Numb=Plur
-illorum,ille,PROdem,Case=Gen|Numb=Plur
-poterant,possvm,VER,Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-ignoscere,ignosco,VER,Mood=Inf|Tense=Pres|Voice=Act
-manes,manes,NOM3,Case=Acc|Numb=Plur

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-euertere,everto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act
-domos,domvs,NOM2,Case=Acc|Numb=Plur
-totas,totvs,PROind,Case=Acc|Numb=Plur
-optantibus,opto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-ipsis,ipse,PROdem,Case=Dat|Numb=Plur

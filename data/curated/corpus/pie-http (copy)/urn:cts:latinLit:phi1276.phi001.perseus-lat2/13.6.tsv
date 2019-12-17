@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-de,de,PRE,MORPH=empty
-scelere,scelvs,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-fidei,fides,NOM5,Case=Gen|Numb=Sing
-uiolatae,violo,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-crimine,crimen,NOM3,Case=Abl|Numb=Sing
-sed,sed,CONcoo,MORPH=empty
-nec,nec,CONcoo,MORPH=empty

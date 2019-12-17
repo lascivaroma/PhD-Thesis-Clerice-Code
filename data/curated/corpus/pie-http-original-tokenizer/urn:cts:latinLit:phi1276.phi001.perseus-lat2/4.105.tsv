@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Rubrius,rvbrivs,NOM2,Case=Nom|Numb=Sing
-offensae,offensa,NOM1,Case=Gen|Numb=Sing
-ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-reus,revs,NOM2,Case=Nom|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-tacendae,taceo,VER,Case=Gen|Numb=Sing|Mood=Adj|Voice=Pass

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-sint,svm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-contentae,contentvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-patulas,patvlvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-defundere,defvndo,VER,Mood=Inf|Tense=Pres|Voice=Act
-pelues,pelvis,NOM3,Case=Acc|Numb=Plur
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-praebebis,praebeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-quandoque,qvandoqve,ADV,MORPH=empty
-caput,capvt,NOM3,Case=Acc|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-dura,dvrvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-timebis,timeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

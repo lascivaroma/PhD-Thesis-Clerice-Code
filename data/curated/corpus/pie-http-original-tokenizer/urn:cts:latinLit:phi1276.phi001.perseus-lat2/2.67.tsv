@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Cretice,creticvs,NOM2,Case=Voc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-uestem,vestis,NOM3,Case=Acc|Numb=Sing
-populo,popvlvs,NOM2,Case=Dat|Numb=Sing
-mirante,miror,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
-perores,peror,NOM3,Case=Acc|Numb=Plur

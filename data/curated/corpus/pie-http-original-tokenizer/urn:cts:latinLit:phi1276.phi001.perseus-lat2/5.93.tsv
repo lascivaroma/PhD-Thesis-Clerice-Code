@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Tauromenitanae,tavromenitanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-rupes,rvpes,NOM3,Case=Nom|Numb=Plur
-quando,qvando,ADVint,MORPH=empty
-omne,omnis,PROind,Case=Nom|Numb=Sing
-peractum,perago,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-pueri,pver,NOM2,Case=Nom|Numb=Plur
-quis,qvis,PROint,Case=Nom|Numb=Sing
-amet,amo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quis,qvis,PROint,Case=Nom|Numb=Sing
-diripiatur,diripio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-adulter,advlter,NOM2,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

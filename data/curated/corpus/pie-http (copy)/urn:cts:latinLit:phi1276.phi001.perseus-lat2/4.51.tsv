@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-depastum,depascor,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
--que,qvove,ADV,MORPH=empty
-diu,div,ADV,Deg=Pos
-uiuaria,vivarivm,NOM2,Case=Acc|Numb=Plur
-Caesaris,caesar,NOM3,Case=Gen|Numb=Sing
-inde,inde,ADV,Deg=Pos

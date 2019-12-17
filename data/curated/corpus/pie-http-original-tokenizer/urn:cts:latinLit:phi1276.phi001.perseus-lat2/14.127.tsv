@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-quoque,qvoqve,ADV,Deg=Pos
-esuriens,esvrio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-neque,neqve,CONcoo,MORPH=empty
-enim,enim,CONcoo,MORPH=empty
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-sustinet,svstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-umquam,vmqvam,ADV,Deg=Pos

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ornari,orno,VER,Mood=Inf|Tense=Pres|Voice=Pass
-et,et,CONcoo,MORPH=empty
-properat,propero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-iamque,iamqve,ADV,Deg=Pos
-experiatur,experior,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
-in,in,PRE,MORPH=empty
-hortis,hortvs,NOM2,Case=Abl|Numb=Plur

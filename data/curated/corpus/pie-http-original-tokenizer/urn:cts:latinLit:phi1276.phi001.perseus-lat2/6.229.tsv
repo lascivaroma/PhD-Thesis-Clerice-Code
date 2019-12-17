@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sic,sic,ADV,Deg=Pos
-crescit,cresco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-numerus,nvmervs,NOM2,Case=Nom|Numb=Sing
-sic,sic,ADV,Deg=Pos
-fiunt,fio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-octo,octo,ADJcar,Case=Ind
-mariti,maritvs,NOM2,Case=Nom|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tu,tv,PROper,Case=Nom|Numb=Sing
-miser,miser,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-exclamas,exclamo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-Stentora,stentor,NOM7,Case=Acc|Numb=Plur
-uincere,vinco,VER,Mood=Inf|Tense=Pres|Voice=Act
-possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Graeculus,graecvlvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-esuriens,esvrio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-;,o,PRE,MORPH=empty
-in,in,PRE,MORPH=empty
-caelum,caelvm,NOM2,Case=Acc|Numb=Sing
-iusseris,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-ibit,eo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

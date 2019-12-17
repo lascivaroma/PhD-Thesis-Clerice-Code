@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-pudicitiae,pvdicitia,NOM1,Case=Gen|Numb=Sing
-sanctos,sanctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-horrida,horridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-mores,mos,NOM3,Case=Acc|Numb=Plur

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-priuignoque,privignvnvs,NOM2,Case=Gen|Numb=Sing
-datum,do,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-grauiora,gravis,ADJqua,Case=Nom|Numb=Plur|Deg=Comp
-coactae,cogo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

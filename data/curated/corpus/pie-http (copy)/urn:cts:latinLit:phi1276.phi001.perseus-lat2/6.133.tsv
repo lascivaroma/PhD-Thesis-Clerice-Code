@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Hippomanes,hippomanes,NOM7,Case=Nom|Numb=Sing
-carmen,carmen,NOM3,Case=Acc|Numb=Sing
--que,qvovs,CONcoo,MORPH=empty
-loquar,loqvor,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1
-coctum,coqvo,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Perf|Voice=Pass
--que,qvovs,ADV,MORPH=empty
-uenenum,venenvm,NOM2,Case=Acc|Numb=Sing

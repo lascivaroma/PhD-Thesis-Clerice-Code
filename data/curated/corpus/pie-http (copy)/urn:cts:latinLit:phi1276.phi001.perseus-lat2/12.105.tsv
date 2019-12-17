@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-arboribus,arbor,NOM3,Case=Abl|Numb=Plur
-Rutulis,rvtvli,NOM2,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-Turni,tvrnvs,NOM2,Case=Gen|Numb=Sing
-pascitur,pasco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-agro,ager,NOM2,Case=Abl|Numb=Sing

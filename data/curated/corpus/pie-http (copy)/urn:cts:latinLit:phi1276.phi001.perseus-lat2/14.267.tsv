@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quam,qvam,ADVint,MORPH=empty
-tu,tv,PROper,Case=Nom|Numb=Sing
-Corycia,corycivs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-semper,semper,ADV,Deg=Pos
-qui,qvi,PROint,Case=Nom|Numb=Sing
-puppe,pvppis,NOM3,Case=Abl|Numb=Sing
-moraris,moror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2

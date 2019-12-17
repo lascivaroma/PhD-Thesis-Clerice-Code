@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-genus,genvs,NOM3,Case=Acc|Numb=Sing
-humanum,hvmanvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-damnat,damno,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-caligo,caligo,NOM3,Case=Nom|Numb=Sing
-futuri,fvtvrvm,NOM2,Case=Gen|Numb=Sing|Voice=Act

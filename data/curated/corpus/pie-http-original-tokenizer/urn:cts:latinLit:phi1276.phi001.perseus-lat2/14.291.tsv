@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-concisum,concido,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-argentum,argentvm,NOM2,Case=Acc|Numb=Sing
-in,in,PRE,MORPH=empty
-titulos,titvlvs,NOM2,Case=Acc|Numb=Plur
-faciesque,faciesqve,NOM5,Numb=Plur
-minutas,minvtvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-illi,ille,PROdem,Case=Nom|Numb=Plur
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-uicimus,vinco,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-et,et,CONcoo,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-unus,vnvs,ADJcar,Case=Nom|Numb=Sing

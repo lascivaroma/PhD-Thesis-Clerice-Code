@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-delicias,delicia,NOM1,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-panniculus,pannicvlvs,NOM2,Case=Nom|Numb=Sing
-bombycinus,bombycinvs,NOM2,Case=Nom|Numb=Sing
-urit,vro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

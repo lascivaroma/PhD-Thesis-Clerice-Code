@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hic,hic,PROdem,Case=Nom|Deg=Pos
-modium,modivs,NOM2,Case=Gen|Numb=Plur
-argenti,argentvm,NOM2,Case=Gen|Numb=Sing
-meliora,bonvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
-ac,ac,CONcoo,MORPH=empty
-plura,mvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
-reponit,repono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

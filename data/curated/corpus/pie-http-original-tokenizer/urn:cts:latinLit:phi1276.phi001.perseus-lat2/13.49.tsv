@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-pondere,pondvs,NOM3,Case=Abl|Numb=Sing
-nondum,nondvm,ADVneg,MORPH=empty
-aliquis,aliqvis,PROind,Case=Nom|Numb=Sing
-sortitus,sortior,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
-triste,tristis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-profundi,profvndvm,NOM2,Case=Gen|Numb=Sing

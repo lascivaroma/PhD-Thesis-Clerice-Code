@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-militiae,militia,NOM1,Case=Gen|Numb=Sing
-nam,nam,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-subeuntur,svbeo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-prospera,prosper,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-castra,castra,NOM2,Case=Nom|Numb=Plur

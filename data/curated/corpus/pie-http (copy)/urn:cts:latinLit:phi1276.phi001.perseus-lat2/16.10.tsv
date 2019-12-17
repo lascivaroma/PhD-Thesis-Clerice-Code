@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-audeat,avdeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3
-excussos,excvtio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-praetori,praetor,NOM3,Case=Dat|Numb=Sing
-ostendere,ostendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-dentes,dens,NOM3,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-agminis,agmen,NOM3,Case=Gen|Numb=Sing
-officia,officivm,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-niueos,nivevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ad,ad,PRE,MORPH=empty
-frena,frenvm,NOM2,Case=Acc|Numb=Plur
-Quirites,qvirites,NOM3,Case=Voc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-integer,integer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-iacuit,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Catilina,catilina,NOM1,Case=Nom|Numb=Sing
-cadauere,cadaver,NOM3,Case=Abl|Numb=Sing
-toto,totvs,PROind,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

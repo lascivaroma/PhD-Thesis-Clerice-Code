@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-occulta,occvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ad,ad,PRE,MORPH=empty
-patres,pater,NOM3,Case=Acc|Numb=Plur
-produxit,prodvco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-crimina,crimen,NOM3,Case=Acc|Numb=Plur
-seruus,servvs,NOM2,Case=Nom|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-squalidus,sqvalidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-in,in,PRE,MORPH=empty
-magna,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-fastidit,fastidio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-compede,compes,NOM3,Case=Abl|Numb=Sing
-fossor,fossor,NOM3,Case=Nom|Numb=Sing

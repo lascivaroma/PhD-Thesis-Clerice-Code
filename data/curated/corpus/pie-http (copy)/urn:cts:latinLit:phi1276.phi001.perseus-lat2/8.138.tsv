@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-incipit,incipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ipsorum,ipse,PROdem,Case=Gen|Numb=Plur
-contra,contra,PRE,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-stare,sto,VER,Mood=Inf|Tense=Pres|Voice=Act
-parentum,parens,NOM3,Case=Gen|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-spoliis,spolivm,NOM2,Case=Abl|Numb=Plur
-;,o,INJ,MORPH=empty
-igitur,igitvr,CONcoo,MORPH=empty
-longe,longe,ADV,Deg=Pos
-minus,parvm,ADV,Deg=Comp
-utilis,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-illi,ille,PROdem,Case=Dat|Numb=Sing

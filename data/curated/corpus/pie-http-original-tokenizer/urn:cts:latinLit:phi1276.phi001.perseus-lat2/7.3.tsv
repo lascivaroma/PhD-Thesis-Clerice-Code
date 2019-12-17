@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-respexit,respicio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-cum,cvm,CONsub,MORPH=empty
-iam,iam,ADV,Deg=Pos
-celebres,celeber,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-notique,notiqve,ADV,Deg=Pos
-poetae,poeta,NOM1,Case=Nom|Numb=Plur

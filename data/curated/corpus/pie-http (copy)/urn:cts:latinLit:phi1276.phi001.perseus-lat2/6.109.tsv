@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-gibbus,gibbvs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-acre,acer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-malum,malvm,NOM2,Case=Acc|Numb=Sing
-semper,semper,ADV,Deg=Pos
-stillantis,stillo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-ocelli,ocellvs,NOM2,Case=Gen|Numb=Sing

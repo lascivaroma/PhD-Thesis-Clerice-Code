@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Verum,vervs,NOM2,Case=Acc|Numb=Sing
-ut,vt,ADVrel,MORPH=empty
-dissimili,dissimilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-es,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-mittas,mitto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-cetera,cetera,NOM2,Case=Acc|Numb=Plur
-quanto,qvanto,ADVint,MORPH=empty

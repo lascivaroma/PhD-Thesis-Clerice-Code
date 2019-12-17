@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ut,vt,ADVint,MORPH=empty
-locupletem,locvples,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-aquilam,aqvila,NOM1,Case=Acc|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-sexagesimus,sexagesimvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
-annus,annvs,NOM2,Case=Nom|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-agnitus,agnosco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-accipies,accipio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-a,ab,PRE,MORPH=empty
-praecone,praeco,NOM3,Case=Abl|Numb=Sing
-uocari,voco,VER,Mood=Inf|Tense=Pres|Voice=Pass

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tempestas,tempestas,NOM3,Case=Nom|Numb=Sing
-genus,genvs,NOM3,Case=Acc|Numb=Sing
-ecce,ecce,INJ,MORPH=empty
-aliud,alivs,PROind,Case=Acc|Numb=Sing
-discriminis,discrimen,NOM3,Case=Gen|Numb=Sing
-audi,avdio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

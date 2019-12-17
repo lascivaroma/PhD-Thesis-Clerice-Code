@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-miraretur,miror,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Dep|Person=3
-cum,cvm,PRE,MORPH=empty
-Coclite,cocles,NOM3,Case=Abl|Numb=Sing
-Mucius,mvcivs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-quae,qvis,PROrel,Case=Nom|Numb=Plur

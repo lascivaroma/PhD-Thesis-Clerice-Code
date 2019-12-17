@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-abrupto,abrvmpo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-iam,iam,ADV,Deg=Pos
-nunc,nvnc,ADV,Deg=Pos
-obstas,obsto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-et,et,CONcoo,MORPH=empty
-uota,votvm,NOM2,Case=Acc|Numb=Plur
-moraris,moror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2

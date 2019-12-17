@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ausi,avdeo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=SemDep|Person=3
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-liceat,licet,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-tunica,tvnica,NOM1,Case=Abl|Numb=Sing
-punire,pvnio,VER,Mood=Inf|Tense=Pres|Voice=Act
-molesta,molestvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

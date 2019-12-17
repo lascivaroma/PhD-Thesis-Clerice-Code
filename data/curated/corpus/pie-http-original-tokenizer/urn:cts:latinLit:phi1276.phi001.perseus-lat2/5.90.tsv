@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-propter,propter,PRE,MORPH=empty
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-Romae,roma,NOM1,Case=Loc|Numb=Sing
-cum,cvm,PRE,MORPH=empty
-Boccare,boccar,NOM3,Case=Abl|Numb=Sing
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-lauatur,lavo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

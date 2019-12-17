@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-poplitibus,poples,NOM3,Case=Dat|Numb=Plur
-sedeat,sedeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quam,qvam,ADVint,MORPH=empty
-denso,densvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-fascia,fascia,NOM1,Case=Nom|Numb=Sing
-libro,liber,NOM2,Case=Abl|Numb=Sing|Tense=Pres

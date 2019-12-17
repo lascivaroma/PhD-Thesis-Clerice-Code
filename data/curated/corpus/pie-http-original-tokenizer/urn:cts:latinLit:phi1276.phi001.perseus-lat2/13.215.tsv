@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-displicet,displiceo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-;,o,INJ,MORPH=empty
-ostendas,ostendo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-melius,bene,ADV,Deg=Comp
-densissima,densvs,ADJqua,Case=Abl|Numb=Sing|Deg=Sup
-ruga,rvga,NOM1,Case=Abl|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sicci,siccvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
-terga,tergvm,NOM2,Case=Acc|Numb=Plur
-suis,svvs,PROpos.ref,Case=Dat|Numb=Plur
-rara,rarvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-pendentia,pendeo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-crate,crates,NOM3,Case=Abl|Numb=Sing

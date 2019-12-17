@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hoc,hic,PROdem,Case=Abl|Numb=Sing
-arcana,arcanvs,ADJqua,Case=Abl|Numb=Plur
-modo,modo,NOM2,Case=Abl
-maiorem,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-tertius,tertivs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
-illa,ille,PROdem,Case=Nom|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-suppositumque,svppositvs,ADJqua,Numb=Sing|Deg=Pos
-rotis,rota,NOM2,Case=Abl|Numb=Plur
-solidum,solidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-mare,mare,NOM3,Case=Acc|Numb=Sing
-credimus,credo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-altos,altvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

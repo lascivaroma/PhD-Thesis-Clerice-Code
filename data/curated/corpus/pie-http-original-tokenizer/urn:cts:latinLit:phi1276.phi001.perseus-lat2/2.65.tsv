@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Stoicidae,stoicides,NOM1,Case=Gen|Numb=Sing
-;,o,INJ,MORPH=empty
-quid,qvis,PROint,Case=Acc|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-falsi,falsvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-Laronia,laronia,NOM1,Case=Nom|Numb=Sing
-sed,sed,CONcoo,MORPH=empty
-quid,qvis,PROint,Case=Acc|Numb=Sing

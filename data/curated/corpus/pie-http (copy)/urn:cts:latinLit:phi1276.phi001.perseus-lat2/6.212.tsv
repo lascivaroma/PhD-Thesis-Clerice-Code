@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-umquam,vmqvam,ADV,Deg=Pos
-inuita,invitvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-donabis,dono,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-coniuge,conivx,NOM3,Case=Abl|Numb=Sing
-uendes,vendo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

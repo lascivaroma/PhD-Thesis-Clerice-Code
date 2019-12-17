@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quot,qvot,PROint,Case=Ind
-Themison,themison,NOM7,Case=Nom|Numb=Sing
-aegros,aeger,NOM2,Case=Acc|Numb=Plur
-autumno,avtvmnvs,NOM2,Case=Abl|Numb=Sing
-occident,occido,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-uno,vnvs,ADJcar,Case=Abl|Numb=Sing

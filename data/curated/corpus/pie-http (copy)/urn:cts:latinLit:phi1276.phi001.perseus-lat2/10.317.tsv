@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uerberibus,verber,NOM3,Case=Abl|Numb=Plur
-quosdam,qvidam,PROind,Case=Acc|Numb=Plur
-moechos,moechvs,NOM2,Case=Acc|Numb=Plur
-et,et,CONcoo,MORPH=empty
-mugilis,mvgilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-intrat,intro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

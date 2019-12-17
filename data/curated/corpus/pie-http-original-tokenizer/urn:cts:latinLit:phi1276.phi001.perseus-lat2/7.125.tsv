@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-egimus,ago,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-;,o,PRE,MORPH=empty
-huius,hic,PROdem,Case=Gen|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-stat,sto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-currus,cvrrvs,NOM4,Case=Nom|Numb=Sing
-aeneus,aenevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-alti,altvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

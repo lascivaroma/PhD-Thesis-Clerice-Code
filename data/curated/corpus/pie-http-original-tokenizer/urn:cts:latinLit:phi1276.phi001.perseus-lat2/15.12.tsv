@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-mensa,mensa,NOM1,Case=Abl|Numb=Sing
-nefas,nefas,NOM6,Case=Ind
-illic,illic,ADV,Deg=Pos
-fetum,fetvs,NOM4,Case=Acc|Numb=Sing
-iugulare,ivgvlo,VER,Mood=Inf|Tense=Pres|Voice=Act
-capellae,capella,NOM1,Case=Nom|Numb=Plur

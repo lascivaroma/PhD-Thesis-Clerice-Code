@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-conuentum,conventvs,NOM4,Case=Acc|Numb=Sing
-tamen,tamen,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-pactum,paciscor,VER,Case=Acc|Numb=Sing|Tense=Perf
-et,et,CONcoo,MORPH=empty
-sponsalia,sponsalia,NOM3,Case=Acc|Numb=Plur
-nostra,noster,PROpos,Case=Acc|Numb=Plur

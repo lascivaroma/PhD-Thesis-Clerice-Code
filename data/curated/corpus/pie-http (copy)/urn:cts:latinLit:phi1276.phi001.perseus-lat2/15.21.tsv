@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-crediderim,credo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1
-aut,avt,CONcoo,MORPH=empty
-tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-percussum,percvtio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-uerbere,verber,NOM3,Case=Abl|Numb=Sing
-Circes,circe,NOM7,Case=Nom|Numb=Sing

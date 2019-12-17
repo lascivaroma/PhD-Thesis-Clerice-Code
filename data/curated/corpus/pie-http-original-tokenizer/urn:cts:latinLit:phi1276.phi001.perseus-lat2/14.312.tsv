@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-magnum,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-habitatorem,habitator,NOM3,Case=Acc|Numb=Sing
-quanto,qvanto,ADVint,MORPH=empty
-felicior,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-hic,hic,PROdem,Case=Nom|Numb=Sing
-qui,qvi,PROrel,Case=Nom|Numb=Sing

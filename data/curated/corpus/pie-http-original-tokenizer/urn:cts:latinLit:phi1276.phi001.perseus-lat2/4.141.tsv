@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Lucrinum,lvcrinvs,NOM2,Case=Acc|Numb=Sing
-ad,ad,PRE,MORPH=empty
-saxum,saxvm,NOM2,Case=Acc|Numb=Sing
-Rutupinoue,rvtvpinovs,NOM2,Case=Nom|Numb=Sing|Deg=Pos
-edita,edo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-fundo,fvndvs,NOM2,Case=Abl|Numb=Sing

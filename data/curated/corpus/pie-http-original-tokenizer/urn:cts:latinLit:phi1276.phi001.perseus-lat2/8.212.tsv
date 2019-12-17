@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-perditus,perditvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ut,vt,CONsub,MORPH=empty
-dubitet,dvbito,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Senecam,seneca,NOM1,Case=Acc|Numb=Sing
-praeferre,praefero,VER,Mood=Inf|Tense=Pres|Voice=Act
-Neroni,nero,NOM3,Case=Dat|Numb=Sing

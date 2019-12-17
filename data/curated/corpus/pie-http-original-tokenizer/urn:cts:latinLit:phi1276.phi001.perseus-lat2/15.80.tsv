@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-sufficeret,svfficio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-totum,totvs,PROind,Case=Acc|Numb=Sing
-corrosis,corrosvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-ossibus,os,NOM3,Case=Abl|Numb=Plur
-edit,edo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

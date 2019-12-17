@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dicet,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-quis,qvis,PROint,Case=Nom|Numb=Sing
-uiduam,vidvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-praegnatem,praegnans,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-fecerit,facio,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-quo,qvo,ADVrel,MORPH=empty

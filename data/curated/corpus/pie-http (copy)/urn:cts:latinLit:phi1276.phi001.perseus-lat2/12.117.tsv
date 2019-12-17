@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-corpora,corpvs,NOM3,Case=Nom|Numb=Plur
-uel,vel,CONcoo,MORPH=empty
-pueris,pver,NOM2,Case=Dat|Numb=Plur
-et,et,CONcoo,MORPH=empty
-frontibus,frons,NOM3,Case=Abl|Numb=Plur
-ancillarum,ancilla,NOM1,Case=Gen|Numb=Plur

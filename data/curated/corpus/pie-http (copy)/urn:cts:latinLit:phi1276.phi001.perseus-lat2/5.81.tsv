@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-fertur,fero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-domino,dominvs,NOM2,Case=Dat|Numb=Sing
-squilla,sqvilla,NOM1,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-quibus,qvi,PROrel,Case=Dat|Numb=Plur
-undique,vndiqve,ADV,Deg=Pos
-saepta,saepio,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

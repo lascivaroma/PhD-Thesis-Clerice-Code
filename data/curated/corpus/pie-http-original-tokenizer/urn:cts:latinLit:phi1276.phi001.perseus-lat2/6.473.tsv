@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-accipit,accipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-madidae,madidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-facies,facies,NOM5,Case=Nom|Numb=Sing
-dicetur,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-an,an,ADVint,MORPH=empty
-ulcus,vlcvs,NOM4,Case=Nom|Numb=Sing

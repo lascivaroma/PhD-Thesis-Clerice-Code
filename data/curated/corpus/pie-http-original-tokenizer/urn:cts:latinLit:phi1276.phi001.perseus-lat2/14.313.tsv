@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-cuperet,cvpio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-quam,qvam,ADVrel,MORPH=empty
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-totum,totvs,PROind,Case=Acc|Numb=Sing
-sibi,svi,PROref,Case=Dat|Numb=Sing
-posceret,posco,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-orbem,orbis,NOM3,Case=Acc|Numb=Sing

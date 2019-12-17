@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Ebrius,ebrivs,NOM2,Case=Nom|Numb=Sing
-ac,ac,CONcoo,MORPH=empty
-petulans,petvlans,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-nullum,nvllvs,PROind,Case=Acc|Numb=Sing
-forte,forte,ADV,Deg=Pos
-cecidit,cado,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

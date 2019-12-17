@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tu,tv,PROper,Case=Nom|Numb=Sing
--ne,ne,CONsub,MORPH=empty
-etiam,etiam,ADV,Deg=Pos
-quam,qvam,ADVint,MORPH=empty
-sextus,sextvs,ADJord,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-octogensimus,octogesimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-annus,annvs,NOM2,Case=Nom|Numb=Sing

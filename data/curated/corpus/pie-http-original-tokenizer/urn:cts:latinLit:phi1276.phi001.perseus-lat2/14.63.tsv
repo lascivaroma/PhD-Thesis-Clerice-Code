@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uox,vox,NOM3,Case=Nom|Numb=Sing
-domini,dominvs,NOM2,Case=Gen|Numb=Sing
-furit,fvro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-instantis,insto,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-uirgamque,virga,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-tenentis,teneo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

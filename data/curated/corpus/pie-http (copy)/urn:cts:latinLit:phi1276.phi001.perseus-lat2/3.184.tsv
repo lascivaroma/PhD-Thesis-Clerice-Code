@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,PRE,MORPH=empty
-pretio,pretivm,NOM2,Case=Abl|Numb=Sing
-quid,qvis,PROint,Case=Acc|Numb=Sing
-das,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-Cossum,cossvs,NOM2,Case=Acc|Numb=Sing
-aliquando,aliqvando,ADV,Deg=Pos
-salutes,salvs,NOM3,Case=Nom|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-haesuri,haereo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act
-saxis,saxvm,NOM2,Case=Abl|Numb=Plur
-cinerum,cinis,NOM3,Case=Gen|Numb=Plur
-custodibus,cvstos,NOM3,Case=Abl|Numb=Plur
-ad,ad,PRE,MORPH=empty
-quae,qvi,PROrel,Case=Acc|Numb=Plur

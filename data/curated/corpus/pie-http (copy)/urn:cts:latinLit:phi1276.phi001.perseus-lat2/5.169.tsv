@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-intacto,intactvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
--que,qvavis,CONcoo,MORPH=empty
-omnes,omnis,PROind,Case=Nom|Numb=Plur
-et,et,CONcoo,MORPH=empty
-stricto,stringo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-pane,panis,NOM3,Case=Abl|Numb=Sing
-tacetis,taceo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-.,qvadranta,ADJcar,Case=Acc|Numb=Plur

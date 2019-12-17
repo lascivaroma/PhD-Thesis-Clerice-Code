@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ast,at,CONcoo,MORPH=empty
-homini,homo,NOM3,Case=Dat|Numb=Sing
-ferrum,ferrvm,NOM2,Case=Nom|Numb=Sing
-letale,letalis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-incude,incvs,NOM3,Case=Abl|Numb=Sing
-nefanda,nefandvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

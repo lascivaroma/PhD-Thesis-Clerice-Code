@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-Cereris,ceres,NOM3,Case=Gen|Numb=Sing
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-Cybeles,cybele,NOM7,Case=Nom|Numb=Sing
-aulaea,avlaevm,NOM2,Case=Acc|Numb=Plur
-relinquas,relinqvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

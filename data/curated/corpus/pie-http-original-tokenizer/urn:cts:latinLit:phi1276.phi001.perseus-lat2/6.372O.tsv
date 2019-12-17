@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,PRE,MORPH=empty
-colocyntha,colocyntha,NOM1,Case=Abl|Numb=Sing
-bibit,bibo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-uel,vel,CONcoo,MORPH=empty
-cum,cvm,PRE,MORPH=empty
-barbata,barbatvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-chelidon,chelidon,NOM7,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Sing

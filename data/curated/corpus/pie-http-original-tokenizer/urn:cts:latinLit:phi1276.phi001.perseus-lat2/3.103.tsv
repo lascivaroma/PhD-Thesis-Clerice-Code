@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-accipit,accipio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-endromidem,endromis,NOM3,Case=Acc|Numb=Sing
-;,o,INJ,MORPH=empty
-si,si,CONsub,MORPH=empty
-dixeris,dico,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-aestuo,aestvo,VER,Numb=Sing|Tense=Pres|Voice=Act|Person=1
-sudat,svdo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

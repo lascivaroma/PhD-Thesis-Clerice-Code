@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-crescunt,cresco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quocumque,qvicvmqve,PROrel,Case=Abl|Numb=Sing
-modo,modvs,NOM2,Case=Abl|Numb=Sing
-maiora,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp
--que,qvovs,CONcoo,MORPH=empty
-fiunt,fio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

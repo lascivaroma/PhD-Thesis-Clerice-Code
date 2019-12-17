@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-instabile,instabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ac,ac,CONcoo,MORPH=empty
-dirimi,dirimo,VER,Mood=Inf|Tense=Pres|Voice=Pass
-coeptum,coepio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-iam,iam,ADV,Deg=Pos
-paene,paene,ADV,Deg=Pos
-solutum,solvo,ADJqua,Case=Acc|Numb=Sing|Deg=Pos|Voice=Pass

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-praesidium,praesidivm,NOM2,Case=Acc|Numb=Sing
-attonitis,attonitvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-in,in,PRE,MORPH=empty
-omni,omnis,PROind,Case=Abl|Numb=Sing
-monte,mons,NOM3,Case=Abl|Numb=Sing
-laborat,laboro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

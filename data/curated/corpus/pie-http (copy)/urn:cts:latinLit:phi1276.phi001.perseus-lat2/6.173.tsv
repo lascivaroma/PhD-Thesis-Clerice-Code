@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-pueri,pver,NOM2,Case=Nom|Numb=Plur
-faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ipsam,ipse,PROdem,Case=Acc|Numb=Sing
-configite,configo,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-matrem,mater,NOM3,Case=Acc|Numb=Sing

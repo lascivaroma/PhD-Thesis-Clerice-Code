@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-haeremus,haereo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Sing
-olim,olim,ADV,Deg=Pos
-conuenerat,convenio,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-poscimus,posco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-ut,vt,CONsub,MORPH=empty
-cenes,ceno,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-ciuiliter,civiliter,ADV,Deg=Pos
-hoc,hic,PROdem,Case=Abl|Numb=Sing
-face,fax,NOM3,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-et,et,CONcoo,MORPH=empty
-esto,svm,VER,Numb=Sing|Mood=Imp|Tense=Fut|Voice=Act|Person=2

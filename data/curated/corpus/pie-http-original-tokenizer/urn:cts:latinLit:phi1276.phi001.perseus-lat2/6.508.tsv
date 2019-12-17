@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-uiri,vir,NOM2,Case=Gen|Numb=Sing
-cura,cvra,NOM1,Case=Nom|Numb=Sing
-interea,interea,ADV,Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-mentio,mentio,NOM3,Case=Nom|Numb=Sing
-fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

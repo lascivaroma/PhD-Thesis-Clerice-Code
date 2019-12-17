@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nos,nos,PROper,Case=Nom|Numb=Plur
-tamen,tamen,ADV,Deg=Pos
-hoc,hic,PROdem,Case=Acc|Numb=Sing
-agimus,ago,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-tenuique,tenviqve,ADV,Numb=Sing|Deg=Pos
-in,in,PRE,MORPH=empty
-puluere,pvlvis,NOM3,Case=Abl|Numb=Sing
-sulcos,svlcvs,NOM2,Case=Acc|Numb=Plur

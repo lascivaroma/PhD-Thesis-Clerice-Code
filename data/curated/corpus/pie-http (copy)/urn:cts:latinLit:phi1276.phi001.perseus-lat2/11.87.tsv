@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-castrorum,castra,NOM2,Case=Gen|Numb=Plur
-imperiis,imperivm,NOM2,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-dictatoris,dictator,NOM3,Case=Gen|Numb=Sing
-honore,honor,NOM3,Case=Abl|Numb=Sing

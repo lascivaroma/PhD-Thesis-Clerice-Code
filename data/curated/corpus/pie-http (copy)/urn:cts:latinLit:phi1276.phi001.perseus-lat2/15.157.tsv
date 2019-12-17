@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-communi,commvnis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
-signa,signvm,NOM2,Case=Acc|Numb=Plur
-tuba,tvba,NOM1,Case=Abl|Numb=Sing
-defendier,defendo,VER,Mood=Inf|Tense=Pres|Voice=Pass
-isdem,idem,PROdem,Case=Abl|Numb=Plur

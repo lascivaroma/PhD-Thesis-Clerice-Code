@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-pone,pono,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-Tigellinum,tigellinvs,NOM2,Case=Acc|Numb=Sing
-taeda,taeda,NOM1,Case=Abl|Numb=Sing
-lucebis,lvceo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-in,in,PRE,MORPH=empty
-illa,ille,PROdem,Case=Abl|Numb=Sing

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-luxuriam,lvxvria,NOM1,Case=Acc|Numb=Sing
-inperii,imperivm,NOM2,Case=Gen|Numb=Sing
-ueterem,vetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-noctes,nox,NOM3,Case=Acc|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-Neronis,nero,NOM3,Case=Gen|Numb=Sing

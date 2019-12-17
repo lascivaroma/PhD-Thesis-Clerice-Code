@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-patrem,pater,NOM3,Case=Acc|Numb=Sing
-ipsum,ipse,PROdem,Case=Acc|Numb=Sing
-turbam,tvrba,NOM1,Case=Acc|Numb=Sing
--que,qvivis,CONcoo,MORPH=empty
-casae,casa,NOM1,Case=Gen|Numb=Sing
-qua,qvi,PROrel,Case=Abl|Numb=Sing
-feta,fetvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-iacebat,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

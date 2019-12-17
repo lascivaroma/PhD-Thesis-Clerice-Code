@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-concedet,concedo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-iuuenis,ivvenis,NOM3,Case=Nom|Numb=Sing
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-radere,rado,VER,Mood=Inf|Tense=Pres|Voice=Act
-tubera,tvber,NOM3,Case=Acc|Numb=Plur
-terrae,terra,NOM1,Case=Gen|Numb=Sing

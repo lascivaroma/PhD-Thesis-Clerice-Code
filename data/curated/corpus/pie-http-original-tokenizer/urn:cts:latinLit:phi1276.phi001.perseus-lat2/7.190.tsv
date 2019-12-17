@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-fatorum,fatvm,NOM2,Case=Gen|Numb=Plur
-transi,transeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-felix,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-pulcer,pvlcher,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-acer,acer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

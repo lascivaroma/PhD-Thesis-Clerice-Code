@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-sedeat,sedeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-qua,qvis,PROint,Case=Abl|Numb=Sing
-parte,pars,NOM3,Case=Abl|Numb=Sing
-theatri,theatrvm,NOM2,Case=Gen|Numb=Sing

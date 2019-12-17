@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-Rutilus,rvtilvs,NOM2,Case=Nom|Numb=Sing
-demens,demens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-quid,qvis,PROint,Case=Acc|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-maiore,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
-cachinno,cachinnvs,NOM2,Case=Abl|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sulpura,svlfvr,NOM3,Case=Acc|Numb=Plur
-cum,cvm,PRE,MORPH=empty
-taedis,taeda,NOM1,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-foret,svm,VER,Numb=Sing|Mood=Sub|Tense=Fut|Voice=Act|Person=3
-umida,hvmidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-laurus,lavrvs,NOM4,Case=Nom|Numb=Sing

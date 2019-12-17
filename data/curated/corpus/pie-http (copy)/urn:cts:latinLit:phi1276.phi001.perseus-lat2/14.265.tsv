@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-an,an,ADVint,MORPH=empty
-magis,magis,ADV,Deg=Comp
-oblectant,oblecto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-animum,animvs,NOM2,Case=Acc|Numb=Sing
-iactata,iacto,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-petauro,petavrvm,NOM2,Case=Abl|Numb=Sing

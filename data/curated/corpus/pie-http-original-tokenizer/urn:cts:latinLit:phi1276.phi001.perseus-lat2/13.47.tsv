@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-talis,talis,PROdem,Case=Nom|Numb=Sing
-ut,vt,ADVrel,MORPH=empty
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hodie,hodie,ADV,Deg=Pos
-contentaque,contentaqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sidera,sidvs,NOM3,Case=Nom|Numb=Plur
-paucis,pavcvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

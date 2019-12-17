@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-dicendi,dico,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
-genus,genvs,NOM3,Case=Acc|Numb=Sing
-aut,avt,CONcoo,MORPH=empty
-curuum,cvrvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-sermone,sermo,NOM3,Case=Abl|Numb=Sing
-rotato,roto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Sed,sed,NOM2,Numb=Sing
-nunc,nvnc,ADV,Deg=Pos
-de,de,PRE,MORPH=empty
-factis,factvm,NOM2,Case=Abl|Numb=Plur
-leuioribus,levis,ADJqua,Case=Abl|Numb=Plur|Deg=Comp
-et,et,CONcoo,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-alter,alter,PROind,Case=Nom|Numb=Sing

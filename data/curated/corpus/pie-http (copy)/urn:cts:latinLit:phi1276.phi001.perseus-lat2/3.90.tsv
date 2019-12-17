@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-miratur,miror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-uocem,vox,NOM3,Case=Acc|Numb=Sing
-angustam,angvstvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-qua,qva,ADVrel,MORPH=empty
-deterius,deterivs,ADJqua,Deg=Comp
-nec,nec,CONcoo,MORPH=empty

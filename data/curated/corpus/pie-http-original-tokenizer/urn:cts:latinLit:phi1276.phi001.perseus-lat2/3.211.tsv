@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-cibo,cibvs,NOM2,Case=Abl|Numb=Sing
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-hospitio,hospitivm,NOM2,Case=Dat|Numb=Sing
-tectoque,tectoqve,ADV,MORPH=empty
-iuuabit,ivvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

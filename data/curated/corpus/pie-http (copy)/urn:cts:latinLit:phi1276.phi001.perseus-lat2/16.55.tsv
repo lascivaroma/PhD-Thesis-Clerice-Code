@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-signorum,signvm,NOM2,Case=Gen|Numb=Plur
-comitem,comes,NOM3,Case=Acc|Numb=Sing
-castrorum,castra,NOM2,Case=Gen|Numb=Plur
--que,qvoqve,ADV,MORPH=empty
-aera,aes,NOM3,Case=Acc|Numb=Sing
-merentem,mereo,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

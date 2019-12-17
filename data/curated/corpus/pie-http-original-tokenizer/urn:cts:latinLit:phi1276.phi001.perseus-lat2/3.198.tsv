@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nocte,nocte,NOM3,Numb=Sing
-metus,metvs,NOM4,Case=Nom|Numb=Sing
-iam,iam,ADV,Deg=Pos
-poscit,posco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aquam,aqva,NOM1,Case=Acc|Numb=Sing
-iam,iam,ADV,Deg=Pos
-friuola,frivola,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-transfert,transfero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quanti,qvantvs,PROint,Case=Gen|Numb=Sing
-nunc,nvnc,ADV,Deg=Pos
-tenebras,tenebrae,NOM1,Case=Acc|Numb=Plur
-unum,vnvs,ADJcar,Case=Acc|Numb=Sing
-conducis,condvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-in,in,PRE,MORPH=empty
-annum,annvs,NOM2,Case=Acc|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

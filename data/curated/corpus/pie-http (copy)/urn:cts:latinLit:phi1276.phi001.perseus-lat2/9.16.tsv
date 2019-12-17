@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-macies,macies,NOM5,Case=Nom|Numb=Sing
-aegri,aeger,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-ueteris,vetvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-quem,qvis,PROint,Case=Acc|Numb=Sing
-tempore,tempvs,NOM3,Case=Abl|Numb=Sing
-longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

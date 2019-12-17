@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-iudice,ivdex,NOM3,Case=Abl|Numb=Sing
-me,ego,PROper,Case=Abl|Numb=Sing
-dignus,dignvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uera,vervs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cruce,crvx,NOM3,Case=Abl|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-ipsi,ipse,PROdem,Case=Nom|Numb=Plur

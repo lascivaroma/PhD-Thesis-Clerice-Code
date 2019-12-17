@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-da,do,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-nunc,nvnc,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-uolucrem,volvcer,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-sceptro,sceptrvm,NOM2,Case=Abl|Numb=Sing
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-surgit,svrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-eburno,ebvrnevs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos

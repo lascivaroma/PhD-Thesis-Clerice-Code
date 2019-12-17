@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Pygmaeus,pygmaevs,NOM2,Case=Nom|Numb=Sing
-paruis,parvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-currit,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-bellator,bellator,NOM3,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-armis,arma,NOM2,Case=Abl|Numb=Plur

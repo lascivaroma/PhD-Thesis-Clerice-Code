@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uos,vos,PROper,Case=Voc|Numb=Plur
-humiles,hvmilis,ADJqua,Case=Voc|Numb=Plur|Deg=Pos
-inquis,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-uolgi,vvlgvs,NOM2,Case=Gen|Numb=Sing
-pars,pars,NOM3,Case=Nom|Numb=Sing
-ultima,vltimvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nostri,noster,PROpos,Case=Gen|Numb=Plur

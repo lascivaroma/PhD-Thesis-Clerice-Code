@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Crispinum,crispinvs,NOM2,Case=Acc|Numb=Sing
-quid,qvis,PROint,Case=Acc|Numb=Sing
-agas,ago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-cum,cvm,CONsub,MORPH=empty
-dira,dirvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-foedior,foedvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-omni,omnis,PROind,Case=Abl|Numb=Sing

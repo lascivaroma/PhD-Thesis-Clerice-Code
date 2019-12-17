@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tantum,tantvm,PROdem,Deg=Pos
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-fidei,fides,NOM5,Case=Gen|Numb=Sing
-iures,ivs,NOM3,Numb=Sing|Tense=Pres|Person=2
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-Samothracum,samothraces,NOM3,Case=Gen|Numb=Plur

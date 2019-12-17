@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-umquam,vmqvam,ADV,Deg=Pos
-pro,pro,PRE,MORPH=empty
-patre,pater,NOM3,Case=Abl|Numb=Sing
-cadet,cado,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-sentire,sentio,VER,Mood=Inf|Tense=Pres|Voice=Act
-calorem,calor,NOM3,Case=Acc|Numb=Sing

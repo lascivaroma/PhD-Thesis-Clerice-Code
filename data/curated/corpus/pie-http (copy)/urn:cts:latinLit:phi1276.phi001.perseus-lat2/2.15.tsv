@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-supercilio,svpercilivm,NOM2,Case=Abl|Numb=Sing
-breuior,brevis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-coma,coma,NOM1,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Plur
-uerius,vere,ADV,Deg=Comp
-ergo,ergo,CONcoo,MORPH=empty

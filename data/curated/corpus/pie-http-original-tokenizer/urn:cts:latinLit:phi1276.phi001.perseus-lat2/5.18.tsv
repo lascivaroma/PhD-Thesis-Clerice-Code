@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-una,vna,ADV,MORPH=empty
-simus,svm,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1
-ait,aio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur
-uotorum,votvm,NOM2,Case=Gen|Numb=Plur
-summa,svmma,ADJqua,Case=Nom|Numb=Plur|Deg=Sup
-quid,qvis,PROint,Case=Acc|Numb=Sing
-ultra,vltra,PRE,Deg=Pos

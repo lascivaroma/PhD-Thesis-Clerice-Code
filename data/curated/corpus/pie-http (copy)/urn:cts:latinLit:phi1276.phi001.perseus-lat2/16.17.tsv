@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-procul,procvl,ADV,Deg=Pos
-a,ab,PRE,MORPH=empty
-signis,signvm,NOM2,Case=Abl|Numb=Plur
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur
-iustissima,ivstvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-centurionum,centvrio,NOM3,Case=Gen|Numb=Plur

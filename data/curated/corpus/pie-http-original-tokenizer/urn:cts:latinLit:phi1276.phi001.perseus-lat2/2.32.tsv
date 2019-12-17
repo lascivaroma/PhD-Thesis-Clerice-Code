@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-tot,tot,PROdem,Case=Ind
-abortiuis,abortivvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-fecundam,fecvndvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Iulia,ivlivs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-uuluam,vvlva,NOM1,Case=Acc|Numb=Sing

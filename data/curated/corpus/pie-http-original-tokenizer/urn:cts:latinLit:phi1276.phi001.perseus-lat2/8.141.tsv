@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-crimen,crimen,NOM3,Case=Acc|Numb=Sing
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quanto,qvanto,ADVrel,MORPH=empty
-maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-peccat,pecco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-habetur,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

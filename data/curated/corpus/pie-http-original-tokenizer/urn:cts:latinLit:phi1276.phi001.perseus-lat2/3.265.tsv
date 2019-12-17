@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-sedet,sedeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-ripa,ripa,NOM1,Case=Abl|Numb=Sing
-taetrumque,teterqve,ADV,Case=Acc|Deg=Pos
-nouicius,novicivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-horret,horreo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

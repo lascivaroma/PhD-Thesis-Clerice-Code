@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-debet,debeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-dolor,dolor,NOM3,Case=Nom|Numb=Sing
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-uiri,vir,NOM2,Case=Gen|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-uulnere,vvlnvs,NOM3,Case=Abl|Numb=Sing
-maior,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp

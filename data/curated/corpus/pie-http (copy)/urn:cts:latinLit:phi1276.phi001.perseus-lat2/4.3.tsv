@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-a,ab,PRE,MORPH=empty
-uitiis,vitivm,NOM2,Case=Abl|Numb=Plur
-aegrae,aeger,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-sola,solvs,PROind,Case=Abl|Numb=Sing
--que,qvoqve,CONcoo,MORPH=empty
-libidine,libido,NOM3,Case=Abl|Numb=Sing
-fortes,fortis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

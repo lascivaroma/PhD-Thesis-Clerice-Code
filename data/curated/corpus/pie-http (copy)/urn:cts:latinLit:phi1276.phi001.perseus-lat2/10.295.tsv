@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-accipere,accipio,VER,Mood=Inf|Tense=Pres|Voice=Act
-atque,atqve,CONcoo,MORPH=empty
-suum,svvs,PROpos.ref,Case=Acc|Numb=Sing
-Rutilae,rvtila,NOM1,Case=Dat|Numb=Sing
-dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-filius,filivs,NOM2,Case=Nom|Numb=Sing
-autem,avtem,CONcoo,MORPH=empty

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-longa,longvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-tibi,tv,PROper,Case=Dat|Numb=Sing
-posthac,posthac,ADV,Deg=Pos
-fato,fatvm,NOM2,Case=Abl|Numb=Sing
-meliore,bonvs,ADJqua,Case=Abl|Numb=Sing|Deg=Comp
-dabuntur,do,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3

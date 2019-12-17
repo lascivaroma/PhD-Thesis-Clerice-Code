@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-modo,modo,ADV,Deg=Pos
-secretum,secretvm,NOM2,Case=Acc|Numb=Sing|Deg=Pos
-commiserat,committo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-ardet,ardeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-odit,odi,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

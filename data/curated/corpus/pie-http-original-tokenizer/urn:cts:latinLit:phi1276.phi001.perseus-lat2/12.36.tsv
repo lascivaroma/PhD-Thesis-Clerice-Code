@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-testiculi,testicvlvs,NOM2,Case=Gen|Numb=Sing
-;,o,INJ,MORPH=empty
-adeo,adeo,ADV,Deg=Pos
-medicatum,medico,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-intellegit,intelligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-inguen,ingven,NOM3,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Plur

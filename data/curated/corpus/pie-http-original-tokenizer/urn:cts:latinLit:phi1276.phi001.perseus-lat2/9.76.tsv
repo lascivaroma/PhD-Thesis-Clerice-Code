@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-signabat,signo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-tota,totvs,PROind,Case=Nom|Numb=Sing
-uix,vix,ADV,Deg=Pos
-hoc,hic,PROdem,Case=Abl|Numb=Sing
-ego,ego,PROper,Case=Nom|Numb=Sing
-nocte,nox,NOM3,Case=Abl
-redemi,redimo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

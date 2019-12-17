@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Tyrrhenam,tyrrhenvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
--que,qvivis,ADV,MORPH=empty
-pharo,pharvs,NOM2,Case=Abl|Numb=Sing
--ne,ne,CONsub,MORPH=empty
-porrecta,porrigo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
--que,qvove,ADV,MORPH=empty
-brachia,brachivm,NOM2,Case=Acc|Numb=Plur
-rursum,rvrsvs,ADV,Deg=Pos

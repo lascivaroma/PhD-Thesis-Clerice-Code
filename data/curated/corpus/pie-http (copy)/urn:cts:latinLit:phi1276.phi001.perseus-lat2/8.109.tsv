@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-pater,pater,NOM3,Case=Nom|Numb=Sing
-armenti,armentvm,NOM2,Case=Gen|Numb=Sing
-capto,capio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-eripietur,eripio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-agello,agellvs,NOM2,Case=Abl|Numb=Sing

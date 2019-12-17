@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Hannibali,hannibal,NOM3,Case=Dat|Numb=Sing
-et,et,CONcoo,MORPH=empty
-nostris,noster,PROpos,Case=Abl|Numb=Plur
-ducibus,dvx,NOM3,Case=Abl|Numb=Plur
-regi,rex,NOM3,Case=Dat|Numb=Sing|Voice=Pass
--que,qvovs,CONcoo,MORPH=empty
-Molosso,molossvs,NOM2,Case=Dat|Numb=Sing

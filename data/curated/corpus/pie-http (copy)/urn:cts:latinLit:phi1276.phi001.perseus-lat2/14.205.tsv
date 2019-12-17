@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qualibet,qvilibet,PROind,Case=Nom|Numb=Sing
-illa,ille,PROdem,Case=Nom|Numb=Sing
-tuo,tvvs,PROpos,Case=Abl|Numb=Sing
-sententia,sententia,NOM1,Case=Nom|Numb=Sing
-semper,semper,ADV,Deg=Pos
-in,in,PRE,MORPH=empty
-ore,os,NOM3,Case=Abl|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-carpento,carpentvm,NOM2,Case=Abl|Numb=Sing
-rapitur,rapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-pinguis,pingvis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Lateranus,lateranvs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

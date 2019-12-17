@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-mouisse,moveo,VER,Mood=Inf|Tense=Perf|Voice=Act
-caput,capvt,NOM3,Case=Nom|Numb=Sing
-uisa,video,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-argentea,argentevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-serpens,serpens,NOM3,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

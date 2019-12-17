@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-stulta,stvltvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-maritali,maritalis,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-iam,iam,ADV,Deg=Pos
-porrigit,porrigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ora,os,NOM3,Case=Acc|Numb=Plur
-capistro,capistrvm,NOM2,Case=Dat|Numb=Sing

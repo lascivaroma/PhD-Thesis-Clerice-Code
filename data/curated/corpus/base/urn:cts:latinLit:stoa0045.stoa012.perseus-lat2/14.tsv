@@ -1,0 +1,16 @@
+form	lemma	POS	morph	treated_token
+HECTORIS	hector	NOMcom	Case=Gen|Numb=Sing	hectoris
+hic	hic1	PROdem	Case=Nom|Numb=Sing	hic
+tumulus	tumulus	NOMcom	Case=Nom|Numb=Sing	tumulus
+cum	cum2	PRE	MORPH=empty	cum
+quo	qui1	PROrel	Case=Abl|Numb=Sing	quo
+sua	suus	PROpos.ref	Case=Nom|Numb=Sing	sua
+Troia	troia	NOMcom	Case=Nom|Numb=Sing	troia
+sepulta	sepelio	VER	Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass	sepulta
+est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3	est
+conduntur	condo	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3	conduntur
+pariter	pariter	ADV	Deg=Pos	pariter
+qui	qui1	PROrel	Case=Nom|Numb=Plur	qui
+periere	pereo1	VER	Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3	periere
+simul	simul1	ADV	Deg=Pos	simul
+.	.	PUNC	MORPH=empty	.

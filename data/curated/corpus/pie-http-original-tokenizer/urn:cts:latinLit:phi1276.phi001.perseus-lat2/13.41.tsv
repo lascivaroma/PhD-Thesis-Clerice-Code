@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-priuatus,privatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-adhuc,adhvc,ADV,Deg=Pos
-Idaeis,idaevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-Iuppiter,ivppiter,NOM3,Case=Nom|Numb=Sing
-antris,antrvm,NOM2,Case=Abl|Numb=Plur
-;,o,PRE,MORPH=empty

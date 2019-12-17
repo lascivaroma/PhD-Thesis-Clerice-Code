@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Iuppiter,ivppiter,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-multo,mvltvs,ADV,Case=Abl|Numb=Sing|Deg=Pos
-stillaret,stillo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-paenula,paenvla,NOM2,Case=Nom|Numb=Sing
-nimbo,nimbvs,NOM2,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

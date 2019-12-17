@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tam,tam,ADV,Deg=Pos
-cito,cito,ADV,Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-tanto,tantvs,PROdem,Case=Abl|Numb=Sing
-poterit,possvm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-contexere,contexo,VER,Mood=Inf|Tense=Pres|Voice=Act
-cursu,cvrsvs,NOM4,Case=Abl|Numb=Sing

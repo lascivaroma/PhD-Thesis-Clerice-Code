@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-egeat,egeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-sed,sed,CONcoo,MORPH=empty
-uos,vos,PROper,Case=Voc|Numb=Plur
-saeuas,saevvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-inponite,impono,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-leges,lex,NOM3,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Quidnam,qvisnam,PROint,Case=Acc|Numb=Sing
-igitur,igitvr,CONcoo,MORPH=empty
-censes,censeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-conciditur,concido,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-absit,absvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ab,ab,PRE,MORPH=empty
-illo,ille,PROdem,Case=Abl|Numb=Sing

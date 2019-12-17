@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-procul,procvl,ADV,Deg=Pos
-extensum,extendo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-petulans,petvlans,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-quatit,qvatio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hostia,hostia,NOM1,Case=Nom|Numb=Sing
-funem,fvnis,NOM3,Case=Acc|Numb=Sing

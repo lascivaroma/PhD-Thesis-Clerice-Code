@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-scilicet,scilicet,ADV,Deg=Pos
-horreres,horreo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2
-maioraque,magnvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
-monstra,monstrvm,NOM2,Case=Acc|Numb=Plur
-putares,pvto,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2

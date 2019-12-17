@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-sperat,spero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tragicae,tragicvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
-furtiua,fvrtivvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-piacula,piacvlvm,NOM2,Case=Acc|Numb=Plur
-ceruae,cerva,NOM1,Case=Gen|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Plur

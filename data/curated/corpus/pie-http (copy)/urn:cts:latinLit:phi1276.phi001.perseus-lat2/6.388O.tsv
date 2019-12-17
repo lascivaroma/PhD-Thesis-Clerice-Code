@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-distinctus,distingvo,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-croceis,crocevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-reticulatus,reticvlor,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
-adulter,advlter,NOM2,Case=Nom|Numb=Sing

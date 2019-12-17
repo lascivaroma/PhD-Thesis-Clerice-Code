@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nuper,nvper,ADV,Deg=Pos
-enim,enim,CONcoo,MORPH=empty
-ut,vt,ADVrel,MORPH=empty
-repeto,repeto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-fanum,fanvm,NOM2,Case=Acc|Numb=Sing
-Isidis,isis,NOM3,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-Ganymedem,ganymedes,NOM3,Case=Acc|Numb=Sing

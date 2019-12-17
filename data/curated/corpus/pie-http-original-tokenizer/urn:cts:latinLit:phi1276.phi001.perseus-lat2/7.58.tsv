@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-inpatiens,impatiens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-cupidus,cvpidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-siluarum,silva,NOM1,Case=Gen|Numb=Plur
-aptusque,aptvsqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-bibendis,bibo,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Pass

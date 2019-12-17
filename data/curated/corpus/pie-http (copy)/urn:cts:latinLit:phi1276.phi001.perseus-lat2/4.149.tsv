@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-anxia,anxivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-praecipiti,praeceps,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-uenisset,venio,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
-epistula,epistola,NOM1,Case=Nom|Numb=Sing
-pinna,penna,NOM1,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

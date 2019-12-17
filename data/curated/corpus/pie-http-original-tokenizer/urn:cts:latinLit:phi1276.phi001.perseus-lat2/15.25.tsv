@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-de,de,PRE,MORPH=empty
-Corcyraea,corcyraevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-temetum,temetvs,NOM2,Case=Acc|Numb=Sing
-duxerat,dvco,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-urna,vrna,NOM1,Case=Abl|Numb=Sing
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

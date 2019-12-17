@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-fiet,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-illius,ille,PROdem,Case=Gen|Numb=Sing
-quam,qvi,PROrel,Case=Acc|Numb=Sing
-non,non,ADVneg,MORPH=empty
-amat,amo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-exuet,exvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-omnem,omnis,PROind,Case=Acc|Numb=Sing

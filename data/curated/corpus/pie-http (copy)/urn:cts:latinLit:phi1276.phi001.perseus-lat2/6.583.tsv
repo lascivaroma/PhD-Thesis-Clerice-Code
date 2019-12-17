@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-metarum,meta,NOM1,Case=Gen|Numb=Plur
-et,et,CONcoo,MORPH=empty
-sortes,sors,NOM3,Case=Acc|Numb=Plur
-ducet,dvco,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-frontem,frons,NOM3,Case=Acc|Numb=Sing
--que,qvove,ADV,MORPH=empty
-manum,manvs,NOM4,Case=Acc|Numb=Sing
--que,qvove,ADV,Deg=Pos

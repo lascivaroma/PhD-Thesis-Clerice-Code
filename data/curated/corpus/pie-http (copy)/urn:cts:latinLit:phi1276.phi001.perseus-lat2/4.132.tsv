@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quae,qvis,PROint,Case=Nom|Numb=Sing
-tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-muro,mvrvs,NOM2,Case=Abl|Numb=Sing
-spatiosum,spatiosvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-colligat,colligo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-orbem,orbis,NOM3,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-domini,dominvs,NOM2,Case=Gen|Numb=Sing
-cultris,cvlter,NOM2,Case=Abl|Numb=Plur
-tenue,tenvis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-miserabile,miserabilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-collum,collvm,NOM2,Case=Acc|Numb=Sing

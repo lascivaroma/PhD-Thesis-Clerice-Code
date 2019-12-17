@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-difficile,difficilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-saturam,satvr,NOM1,Case=Acc|Numb=Sing
-non,non,ADVneg,MORPH=empty
-scribere,scribo,VER,Mood=Inf|Tense=Pres|Voice=Act
-nam,nam,CONcoo,MORPH=empty
-quis,qvis,PROint,Case=Nom|Numb=Sing
-iniquae,iniqvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

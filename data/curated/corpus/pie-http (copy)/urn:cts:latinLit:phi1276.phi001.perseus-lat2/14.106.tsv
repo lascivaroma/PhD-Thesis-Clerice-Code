@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ignaua,ignavvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-partem,pars,NOM3,Case=Acc|Numb=Sing
-uitae,vita,NOM1,Case=Gen|Numb=Sing
-non,non,ADVneg,MORPH=empty
-attigit,attingo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ullam,vllvs,PROind,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Sing

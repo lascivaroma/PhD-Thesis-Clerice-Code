@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-uisne,visnvs,NOM3,Case=Abl|Numb=Sing
-salutari,salvto,VER,Mood=Inf|Tense=Pres|Voice=Pass
-sicut,sicvt,ADVrel,MORPH=empty
-Seianus,seianvs,NOM2,Case=Nom|Numb=Sing
-habere,habeo,VER,Mood=Inf|Tense=Pres|Voice=Act

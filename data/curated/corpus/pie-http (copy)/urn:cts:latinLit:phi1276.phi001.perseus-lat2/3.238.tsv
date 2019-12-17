@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-eripient,eripio,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-somnum,somnvs,NOM2,Case=Acc|Numb=Sing
-Druso,drvsvs,NOM2,Case=Dat|Numb=Sing
-uitulis,vitvlvs,NOM2,Case=Abl|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-marinis,marinvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

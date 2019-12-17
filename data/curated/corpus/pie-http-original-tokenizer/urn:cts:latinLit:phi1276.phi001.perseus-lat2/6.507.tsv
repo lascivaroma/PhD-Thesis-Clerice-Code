@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-leuis,levis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-erecta,erectvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-consurgit,consvrgo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ad,ad,PRE,MORPH=empty
-oscula,oscvlvm,NOM2,Case=Acc|Numb=Plur
-planta,planta,NOM1,Case=Acc|Numb=Plur
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

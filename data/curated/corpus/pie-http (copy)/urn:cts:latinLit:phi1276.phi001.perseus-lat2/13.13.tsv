@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tu,tv,PROper,Case=Nom|Numb=Sing
-quamuis,qvamvis,CONsub,MORPH=empty
-leuium,levis,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
-minimam,parvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Sup
-exiguam,exigvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
--que,qvovs,CONcoo,MORPH=empty
-malorum,malvm,NOM2,Case=Gen|Numb=Plur

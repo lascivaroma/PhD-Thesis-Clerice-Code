@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-addit,addo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-Herculeos,hercvlevs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-arcus,arcvs,NOM4,Case=Acc|Numb=Plur
-hastamque,hastvs,PROdem,Case=Acc|Numb=Sing
-Mineruae,minerva,NOM1,Case=Gen|Numb=Sing

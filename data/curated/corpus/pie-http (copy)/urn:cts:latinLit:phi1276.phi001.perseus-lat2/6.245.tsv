@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-principium,principivm,NOM2,Case=Acc|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-locos,locvs,NOM2,Case=Acc|Numb=Plur
-Celso,celsvs,NOM2,Case=Dat|Numb=Sing
-dictare,dicto,VER,Mood=Inf|Tense=Pres|Voice=Act
-paratae,paratvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-.,qvintvs,ADJcar,Case=Ind|Numb=Plur

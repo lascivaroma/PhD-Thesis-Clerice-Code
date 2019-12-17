@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-facti,factvm,NOM2,Case=Gen|Numb=Sing
-crimen,crimen,NOM3,Case=Acc|Numb=Sing
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,vnvs,ADJcar,Case=Gen|Numb=Plur
-Cedo,cedo,NOM3,Case=Nom|Numb=Sing
-si,si,CONsub,MORPH=empty
-conata,conor,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep
-peregit,perago,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Maura,mavrvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-die,dies,NOM5,Case=Abl|Numb=Sing
-quot,qvot,PROint,Case=Ind
-discipulos,discipvlvs,NOM2,Case=Acc|Numb=Plur
-inclinet,inclino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Hamillus,hamillvs,NOM2,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

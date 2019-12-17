@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quisnam,qvisnam,PROint,Case=Nom|Numb=Sing
-hominum,homo,NOM3,Case=Gen|Numb=Plur
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quem,qvi,PROrel,Case=Acc|Numb=Sing
-tu,tv,PROper,Case=Nom|Numb=Sing
-contentum,contentvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-uideris,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=2
-uno,vnvs,ADJcar,Case=Abl|Numb=Sing

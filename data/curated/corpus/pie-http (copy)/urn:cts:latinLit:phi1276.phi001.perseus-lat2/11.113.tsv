@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-litore,litvs,NOM3,Case=Abl|Numb=Sing
-ab,ab,PRE,MORPH=empty
-Oceani,oceanvs,NOM2,Case=Gen|Numb=Sing
-Gallis,galli,NOM2,Case=Abl|Numb=Plur
-uenientibus,venio,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-et,et,CONcoo,MORPH=empty
-dis,devs,NOM2,Case=Abl|Numb=Plur

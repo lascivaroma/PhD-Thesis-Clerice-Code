@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quantum,qvantvm,PROint,Case=Nom|Numb=Sing
-erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-exhausti,exhavrio,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-lumbos,lvmbvs,NOM2,Case=Acc|Numb=Plur
-donare,dono,VER,Mood=Inf|Tense=Pres|Voice=Act
-clientis,cliens,NOM3,Case=Acc|Numb=Sing

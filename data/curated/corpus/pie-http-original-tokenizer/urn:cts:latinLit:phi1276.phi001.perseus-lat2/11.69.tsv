@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-asparagi,asparagvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-posito,pono,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-legit,lego,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uilica,villica,NOM1,Case=Nom|Numb=Sing
-fuso,fvsvs,VER,Case=Abl|Numb=Sing|Voice=Pass
-;,o,PRE,MORPH=empty

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-paucae,pavcvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-adeo,adeo,ADV,Deg=Pos
-Cereris,ceres,NOM3,Case=Gen|Numb=Sing
-uittas,vitta,NOM1,Case=Acc|Numb=Plur
-contingere,contingo,VER,Mood=Inf|Tense=Pres|Voice=Act
-dignae,dignvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

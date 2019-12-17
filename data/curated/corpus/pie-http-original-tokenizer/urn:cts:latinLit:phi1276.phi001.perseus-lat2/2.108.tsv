@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-in,in,PRE,MORPH=empty
-Assyrio,assyrivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-pharetrata,pharetratvs,ADJqua,Case=Abl|Numb=Sing
-Samiramis,samiramis,NOM3,Case=Nom|Numb=Sing
-orbe,orbis,NOM3,Case=Abl|Numb=Sing

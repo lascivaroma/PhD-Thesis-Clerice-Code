@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
--que,qvove,CONcoo,MORPH=empty
-magis,magis,ADV,Deg=Comp
-stupeas,stvpeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-ludos,lvdvs,NOM2,Case=Acc|Numb=Plur
-Paridem,paris,NOM3,Case=Acc|Numb=Sing
--que,qvove,ADV,MORPH=empty
-reliquit,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

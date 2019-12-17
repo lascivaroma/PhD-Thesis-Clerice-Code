@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ius,ivs,NOM3,Case=Acc|Numb=Sing
-nullum,nvllvs,PROind,Case=Acc|Numb=Sing
-uxori,vxor,NOM3,Case=Dat|Numb=Sing
-doctus,doctvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-spectare,specto,VER,Mood=Inf|Tense=Pres|Voice=Act
-lacunar,lacvnar,NOM1,Case=Acc|Numb=Sing

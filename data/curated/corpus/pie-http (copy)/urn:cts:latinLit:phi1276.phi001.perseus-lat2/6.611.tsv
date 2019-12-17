@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-philtra,philtrvm,NOM2,Case=Nom|Numb=Plur
-quibus,qvi,PROint,Case=Dat|Numb=Plur
-ualeat,valeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-mentem,mens,NOM3,Case=Acc|Numb=Sing
-uexare,vexo,VER,Mood=Inf|Tense=Pres|Voice=Act
-mariti,maritvs,NOM2,Case=Gen|Numb=Plur

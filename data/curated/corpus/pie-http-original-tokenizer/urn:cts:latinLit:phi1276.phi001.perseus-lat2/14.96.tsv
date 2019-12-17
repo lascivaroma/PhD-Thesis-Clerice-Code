@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Quidam,qvidam,PROind,Case=Acc|Numb=Sing
-sortiti,sortior,VER,Numb=Plur|Mood=Par|Tense=Perf|Voice=Dep
-metuentem,metvo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-sabbata,sabbatvm,NOM2,Case=Acc|Numb=Plur
-patrem,pater,NOM3,Case=Acc|Numb=Sing

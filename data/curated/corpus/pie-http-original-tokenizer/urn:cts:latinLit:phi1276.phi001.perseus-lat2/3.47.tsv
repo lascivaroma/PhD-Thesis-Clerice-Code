@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-fur,fvr,NOM3,Case=Nom|Numb=Sing
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-atque,atqve,CONcoo,MORPH=empty
-ideo,ideo,ADV,Deg=Pos
-nulli,nvllvs,PROind,Case=Dat|Numb=Sing
-comes,comes,NOM3,Case=Nom|Numb=Sing
-exeo,exeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-tamquam,tamqvam,ADVrel,MORPH=empty

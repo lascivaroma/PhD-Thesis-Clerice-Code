@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-ingenti,ingens,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-curret,cvrro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-super,svper,PRE,MORPH=empty
-ora,os,NOM3,Case=Acc|Numb=Plur
-Liburna,libvrnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

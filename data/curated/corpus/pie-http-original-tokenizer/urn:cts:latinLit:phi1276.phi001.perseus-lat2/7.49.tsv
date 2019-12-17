@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ducimus,dvco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-et,et,CONcoo,MORPH=empty
-litus,litvs,NOM3,Case=Acc|Numb=Sing
-sterili,sterilis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-uersamus,verso,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-aratro,aratrvm,NOM2,Case=Abl|Numb=Sing

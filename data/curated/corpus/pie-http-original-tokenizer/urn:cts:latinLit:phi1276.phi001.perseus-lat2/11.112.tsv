@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nocte,nox,NOM3,Numb=Sing
-fere,fere,ADV,Deg=Pos
-media,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-mediamque,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-audita,avdio,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
-per,per,PRE,MORPH=empty
-urbem,vrbs,NOM3,Case=Acc|Numb=Sing

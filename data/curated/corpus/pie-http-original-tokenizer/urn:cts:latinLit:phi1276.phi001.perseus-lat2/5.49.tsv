@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Si,sivs,NOM2,Case=Nom|Numb=Sing
-stomachus,stomachvs,NOM2,Case=Nom|Numb=Sing
-domini,dominvs,NOM2,Case=Gen|Numb=Sing
-feruet,ferveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uinoque,vino,ADJqua,Numb=Sing|Deg=Pos
-ciboque,ciboqve,NOM2,Case=Nom|Numb=Sing|Deg=Pos

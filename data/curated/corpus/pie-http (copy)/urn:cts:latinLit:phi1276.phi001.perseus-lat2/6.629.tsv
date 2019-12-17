@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-uos,vos,PROper,Case=Voc|Numb=Plur
-ego,ego,PROper,Case=Nom|Numb=Sing
-pupilli,pvpillvs,NOM2,Case=Voc|Numb=Sing
-moneo,moneo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-quibus,qvi,PROrel,Case=Dat|Numb=Plur
-amplior,amplvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-res,res,NOM5,Case=Nom|Numb=Sing

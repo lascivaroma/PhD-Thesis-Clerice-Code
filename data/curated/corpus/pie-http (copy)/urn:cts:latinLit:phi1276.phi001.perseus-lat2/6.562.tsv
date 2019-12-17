@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-mathematicus,mathematicvs,NOM2,Case=Nom|Numb=Sing
-genium,genivs,NOM2,Case=Acc|Numb=Sing
-indemnatus,indemnatvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-habebit,habeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3

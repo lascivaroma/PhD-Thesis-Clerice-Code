@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ingenium,ingenivm,NOM2,Case=Nom|Numb=Sing
-par,par,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-materiae,materia,NOM1,Case=Gen|Numb=Sing
-unde,vnde,ADVint,MORPH=empty
-illa,ille,PROdem,Case=Nom|Numb=Sing
-priorum,prior,ADJord,Case=Gen|Numb=Plur|Deg=Comp

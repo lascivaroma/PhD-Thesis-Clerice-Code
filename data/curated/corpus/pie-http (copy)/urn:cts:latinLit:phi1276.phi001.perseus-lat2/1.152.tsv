@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-scribendi,scribo,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
-quodcumque,qvicvmqve,PROrel,Case=Acc|Numb=Sing
-animo,animvs,NOM2,Case=Abl|Numb=Sing
-flagrante,flagro,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-liberet,libero,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

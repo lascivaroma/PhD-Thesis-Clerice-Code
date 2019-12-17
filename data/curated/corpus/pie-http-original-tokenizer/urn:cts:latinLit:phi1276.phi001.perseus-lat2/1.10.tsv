@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Aeacus,aeacvs,NOM2,Case=Nom|Numb=Sing
-unde,vnde,ADVint,MORPH=empty
-alius,alivs,PROind,Case=Nom|Numb=Sing
-furtiuae,fvrtivvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-deuehat,deveho,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-aurum,avrvm,NOM2,Case=Acc|Numb=Sing

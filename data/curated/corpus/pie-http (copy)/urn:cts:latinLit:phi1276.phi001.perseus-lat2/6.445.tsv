@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-docta,doctvs,ADJqua,Numb=Plur|Deg=Pos
-nimis,nimis,ADV,Deg=Pos
-cupit,cvpio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-facunda,facvndvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-uideri,video,VER,Mood=Inf|Tense=Pres|Voice=Pass

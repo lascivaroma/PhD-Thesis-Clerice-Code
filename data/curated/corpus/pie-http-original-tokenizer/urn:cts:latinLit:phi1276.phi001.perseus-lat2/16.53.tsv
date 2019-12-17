@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-militiae,militia,NOM1,Case=Gen|Numb=Sing
-placuit,placeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-non,non,ADVneg,MORPH=empty
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-in,in,PRE,MORPH=empty
-corpore,corpvs,NOM3,Case=Abl|Numb=Sing
-census,censvs,NOM4,Case=Gen|Numb=Sing

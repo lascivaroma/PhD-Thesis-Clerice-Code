@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-maturus,matvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-bello,bellvm,NOM2,Case=Abl|Numb=Sing
-Armeniae,armenia,NOM1,Case=Gen|Numb=Sing
-Syriae,syria,NOM1,Case=Gen|Numb=Sing
--que,qvovs,CONcoo,MORPH=empty
-tuendis,tveor,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Dep

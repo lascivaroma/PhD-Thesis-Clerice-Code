@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-accepta,accipio,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-rude,rvdis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-coepisset,coepio,VER,Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
-Veiento,veiento,NOM3,Case=Nom|Numb=Sing
-uideri,video,VER,Mood=Inf|Tense=Pres|Voice=Pass
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

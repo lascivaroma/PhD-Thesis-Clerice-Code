@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-bis,bis,ADJadv.mul,MORPH=empty
-quingena,qvingenvs,ADJdis,Case=Acc|Numb=Plur
-dedit,do,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-tanti,tantvs,PROdem,Case=Gen|Numb=Sing
-uocat,voco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing
-pudicam,pvdicvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

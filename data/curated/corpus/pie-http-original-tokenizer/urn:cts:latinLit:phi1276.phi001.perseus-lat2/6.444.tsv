@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-inponit,impono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-finem,finis,NOM3,Case=Acc|Numb=Sing
-sapiens,sapiens,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-rebus,res,NOM5,Case=Dat|Numb=Plur
-honestis,honestvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-;,o,PRE,MORPH=empty

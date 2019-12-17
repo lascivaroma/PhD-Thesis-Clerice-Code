@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-scilicet,scilicet,ADV,Deg=Pos
-hoc,hic,PROdem,Case=Nom|Numb=Sing
-fuerat,svm,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-propter,propter,PRE,MORPH=empty
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-saepe,saepe,ADV,Deg=Pos
-relicta,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

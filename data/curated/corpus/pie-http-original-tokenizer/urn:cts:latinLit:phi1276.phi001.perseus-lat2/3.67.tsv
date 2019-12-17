@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-rusticus,rvsticvs,NOM2,Case=Nom|Numb=Sing
-ille,ille,PROdem,Case=Nom|Numb=Sing
-tuus,tvvs,PROpos,Case=Nom|Numb=Sing
-sumit,svmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-trechedipna,trechedipnvm,NOM2,Case=Acc|Numb=Plur
-Quirine,qvirinvs,NOM2,Case=Voc|Numb=Sing

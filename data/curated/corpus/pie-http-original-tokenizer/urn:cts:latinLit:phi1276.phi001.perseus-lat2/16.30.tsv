@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nescio,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-quis,qvis,PROint,Case=Nom|Numb=Sing
-pugnos,pvgnvs,NOM2,Case=Acc|Numb=Plur
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-uidit,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
-uidi,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

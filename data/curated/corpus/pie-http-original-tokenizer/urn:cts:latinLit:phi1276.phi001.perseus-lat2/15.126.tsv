@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hac,hic,PROdem,Case=Abl|Numb=Sing
-saeuit,saevio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-rabie,rabies,NOM5,Case=Abl|Numb=Sing
-imbelle,imbellis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-inutile,invtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uulgus,vvlgvs,NOM2,Case=Nom|Numb=Sing

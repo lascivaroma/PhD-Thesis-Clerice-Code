@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ni,ni,CONsub,MORPH=empty
-parere,pareo,VER,Mood=Inf|Tense=Pres|Voice=Act
-uelis,volo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-pereundum,pereo,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-ante,ante,PRE,MORPH=empty
-lucernas,lvcerna,NOM1,Case=Acc|Numb=Plur
-;,o,PRE,MORPH=empty

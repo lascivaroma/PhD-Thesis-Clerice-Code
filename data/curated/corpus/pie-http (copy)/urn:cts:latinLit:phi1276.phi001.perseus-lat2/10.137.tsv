@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-humanis,hvmanvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-maiora,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp
-bonis,bonvm,NOM2,Case=Abl|Numb=Plur
-creduntur,credo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-ad,ad,PRE,MORPH=empty
-hoc,hic,PROdem,Case=Acc|Numb=Sing
-se,svi,PROref,Case=Acc|Numb=Sing

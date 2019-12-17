@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-strepitu,strepitvs,NOM4,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-facie,facies,NOM5,Case=Abl|Numb=Sing
-maioris,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Comp
-uiuere,vivo,VER,Mood=Inf|Tense=Pres|Voice=Act
-census,censvs,NOM4,Numb=Sing

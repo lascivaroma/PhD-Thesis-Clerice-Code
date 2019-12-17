@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quidquid,qvisqvis,PROrel,Case=Nom|Numb=Sing
-conspicuum,conspicvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-pulchrum,pvlcher,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvivis,CONcoo,MORPH=empty
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aequore,aeqvor,NOM3,Case=Abl|Numb=Sing
-toto,totvs,PROind,Case=Abl|Numb=Sing

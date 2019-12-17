@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-sequar,seqvor,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Dep|Person=1
-et,et,CONcoo,MORPH=empty
-sacro,sacer,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-praestat,praesto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-rite,rite,ADV,Deg=Pos
-peracto,perago,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

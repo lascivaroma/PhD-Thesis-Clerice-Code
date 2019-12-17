@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-exulibus,exsvl,NOM3,Case=Dat|Numb=Plur
-iuuenes,ivvenis,NOM3,Case=Voc|Numb=Plur
-ipsius,ipse,PROdem,Case=Gen|Numb=Sing
-consulis,consvl,NOM3,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-quos,qvi,PROrel,Case=Acc|Numb=Plur

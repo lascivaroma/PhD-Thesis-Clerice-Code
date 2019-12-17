@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Illyricum,illyricvm,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
--que,qvivis,ADV,MORPH=empty
-latus,latvs,NOM3,Case=Acc|Numb=Sing
-;,o,INJ,MORPH=empty
-parce,parce,VER,Numb=Sing
-et,et,CONcoo,MORPH=empty
-messoribus,messor,NOM3,Case=Abl|Numb=Plur
-illis,ille,PROdem,Case=Abl|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-urguentur,vrgeo,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-.,qvadrantal,ADJcar,Case=Nom|Numb=Plur
-tandem,tandem,ADV,Deg=Pos
-illa,ille,PROdem,Case=Nom|Numb=Sing
-uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-rubicundula,rvbicvndvla,NOM1,Case=Nom|Numb=Sing|Deg=Pos
-totum,totvs,PROind,Case=Acc|Numb=Sing

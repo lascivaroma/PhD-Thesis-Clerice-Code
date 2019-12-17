@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-aut,avt,CONcoo,MORPH=empty
-Stratocles,stratocles,NOM7,Case=Nom|Numb=Sing
-aut,avt,CONcoo,MORPH=empty
-cum,cvm,PRE,MORPH=empty
-molli,mollis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-Demetrius,demetrivs,NOM2,Case=Nom|Numb=Sing
-Haemo,haemvs,NOM2,Case=Abl|Numb=Sing

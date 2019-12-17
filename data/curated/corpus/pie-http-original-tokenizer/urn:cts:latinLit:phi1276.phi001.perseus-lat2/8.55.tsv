@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-illi,ille,PROdem,Case=Dat|Numb=Sing
-marmoreum,marmorevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-caput,capvt,NOM3,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tua,tvvs,PROpos,Case=Nom|Numb=Sing
-uiuit,vivo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-imago,imago,NOM3,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Sing

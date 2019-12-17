@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-urbibus,vrbs,NOM3,Case=Abl|Numb=Plur
-euersis,everto,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-praedarum,praeda,NOM1,Case=Gen|Numb=Plur
-in,in,PRE,MORPH=empty
-parte,pars,NOM3,Case=Abl|Numb=Sing
-reperta,reperio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

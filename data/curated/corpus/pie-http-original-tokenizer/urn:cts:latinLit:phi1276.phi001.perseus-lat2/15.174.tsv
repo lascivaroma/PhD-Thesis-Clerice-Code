@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tamquam,tamqvam,ADVrel,MORPH=empty
-homine,homo,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-uentri,venter,NOM3,Case=Dat|Numb=Sing
-indulsit,indvlgeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-non,non,ADVneg,MORPH=empty
-omne,omnis,PROind,Case=Acc|Numb=Sing
-legumen,legvmen,NOM3,Case=Acc|Numb=Sing

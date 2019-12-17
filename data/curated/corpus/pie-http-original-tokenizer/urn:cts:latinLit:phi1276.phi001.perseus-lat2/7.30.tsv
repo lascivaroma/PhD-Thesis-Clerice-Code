@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-spes,spes,NOM5,Case=Nom|Numb=Sing
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-ulterior,vlterior,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-;,o,INJ,MORPH=empty
-didicit,disco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-iam,iam,ADV,Deg=Pos
-diues,dives,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-auarus,avarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

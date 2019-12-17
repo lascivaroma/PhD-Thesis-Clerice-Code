@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-numquam,nvmqvam,ADVneg,MORPH=empty
-uisae,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-flagrabat,flagro,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-amore,amor,NOM3,Case=Abl|Numb=Sing
-puellae,pvella,NOM1,Case=Gen|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-pensa,pensvm,NOM2,Case=Acc|Numb=Plur
-manu,manvs,NOM4,Case=Abl|Numb=Sing
-ducunt,dvco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hilares,hilaris,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-et,et,CONcoo,MORPH=empty
-staminis,stamen,NOM3,Case=Gen|Numb=Sing
-albi,albvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

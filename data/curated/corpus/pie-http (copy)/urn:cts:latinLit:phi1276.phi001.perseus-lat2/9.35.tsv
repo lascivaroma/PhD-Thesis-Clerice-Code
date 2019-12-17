@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quamuis,qvamvis,CONsub,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-nudum,nvdvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-spumanti,spvmo,VER,Case=Dat|Numb=Sing|Deg=Pos|Tense=Pres|Voice=Act
-Virro,virro,NOM3,Case=Voc|Numb=Sing
-labello,labellvm,NOM2,Case=Abl|Numb=Sing

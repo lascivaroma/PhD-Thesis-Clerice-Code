@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act
-iugum,ivgvm,NOM2,Case=Acc|Numb=Sing
-nullam,nvllvs,PROind,Case=Acc|Numb=Sing
-inuenies,invenio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-parcat,parco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-amanti,amans,NOM3,Case=Dat|Numb=Sing

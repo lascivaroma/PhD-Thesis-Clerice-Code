@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Pontice,ponticvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-noluerim,nolo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=1
-sic,sic,ADV,Deg=Pos
-ut,vt,CONsub,MORPH=empty
-nihil,nihil,PROind,Case=Ind
-ipse,ipse,PROdem,Case=Nom|Numb=Sing
-futurae,svm,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Fut

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-cum,cvm,CONsub,MORPH=empty
-peruigiles,pervigil,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-placet,placeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-instaurare,instavro,VER,Mood=Inf|Tense=Pres|Voice=Act
-popinas,popina,NOM1,Case=Acc|Numb=Plur

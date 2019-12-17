@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-fortior,fortis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-unde,vnde,ADVrel,MORPH=empty
-uenis,vena,NOM1,Case=Abl|Numb=Sing|Tense=Pres
-exclamat,exclamo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-cuius,qvi,PROrel,Case=Gen|Numb=Sing
-aceto,acetvm,NOM2,Case=Abl|Numb=Sing

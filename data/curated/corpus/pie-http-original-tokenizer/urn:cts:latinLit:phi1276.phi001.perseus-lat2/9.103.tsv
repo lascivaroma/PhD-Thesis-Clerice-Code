@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-putas,pvto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-serui,servvs,NOM2,Case=Nom|Numb=Plur
-ut,vt,CONsub,MORPH=empty
-taceant,taceo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-iumenta,ivmentvm,NOM2,Case=Nom|Numb=Plur
-loquentur,loqvor,VER,Numb=Plur|Mood=Ind|Tense=Fut|Voice=Dep|Person=3

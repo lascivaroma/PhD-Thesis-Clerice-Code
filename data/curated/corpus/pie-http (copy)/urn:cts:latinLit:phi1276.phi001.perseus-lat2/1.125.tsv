@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Galla,galla,NOM1,Case=Nom|Numb=Sing
-mea,mevs,PROpos,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-inquit,inqvio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-citius,cito,ADV,Deg=Comp
-dimitte,dimitto,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-moraris,moror,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-res,res,NOM5,Case=Nom|Numb=Sing
-memoranda,memorandvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos|Mood=Adj|Voice=Pass
-nouis,novvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-annalibus,annalis,NOM3,Case=Dat|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-recenti,recens,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

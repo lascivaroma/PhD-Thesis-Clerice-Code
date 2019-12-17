@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aut,avt,CONcoo,MORPH=empty
-latum,latvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-pictae,pingo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-uestis,vestis,NOM3,Case=Gen|Numb=Sing
-considerat,considero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aurum,avrvm,NOM2,Case=Acc|Numb=Sing

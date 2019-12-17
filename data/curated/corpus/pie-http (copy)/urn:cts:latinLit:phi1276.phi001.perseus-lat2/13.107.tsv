@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-confirmat,confirmo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tunc,tvnc,ADV,Deg=Pos
-te,tv,PROper,Case=Acc|Numb=Sing
-sacra,sacrvm,NOM2,Case=Acc|Numb=Plur
-ad,ad,PRE,MORPH=empty
-delubra,delvbrvm,NOM2,Case=Acc|Numb=Plur
-uocantem,voco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

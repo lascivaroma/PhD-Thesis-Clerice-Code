@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-anulus,anvlvs,NOM2,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-digito,digitvs,NOM2,Case=Abl|Numb=Sing
-quod,qvi,PROrel,MORPH=empty
-ferreus,ferrevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ergo,ergo,CONcoo,MORPH=empty
-superbum,svperbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

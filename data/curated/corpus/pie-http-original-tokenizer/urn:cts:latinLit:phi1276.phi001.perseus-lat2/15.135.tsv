@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-squaloremque,sqvalor,NOM3,Case=Acc|Numb=Sing
-rei,res,NOM5,Case=Gen|Numb=Sing
-pupillum,pvpillvs,NOM2,Case=Acc|Numb=Sing
-ad,ad,PRE,MORPH=empty
-iura,ivs,NOM3,Case=Acc|Numb=Plur
-uocantem,voco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-mox,mox,ADV,Deg=Pos
-adquirendi,acqviro,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act
-docet,doceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-insatiabile,insatiabilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uotum,votvm,NOM2,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

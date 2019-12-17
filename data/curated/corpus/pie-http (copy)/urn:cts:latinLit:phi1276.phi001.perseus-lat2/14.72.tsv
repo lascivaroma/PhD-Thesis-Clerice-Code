@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-utilis,vtilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-bellorum,bellvm,NOM2,Case=Gen|Numb=Plur
-et,et,CONcoo,MORPH=empty
-pacis,pax,NOM3,Case=Gen|Numb=Sing
-rebus,res,NOM5,Case=Dat|Numb=Plur
-agendis,ago,VER,Case=Dat|Numb=Plur|Mood=Adj|Voice=Pass

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dis,devs,NOM2,Case=Dat|Numb=Plur
-ille,ille,PROdem,Case=Nom|Numb=Sing
-aduersis,adversvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-genitus,gigno,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass|Person=3
-fato,fatvm,NOM2,Case=Abl|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-sinistro,sinister,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

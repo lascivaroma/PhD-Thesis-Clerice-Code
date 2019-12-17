@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-mox,mox,ADV,Deg=Pos
-inpar,impar,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-hosti,hostis,NOM3,Case=Dat|Numb=Sing
-raptus,rapio,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
--que,qvove,CONcoo,MORPH=empty
-per,per,PRE,MORPH=empty
-aera,aes,NOM3,Case=Acc|Numb=Sing
-curuis,cvrvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

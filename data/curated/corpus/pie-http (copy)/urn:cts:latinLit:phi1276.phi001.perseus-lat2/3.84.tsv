@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-usque,vsqve,ADV,Deg=Pos
-adeo,adeo,ADV,Deg=Pos
-nihil,nihil,PROind,Case=Ind
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quod,qvod,PROrel,MORPH=empty
-nostra,noster,PROpos,Case=Nom|Numb=Sing
-infantia,infantia,NOM1,Case=Nom|Numb=Sing
-caelum,caelvm,NOM2,Case=Nom|Numb=Sing

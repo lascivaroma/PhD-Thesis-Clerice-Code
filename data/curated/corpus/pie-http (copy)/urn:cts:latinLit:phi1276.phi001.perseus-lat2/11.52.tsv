@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ille,ille,PROdem,Case=Nom|Numb=Sing
-dolor,dolor,NOM3,Case=Nom|Numb=Sing
-solus,solvs,PROind,Case=Nom|Numb=Sing
-patriam,patria,NOM1,Case=Acc|Numb=Sing
-fugientibus,fvgio,VER,Case=Dat|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-illa,ille,PROdem,Case=Abl|Numb=Sing

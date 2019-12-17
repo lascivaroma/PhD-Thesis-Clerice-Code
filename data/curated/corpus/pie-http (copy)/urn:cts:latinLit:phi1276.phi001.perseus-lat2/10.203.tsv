@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-eadem,idem,PROdem,Case=Nom|Numb=Plur
-uini,vinvm,NOM2,Case=Gen|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-cibi,cibvs,NOM2,Case=Gen|Numb=Sing
-torpente,torpeo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-palato,palatvm,NOM2,Case=Abl|Numb=Sing

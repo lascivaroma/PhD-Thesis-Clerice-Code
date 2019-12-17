@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-quisquis,qvisqvis,PROrel,Case=Nom|Numb=Sing
-magni,magnvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-census,censvs,NOM4,Case=Gen|Numb=Sing
-praecepit,praecipio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-amorem,amor,NOM3,Case=Acc|Numb=Sing

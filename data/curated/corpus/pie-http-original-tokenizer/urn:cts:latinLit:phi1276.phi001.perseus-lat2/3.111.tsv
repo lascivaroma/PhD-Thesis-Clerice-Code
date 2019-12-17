@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sponsus,sponsvs,NOM4,Case=Nom|Numb=Sing
-leuis,levis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-adhuc,adhvc,ADV,Deg=Pos
-non,non,ADVneg,MORPH=empty
-filius,filivs,NOM2,Case=Nom|Numb=Sing
-ante,ante,ADV,Deg=Pos
-pudicus,pvdicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-;,o,PRE,MORPH=empty

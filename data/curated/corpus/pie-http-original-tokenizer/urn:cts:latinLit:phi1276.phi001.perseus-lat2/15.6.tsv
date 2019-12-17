@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-uetus,vetvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Thebe,thebe,NOM7,Case=Nom|Numb=Sing
-centum,centvm,ADJcar,Case=Ind
-iacet,iaceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-obruta,obrvo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-portis,porta,NOM1,Case=Abl|Numb=Plur

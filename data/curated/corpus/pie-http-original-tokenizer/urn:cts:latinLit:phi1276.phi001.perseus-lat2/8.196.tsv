@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-satius,satis,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-mortem,mors,NOM3,Case=Acc|Numb=Sing
-sic,sic,ADV,Deg=Pos
-quisquam,qvisqvam,PROind,Case=Nom|Numb=Sing
-exhorruit,exhorreo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-ut,vt,CONsub,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

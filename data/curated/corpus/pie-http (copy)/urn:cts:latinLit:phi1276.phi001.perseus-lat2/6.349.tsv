@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
--que,qvove,ADV,Deg=Pos
-eadem,idem,PROdem,Case=Nom|Numb=Sing
-summis,svpervs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
-pariter,pariter,ADV,Deg=Pos
-minimis,parvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
--que,qvovs,CONcoo,MORPH=empty
-libido,libido,NOM3,Case=Nom|Numb=Sing

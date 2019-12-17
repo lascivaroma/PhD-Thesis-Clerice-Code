@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-ille,ille,PROdem,Case=Nom|Numb=Sing
-supercilium,svpercilivm,NOM2,Case=Acc|Numb=Sing
-madida,madidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-fuligine,fvligo,NOM3,Case=Abl|Numb=Sing
-tinctum,tingo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass

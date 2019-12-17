@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-e,ex,PRE,MORPH=empty
-medio,medivm,NOM2,Case=Abl|Numb=Sing
-fac,facio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-eant,eo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-omnes,omnis,PROind,Case=Acc|Numb=Plur
-prope,prope,ADV,Deg=Pos
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-recumbat,recvmbo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

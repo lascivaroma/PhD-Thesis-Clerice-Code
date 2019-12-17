@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-rarus,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-sermo,sermo,NOM3,Case=Nom|Numb=Sing
-illis,ille,PROdem,Case=Dat|Numb=Plur
-et,et,CONcoo,MORPH=empty
-magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-libido,libido,NOM3,Case=Nom|Numb=Sing
-tacendi,taceo,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Act

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-summus,svpervs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-nempe,nempe,ADV,Deg=Pos
-locus,locvs,NOM2,Case=Nom|Numb=Sing
-nulla,nvllvs,PROind,Case=Abl|Numb=Sing
-non,non,ADVneg,MORPH=empty
-arte,ars,NOM3,Case=Abl
-petitus,peto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

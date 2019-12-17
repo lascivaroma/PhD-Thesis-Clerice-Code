@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-erepet,erepo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-genibus,genv,NOM3,Case=Abl|Numb=Plur
-;,o,INJ,MORPH=empty
-si,si,CONsub,MORPH=empty
-candida,candidvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-iusserit,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-Io,io,NOM2,Case=Nom|Numb=Sing

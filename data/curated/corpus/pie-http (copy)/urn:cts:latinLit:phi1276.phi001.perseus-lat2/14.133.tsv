@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-fila,filvm,NOM2,Case=Acc|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-sectiui,sectivvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-numerata,nvmero,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass|Person=3
-includere,inclvdo,VER,Mood=Inf|Tense=Pres|Voice=Act
-porri,porrvs,NOM2,Case=Gen|Numb=Sing
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

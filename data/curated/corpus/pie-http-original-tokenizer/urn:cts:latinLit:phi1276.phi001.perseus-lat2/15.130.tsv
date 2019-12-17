@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-supplicia,svpplicivm,NOM2,Case=Nom|Numb=Plur
-his,hic,PROdem,Case=Dat|Numb=Plur
-populis,popvlvs,NOM2,Case=Dat|Numb=Plur
-in,in,PRE,MORPH=empty
-quorum,qvi,PROrel,Case=Gen|Numb=Plur
-mente,mens,NOM3,Case=Abl|Numb=Sing
-pares,par,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-sunt,svm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

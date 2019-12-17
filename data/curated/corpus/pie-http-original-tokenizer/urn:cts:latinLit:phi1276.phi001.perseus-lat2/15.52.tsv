@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-incipiunt,incipio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-animis,animvs,NOM2,Case=Abl|Numb=Plur
-ardentibus,ardens,ADJqua,Case=Abl|Numb=Plur|Deg=Pos|Tense=Pres
-haec,hic,PROdem,Case=Nom|Numb=Plur
-tuba,tvba,NOM1,Case=Nom|Numb=Sing
-rixae,rixa,NOM1,Case=Gen|Numb=Sing
-;,o,PRE,MORPH=empty

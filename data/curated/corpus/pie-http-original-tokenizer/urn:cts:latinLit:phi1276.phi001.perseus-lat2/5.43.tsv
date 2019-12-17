@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-Virro,virro,NOM3,Case=Nom|Numb=Sing
-ut,vt,ADVrel,MORPH=empty
-multi,mvltvs,NOM2,Case=Nom|Numb=Plur|Deg=Pos
-gemmas,gemma,NOM1,Case=Acc|Numb=Plur
-ad,ad,PRE,MORPH=empty
-pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
-transfert,transfero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

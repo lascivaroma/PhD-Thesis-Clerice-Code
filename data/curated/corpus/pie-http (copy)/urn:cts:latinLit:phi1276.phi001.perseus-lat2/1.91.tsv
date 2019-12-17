@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-proelia,proelivm,NOM2,Case=Acc|Numb=Plur
-quanta,qvantvs,PROint,Case=Acc|Numb=Sing
-illic,illic,ADV,Deg=Pos
-dispensatore,dispensator,NOM3,Case=Abl|Numb=Sing
-uidebis,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

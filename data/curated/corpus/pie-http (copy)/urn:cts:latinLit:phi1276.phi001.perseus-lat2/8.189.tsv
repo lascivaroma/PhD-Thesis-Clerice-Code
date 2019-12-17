@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ignoscas,ignosco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-populo,popvlvs,NOM2,Case=Dat|Numb=Sing
-;,o,PRE,MORPH=empty
-populi,popvlvs,NOM2,Case=Gen|Numb=Sing
-frons,frons,NOM3,Case=Nom|Numb=Sing
-durior,dvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-huius,hic,PROdem,Case=Gen|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tanti,tantvs,PROdem,Case=Gen|Numb=Sing
-partus,partvs,NOM4,Case=Nom|Numb=Plur
-equae,eqva,NOM1,Case=Gen|Numb=Sing
-tanti,tantvs,PROdem,Case=Gen|Numb=Sing
-una,vnvs,ADJcar,Case=Nom|Numb=Sing
-uenefica,venefica,NOM1,Case=Nom|Numb=Sing
-constat,consto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

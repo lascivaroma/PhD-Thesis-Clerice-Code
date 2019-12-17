@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-prima,primvs,ADJord,Case=Nom|Numb=Sing|Deg=Sup
-uidet,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-famam,fama,NOM1,Case=Acc|Numb=Sing
-rumoresque,rvmoresqve,NOM3,Numb=Sing
-illa,ille,PROdem,Case=Nom|Numb=Sing
-recentis,recens,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

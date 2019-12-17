@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tamquam,tamqvam,ADVrel,MORPH=empty
-de,de,PRE,MORPH=empty
-Chattis,chatti,NOM2,Case=Abl|Numb=Plur
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-toruis,torvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-Sygambris,sygambri,NOM2,Case=Abl|Numb=Plur

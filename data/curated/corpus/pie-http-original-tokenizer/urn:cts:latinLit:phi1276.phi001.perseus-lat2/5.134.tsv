@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ex,ex,PRE,MORPH=empty
-nihilo,nihilvm,NOM2,Case=Abl|Numb=Sing
-quantus,qvantvs,PROint,Case=Nom|Numb=Sing
-fieres,fio,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=2
-Virronis,virro,NOM3,Case=Gen|Numb=Sing
-amicus,amicvs,NOM2,Case=Nom|Numb=Sing

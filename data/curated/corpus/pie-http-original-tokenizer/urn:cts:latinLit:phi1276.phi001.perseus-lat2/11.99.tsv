@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tales,talis,PROdem,Case=Nom|Numb=Plur
-ergo,ergo,CONcoo,MORPH=empty
-cibi,cibvs,NOM2,Case=Nom|Numb=Plur
-qualis,qvalis,PROint,Case=Nom|Numb=Sing
-domus,domvs,NOM6,Case=Nom|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-supellex,svpellex,NOM3,Case=Nom|Numb=Sing
-.,qvinqvaginta,ADJcar,Case=Gen|Numb=Sing

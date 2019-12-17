@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-confiteor,confiteor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=1
-pueris,pver,NOM2,Case=Dat|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-meis,mevs,PROpos,Case=Dat|Numb=Plur
-aconita,aconitvm,NOM2,Case=Acc|Numb=Plur
-paraui,paro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=1

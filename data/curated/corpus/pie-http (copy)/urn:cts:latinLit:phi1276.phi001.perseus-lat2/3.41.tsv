@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Quid,qvis,PROint,Case=Acc|Numb=Sing
-Romae,roma,NOM1,Case=Loc|Numb=Sing
-faciam,facio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
-mentiri,mentior,VER,Mood=Inf|Tense=Pres|Voice=Dep
-nescio,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-librum,liber,NOM2,Case=Acc|Numb=Sing

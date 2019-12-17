@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hic,hic,ADV,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-ancipiti,anceps,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-figens,figo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-uestigia,vestigivm,NOM2,Case=Acc|Numb=Plur
-planta,planta,NOM1,Case=Abl|Numb=Sing

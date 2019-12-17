@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aspice,aspicio,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-quo,qvis,PROint,Case=Abl|Numb=Sing
-fremitu,fremitvs,NOM4,Case=Abl|Numb=Sing
-monstratos,monstro,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-perferat,perfero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-ictus,ictvs,NOM4,Case=Acc|Numb=Plur

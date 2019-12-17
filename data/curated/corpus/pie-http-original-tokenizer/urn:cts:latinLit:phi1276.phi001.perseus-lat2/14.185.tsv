@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-uetitum,veto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-fecisse,facio,VER,Mood=Inf|Tense=Perf|Voice=Act
-uolet,volo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-quem,qvi,PROrel,Case=Acc|Numb=Sing
-non,non,ADVneg,MORPH=empty
-pudet,pvdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-alto,altvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

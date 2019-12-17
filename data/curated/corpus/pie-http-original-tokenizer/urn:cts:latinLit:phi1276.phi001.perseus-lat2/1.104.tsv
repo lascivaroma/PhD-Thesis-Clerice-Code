@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-natus,nascor,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Dep
-ad,ad,PRE,MORPH=empty
-Euphraten,evphrates,NOM7,Case=Acc|Numb=Sing
-molles,mollis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-quod,qvod,CONsub,MORPH=empty
-in,in,PRE,MORPH=empty
-aure,avris,NOM3,Case=Abl|Numb=Sing
-fenestrae,fenestra,NOM1,Case=Nom|Numb=Sing

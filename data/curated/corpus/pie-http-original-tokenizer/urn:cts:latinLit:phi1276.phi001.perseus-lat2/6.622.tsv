@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ille,ille,PROdem,Case=Nom|Numb=Sing
-senis,senex,NOM3,Case=Gen|Numb=Sing
-tremulumque,tremvlvsqve,ADV,Case=Nom|Numb=Sing|Deg=Pos
-caput,capvt,NOM3,Case=Acc|Numb=Sing
-descendere,descendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-iussit,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

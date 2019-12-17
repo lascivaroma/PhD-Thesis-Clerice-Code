@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-latrauit,latro,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-rictu,rictvs,NOM4,Case=Abl|Numb=Sing
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-post,post,PRE,MORPH=empty
-hunc,hic,PROdem,Case=Acc|Numb=Sing
-uixerat,vivo,VER,Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
-uxor,vxor,NOM3,Case=Nom|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Sing

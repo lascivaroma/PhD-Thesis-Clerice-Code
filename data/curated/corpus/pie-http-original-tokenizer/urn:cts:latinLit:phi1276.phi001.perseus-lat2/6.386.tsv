@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-farre,far,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-uino,vinvm,NOM2,Case=Abl|Numb=Sing
-Ianum,ianvs,NOM2,Case=Acc|Numb=Sing
-Vestamque,vesta,NOM1,Case=Acc|Numb=Sing
-rogabat,rogo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

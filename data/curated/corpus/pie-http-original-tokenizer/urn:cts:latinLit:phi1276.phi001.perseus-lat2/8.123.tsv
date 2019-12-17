@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-auri,avrvm,NOM2,Case=Gen|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-argenti,argentvm,NOM2,Case=Gen|Numb=Sing
-scutum,scvtvm,NOM2,Case=Acc|Numb=Sing
-gladiumque,gladivs,NOM2,Case=Acc|Numb=Sing
-relinques,relinqvo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

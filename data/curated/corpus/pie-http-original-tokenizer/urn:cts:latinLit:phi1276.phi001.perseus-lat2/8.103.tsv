@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Phidiacum,phidiacvs,NOM2,Case=Acc|Numb=Sing|Deg=Pos
-uiuebat,vivo,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-ebur,ebvr,NOM3,Case=Nom|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-non,non,ADVneg,MORPH=empty
-Polycliti,polyclitvs,NOM2,Case=Gen|Numb=Sing

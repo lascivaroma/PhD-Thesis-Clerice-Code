@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Nom|Numb=Sing
-superest,svpersvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-de,de,PRE,MORPH=empty
-corporibus,corpvs,NOM3,Case=Abl|Numb=Plur
-quis,qvis,PROint,Case=Nom|Numb=Plur
-membra,membrvm,NOM2,Case=Acc|Numb=Plur
-quis,qvis,PROint,Case=Nom|Numb=Plur
-ossa,os,NOM3,Case=Acc|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quo,qvo,ADVint,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-circumagas,circvmago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-quae,qvi,PROint,Case=Acc|Numb=Plur
-prima,primvs,ADJord,Case=Acc|Numb=Plur|Deg=Sup
-aut,avt,CONcoo,MORPH=empty
-ultima,vltimvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ponas,pono,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

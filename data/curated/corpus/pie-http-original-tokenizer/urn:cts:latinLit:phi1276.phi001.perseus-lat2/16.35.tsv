@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Praemia,praemia,NOM1,Case=Nom|Numb=Sing
-nunc,nvnc,ADV,Deg=Pos
-alia,alivs,PROind,Case=Acc|Numb=Plur
-atque,atqve,CONcoo,MORPH=empty
-alia,alivs,PROind,Case=Abl|Numb=Plur
-emolumento,emolvmentvm,NOM2,Case=Abl|Numb=Sing
-note,note,VER,Deg=Pos|Mood=Imp|Voice=Act
-mus,mvs,NOM3,Case=Nom|Numb=Sing

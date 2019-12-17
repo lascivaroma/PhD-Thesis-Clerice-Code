@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-limine,limen,NOM3,Case=Abl|Numb=Sing
-summoueor,svbmoveo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1
-perierunt,pereo,VER,Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-tempora,tempvs,NOM3,Case=Acc|Numb=Plur
-longi,longvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

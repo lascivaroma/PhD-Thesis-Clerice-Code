@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ast,at,CONcoo,MORPH=empty
-ego,ego,PROper,Case=Nom|Numb=Sing
-Cecropides,cecropides,NOM7,Case=Nom|Numb=Sing
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur
-uiuas,vivo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-et,et,CONcoo,MORPH=empty
-originis,origo,NOM3,Case=Gen|Numb=Sing
-huius,hic,PROdem,Case=Gen|Numb=Sing

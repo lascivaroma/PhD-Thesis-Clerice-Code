@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-exiguam,exigvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-modicae,modicvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-sumptam,svmo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-de,de,PRE,MORPH=empty
-margine,margo,NOM3,Case=Abl|Numb=Sing
-cenae,cena,NOM1,Case=Gen|Numb=Sing

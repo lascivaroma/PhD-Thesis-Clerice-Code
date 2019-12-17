@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-populos,popvlvs,NOM2,Case=Acc|Numb=Plur
-magnoque,magnvs,ADV,Deg=Pos
-illic,illic,ADV,Deg=Pos
-cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-arua,arvvm,NOM2,Case=Acc|Numb=Plur
-teneri,teneo,VER,Mood=Inf|Tense=Pres|Voice=Pass

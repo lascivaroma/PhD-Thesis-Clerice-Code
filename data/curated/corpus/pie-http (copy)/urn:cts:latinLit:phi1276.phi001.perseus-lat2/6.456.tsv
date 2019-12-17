@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uerba,verbvm,NOM2,Case=Acc|Numb=Plur
-;,o,PRE,MORPH=empty
-soloecismum,soloecismvm,NOM2,Case=Acc|Numb=Sing
-liceat,licet,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-fecisse,facio,VER,Mood=Inf|Tense=Perf|Voice=Act
-marito,maritvs,NOM2,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

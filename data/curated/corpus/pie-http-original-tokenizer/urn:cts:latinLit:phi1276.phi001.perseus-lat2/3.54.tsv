@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-accusare,accvso,VER,Mood=Inf|Tense=Pres|Voice=Act
-potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tanti,tantvm,PROdem,Case=Gen|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-non,non,ADVneg,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-opaci,opacvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos

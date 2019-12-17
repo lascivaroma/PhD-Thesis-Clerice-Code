@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,PRE,MORPH=empty
-quibus,qvis,PROint,Case=Abl|Numb=Plur
-Albanum,albanvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Surrentinum,svrrentinvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
--que,qvovs,ADV,MORPH=empty
-recuset,recvso,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3

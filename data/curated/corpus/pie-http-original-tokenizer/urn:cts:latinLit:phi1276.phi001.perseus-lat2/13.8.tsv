@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iacturae,iactvra,NOM1,Case=Gen|Numb=Sing
-te,tv,PROper,Case=Acc|Numb=Sing
-mergat,mergo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-onus,onvs,NOM3,Case=Acc|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-rara,rarvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-uidemus,video,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

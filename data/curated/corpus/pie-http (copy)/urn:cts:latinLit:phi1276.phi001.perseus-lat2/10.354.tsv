@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-tamen,tamen,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-poscas,posco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-uoueas,voveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
--que,qvove,CONcoo,MORPH=empty
-sacellis,sacellvm,NOM2,Case=Abl|Numb=Plur

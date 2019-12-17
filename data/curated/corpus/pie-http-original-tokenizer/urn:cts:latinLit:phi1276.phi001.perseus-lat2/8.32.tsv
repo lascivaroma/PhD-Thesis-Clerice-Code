@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-insignis,insignis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nanum,nanvs,ADJqua,Case=Acc|Numb=Sing
-cuiusdam,qvidam,PROind,Case=Gen|Numb=Sing
-Atlanta,atlas,NOM1,Case=Nom|Numb=Sing
-uocamus,voco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1

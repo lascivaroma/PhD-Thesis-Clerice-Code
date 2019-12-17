@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hic,hic,ADV,MORPH=empty
-turpis,tvrpis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Cybeles,cybele,NOM7,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-fracta,frango,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-uoce,vox,NOM3,Case=Abl|Numb=Sing
-loquendi,loqvor,VER,Case=Gen|Numb=Sing|Mood=Ger|Voice=Dep

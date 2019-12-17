@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-concessit,concedo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-necat,neco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-hic,hic,PROdem,Case=Nom|Numb=Sing
-ferro,ferrvm,NOM2,Case=Abl|Numb=Sing
-secat,seco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ille,ille,PROdem,Case=Nom|Numb=Sing
-cruentis,crventvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos

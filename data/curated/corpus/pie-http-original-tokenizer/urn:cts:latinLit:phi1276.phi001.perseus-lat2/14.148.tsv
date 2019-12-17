@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-prius,privs,ADJadv.ord,Deg=Comp
-inde,inde,ADV,Deg=Pos
-domum,domvs,NOM6,Case=Acc|Numb=Sing
-quam,qvam,ADVrel,MORPH=empty
-tota,totvs,PROind,Case=Nom|Numb=Plur
-noualia,novale,NOM3,Case=Acc|Numb=Plur
-saeuos,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

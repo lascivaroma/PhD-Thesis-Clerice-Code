@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-uteris,vtor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=2
-in,in,PRE,MORPH=empty
-turba,tvrba,NOM1,Case=Abl|Numb=Sing
-quod,qvi,PROrel,Case=Nom|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-non,non,ADVneg,MORPH=empty
-excitet,excito,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-inguen,ingven,NOM3,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-dictis,dictvm,NOM2,Case=Abl|Numb=Plur
-ignoscat,ignosco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Mucius,mvcivs,NOM2,Case=Nom|Numb=Sing
-an,an,ADVint,MORPH=empty
-non,non,ADVneg,MORPH=empty

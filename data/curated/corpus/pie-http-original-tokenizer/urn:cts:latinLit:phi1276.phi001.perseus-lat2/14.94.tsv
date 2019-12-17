@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-partis,pars,NOM3,Case=Gen|Numb=Sing
-erat,svm,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-totam,totvs,PROind,Case=Acc|Numb=Sing
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-turbauit,tvrbo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-filius,filivs,NOM2,Case=Nom|Numb=Sing
-amens,amens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

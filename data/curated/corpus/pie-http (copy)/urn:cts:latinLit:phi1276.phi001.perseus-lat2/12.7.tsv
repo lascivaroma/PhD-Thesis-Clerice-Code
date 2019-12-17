@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quippe,qvippe,CONcoo,Deg=Pos
-ferox,ferox,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uitulus,vitvlvs,NOM2,Case=Nom|Numb=Sing
-templis,templvm,NOM2,Case=Abl|Numb=Plur
-maturus,matvrvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-arae,ara,NOM1,Case=Nom|Numb=Plur

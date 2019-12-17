@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-saltantem,salto,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-spectes,specto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-et,et,CONcoo,MORPH=empty
-chironomunta,chironomon,ADJqua,Case=Acc|Numb=Plur
-uolanti,volo,VER,Case=Dat|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

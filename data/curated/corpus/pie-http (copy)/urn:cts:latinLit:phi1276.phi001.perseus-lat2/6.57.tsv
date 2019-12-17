@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uiuat,vivo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Fidenis,fidenae,NOM1,Case=Dat|Numb=Plur
-et,et,CONcoo,MORPH=empty
-agello,agellvs,NOM2,Case=Abl|Numb=Sing
-cedo,cedo,ADVint,MORPH=empty
-paterno,paternvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

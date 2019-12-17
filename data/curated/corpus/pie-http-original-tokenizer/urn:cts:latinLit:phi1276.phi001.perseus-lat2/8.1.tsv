@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Stemmata,stemmata,NOM1,Case=Nom|Numb=Sing
-quid,qvis,PROint,Case=Acc|Numb=Sing
-faciunt,facio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quid,qvis,PROint,Case=Acc|Numb=Sing
-prodest,prosvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Pontice,ponticvs,ADJqua,Case=Voc|Numb=Sing|Deg=Pos
-longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos

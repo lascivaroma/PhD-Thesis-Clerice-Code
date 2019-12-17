@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-torrentem,torrens,ADJqua,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-pleni,plenvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-moderantem,moderor,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep
-frena,frenvm,NOM2,Case=Acc|Numb=Plur
-theatri,theatrvm,NOM2,Case=Gen|Numb=Sing
-.,qvadrantal,ADJcar,Case=Gen|Numb=Plur

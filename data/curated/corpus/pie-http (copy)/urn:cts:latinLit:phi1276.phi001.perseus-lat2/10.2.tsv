@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Auroram,avrora,NOM1,Case=Acc|Numb=Sing
-et,et,CONcoo,MORPH=empty
-Gange,ganges,NOM3,Case=Abl|Numb=Sing
--ne,ne,CONsub,MORPH=empty
-pauci,pavci,NOM2,Case=Nom|Numb=Plur
-dinoscere,dignosco,VER,Mood=Inf|Tense=Pres|Voice=Act
-possunt,possvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

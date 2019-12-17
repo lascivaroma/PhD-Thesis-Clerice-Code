@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Hammonis,hammon,NOM3,Case=Gen|Numb=Sing
-quoniam,qvoniam,CONsub,MORPH=empty
-Delphis,delphi,NOM2,Case=Dat|Numb=Plur
-oracula,oracvlvm,NOM2,Case=Nom|Numb=Plur
-cessant,cesso,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-furere,fvro,VER,Mood=Inf|Tense=Pres|Voice=Act
-incipias,incipio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-auunculus,avvncvlvs,NOM2,Case=Nom|Numb=Sing
-ille,ille,PROdem,Case=Nom|Numb=Sing
-Neronis,nero,NOM3,Case=Gen|Numb=Sing

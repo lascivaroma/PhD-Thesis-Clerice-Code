@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sumet,svmo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-occursum,occvrsvs,NOM4,Case=Acc|Numb=Sing
-numquam,nvmqvam,ADVneg,MORPH=empty
-trepidabit,trepido,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-amici,amicvs,NOM2,Case=Gen|Numb=Plur

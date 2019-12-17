@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-quanto,qvantvs,PROint,Numb=Sing
-galeae,galea,NOM1,Case=Gen|Numb=Sing
-curuetur,cvrvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-pondere,pondvs,NOM3,Case=Abl|Numb=Sing
-quanta,qvantvs,PROint,Case=Nom|Numb=Sing

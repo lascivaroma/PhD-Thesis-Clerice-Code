@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-credere,credo,VER,Mood=Inf|Tense=Pres|Voice=Act
-quae,qvis,PROrel,Case=Acc|Numb=Plur
-possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-subrepta,svrripio,VER,Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-sororibus,soror,NOM3,Case=Abl|Numb=Plur
-Afris,afer,NOM2,Case=Abl|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-a,ab,PRE,MORPH=empty
-cynicis,cynicvs,NOM2,Case=Abl|Numb=Plur
-tunica,tvnica,NOM1,Case=Abl|Numb=Sing
-distantia,disto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-non,non,ADVneg,MORPH=empty
-Epicurum,epicvrvs,NOM2,Case=Acc|Numb=Sing

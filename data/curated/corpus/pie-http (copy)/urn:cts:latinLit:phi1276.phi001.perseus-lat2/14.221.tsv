@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-mortifera,mortifer,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-cum,cvm,PRE,MORPH=empty
-dote,dos,NOM3,Case=Abl|Numb=Sing
-subit,svbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quibus,qvi,PROrel,Case=Dat|Numb=Plur
-illa,ille,PROdem,Case=Nom|Numb=Sing
-premetur,premo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3

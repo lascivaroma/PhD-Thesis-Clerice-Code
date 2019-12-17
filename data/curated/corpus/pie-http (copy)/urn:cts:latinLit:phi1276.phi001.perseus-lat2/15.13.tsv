@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-carnibus,caro,NOM3,Case=Abl|Numb=Plur
-humanis,hvmanvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-uesci,vescor,VER,Mood=Inf|Tense=Pres|Voice=Dep
-licet,licet,VER,Mood=Ind|Tense=Pres|Voice=Act|Person=3
-attonito,attonitvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-cum,cvm,CONsub,MORPH=empty

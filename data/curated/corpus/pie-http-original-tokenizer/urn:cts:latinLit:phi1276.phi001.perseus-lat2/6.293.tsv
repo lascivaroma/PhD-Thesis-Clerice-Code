@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-luxuria,lvxvria,NOM1,Case=Nom|Numb=Sing
-incubuit,incvmbo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-uictumque,vinco,VER,Numb=Sing|Tense=Perf|Voice=Pass
-ulciscitur,vlciscor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-orbem,orbis,NOM3,Case=Acc|Numb=Sing

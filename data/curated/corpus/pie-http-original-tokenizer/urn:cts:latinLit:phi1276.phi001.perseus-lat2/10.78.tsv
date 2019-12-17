@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-uendimus,vendo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-effudit,effvndo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-curas,cvra,NOM1,Case=Acc|Numb=Plur
-;,cos,PRE,MORPH=empty
-nam,nam,CONcoo,MORPH=empty
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-dabat,do,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-olim,olim,ADV,Deg=Pos

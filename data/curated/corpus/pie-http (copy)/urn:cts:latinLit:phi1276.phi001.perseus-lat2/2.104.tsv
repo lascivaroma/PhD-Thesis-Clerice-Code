@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nimirum,nimirvm,ADV,Deg=Pos
-summi,svpervs,ADJqua,Case=Gen|Numb=Sing|Deg=Sup
-ducis,dvx,NOM3,Case=Gen|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-occidere,occido,VER,Mood=Inf|Tense=Pres|Voice=Act
-Galbam,galba,NOM1,Case=Acc|Numb=Sing

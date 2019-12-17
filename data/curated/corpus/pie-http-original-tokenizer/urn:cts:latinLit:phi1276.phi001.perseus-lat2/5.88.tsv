@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-lanternam,laterna,NOM1,Case=Acc|Numb=Sing
-;,o,PRE,MORPH=empty
-illud,ille,PROdem,Case=Nom|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-uestris,vester,PROpos,Case=Abl|Numb=Plur
-datur,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-alueolis,alveolvs,NOM2,Case=Abl|Numb=Plur
-quod,qvi,PROrel,Numb=Sing

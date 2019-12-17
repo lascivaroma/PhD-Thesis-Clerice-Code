@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-nisi,nisi,CONsub,MORPH=empty
-legitime,legitime,ADV,Deg=Pos
-uult,volo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nubere,nvbo,VER,Mood=Inf|Tense=Pres|Voice=Act
-quid,qvis,PROint,Case=Acc|Numb=Sing
-placeat,placeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-dic,dico,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2

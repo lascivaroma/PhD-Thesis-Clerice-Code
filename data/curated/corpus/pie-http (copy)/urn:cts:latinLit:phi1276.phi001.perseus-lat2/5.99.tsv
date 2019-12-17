@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Virroni,virro,NOM3,Case=Dat|Numb=Sing
-muraena,mvraena,NOM1,Case=Nom|Numb=Sing
-datur,do,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-maxima,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

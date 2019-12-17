@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-quis,qvis,PROind,Case=Nom|Numb=Sing
-Aristotelen,aristoteles,NOM7,Case=Acc|Numb=Sing
-similem,similis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-uel,vel,CONcoo,MORPH=empty
-Pittacon,pittacvs,NOM7,Case=Acc|Numb=Sing
-emit,emo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nil,nihil,PROind,Case=Ind
-horum,hic,PROdem,Case=Gen|Numb=Plur
-;,o,PRE,MORPH=empty
-uerbosa,verbosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-grandis,grandis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-epistula,epistola,NOM1,Case=Nom|Numb=Sing
-uenit,venio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

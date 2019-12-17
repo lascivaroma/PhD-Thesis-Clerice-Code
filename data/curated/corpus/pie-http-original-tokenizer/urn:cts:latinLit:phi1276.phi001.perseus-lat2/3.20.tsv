@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-herba,herba,NOM1,Case=Nom|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-ingentium,ingens,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
-uiolarent,violo,VER,Numb=Plur|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-marmora,marmor,NOM3,Case=Nom|Numb=Plur
-tofum,tofvs,NOM2,Case=Acc|Numb=Sing
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-horum,hic,PROdem,Case=Gen|Numb=Plur
-consiliis,consilivm,NOM2,Case=Abl|Numb=Plur
-nubunt,nvbo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-subitae,svbitvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-recedunt,recedo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-aestuo,aestvo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-nudus,nvdvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-agas,ago,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-minus,parvm,ADJqua,Deg=Comp
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-insania,insania,NOM1,Case=Nom|Numb=Sing
-turpis,tvrpis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

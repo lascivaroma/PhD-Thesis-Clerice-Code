@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quam,qvis,ADVint,Case=Acc|Numb=Sing
-te,tv,PROper,Case=Acc|Numb=Sing
-Thersitae,thersites,NOM1,Case=Gen|Numb=Sing
-similem,similis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-producat,prodvco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Achilles,achilles,NOM7,Case=Nom|Numb=Sing

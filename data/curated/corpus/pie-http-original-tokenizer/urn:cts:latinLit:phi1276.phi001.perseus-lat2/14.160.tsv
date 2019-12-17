@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quantum,qvantvm,PROrel,Case=Acc|Numb=Sing
-sub,svb,PRE,MORPH=empty
-Tatio,tativs,NOM2,Case=Abl|Numb=Sing
-populus,popvlvs,NOM2,Case=Nom|Numb=Sing
-Romanus,romanvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-arabat,aro,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

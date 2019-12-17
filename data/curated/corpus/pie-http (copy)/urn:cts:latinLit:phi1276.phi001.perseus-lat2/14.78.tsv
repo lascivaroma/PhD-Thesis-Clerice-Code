@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ad,ad,PRE,MORPH=empty
-fetus,fetvs,NOM4,Case=Acc|Numb=Plur
-properat,propero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-partem,pars,NOM3,Case=Acc|Numb=Sing
--que,qvove,ADV,MORPH=empty
-cadaueris,cadaver,NOM3,Case=Gen|Numb=Sing
-adfert,affero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

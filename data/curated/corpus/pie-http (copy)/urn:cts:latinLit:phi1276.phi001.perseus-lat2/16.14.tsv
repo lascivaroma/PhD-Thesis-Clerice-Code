@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-calceus,calcevs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-grandes,grandis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-magna,magnvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-ad,ad,PRE,MORPH=empty
-subsellia,svbsellivm,NOM2,Case=Acc|Numb=Plur
-surae,svra,NOM1,Case=Gen|Numb=Sing

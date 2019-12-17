@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ultio,vltio,NOM3,Case=Nom|Numb=Sing
-continuo,continvo,ADV,Deg=Pos
-sic,sic,ADV,Deg=Pos
-collige,colligo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-quod,qvod,CONsub,MORPH=empty
-uindicta,vindicta,NOM1,Case=Abl|Numb=Sing

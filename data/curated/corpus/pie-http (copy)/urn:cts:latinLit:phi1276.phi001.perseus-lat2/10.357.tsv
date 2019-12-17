@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-fortem,fortis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-posce,posco,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-animum,animvs,NOM2,Case=Acc|Numb=Sing
-mortis,mors,NOM3,Case=Gen|Numb=Sing
-terrore,terror,NOM3,Case=Abl|Numb=Sing
-carentem,careo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

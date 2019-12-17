@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Silanus,silanvs,NOM2,Case=Nom|Numb=Sing
-quocumque,qvicvmqve,ADVrel,Case=Abl
-alio,alivs,PROind,Case=Abl|Numb=Sing
-de,de,PRE,MORPH=empty
-sanguine,sangvis,NOM3,Case=Abl|Numb=Sing
-rarus,rarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

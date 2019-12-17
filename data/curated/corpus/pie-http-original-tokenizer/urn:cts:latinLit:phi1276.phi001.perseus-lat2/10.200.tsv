@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-frangendus,frango,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-misero,miser,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-gingiua,gingiva,NOM1,Case=Acc|Numb=Sing
-panis,panis,NOM3,Case=Gen|Numb=Sing
-inermi,inermis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-;,o,PRE,MORPH=empty

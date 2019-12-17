@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ter,ter,ADJadv.mul,MORPH=empty
-matutino,matvtinvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-Tiberi,tiberis,NOM3,Case=Dat|Numb=Sing
-mergetur,mergo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-et,et,CONcoo,MORPH=empty
-ipsis,ipse,PROdem,Case=Dat|Numb=Plur

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-aedificat,aedifico,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-caput,capvt,NOM3,Case=Acc|Numb=Sing
-;,o,PRE,MORPH=empty
-Andromachen,andromacha,NOM7,Case=Acc|Numb=Sing
-a,ab,PRE,MORPH=empty
-fronte,frons,NOM3,Case=Abl|Numb=Sing
-uidebis,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-;,o,PRE,MORPH=empty

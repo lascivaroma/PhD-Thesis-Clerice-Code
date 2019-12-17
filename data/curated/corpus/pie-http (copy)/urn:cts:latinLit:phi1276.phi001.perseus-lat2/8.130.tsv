@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-unguibus,vngvis,NOM3,Case=Abl|Numb=Plur
-ire,eo,VER,Mood=Inf|Tense=Pres|Voice=Act
-parat,paro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nummos,nvmvs,NOM2,Case=Acc|Numb=Plur
-raptura,rapio,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
-Celaeno,celaeno,NOM2,Case=Dat|Numb=Sing

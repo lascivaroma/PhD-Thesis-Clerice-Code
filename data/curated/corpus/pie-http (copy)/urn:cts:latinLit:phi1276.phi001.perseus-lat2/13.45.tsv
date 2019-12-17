@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-bracchia,brachivm,NOM2,Case=Acc|Numb=Plur
-Vulcanus,vvlcanvs,NOM2,Case=Nom|Numb=Sing
-Liparaea,liparaevs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-nigra,niger,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-taberna,taberna,NOM1,Case=Abl|Numb=Sing
-.,qvinqvaginta,ADJcar,Case=Gen|Numb=Plur

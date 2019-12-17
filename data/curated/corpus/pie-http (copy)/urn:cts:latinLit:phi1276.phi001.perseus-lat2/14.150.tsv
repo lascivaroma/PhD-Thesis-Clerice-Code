@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-dicere,dico,VER,Mood=Inf|Tense=Pres|Voice=Act
-uix,vix,ADV,Deg=Pos
-possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-quam,qvam,ADVint,MORPH=empty
-multi,mvltvs,NOM2,Case=Nom|Numb=Plur|Deg=Pos
-talia,talis,PROdem,Case=Acc|Numb=Plur
-plorent,ploro,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

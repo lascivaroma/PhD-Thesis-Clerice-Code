@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nulla,nvllvs,PROind,Case=Nom|Numb=Sing
-crepido,crepido,NOM3,Case=Nom|Numb=Sing
-uacat,vaco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-nusquam,nvsqvam,ADVneg,MORPH=empty
-pons,pons,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-tegetis,teges,NOM3,Case=Nom|Numb=Sing
-pars,pars,NOM3,Case=Nom|Numb=Sing

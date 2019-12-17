@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-nouercali,novercalis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-sedes,sedes,NOM3,Case=Nom|Numb=Sing
-praelata,praefero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3
-Lauino,lavinvs,NOM2,Case=Dat|Numb=Sing

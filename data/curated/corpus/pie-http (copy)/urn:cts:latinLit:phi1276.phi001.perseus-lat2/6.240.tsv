@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-alios,alivs,PROind,Case=Acc|Numb=Plur
-mores,mos,NOM3,Case=Acc|Numb=Plur
-quam,qvam,ADVint,MORPH=empty
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-utile,vtilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-porro,porro,ADV,Deg=Pos

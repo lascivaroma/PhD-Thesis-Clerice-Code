@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-mercedem,merces,NOM3,Case=Acc|Numb=Sing
-solidam,solidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-ueterum,vetvs,ADJqua,Case=Gen|Numb=Plur|Deg=Pos
-capis,capio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-officiorum,officivm,NOM2,Case=Gen|Numb=Plur

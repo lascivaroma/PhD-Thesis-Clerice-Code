@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-fictile,fictilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-;,o,PRE,MORPH=empty
-sic,sic,ADV,Deg=Pos
-ueniunt,venio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ad,ad,PRE,MORPH=empty
-miscellanea,miscellanea,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ludi,lvdvs,NOM2,Case=Nom|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Ind|Numb=Plur

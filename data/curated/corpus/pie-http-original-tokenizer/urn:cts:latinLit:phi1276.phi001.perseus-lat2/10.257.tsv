@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-alius,alivs,PROind,Case=Nom|Numb=Sing
-cui,qvi,PROrel,Case=Dat|Numb=Sing
-fas,fas,NOM6,Case=Ind
-Ithacum,ithacvs,ADJqua,Case=Acc|Numb=Sing
-lugere,lvgeo,VER,Mood=Inf|Tense=Pres|Voice=Act
-natantem,nato,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

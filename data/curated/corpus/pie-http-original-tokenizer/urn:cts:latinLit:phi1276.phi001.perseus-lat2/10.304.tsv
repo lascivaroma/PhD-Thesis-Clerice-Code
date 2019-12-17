@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-uiro,vir,NOM2,Case=Dat|Numb=Sing
-;,o,PRE,MORPH=empty
-nam,nam,CONcoo,MORPH=empty
-prodiga,prodigvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-corruptoris,corrvptor,NOM3,Case=Gen|Numb=Sing

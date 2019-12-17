@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-nudo,nvdvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-latere,latvs,NOM3,Numb=Sing
-et,et,CONcoo,MORPH=empty
-paruis,parvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-frons,frons,NOM3,Case=Nom|Numb=Sing
-aerea,aerevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-lectis,lectvs,NOM2,Case=Abl|Numb=Plur

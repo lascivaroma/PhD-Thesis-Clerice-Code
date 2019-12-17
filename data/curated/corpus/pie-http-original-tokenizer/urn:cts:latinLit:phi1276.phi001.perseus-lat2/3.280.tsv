@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Pelidae,pelides,NOM1,Case=Gen|Numb=Sing
-cubat,cvbo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-faciem,facies,NOM5,Case=Acc|Numb=Sing
-mox,mox,ADV,Deg=Pos
-deinde,deinde,ADV,Deg=Pos
-supinus,svpinvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-;,o,PRE,MORPH=empty

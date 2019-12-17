@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-sacrum,sacer,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-effodit,effodio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-medio,medivs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-de,de,PRE,MORPH=empty
-limite,limes,NOM3,Case=Abl|Numb=Sing
-saxum,saxvm,NOM2,Case=Acc|Numb=Sing

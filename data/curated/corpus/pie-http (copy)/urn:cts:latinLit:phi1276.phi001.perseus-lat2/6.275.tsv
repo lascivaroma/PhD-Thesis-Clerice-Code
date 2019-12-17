@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quo,qvo,ADVint,Case=Abl|Numb=Sing
-iubeat,ivbeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-manare,mano,VER,Mood=Inf|Tense=Pres|Voice=Act
-modo,modo,ADV,Deg=Pos
-;,o,PRE,MORPH=empty
-tu,tv,PROper,Case=Abl|Numb=Sing
-credis,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-amorem,amor,NOM3,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-in,in,PRE,MORPH=empty
-tunica,tvnica,NOM1,Case=Abl|Numb=Sing
-Iouis,ivppiter,NOM3,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-pictae,pingo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-Sarrana,sarranvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-ferentem,fero,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

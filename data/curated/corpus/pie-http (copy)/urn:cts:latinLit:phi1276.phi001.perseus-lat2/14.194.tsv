@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-caput,capvt,NOM3,Case=Acc|Numb=Sing
-intactum,intactvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-buxo,bvxvm,NOM2,Case=Abl|Numb=Sing
-nares,naris,NOM3,Case=Acc|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-pilosas,pilosvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

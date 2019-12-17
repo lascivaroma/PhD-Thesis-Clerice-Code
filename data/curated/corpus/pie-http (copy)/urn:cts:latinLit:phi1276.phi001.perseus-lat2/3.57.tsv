@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tristis,tristis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-a,ab,PRE,MORPH=empty
-magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-semper,semper,ADV,Deg=Pos
-timearis,timeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=2
-amico,amicvs,NOM2,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

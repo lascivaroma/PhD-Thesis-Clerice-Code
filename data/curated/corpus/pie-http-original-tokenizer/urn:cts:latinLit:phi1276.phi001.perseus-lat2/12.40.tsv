@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-atque,atqve,CONcoo,MORPH=empty
-alias,alivs,PROind,Numb=Plur
-quarum,qvi,PROrel,Case=Gen|Numb=Plur
-generosi,generosvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-graminis,gramen,NOM3,Case=Gen|Numb=Sing
-ipsum,ipse,PROdem,Case=Nom|Numb=Sing

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-gutturis,gvttvr,NOM3,Case=Gen|Numb=Sing
-exemplum,exemplvm,NOM2,Case=Nom|Numb=Sing
-conducendus,condvco,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
--que,qvove,CONcoo,MORPH=empty
-magister,magister,NOM2,Case=Nom|Numb=Sing

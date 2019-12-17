@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-clarum,clarvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-Troiugenis,troivgena,NOM2,Case=Dat|Numb=Plur
-factura,facio,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act
-et,et,CONcoo,MORPH=empty
-nobile,nobilis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-fulcrum,fvlcrvm,NOM2,Case=Acc|Numb=Sing
-;,o,PRE,MORPH=empty

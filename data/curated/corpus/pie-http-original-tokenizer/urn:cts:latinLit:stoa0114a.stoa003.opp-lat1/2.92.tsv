@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Diuitibus,divitiae,NOM3,Case=Dat|Numb=Plur
-pretium,pretivm,NOM2,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Ennodi,ennodivs,NOM2,Case=Gen|Numb=Sing
-forma,forma,NOM1,Case=Nom|Numb=Sing
-metallis,metallvm,NOM2,Case=Abl|Numb=Plur
-.,vnvs,ADJcar,Case=Dat|Numb=Plur

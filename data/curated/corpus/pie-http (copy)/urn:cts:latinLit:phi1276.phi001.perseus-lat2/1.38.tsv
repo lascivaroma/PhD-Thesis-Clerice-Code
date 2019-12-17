@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-noctibus,nox,NOM3,Case=Abl|Numb=Plur
-in,in,PRE,MORPH=empty
-caelum,caelvm,NOM2,Case=Acc|Numb=Sing
-quos,qvi,PROrel,Case=Acc|Numb=Plur
-euenit,evenio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-optima,bonvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-summi,svpervs,ADJqua,Case=Gen|Numb=Sing|Deg=Sup

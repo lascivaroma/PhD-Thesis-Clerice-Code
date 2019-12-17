@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-donec,donec,CONsub,MORPH=empty
-Bithyno,bithynvs,ADJqua,Case=Dat|Numb=Sing|Deg=Pos
-libeat,libet,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-uigilare,vigilo,VER,Mood=Inf|Tense=Pres|Voice=Act
-tyranno,tyrannvs,NOM2,Case=Dat|Numb=Sing

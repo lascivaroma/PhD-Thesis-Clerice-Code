@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-coeperit,coepio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-longae,longvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-mucronem,mvcro,NOM3,Case=Acc|Numb=Sing
-admittere,admitto,VER,Mood=Inf|Tense=Pres|Voice=Act
-cultri,cvlter,NOM2,Case=Gen|Numb=Sing

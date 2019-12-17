@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-peruigili,pervigil,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
--que,qvisqve,CONcoo,MORPH=empty
-toro,torvs,NOM2,Case=Abl|Numb=Sing
-quem,qvi,PROrel,Case=Acc|Numb=Sing
-nocte,nox,NOM3,Case=Abl
-ac,ac,CONcoo,MORPH=empty
-luce,lvx,NOM3,Case=Abl|Numb=Sing
-iacentem,iaceo,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

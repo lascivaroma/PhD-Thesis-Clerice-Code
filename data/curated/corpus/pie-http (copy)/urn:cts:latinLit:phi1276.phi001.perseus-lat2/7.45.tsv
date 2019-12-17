@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-regum,rex,NOM3,Case=Gen|Numb=Plur
-quanti,qvantvm,PROrel,Case=Gen|Numb=Sing
-subsellia,svbsellivm,NOM2,Case=Nom|Numb=Plur
-constant,consto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

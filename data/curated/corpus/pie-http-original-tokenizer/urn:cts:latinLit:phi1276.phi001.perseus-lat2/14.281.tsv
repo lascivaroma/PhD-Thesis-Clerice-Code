@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-grande,grandis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-operae,opera,NOM1,Case=Gen|Numb=Sing
-pretium,pretivm,NOM2,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ut,vt,CONsub,MORPH=empty
-tenso,tendo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-folle,follis,NOM3,Case=Abl|Numb=Sing
-reuerti,revertor,VER,Mood=Inf|Tense=Pres|Voice=Dep

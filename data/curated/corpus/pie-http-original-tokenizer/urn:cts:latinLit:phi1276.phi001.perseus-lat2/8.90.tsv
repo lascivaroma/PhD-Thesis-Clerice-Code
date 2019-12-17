@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ossa,os,NOM3,Case=Acc|Numb=Plur
-uides,video,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-rerum,res,NOM5,Case=Gen|Numb=Plur
-uacuis,vacvvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-exucta,exsvgo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-medullis,medvlla,NOM1,Case=Abl|Numb=Plur
-;,o,PRE,MORPH=empty

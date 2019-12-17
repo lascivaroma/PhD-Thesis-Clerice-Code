@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-perpetuam,perpetvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-saeuis,saevvs,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-inter,inter,PRE,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing
-conuenit,convenio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ursis,vrsvs,NOM1,Case=Abl|Numb=Plur
-.,qvinqvaginta,ADJcar,Case=Dat|Numb=Plur

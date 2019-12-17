@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Horum,horvs,NOM2,Case=Acc|Numb=Sing
-ego,ego,PROper,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-fugiam,fvgio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1
-conchylia,conchylivm,NOM2,Case=Acc|Numb=Plur
-me,ego,PROper,Case=Acc|Numb=Sing
-prior,prior,ADJord,Case=Nom|Numb=Sing|Deg=Comp
-ille,ille,PROdem,Case=Nom|Numb=Sing

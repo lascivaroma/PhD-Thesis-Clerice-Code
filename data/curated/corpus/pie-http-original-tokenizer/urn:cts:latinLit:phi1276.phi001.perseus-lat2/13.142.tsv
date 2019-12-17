@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nos,nos,PROper,Case=Nom|Numb=Plur
-uiles,vilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-pulli,pvllvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-nati,nascor,VER,Case=Nom|Numb=Plur|Tense=Perf|Voice=Dep
-infelicibus,infelix,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-ouis,ovis,NOM3,Case=Gen|Numb=Plur

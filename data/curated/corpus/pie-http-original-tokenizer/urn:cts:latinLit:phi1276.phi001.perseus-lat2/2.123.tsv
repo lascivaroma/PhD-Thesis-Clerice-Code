@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-mulier,mvlier,NOM3,Case=Nom|Numb=Sing
-uitulum,vitvlvs,NOM2,Case=Acc|Numb=Sing
-uel,vel,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-bos,bos,NOM3,Case=Nom|Numb=Sing
-ederet,edo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
-agnum,agnvs,NOM2,Case=Acc|Numb=Sing

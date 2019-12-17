@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-exigui,exigvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-ruris,rvs,NOM3,Case=Gen|Numb=Sing
-paucissima,pavcvs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
-farra,far,NOM3,Case=Acc|Numb=Plur
-secantem,seco,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

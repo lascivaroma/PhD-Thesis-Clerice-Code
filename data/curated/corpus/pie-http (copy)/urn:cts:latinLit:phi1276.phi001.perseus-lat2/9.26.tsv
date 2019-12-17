@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quodque,qvisqve,PROind,Case=Acc|Numb=Sing
-taces,taceo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ipsos,ipse,PROdem,Case=Acc|Numb=Plur
-etiam,etiam,ADV,Deg=Pos
-inclinare,inclino,VER,Mood=Inf|Tense=Pres|Voice=Act
-maritos,maritvs,NOM2,Case=Acc|Numb=Plur
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

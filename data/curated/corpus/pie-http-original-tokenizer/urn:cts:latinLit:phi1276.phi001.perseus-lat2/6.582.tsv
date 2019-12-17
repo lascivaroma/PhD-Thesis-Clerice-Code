@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Si,si,NOM2,Numb=Sing
-mediocris,mediocris,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-spatium,spativm,NOM2,Case=Acc|Numb=Sing
-lustrabit,lvstro,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-utrimque,vtrimqve,ADV,Deg=Pos

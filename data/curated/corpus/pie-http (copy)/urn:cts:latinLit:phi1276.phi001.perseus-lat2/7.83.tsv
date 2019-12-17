@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Thebaidos,thebais,NOM7,Case=Nom|Numb=Sing
-laetam,laetvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-cum,cvm,CONsub,MORPH=empty
-fecit,facio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Statius,stativs,NOM2,Case=Nom|Numb=Sing
-urbem,vrbs,NOM3,Case=Acc|Numb=Sing

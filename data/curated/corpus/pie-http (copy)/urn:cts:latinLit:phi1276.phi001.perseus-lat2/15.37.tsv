@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-odit,odi,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-uterque,vterqve,PROind,Case=Nom|Numb=Sing
-locus,locvs,NOM2,Case=Nom|Numb=Sing
-cum,cvm,CONsub,MORPH=empty
-solos,solvs,PROind,Case=Acc|Numb=Plur
-credat,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-habendos,habeo,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass

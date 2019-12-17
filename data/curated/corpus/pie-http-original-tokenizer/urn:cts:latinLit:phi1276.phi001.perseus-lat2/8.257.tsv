@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sufficiunt,svfficio,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-dis,devs,NOM2,Case=Dat|Numb=Plur
-infernis,infernvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos
-Terraeque,terraeqve,NOM2,Case=Nom|Numb=Sing
-parenti,parens,NOM3,Case=Dat|Numb=Sing
-;,o,PRE,MORPH=empty

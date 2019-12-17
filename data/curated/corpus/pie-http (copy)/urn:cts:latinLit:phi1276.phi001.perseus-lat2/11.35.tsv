@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-noscenda,nosco,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-mensura,mensvra,NOM1,Case=Nom|Numb=Sing
-sui,svi,PROref,Case=Gen|Numb=Sing
-spectanda,specto,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
--que,qvove,ADV,MORPH=empty
-rebus,res,NOM5,Case=Dat|Numb=Plur

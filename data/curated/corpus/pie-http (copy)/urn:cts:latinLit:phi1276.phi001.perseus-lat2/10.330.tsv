@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-suadendum,svadeo,VER,Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-putes,pvto,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-cui,qvi,PROrel,Case=Dat|Numb=Sing
-nubere,nvbo,VER,Mood=Inf|Tense=Pres|Voice=Act
-Caesaris,caesar,NOM3,Case=Gen|Numb=Sing
-uxor,vxor,NOM3,Case=Nom|Numb=Sing

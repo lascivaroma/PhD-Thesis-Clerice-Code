@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-aut,avt,CONcoo,MORPH=empty
-positis,pono,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-nemorosa,nemorosvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-inter,inter,PRE,MORPH=empty
-iuga,ivgvm,NOM2,Case=Acc|Numb=Plur
-Volsiniis,volsinii,NOM2,Case=Abl|Numb=Plur
-aut,avt,CONcoo,MORPH=empty

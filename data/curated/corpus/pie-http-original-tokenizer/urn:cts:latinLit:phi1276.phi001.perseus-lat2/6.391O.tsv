@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hic,hic,PROdem,Case=Nom|Numb=Sing
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-in,in,PRE,MORPH=empty
-lecto,lectvs,NOM2,Case=Abl|Numb=Sing
-fortissimus,fortis,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-exuit,exvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-illic,illic,ADV,Deg=Pos

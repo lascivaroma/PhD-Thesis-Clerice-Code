@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ille,ille,PROdem,Case=Nom|Numb=Sing
-petit,peto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ueniam,venia,NOM1,Case=Acc|Numb=Sing
-quotiens,qvotiens,ADVrel,MORPH=empty
-non,non,ADVneg,MORPH=empty
-abstinet,abstineo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uxor,vxor,NOM3,Case=Nom|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-octo,octo,ADJcar,Case=Ind
-decem,decem,ADJcar,Case=Ind
-comites,comes,NOM3,Case=Nom|Numb=Plur
-an,an,ADVint,MORPH=empty
-post,post,PRE,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-sella,sella,NOM1,Case=Nom|Numb=Sing
-togati,togatvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

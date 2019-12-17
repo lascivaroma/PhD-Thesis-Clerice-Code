@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-conductus,condvco,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-astrorum,astrvm,NOM2,Case=Gen|Numb=Plur
-mundi,mvndvs,NOM2,Case=Gen|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-peritus,peritvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

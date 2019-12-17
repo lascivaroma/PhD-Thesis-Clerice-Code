@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-tam,tam,ADV,Deg=Pos
-patiens,patiens,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-urbis,vrbs,NOM3,Case=Gen|Numb=Sing
-tam,tam,ADV,Deg=Pos
-ferreus,ferrevs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ut,vt,CONsub,MORPH=empty
-teneat,teneo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-se,svi,PROref,Case=Acc|Numb=Sing

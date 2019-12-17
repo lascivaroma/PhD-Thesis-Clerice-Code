@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-nescit,nescio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-uel,vel,ADV,MORPH=empty
-quis,qvis,PROint,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-uidit,video,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-uulnera,vvlnvs,NOM3,Case=Acc|Numb=Plur
-pali,palvs,NOM2,Case=Gen|Numb=Sing

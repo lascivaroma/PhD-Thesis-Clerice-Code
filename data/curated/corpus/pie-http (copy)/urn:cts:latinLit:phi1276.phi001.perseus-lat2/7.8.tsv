@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nam,nam,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-Pieria,pierivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-quadrans,qvadrans,NOM3,Case=Nom|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-nullus,nvllvs,PROind,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-umbra,vmbra,NOM1,Case=Abl|Numb=Sing

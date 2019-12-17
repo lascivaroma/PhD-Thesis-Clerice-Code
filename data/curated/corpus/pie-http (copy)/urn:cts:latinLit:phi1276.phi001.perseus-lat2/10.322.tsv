@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-inguinibus,ingven,NOM3,Case=Abl|Numb=Plur
-siue,sive,CONsub,MORPH=empty
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-haec,hic,PROdem,Case=Nom|Numb=Sing
-Oppia,oppia,NOM1,Case=Nom|Numb=Sing
-siue,sive,CONsub,MORPH=empty
-Catulla,catvlla,NOM1,Case=Nom|Numb=Sing

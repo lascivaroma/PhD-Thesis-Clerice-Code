@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Accipe,accipvs,NOM2,Case=Voc|Numb=Sing
-nunc,nvnc,ADV,Deg=Pos
-artes,ars,NOM3,Case=Acc|Numb=Plur
-ne,ne,CONsub,MORPH=empty
-quid,qvis,PROind,Case=Acc|Numb=Sing
-tibi,tv,PROper,Case=Dat|Numb=Sing
-conferat,confero,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-iste,iste,PROdem,Case=Nom|Numb=Sing

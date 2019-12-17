@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sic,sic,ADV,Deg=Pos
-praetextatos,praetextatvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-referunt,refero,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Artaxata,artaxata,NOM2,Case=Nom|Numb=Plur
-mores,mos,NOM3,Case=Acc|Numb=Plur
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

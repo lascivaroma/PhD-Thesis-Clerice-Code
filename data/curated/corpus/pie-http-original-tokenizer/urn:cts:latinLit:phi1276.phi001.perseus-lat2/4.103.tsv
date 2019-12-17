@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-Brute,brvtvs,NOM2,Case=Voc|Numb=Sing
-tuum,tvvs,PROpos,Case=Nom|Numb=Sing
-facile,facilis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-barbato,barbatvs,NOM2,Case=Dat|Numb=Sing|Deg=Pos
-inponere,impono,VER,Mood=Inf|Tense=Pres|Voice=Act
-regi,rex,NOM3,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-quamuis,qvamvis,CONsub,MORPH=empty
-longa,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-deductis,dedvco,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
-gente,gens,NOM3,Case=Abl|Numb=Sing
-propinquis,propinqvi,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

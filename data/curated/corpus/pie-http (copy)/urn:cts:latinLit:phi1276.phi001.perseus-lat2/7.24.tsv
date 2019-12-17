@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-impletur,impleo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-lignorum,lignvm,NOM2,Case=Gen|Numb=Plur
-aliquid,aliqvis,PROind,Case=Acc|Numb=Sing
-posce,posco,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-ocius,ociter,ADV,Deg=Comp
-et,et,CONcoo,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Plur

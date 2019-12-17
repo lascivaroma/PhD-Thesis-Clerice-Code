@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tantundem,tantvsdem,PROdem,Case=Acc|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-illi,ille,PROdem,Case=Nom|Numb=Plur
-summas,svpervs,ADJqua,Case=Acc|Numb=Plur|Deg=Sup
-donare,dono,VER,Mood=Inf|Tense=Pres|Voice=Act
-curules,cvrvlis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

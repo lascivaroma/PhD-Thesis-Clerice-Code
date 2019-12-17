@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-incude,incvs,NOM3,Case=Abl|Numb=Sing
-et,et,CONcoo,MORPH=empty
-luteo,lvtevs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-Vulcano,vvlcanvs,NOM2,Case=Abl|Numb=Sing
-ad,ad,PRE,MORPH=empty
-rhetora,rhetor,NOM3,Case=Acc|Numb=Plur
-misit,mitto,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-esse,svm,VER,Mood=Inf|Tense=Pres|Voice=Act
-aliquod,aliqvis,PROind,Case=Acc|Numb=Sing
-numen,nvmen,NOM3,Case=Acc|Numb=Sing
-templis,templvm,NOM2,Case=Abl|Numb=Plur
-araeque,araeqve,ADV,Deg=Pos
-rubenti,rvbens,VER,Case=Dat|Numb=Sing|Deg=Pos|Mood=Par|Tense=Pres|Voice=Act

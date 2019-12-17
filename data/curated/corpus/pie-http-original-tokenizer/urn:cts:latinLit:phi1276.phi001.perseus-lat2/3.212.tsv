@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Si,sivs,NOM2,Case=Nom|Numb=Sing
-magna,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Asturici,astvricvs,NOM2,Case=Gen|Numb=Sing
-cecidit,cado,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-domus,domvs,NOM6,Case=Nom|Numb=Sing
-horrida,horridvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-mater,mater,NOM3,Case=Nom|Numb=Sing

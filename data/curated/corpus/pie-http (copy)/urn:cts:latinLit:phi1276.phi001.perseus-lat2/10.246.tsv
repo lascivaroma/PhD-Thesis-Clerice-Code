@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-rex,rex,NOM3,Case=Nom|Numb=Sing
-Pylius,pylivs,NOM2,Case=Nom|Numb=Sing
-magno,magnvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-si,si,CONsub,MORPH=empty
-quicquam,qvisqvam,PROind,Case=Acc|Numb=Sing
-credis,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-Homero,homervs,NOM2,Case=Dat|Numb=Sing

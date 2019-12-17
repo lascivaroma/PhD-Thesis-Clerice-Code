@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Aemilio,aemilivs,NOM2,Case=Dat|Numb=Sing
-dabitur,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Pass|Person=3
-quantum,qvantvm,PROrel,Case=Nom|Numb=Sing
-licet,licet,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-melius,bonvs,ADJqua,Deg=Comp
-nos,nos,PROper,Case=Nom|Numb=Plur

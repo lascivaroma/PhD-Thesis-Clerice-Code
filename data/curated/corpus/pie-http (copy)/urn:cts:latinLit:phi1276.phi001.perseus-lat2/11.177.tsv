@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-turpe,tvrpis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-adulterium,advlterivm,NOM2,Case=Nom|Numb=Sing
-mediocribus,mediocris,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-haec,hic,PROdem,Case=Nom|Numb=Plur
-eadem,idem,PROdem,Case=Nom|Numb=Plur
-illi,ille,PROdem,Case=Dat|Numb=Sing

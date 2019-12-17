@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quo,qvis,PROint,Case=Abl|Numb=Sing
-gestu,gestvs,NOM4,Case=Abl|Numb=Sing
-lepores,lepor,NOM3,Case=Nom|Numb=Plur
-et,et,CONcoo,MORPH=empty
-quo,qvo,PROint,Case=Abl
-gallina,gallina,NOM1,Case=Nom|Numb=Sing
-secetur,seco,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
-.,qvadrantal,ADJcar,Case=Acc|Numb=Plur

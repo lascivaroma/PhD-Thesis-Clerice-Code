@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nocte,nocte,NOM3,MORPH=empty
-iter,iter,NOM3,Case=Acc|Numb=Sing
-ingressus,ingredior,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep|Person=2
-gladium,gladivs,NOM2,Case=Acc|Numb=Sing
-centum,centvm,ADJcar,Case=Ind
--que,qvovs,ADV,MORPH=empty
-timebis,timeo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2

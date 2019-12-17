@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-puer,pver,NOM2,Case=Nom|Numb=Sing
-Iliacus,iliacvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-formosa,formosvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-nec,nec,CONcoo,MORPH=empty
-Herculis,hercvles,NOM3,Case=Gen|Numb=Sing
-uxor,vxor,NOM3,Case=Nom|Numb=Sing

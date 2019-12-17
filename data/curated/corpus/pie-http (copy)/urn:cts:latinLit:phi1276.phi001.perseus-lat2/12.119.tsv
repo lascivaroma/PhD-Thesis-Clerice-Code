@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Iphigenia,iphigenia,NOM1,Case=Nom|Numb=Sing
-domi,domvs,NOM2,Case=Loc|Numb=Sing
-dabit,do,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-altaribus,altar,NOM3,Case=Abl|Numb=Plur
-etsi,etsi,CONsub,MORPH=empty

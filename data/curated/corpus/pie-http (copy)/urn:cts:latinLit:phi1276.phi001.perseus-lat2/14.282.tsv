@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-inde,inde,ADV,Deg=Pos
-domum,domvs,NOM6,Case=Acc|Numb=Sing
-possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-tumida,tvmidvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
--que,qvove,CONcoo,MORPH=empty
-superbus,svperbvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-aluta,alvta,VER,Numb=Sing|Mood=Imp|Tense=Perf
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

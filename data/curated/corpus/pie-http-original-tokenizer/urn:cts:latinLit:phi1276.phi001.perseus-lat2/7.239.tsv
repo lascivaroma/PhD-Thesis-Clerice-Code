@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-pater,pater,NOM3,Case=Nom|Numb=Sing
-ipsius,ipse,PROdem,Case=Gen|Numb=Sing
-coetus,coetvs,NOM4,Case=Acc|Numb=Sing
-ne,ne,CONsub,MORPH=empty
-turpia,tvrpis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-ludant,lvdo,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3

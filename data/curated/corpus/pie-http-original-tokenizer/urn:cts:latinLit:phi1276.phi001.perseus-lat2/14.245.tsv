@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-flagrantem,flagro,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-late,late,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-rapientem,rapio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-cuncta,cvnctvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-uidebis,video,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

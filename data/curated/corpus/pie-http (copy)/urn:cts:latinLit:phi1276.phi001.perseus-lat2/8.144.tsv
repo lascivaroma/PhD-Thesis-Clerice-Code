@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ante,ante,ADV,Deg=Pos
-triumphalem,trivmphalis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-quo,qvi,PROrel,Case=Abl|Numb=Sing
-si,si,CONsub,MORPH=empty
-nocturnus,noctvrnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-adulter,advlter,NOM2,Case=Nom|Numb=Sing

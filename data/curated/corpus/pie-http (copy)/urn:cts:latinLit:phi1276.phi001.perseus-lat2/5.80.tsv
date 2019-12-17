@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Aspice,aspicvs,NOM7,Case=Voc|Numb=Sing
-quam,qvam,ADVint,Case=Acc
-longo,longvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-distinguat,distingvo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-pectore,pectvs,NOM3,Case=Abl|Numb=Sing
-lancem,lanx,NOM3,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tantis,tantvs,PROdem,Case=Abl|Numb=Plur
-digna,dignvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-deis,devs,NOM2,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-captatoribus,captator,NOM3,Case=Abl|Numb=Plur
-horum,hic,PROdem,Case=Gen|Numb=Plur
-.,qvintvs,ADJcar,Case=Gen|Numb=Plur

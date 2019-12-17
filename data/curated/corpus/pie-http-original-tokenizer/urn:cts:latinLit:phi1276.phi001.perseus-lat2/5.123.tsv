@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-;,o,PRE,MORPH=empty
-nec,nec,CONcoo,MORPH=empty
-minimo,parvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Sup
-sane,sane,ADV,Deg=Pos
-discrimine,discrimen,NOM3,Case=Abl|Numb=Sing
-refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

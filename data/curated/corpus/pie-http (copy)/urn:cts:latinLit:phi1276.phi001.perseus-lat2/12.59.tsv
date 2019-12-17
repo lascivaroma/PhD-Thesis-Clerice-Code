@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quattuor,qvatvor,ADJcar,Case=Ind
-aut,avt,CONcoo,MORPH=empty
-septem,septem,ADJcar,Case=Ind
-si,si,CONsub,MORPH=empty
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-latissima,latvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-taedae,taeda,NOM1,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

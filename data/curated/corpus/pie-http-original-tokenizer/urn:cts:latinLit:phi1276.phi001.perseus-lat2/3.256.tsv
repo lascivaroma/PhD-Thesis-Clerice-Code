@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-plaustra,plavstrvm,NOM2,Case=Acc|Numb=Plur
-uehunt,veho,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,INJ,MORPH=empty
-nutant,nvto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-alte,alte,ADV,Deg=Pos
-populoque,popvloqve,ADV,Deg=Pos
-minantur,minor,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-.,qvintvs,ADJcar,Case=Acc|Numb=Plur

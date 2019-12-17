@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-uel,vel,CONcoo,MORPH=empty
-nodus,nodvs,NOM2,Case=Nom|Numb=Sing
-tantum,tantvm,PROdem,Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-signum,signvm,NOM2,Case=Acc|Numb=Sing
-de,de,PRE,MORPH=empty
-paupere,pavper,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-loro,lorvm,NOM2,Case=Abl|Numb=Sing

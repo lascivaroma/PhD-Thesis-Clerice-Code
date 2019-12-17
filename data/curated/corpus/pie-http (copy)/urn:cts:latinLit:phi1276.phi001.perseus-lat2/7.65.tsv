@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-pectora,pectvs,NOM3,Case=Acc|Numb=Plur
-uestra,vester,PROpos,Case=Acc|Numb=Plur
-duas,dvo,ADJcar,Case=Acc|Numb=Plur
-non,non,ADVneg,MORPH=empty
-admittentia,admitto,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-curas,cvra,NOM1,Case=Acc|Numb=Plur|Tense=Pres|Voice=Act

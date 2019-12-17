@@ -1,0 +1,26 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/26.txt'>
+	<w pos='NOMcom' lemma='troas' msd='Case=Acc|Numb=Plur'>TROAS</w>
+	<w pos='NOMcom' lemma='achilleo' msd='Numb=Sing|Mood=Ind|Voice=Act|Person=1'>Achilleo</w>
+	<w pos='ADJqua' lemma='coniunctus' msd='Case=Acc|Numb=Sing|Deg=Pos'>coniuncta</w>
+	<w pos='NOMcom' lemma='polyxena' msd='Case=Acc|Numb=Sing'>Polyxena</w>
+	<w pos='NOMcom' lemma='bustum' msd='Case=Abl|Numb=Sing'>busto</w>
+	<w pos='VER' lemma='malo' msd='Numb=Sing|Mood=Ind|Tense=Pqp|Voice=Act|Person=1'>malueram</w>
+	<w pos='PROind' lemma='nullus' msd='Case=Abl|Numb=Sing'>nullo</w>
+	<w pos='NOMcom' lemma='caespes' msd='Case=Abl|Numb=Sing'>caespite</w>
+	<w pos='VER' lemma='fungor' msd='Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Dep'>functa</w>
+	<w pos='VER' lemma='tego' msd='Mood=Inf|Tense=Pres|Voice=Pass'>tegi</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='ADVneg' lemma='non' msd='MORPH=empty'>non</w>
+	<w pos='ADV' lemma='bene' msd='Deg=Pos'>bene</w>
+	<w pos='ADJqua' lemma='discors' msd='Case=Acc|Numb=Plur|Deg=Pos'>discordes</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Acc|Numb=Plur'>tumulos</w>
+	<w pos='VER' lemma='misceo' msd='Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=2'>miscetis</w>
+	<w pos='VER' lemma='achio' msd='Numb=Sing|Voice=Act'>Achivi</w>
+	<w pos='PROdem' lemma='hic1' msd='Case=Acc|Numb=Sing'>hoc</w>
+	<w pos='VER' lemma='uiolo' msd='Mood=Inf|Tense=Pres|Voice=Act'>violare</w>
+	<w pos='ADV' lemma='magis2' msd='Deg=Comp'>magis</w>
+	<w pos='ADVrel' lemma='quam1' msd='MORPH=empty'>quam</w>
+	<w pos='VER' lemma='sepelio' msd='Mood=Inf|Tense=Pres|Voice=Act'>sepelire</w>
+	<w pos='VER' lemma='sum1' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>fuit</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

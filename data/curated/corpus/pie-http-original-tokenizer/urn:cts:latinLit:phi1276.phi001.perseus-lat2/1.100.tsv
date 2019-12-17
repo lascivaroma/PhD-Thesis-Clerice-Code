@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ipsos,ipse,PROdem,Case=Acc|Numb=Plur
-Troiugenas,troivgena,NOM1,Case=Acc|Numb=Plur
-nam,nam,CONcoo,MORPH=empty
-uexant,vexo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-limen,limen,NOM3,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-ipsi,ipse,PROdem,Case=Nom|Numb=Plur

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-gaudes,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=2
-pingue,pingvis,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-antiquae,antiqvvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-de,de,PRE,MORPH=empty
-litore,litvs,NOM3,Case=Abl|Numb=Sing
-Cretae,creta,NOM1,Case=Gen|Numb=Sing

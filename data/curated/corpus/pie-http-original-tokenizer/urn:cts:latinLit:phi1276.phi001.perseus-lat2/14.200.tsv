@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,PRE,MORPH=empty
-lituis,litvvs,NOM2,Case=Abl|Numb=Plur
-audita,avdio,VER,Numb=Plur|Mood=Sub|Tense=Perf|Voice=Pass|Person=3
-pares,paro,ADJqua,Case=Acc|Numb=Plur|Deg=Pos|Mood=Sub|Person=2
-quod,qvi,PROrel,Case=Acc|Numb=Sing
-uendere,vendo,VER,Mood=Inf|Tense=Pres|Voice=Act
-possis,possvm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

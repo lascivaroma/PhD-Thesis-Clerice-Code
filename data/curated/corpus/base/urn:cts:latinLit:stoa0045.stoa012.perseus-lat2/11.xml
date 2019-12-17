@@ -1,0 +1,33 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/11.txt'>
+	<w pos='NOMcom' lemma='ganeus' msd='Case=Nom|Numb=Sing|Deg=Pos'>GUNEA</w>
+	<w pos='NOMcom' lemma='pontus' msd='Case=Nom|Numb=Sing'>pontus</w>
+	<w pos='VER' lemma='habeo' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>habet</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Nom|Numb=Sing'>tumulus</w>
+	<w pos='PRE' lemma='sine' msd='MORPH=empty'>sine</w>
+	<w pos='NOMcom' lemma='corpus' msd='Case=Abl|Numb=Sing'>corpore</w>
+	<w pos='NOMcom' lemma='nomen' msd='Case=Acc|Numb=Sing'>nomen</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='NOMcom' lemma='fama' msd='Case=Nom|Numb=Sing'>fama</w>
+	<w pos='NOMcom' lemma='homo' msd='Case=Acc|Numb=Plur'>homines</w>
+	<w pos='PRE' lemma='inter' msd='MORPH=empty'>inter</w>
+	<w pos='NOMcom' lemma='caelum?' msd='Case=Acc|Numb=Sing'>caelum</w>
+	<w pos='NOMcom' lemma='animus' msd='Case=Nom|Numb=Sing'>animus</w>
+	<w pos='VER' lemma='repeto' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3'>repetit</w>
+	<w pos='ADJqua' lemma='cunctus' msd='Case=Acc|Numb=Plur|Deg=Pos'>cuncta</w>
+	<w pos='NOMcom' lemma='elementum' msd='Case=Acc|Numb=Plur'>elementa</w>
+	<w pos='VER' lemma='duco' msd='Mood=Inf|Tense=Pres|Voice=Pass'>duci</w>
+	<w pos='PROdem' lemma='tanto' msd='Numb=Sing'>tanto</w>
+	<w pos='ADJqua' lemma='communis' msd='Case=Acc|Numb=Sing|Deg=Pos'>commune</w>
+	<w pos='NOMcom' lemma='sepulcrum' msd='Case=Acc|Numb=Sing'>sepulcrum</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+	<w pos='PROint' lemma='quis1' msd='Case=Nom|Numb=Sing'>quae</w>
+	<w pos='NOMcom' lemma='caelum?' msd='Case=Nom|Numb=Sing'>caelum</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='tellus' msd='Case=Nom|Numb=Sing'>tellus</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='mare' msd='Case=Acc|Numb=Sing'>mare</w>
+	<w pos='CONcoo' lemma='et2' msd='MORPH=empty'>et</w>
+	<w pos='NOMcom' lemma='os?' msd='Case=Nom|Numb=Plur'>ora</w>
+	<w pos='NOMcom' lemma='uir' msd='Case=Gen|Numb=Sing'>virum</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

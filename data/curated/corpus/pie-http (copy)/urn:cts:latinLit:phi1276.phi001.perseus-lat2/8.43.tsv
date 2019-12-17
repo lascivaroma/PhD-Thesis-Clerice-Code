@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-non,non,ADVneg,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Sing
-uentoso,ventosvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-conducta,condvco,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-sub,svb,PRE,MORPH=empty
-aggere,agger,NOM3,Case=Abl|Numb=Sing
-texit,tego,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

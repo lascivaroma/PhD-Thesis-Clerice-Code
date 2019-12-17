@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quando,qvando,ADVint,MORPH=empty
-rogatus,rogo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-adest,assvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-calidae,calidvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-gelidaeque,gelidvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-minister,minister,NOM2,Case=Nom|Numb=Sing

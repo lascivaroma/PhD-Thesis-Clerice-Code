@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-occidisse,occido,VER,Mood=Inf|Tense=Perf|Voice=Act
-aliquem,aliqvis,PROind,Case=Acc|Numb=Sing
-sed,sed,CONcoo,MORPH=empty
-pectora,pectvs,NOM3,Case=Acc|Numb=Plur
-bracchia,brachivm,NOM2,Case=Acc|Numb=Plur
-uoltum,vvltvs,NOM4,Case=Acc|Numb=Sing

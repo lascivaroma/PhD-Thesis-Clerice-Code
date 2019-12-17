@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-gaudet,gavdeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3
-an,an,ADVint,MORPH=empty
-expectas,exspecto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2
-ut,vt,CONsub,MORPH=empty
-Quintilianus,qvintilianvs,NOM2,Case=Nom|Numb=Sing
-ametur,amo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3

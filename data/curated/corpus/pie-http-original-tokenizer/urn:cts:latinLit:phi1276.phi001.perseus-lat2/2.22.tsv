@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-infamis,infamis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Varillus,varillvs,NOM2,Case=Nom|Numb=Sing
-ait,aio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quo,qvo,PROrel,MORPH=empty
-deterior,deterior,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-te,tv,PROper,Case=Acc|Numb=Sing

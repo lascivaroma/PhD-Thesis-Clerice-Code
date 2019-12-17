@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-uerberat,verbero,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-atque,atqve,CONcoo,MORPH=empty
-obiter,obiter,ADV,Deg=Pos
-faciem,facies,NOM5,Case=Acc|Numb=Sing
-linit,lino,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-audit,avdio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-amicas,amica,NOM1,Case=Acc|Numb=Plur

@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Spartano,spartanvs,NOM2,Case=Dat|Numb=Sing
-cuidam,qvidam,PROind,Case=Dat|Numb=Sing
-respondit,respondeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Pythia,pythia,NOM1,Case=Nom|Numb=Sing
-uates,vates,NOM3,Case=Nom|Numb=Sing

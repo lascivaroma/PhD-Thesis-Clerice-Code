@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-grandia,grandis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-natalis,natalis,NOM3,Case=Nom|Numb=Sing|Deg=Pos
-quotiens,qvotiens,ADVint,MORPH=empty
-redit,redeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-aut,avt,CONcoo,MORPH=empty
-madidum,madidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-uer,ver,NOM3,Case=Nom|Numb=Sing

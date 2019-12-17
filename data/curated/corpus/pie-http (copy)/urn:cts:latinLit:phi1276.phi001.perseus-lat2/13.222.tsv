@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-humana,hvmana,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-turbat,tvrbo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-pauidum,pavidvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-cogit,cogo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
--que,qvovs,ADV,MORPH=empty
-fateri,fateor,VER,Mood=Inf|Tense=Pres|Voice=Dep
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

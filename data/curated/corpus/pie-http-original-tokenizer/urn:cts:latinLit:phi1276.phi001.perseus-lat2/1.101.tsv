@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nobiscum,nobiscvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-da,do,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-praetori,praetor,NOM3,Case=Dat|Numb=Sing
-da,do,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-deinde,deinde,ADV,Deg=Pos
-tribuno,tribvnvs,NOM2,Case=Dat|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

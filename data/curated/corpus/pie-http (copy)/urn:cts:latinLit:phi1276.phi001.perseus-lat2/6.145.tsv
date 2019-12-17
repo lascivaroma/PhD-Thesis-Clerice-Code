@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-fiant,fio,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-obscuri,obscvrvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-dentes,dens,NOM3,Case=Nom|Numb=Plur
-oculi,ocvlvs,NOM2,Case=Nom|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-minores,parvvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp

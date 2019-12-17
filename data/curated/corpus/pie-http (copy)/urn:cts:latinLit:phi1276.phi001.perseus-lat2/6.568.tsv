@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-post,post,PRE,MORPH=empty
-ipsam,ipse,PROdem,Case=Acc|Numb=Sing
-quid,qvis,PROint,Case=Acc|Numb=Sing
-enim,enim,CONcoo,MORPH=empty
-maius,magnvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
-numina,nvmen,NOM3,Case=Acc|Numb=Plur
-possunt,possvm,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

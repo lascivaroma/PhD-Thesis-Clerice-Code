@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uellera,vellvs,NOM3,Case=Acc|Numb=Plur
-uos,vos,PROper,Case=Acc|Numb=Plur
-tenui,tenvis,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-praegnantem,praegnans,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-stamine,stamen,NOM3,Case=Abl|Numb=Sing
-fusum,fvndo,VER,Case=Acc|Numb=Sing|Tense=Perf|Voice=Pass

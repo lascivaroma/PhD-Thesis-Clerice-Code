@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-aequa,aeqvvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ibi,ibi,ADV,Deg=Pos
-libertas,libertas,NOM3,Case=Nom|Numb=Sing
-communia,commvnis,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-pocula,pocvlvm,NOM2,Case=Acc|Numb=Plur
-lectus,lego,VER,Case=Nom|Numb=Sing|Mood=Ind|Tense=Perf|Voice=Pass|Person=3

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-nil,nihil,PROind,Case=Ind
-expositum,expono,VER,Case=Acc|Numb=Sing|Mood=Inf|Tense=Perf|Voice=Pass
-soleat,soleo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=SemDep|Person=3
-deducere,dedvco,VER,Mood=Inf|Tense=Pres|Voice=Act
-nec,nec,CONcoo,MORPH=empty
-qui,qvi,PROrel,Case=Nom|Numb=Sing

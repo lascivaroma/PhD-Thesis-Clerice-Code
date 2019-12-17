@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-si,si,CONsub,MORPH=empty
-Fortuna,fortvna,NOM1,Case=Nom|Numb=Sing
-uolet,volo,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-fies,fio,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2
-de,de,PRE,MORPH=empty
-rhetore,rhetor,NOM3,Case=Abl|Numb=Sing
-consul,consvl,NOM3,Case=Nom|Numb=Sing
-;,o,PRE,MORPH=empty

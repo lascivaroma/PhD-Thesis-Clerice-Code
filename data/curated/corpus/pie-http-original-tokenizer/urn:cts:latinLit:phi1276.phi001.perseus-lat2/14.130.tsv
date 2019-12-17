@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Septembri,september,NOM2,Case=Dat|Numb=Sing
-nec,nec,CONcoo,MORPH=empty
-non,non,ADVneg,MORPH=empty
-differre,differo,VER,Mood=Inf|Tense=Pres|Voice=Act
-in,in,PRE,MORPH=empty
-tempora,tempvs,NOM3,Case=Acc|Numb=Plur
-cenae,cena,NOM1,Case=Gen|Numb=Sing

@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-hoc,hic,PROdem,Case=Nom|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-ille,ille,PROdem,Case=Nom|Numb=Sing
-alio,alio,ADV,Case=Abl
-multum,mvltvm,ADV,Deg=Pos
-hic,hic,ADV,MORPH=empty
-robustior,robvstvs,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-illo,ille,PROdem,Case=Abl|Numb=Sing

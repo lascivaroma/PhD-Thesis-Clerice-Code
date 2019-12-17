@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ille,ille,PROdem,Case=Nom|Numb=Sing
-sapit,sapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-te,tv,PROper,Case=Acc|Numb=Sing
-sic,sic,ADV,Deg=Pos
-utitur,vtor,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
-omnia,omnis,PROind,Case=Acc|Numb=Plur
-ferre,fero,VER,Mood=Inf|Tense=Pres|Voice=Act

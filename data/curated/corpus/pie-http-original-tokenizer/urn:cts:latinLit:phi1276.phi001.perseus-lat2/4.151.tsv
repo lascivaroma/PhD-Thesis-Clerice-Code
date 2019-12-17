@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-tempora,tempvs,NOM3,Case=Acc|Numb=Plur
-saeuitiae,saevitia,NOM1,Case=Gen|Numb=Sing
-claras,clarvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-quibus,qvi,PROrel,Case=Dat|Numb=Plur
-abstulit,avfero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-urbi,vrbs,NOM3,Case=Dat|Numb=Sing

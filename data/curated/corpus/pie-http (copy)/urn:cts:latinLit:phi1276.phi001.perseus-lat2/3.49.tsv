@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-quis,qvis,PROint,Case=Nom|Numb=Sing
-nunc,nvnc,ADV,Deg=Pos
-diligitur,diligo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-nisi,nisi,CONsub,MORPH=empty
-conscius,conscivs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-cui,qvi,PROrel,Case=Dat|Numb=Sing
-feruens,ferveo,ADJqua,Case=Nom|Numb=Sing|Deg=Pos

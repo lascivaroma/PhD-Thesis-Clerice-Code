@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Quid,qvis,PROint,Case=Nom|Numb=Sing
-quod,qvi,PROrel,Case=Nom|Numb=Sing
-materiam,materia,NOM1,Case=Acc|Numb=Sing
-praebet,praebeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-causas,cavsa,NOM1,Case=Acc|Numb=Plur
--que,qvove,ADV,MORPH=empty
-iocorum,iocvs,NOM2,Case=Gen|Numb=Plur

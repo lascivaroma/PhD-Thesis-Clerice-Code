@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tantum,tantvm,PROdem,Case=Acc
-igitur,igitvr,CONcoo,MORPH=empty
-muros,mvrvs,NOM2,Case=Acc|Numb=Plur
-intra,intra,PRE,MORPH=empty
-toga,toga,NOM1,Case=Acc|Numb=Sing
-contulit,confero,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-illi,ille,PROdem,Case=Dat|Numb=Sing

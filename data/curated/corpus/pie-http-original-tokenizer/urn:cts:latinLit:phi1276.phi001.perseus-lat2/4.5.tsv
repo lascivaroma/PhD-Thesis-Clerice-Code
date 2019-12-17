@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-quid,qvis,PROint,Case=Acc|Numb=Sing
-refert,refert,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-igitur,igitvr,CONcoo,MORPH=empty
-quantis,qvantvs,PROint,Case=Abl|Numb=Plur
-iumenta,ivmentvm,NOM2,Case=Acc|Numb=Plur
-fatiget,fatigo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

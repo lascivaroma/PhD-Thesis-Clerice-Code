@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-testiculos,testicvlvs,NOM2,Case=Acc|Numb=Plur
-nec,nec,CONcoo,MORPH=empty
-uellendas,vello,VER,Case=Acc|Numb=Plur|Mood=Adj|Voice=Pass
-iam,iam,ADV,Deg=Pos
-praebuit,praebeo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-alas,ala,NOM1,Case=Acc|Numb=Plur

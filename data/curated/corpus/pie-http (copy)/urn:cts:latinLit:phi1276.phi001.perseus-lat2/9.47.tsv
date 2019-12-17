@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-pulchrum,pvlcher,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-dignum,dignvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-cyatho,cyathvs,NOM2,Case=Abl|Numb=Sing
-caelo,caelvm,NOM2,Case=Abl|Numb=Sing
--que,qvove,CONcoo,MORPH=empty
-putabas,pvto,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=2

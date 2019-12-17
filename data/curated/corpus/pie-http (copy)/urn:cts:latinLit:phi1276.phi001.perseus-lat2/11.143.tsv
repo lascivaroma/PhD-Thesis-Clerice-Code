@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nouit,nosco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-auis,avis,NOM3,Case=Nom|Numb=Sing
-noster,noster,PROpos,Case=Nom|Numb=Sing
-tirunculus,tirvncvlvs,NOM2,Case=Nom|Numb=Sing
-ac,ac,CONcoo,MORPH=empty
-rudis,rvdis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-omni,omnis,PROind,Case=Abl|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-serta,sertvm,NOM2,Case=Acc|Numb=Plur
--que,qvavis,CONcoo,MORPH=empty
-delubris,delvbrvm,NOM2,Case=Abl|Numb=Plur
-et,et,CONcoo,MORPH=empty
-farra,far,NOM3,Case=Acc|Numb=Plur
-inponite,impono,VER,Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-cultris,cvlter,NOM2,Case=Abl|Numb=Plur

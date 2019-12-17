@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-ac,ac,CONcoo,MORPH=empty
-mollis,mollis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ornate,ornatvs,ADV,Deg=Pos|Mood=Imp
-focos,focvs,NOM2,Case=Acc|Numb=Plur
-glaebam,gleba,NOM1,Case=Acc|Numb=Sing
--que,qvovs,CONcoo,MORPH=empty
-uirentem,virens,VER,Case=Acc|Numb=Sing|Voice=Act
-.,vnvs,ADJcar,Case=Acc|Numb=Plur

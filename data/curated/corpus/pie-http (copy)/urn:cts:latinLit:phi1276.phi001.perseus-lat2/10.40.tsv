@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-tantum,tantvs,PROdem,Numb=Sing
-orbem,orbis,NOM3,Case=Acc|Numb=Sing
-quanto,qvantvs,PROrel,Case=Abl|Numb=Sing
-ceruix,cervix,NOM3,Case=Nom|Numb=Sing
-non,non,ADVneg,MORPH=empty
-sufficit,svfficio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ulla,vllvs,PROind,Case=Nom|Numb=Sing

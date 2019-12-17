@@ -1,0 +1,36 @@
+<root id='data/curated/corpus/generic/urn:cts:latinLit:stoa0045.stoa012.perseus-lat2/3.txt'>
+	<w pos='ADJqua' lemma='aiax' msd='Case=Gen|Numb=Sing|Deg=Pos'>AIACIS</w>
+	<w pos='NOMcom' lemma='tumulus' msd='Case=Abl|Numb=Sing'>tumulo</w>
+	<w pos='ADV' lemma='pariter' msd='Deg=Pos'>pariter</w>
+	<w pos='VER' lemma='tego' msd='Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1'>tegor</w>
+	<w pos='VER' lemma='obruo' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>obruta</w>
+	<w pos='NOMcom' lemma='iirtus' msd='Case=Nom|Numb=Sing'>Virtus</w>
+	<w pos='VER' lemma='illacrimo' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act'>inlacrimans</w>
+	<w pos='NOMcom' lemma='bustum' msd='Case=Abl|Numb=Plur'>bustis</w>
+	<w pos='NOMcom' lemma='funus' msd='Case=Gen|Numb=Sing'>funeris</w>
+	<w pos='PROdem' lemma='ipse' msd='Case=Nom|Numb=Sing'>ipsa</w>
+	<w pos='PROpos' lemma='meus' msd='Case=Gen|Numb=Sing'>mei</w>
+	<w pos='ADJqua' lemma='incomptus' msd='Case=Acc|Numb=Plur|Deg=Pos'>incomptas</w>
+	<w pos='VER' lemma='lacero' msd='Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass'>lacerata</w>
+	<w pos='NOMcom' lemma='coma' msd='Case=Acc|Numb=Plur'>comas</w>
+	<w pos='CONsub' lemma='quod2' msd='Numb=Sing'>quod</w>
+	<w pos='ADJqua' lemma='prauus' msd='Case=Nom|Numb=Sing|Deg=Pos'>pravus</w>
+	<w pos='NOMcom' lemma='atrides' msd='Case=Nom|Numb=Plur'>Atrides</w>
+	<w pos='VER' lemma='cedo1' msd='Mood=Inf|Tense=Pres|Voice=Act'>cedere</w>
+	<w pos='PROper' lemma='ego' msd='Case=Acc|Numb=Sing'>me</w>
+	<w pos='VER' lemma='instruo' msd='Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass'>instructis</w>
+	<w pos='VER' lemma='compello?' msd='Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3'>compulit</w>
+	<w pos='NOMcom' lemma='insidiae' msd='Case=Abl|Numb=Plur'>insidiis</w>
+	<w pos='ADV' lemma='iam' msd='Deg=Pos'>iam</w>
+	<w pos='VER' lemma='do' msd='Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=1'>dabo</w>
+	<w pos='ADJqua' lemma='purpureus' msd='Case=Acc|Numb=Sing|Deg=Pos'>purpureum</w>
+	<w pos='ADJqua' lemma='clarus' msd='Case=Abl|Numb=Sing|Deg=Pos'>claro</w>
+	<w pos='PRE' lemma='de' msd='MORPH=empty'>de</w>
+	<w pos='NOMcom' lemma='sanguis' msd='Case=Abl|Numb=Sing'>sanguine</w>
+	<w pos='NOMcom' lemma='flos' msd='Case=Acc|Numb=Sing'>florem</w>
+	<w pos='VER' lemma='testor' msd='Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Dep'>testantem</w>
+	<w pos='NOMcom' lemma='gemitus' msd='Case=Abl|Numb=Sing'>gemitu</w>
+	<w pos='NOMcom' lemma='crimen' msd='Case=Acc|Numb=Plur'>crimina</w>
+	<w pos='NOMcom' lemma='iudicium' msd='Case=Gen|Numb=Sing'>iudicii</w>
+	<w pos='PUNC' lemma='.' msd='MORPH=empty'>.</w>
+</root>

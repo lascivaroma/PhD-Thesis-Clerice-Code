@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-hic,hic,PROdem,Case=Nom|Numb=Sing
-aliquid,aliqvis,PROind,Case=Nom|Numb=Sing
-praeclarum,praeclarvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-Euphranoris,evphranor,NOM3,Case=Gen|Numb=Sing
-et,et,CONcoo,MORPH=empty
-Polycliti,polyclitvs,NOM2,Case=Gen|Numb=Sing

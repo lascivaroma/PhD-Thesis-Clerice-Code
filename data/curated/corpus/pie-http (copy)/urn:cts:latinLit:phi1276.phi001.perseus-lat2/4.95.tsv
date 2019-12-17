@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,PRE,MORPH=empty
-iuuene,ivvenis,NOM3,Case=Abl|Numb=Sing
-indigno,indignvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-quem,qvis,PROint,Case=Acc|Numb=Sing
-mors,mors,NOM3,Case=Nom|Numb=Sing
-tam,tam,ADV,Deg=Pos
-saeua,saevvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-maneret,maneo,VER,Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3

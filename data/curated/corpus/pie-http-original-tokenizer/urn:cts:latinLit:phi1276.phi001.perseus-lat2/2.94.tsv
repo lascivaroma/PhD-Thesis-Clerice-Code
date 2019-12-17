@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-obliqua,obliqvvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-producit,prodvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-acu,acvs,NOM4,Case=Abl|Numb=Sing
-pingitque,pingitvt,ADV,MORPH=empty
-trementis,tremo,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act

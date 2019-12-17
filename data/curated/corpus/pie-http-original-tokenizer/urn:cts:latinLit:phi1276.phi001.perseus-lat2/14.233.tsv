@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-nemo,nemo,PROind,Case=Nom|Numb=Sing
-satis,satis,ADV,Deg=Pos
-credit,credo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-tantum,tantvm,ADV,Deg=Pos
-delinquere,delinqvo,VER,Mood=Inf|Tense=Pres|Voice=Act
-quantum,qvantvm,ADVrel,MORPH=empty

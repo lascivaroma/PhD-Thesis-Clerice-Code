@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-contentus,contentvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvovs,CONcoo,MORPH=empty
-illic,illic,ADV,Deg=Pos
-Veneto,venetvs,NOM2,Case=Dat|Numb=Sing
-duro,dvrvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
--que,qvisqve,ADV,Numb=Sing
-cucullo,cvcvllvs,NOM2,Case=Abl|Numb=Sing
-.,vnvs,ADJcar,Case=Ind|Numb=Plur

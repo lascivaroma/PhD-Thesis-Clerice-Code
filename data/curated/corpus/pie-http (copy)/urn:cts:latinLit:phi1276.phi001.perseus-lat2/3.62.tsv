@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-iam,iam,ADV,Deg=Pos
-pridem,pridem,ADV,Deg=Pos
-Syrus,syrvs,NOM2,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-Tiberim,tiberis,NOM3,Case=Acc|Numb=Sing
-defluxit,deflvo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-Orontes,orontes,NOM7,Case=Nom|Numb=Sing

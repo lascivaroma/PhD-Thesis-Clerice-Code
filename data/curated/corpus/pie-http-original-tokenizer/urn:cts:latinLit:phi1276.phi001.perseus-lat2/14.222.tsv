@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-per,per,PRE,MORPH=empty
-somnum,somnvs,NOM2,Case=Acc|Numb=Sing
-digitis,digitvs,NOM2,Case=Abl|Numb=Plur
-nam,nam,CONcoo,MORPH=empty
-quae,qvi,PROrel,Case=Nom|Numb=Plur
-terraque,terraqve,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-marique,mariqve,ADV,Deg=Pos

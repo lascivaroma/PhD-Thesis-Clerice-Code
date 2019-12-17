@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-galeam,galea,NOM1,Case=Acc|Numb=Sing
-quassas,qvatio,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=2
-nec,nec,CONcoo,MORPH=empty
-terram,terra,NOM1,Case=Acc|Numb=Sing
-cuspide,cvspis,NOM3,Case=Abl|Numb=Sing
-pulsas,pello,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

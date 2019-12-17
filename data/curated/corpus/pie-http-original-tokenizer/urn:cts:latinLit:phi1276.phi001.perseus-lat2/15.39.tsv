@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-alterius,alter,PROind,Case=Gen|Numb=Sing
-populi,popvlvs,NOM2,Case=Gen|Numb=Sing
-rapienda,rapio,VER,Case=Nom|Numb=Sing|Mood=Adj|Voice=Pass
-occasio,occasio,NOM3,Case=Nom|Numb=Sing
-cunctis,cvnctvs,ADJqua,Case=Dat|Numb=Plur|Deg=Pos

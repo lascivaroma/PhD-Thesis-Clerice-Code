@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-festinare,festino,VER,Mood=Inf|Tense=Pres|Voice=Act
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-meliorem,bonvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-praesto,praesto,ADV,Numb=Sing|Deg=Pos
-magistro,magister,NOM2,Case=Dat|Numb=Sing

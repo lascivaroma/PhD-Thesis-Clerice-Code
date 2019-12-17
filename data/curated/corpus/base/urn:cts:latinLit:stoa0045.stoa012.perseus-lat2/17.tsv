@@ -1,0 +1,14 @@
+form	lemma	POS	morph	treated_token
+NASTES	nasto	NOMcom	Case=Nom|Numb=Sing	nastes
+Amphimachus	amphimachus	NOMcom	Case=Nom|Numb=Sing	amphimachus
+-que	que	CONcoo	MORPH=empty	-que
+Nomionis	nomio	NOMcom	Case=Gen|Numb=Sing	nomionis
+inclita	inclutus	ADJqua	Case=Nom|Numb=Sing|Deg=Pos	inclita
+proles	proles	NOMcom	Case=Nom|Numb=Sing	proles
+ductores	ductor	NOMcom	Case=Nom|Numb=Plur	ductores
+quondam	quondam	ADV	Deg=Pos	quondam
+pulvis	puluis	NOMcom	Case=Nom|Numb=Sing	puluis
+et	et2	CONcoo	MORPH=empty	et
+umbra	umbra	NOMcom	Case=Nom|Numb=Sing	umbra
+sumus	sum1	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1	sumus
+.	.	PUNC	MORPH=empty	.

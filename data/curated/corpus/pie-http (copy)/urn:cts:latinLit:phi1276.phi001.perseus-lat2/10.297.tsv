@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-semper,semper,ADV,Deg=Pos
-habet,habeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-;,o,INJ,MORPH=empty
-rara,rarvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-adeo,adeo,ADV,Deg=Pos
-concordia,concordia,NOM1,Case=Nom|Numb=Sing
-formae,forma,NOM1,Case=Gen|Numb=Sing

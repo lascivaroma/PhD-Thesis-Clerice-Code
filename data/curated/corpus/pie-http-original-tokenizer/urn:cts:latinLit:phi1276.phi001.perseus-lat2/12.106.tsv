@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Caesaris,caesar,NOM3,Case=Gen|Numb=Sing
-armentum,armentvm,NOM2,Case=Acc|Numb=Sing
-nulli,nvllvs,PROind,Case=Dat|Numb=Sing
-seruire,servio,VER,Mood=Inf|Tense=Pres|Voice=Act
-paratum,paratvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

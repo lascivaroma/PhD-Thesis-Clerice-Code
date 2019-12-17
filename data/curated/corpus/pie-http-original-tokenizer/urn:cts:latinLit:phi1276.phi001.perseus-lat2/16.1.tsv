@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Quis,qvis,PROind,Case=Dat|Numb=Plur
-numerare,nvmero,VER,Mood=Inf|Tense=Pres|Voice=Act
-queat,qveo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-felicis,felix,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-praemia,praemivm,NOM2,Case=Acc|Numb=Plur
-Galli,gallvs,NOM2,Case=Nom|Numb=Plur

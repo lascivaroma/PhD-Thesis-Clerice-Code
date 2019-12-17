@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-perpetui,perpetvvs,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-comites,comes,NOM3,Case=Nom|Numb=Plur
-notae,nota,NOM1,Case=Nom|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-per,per,PRE,MORPH=empty
-oppida,oppidvm,NOM2,Case=Acc|Numb=Plur
-buccae,bvcca,NOM1,Case=Gen|Numb=Sing

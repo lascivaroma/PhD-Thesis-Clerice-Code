@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-simplicibus,simplex,ADJqua,Case=Abl|Numb=Plur|Deg=Pos
-Gabiis,gabii,NOM2,Case=Dat|Numb=Plur
-aut,avt,CONcoo,MORPH=empty
-proni,pronvs,ADJqua,Case=Gen|Numb=Sing|Deg=Pos
-Tiburis,tibvr,NOM3,Case=Gen|Numb=Sing
-arce,arx,NOM3,Case=Abl|Numb=Sing

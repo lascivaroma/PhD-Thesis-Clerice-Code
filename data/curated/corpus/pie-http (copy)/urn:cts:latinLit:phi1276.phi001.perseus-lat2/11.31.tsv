@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-Thersites,thersites,NOM7,Case=Nom|Numb=Sing
-in,in,PRE,MORPH=empty
-qua,qvi,PROrel,Case=Abl|Numb=Sing
-se,svi,PROref,Case=Acc|Numb=Sing
-traducebat,tradvco,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-Vlixes,vlixes,NOM7,Case=Nom|Numb=Sing
-;,,PRE,MORPH=empty

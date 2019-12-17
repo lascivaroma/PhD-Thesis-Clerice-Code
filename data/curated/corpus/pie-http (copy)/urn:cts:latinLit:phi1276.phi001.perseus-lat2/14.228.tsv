@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-laeuo,laevvs,ADJqua,Case=Abl|Numb=Sing|Deg=Pos
-monitu,monitvs,NOM4,Case=Abl|Numb=Sing
-pueros,pver,NOM2,Case=Acc|Numb=Plur
-producit,prodvco,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-auaros,avarvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos

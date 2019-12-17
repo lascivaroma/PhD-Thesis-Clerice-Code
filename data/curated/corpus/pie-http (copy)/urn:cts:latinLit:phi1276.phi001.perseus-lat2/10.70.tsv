@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-delator,delator,NOM3,Case=Nom|Numb=Sing
-quibus,qvis,PROint,Case=Abl|Numb=Plur
-indicibus,index,NOM3,Case=Abl|Numb=Plur
-quo,qvis,PROint,Case=Abl|Numb=Sing
-teste,testis,NOM3,Case=Abl|Numb=Sing
-probauit,probo,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3

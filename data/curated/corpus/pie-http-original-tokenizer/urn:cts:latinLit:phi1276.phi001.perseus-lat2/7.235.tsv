@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-Anchemoli,anchemolvs,NOM2,Case=Gen|Numb=Sing
-dicat,dico,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quot,qvot,PROint,Case=Ind
-Acestes,acestes,NOM7,Case=Nom|Numb=Sing
-uixerit,vivo,VER,Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
-annis,annvs,NOM2,Case=Abl|Numb=Plur

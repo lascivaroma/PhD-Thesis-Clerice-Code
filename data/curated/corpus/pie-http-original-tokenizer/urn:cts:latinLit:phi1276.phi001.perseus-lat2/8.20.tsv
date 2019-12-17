@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-atria,atrivm,NOM2,Case=Nom|Numb=Plur
-nobilitas,nobilitas,NOM3,Case=Nom|Numb=Sing
-sola,solvs,PROind,Case=Nom|Numb=Sing
-est,svm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-atque,atqve,CONcoo,MORPH=empty
-unica,vnicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-uirtus,virtvs,NOM3,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Gen|Numb=Sing

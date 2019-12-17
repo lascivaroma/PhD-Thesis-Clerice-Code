@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-Forsitan,forsitan,NOM7,Numb=Sing
-inpensae,impensa,NOM1,Case=Dat|Numb=Sing
-Virronem,virro,NOM3,Case=Acc|Numb=Sing
-parcere,parco,VER,Mood=Inf|Tense=Pres|Voice=Act
-credas,credo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2

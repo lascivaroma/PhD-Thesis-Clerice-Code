@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-sed,sed,CONcoo,MORPH=empty
-quae,qvis,PROint,Case=Acc|Numb=Plur
-Fabricius,fabricivs,NOM2,Case=Nom|Numb=Sing
-censor,censor,NOM3,Case=Nom|Numb=Sing
-notet,noto,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-duo,dvo,ADJcar,Case=Acc|Numb=Plur
-fortes,fortis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos

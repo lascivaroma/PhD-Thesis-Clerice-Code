@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-sardonyche,sardonyx,NOM3,Case=Nom|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-ideo,ideo,ADV,Deg=Pos
-pluris,mvltvs,ADJqua,Case=Acc|Numb=Sing|Deg=Comp
-quam,qvam,ADVrel,MORPH=empty
-Gallus,gallvs,NOM2,Case=Nom|Numb=Sing
-agebat,ago,VER,Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3

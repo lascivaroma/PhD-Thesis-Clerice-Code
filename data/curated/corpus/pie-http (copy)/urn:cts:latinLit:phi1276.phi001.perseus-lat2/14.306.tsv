@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-seruorum,servvs,NOM2,Case=Gen|Numb=Plur
-noctu,noctv,NOM3,MORPH=empty
-Licinus,licinvs,NOM2,Case=Nom|Numb=Sing
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-attonitus,attonitvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-pro,pro,PRE,MORPH=empty

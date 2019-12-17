@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-quod,qvod,CONcoo,MORPH=empty
-si,si,CONsub,MORPH=empty
-praecipitem,praeceps,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
-rapit,rapio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-ambitio,ambitio,NOM3,Case=Nom|Numb=Sing
-atque,atqve,CONcoo,MORPH=empty
-libido,libido,NOM3,Case=Nom|Numb=Sing

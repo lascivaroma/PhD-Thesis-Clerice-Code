@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-scit,scio,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-dare,do,VER,Mood=Inf|Tense=Pres|Voice=Act
-libertos,libertvs,NOM2,Case=Acc|Numb=Plur
-extrema,exter,ADJqua,Case=Abl|Numb=Plur|Deg=Sup
-in,in,PRE,MORPH=empty
-parte,pars,NOM3,Case=Abl|Numb=Sing
-sedentis,sedeo,VER,Case=Acc|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-iunguntur,ivngo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-tunicae,tvnica,NOM1,Case=Nom|Numb=Plur
-nec,nec,CONcoo,MORPH=empty
-cella,cella,NOM1,Case=Nom|Numb=Sing
-ponit,pono,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-eadem,idem,PROdem,Case=Nom|Numb=Sing

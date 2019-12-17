@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-haec,hic,PROdem,Case=Nom|Numb=Sing
-quota,qvotvs,PROint,Case=Nom|Numb=Sing
-pars,pars,NOM3,Case=Nom|Numb=Sing
-scelerum,scelvs,NOM3,Case=Gen|Numb=Plur
-quae,qvis,PROint,Case=Nom|Numb=Sing
-custos,cvstos,NOM3,Case=Nom|Numb=Sing
-Gallicus,gallicvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-urbis,vrbs,NOM3,Case=Gen|Numb=Sing

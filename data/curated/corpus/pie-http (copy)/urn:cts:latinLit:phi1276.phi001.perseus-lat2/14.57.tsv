@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-cum,cvm,CONsub,MORPH=empty
-facias,facio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-peiora,malvs,ADJqua,Case=Acc|Numb=Plur|Deg=Comp
-senex,senex,NOM3,Case=Nom|Numb=Sing
-uacuum,vacvvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos
--que,qvavis,ADV,MORPH=empty
-cerebro,cerebrvm,NOM2,Case=Abl|Numb=Sing

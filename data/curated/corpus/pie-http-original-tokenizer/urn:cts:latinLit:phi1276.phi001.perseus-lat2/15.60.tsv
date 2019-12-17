@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-exercere,exerceo,VER,Mood=Inf|Tense=Pres|Voice=Act
-acies,acies,NOM5,Case=Nom|Numb=Plur
-quod,qvi,PROrel,Case=Acc
-nulla,nvllvs,PROind,Case=Nom|Numb=Plur
-cadauera,cadaver,NOM3,Case=Nom|Numb=Plur
-calcent,calco,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-.,qvinqvaginta,ADJcar,Case=Acc|Numb=Plur

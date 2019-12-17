@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-maximus,magnvs,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-in,in,PRE,MORPH=empty
-uinclis,vincvlvm,NOM2,Case=Abl|Numb=Plur
-ferri,fero,VER,Case=Gen|Numb=Sing|Mood=Inf|Tense=Pres|Voice=Pass
-modus,modvs,NOM2,Case=Nom|Numb=Sing
-ut,vt,CONsub,MORPH=empty
-timeas,timeo,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=2
-ne,ne,CONsub,MORPH=empty

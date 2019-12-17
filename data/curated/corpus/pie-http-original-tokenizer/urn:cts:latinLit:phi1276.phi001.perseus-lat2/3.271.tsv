@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-uasa,vas,NOM2,Case=Nom|Numb=Plur
-cadant,cado,VER,Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-quanto,qvantvs,PROint,Case=Abl|Numb=Sing
-percussum,percvtio,VER,Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-pondere,pondvs,NOM3,Case=Abl|Numb=Sing
-signent,signo,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3

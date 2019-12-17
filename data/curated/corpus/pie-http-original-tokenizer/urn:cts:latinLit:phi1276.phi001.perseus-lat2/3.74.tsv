@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-promptus,promptvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-et,et,CONcoo,MORPH=empty
-Isaeo,isaevs,NOM2,Case=Dat|Numb=Sing|Deg=Pos
-torrentior,torrens,ADJqua,Case=Nom|Numb=Sing|Deg=Comp
-ede,edo,VER,Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2
-quid,qvis,PROint,Case=Acc|Numb=Sing
-illum,ille,PROdem,Case=Acc|Numb=Sing

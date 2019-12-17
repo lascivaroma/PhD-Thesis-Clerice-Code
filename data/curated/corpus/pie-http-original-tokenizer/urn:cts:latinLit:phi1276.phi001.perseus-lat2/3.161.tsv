@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-sarcinulis,sarcinvla,NOM1,Case=Abl|Numb=Plur
-impar,impar,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-quis,qvis,PROint,Case=Nom|Numb=Sing
-pauper,pavper,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-scribitur,scribo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-heres,heres,NOM3,Case=Nom|Numb=Sing

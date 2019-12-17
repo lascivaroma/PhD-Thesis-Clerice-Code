@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ad,ad,PRE,MORPH=empty
-subitas,svbitvs,ADJqua,Case=Acc|Numb=Plur|Deg=Pos
-Thracum,thraces,NOM3,Case=Gen|Numb=Plur|Deg=Pos
-uolucres,volvcris,NOM3,Case=Acc|Numb=Plur
-nubemque,nvbes,NOM5,Numb=Sing
-sonoram,sonorvs,ADJqua,Case=Acc|Numb=Sing|Deg=Pos

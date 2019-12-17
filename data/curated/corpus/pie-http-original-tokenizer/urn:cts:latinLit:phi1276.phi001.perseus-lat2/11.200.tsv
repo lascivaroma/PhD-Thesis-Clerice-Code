@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-hanc,hic,PROdem,Case=Acc|Numb=Sing
-urbem,vrbs,NOM3,Case=Acc|Numb=Sing
-ueluti,velvt,ADVrel,MORPH=empty
-Cannarum,cannae,NOM1,Case=Gen|Numb=Plur
-in,in,PRE,MORPH=empty
-puluere,pvlvis,NOM3,Case=Abl|Numb=Sing
-uictis,vinco,VER,Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass

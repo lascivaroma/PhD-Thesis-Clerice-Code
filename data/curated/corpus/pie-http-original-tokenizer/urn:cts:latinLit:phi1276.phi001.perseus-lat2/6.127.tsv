@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-mox,mox,ADV,Deg=Pos
-lenone,leno,NOM3,Case=Abl|Numb=Sing
-suas,svvs,PROpos.ref,Case=Acc|Numb=Plur
-iam,iam,ADV,Deg=Pos
-dimittente,dimitto,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-puellas,pvella,NOM1,Case=Acc|Numb=Plur

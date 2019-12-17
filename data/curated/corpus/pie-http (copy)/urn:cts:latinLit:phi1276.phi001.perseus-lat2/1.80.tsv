@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-qualemcum,qvaliscvm,PROrel,Case=Acc|Numb=Sing
--que,qvovs,CONcoo,MORPH=empty
-potest,possvm,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-quales,qvalis,PROint,Case=Nom|Numb=Plur
-ego,ego,PROper,Case=Nom|Numb=Sing
-uel,vel,ADV,MORPH=empty
-Cluuienus,clvvienvs,NOM2,Case=Nom|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Sing

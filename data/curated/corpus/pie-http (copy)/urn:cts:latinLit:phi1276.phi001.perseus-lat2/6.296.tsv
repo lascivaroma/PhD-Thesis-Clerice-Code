@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-et,et,CONcoo,MORPH=empty
-Sybaris,sybaris,NOM3,Case=Nom|Numb=Sing
-colles,collis,NOM3,Case=Nom|Numb=Plur
-hinc,hinc,ADV,Deg=Pos
-et,et,CONcoo,MORPH=empty
-Rhodos,rhodvs,NOM2,Case=Nom|Numb=Sing
-et,et,CONcoo,MORPH=empty
-Miletos,miletvs,NOM2,Case=Nom|Numb=Sing

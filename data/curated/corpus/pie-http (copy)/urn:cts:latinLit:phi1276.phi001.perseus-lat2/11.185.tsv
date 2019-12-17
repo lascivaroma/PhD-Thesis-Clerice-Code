@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-per,per,PRE,MORPH=empty
-totum,totvs,PROind,Case=Acc|Numb=Sing
-cessare,cesso,VER,Mood=Inf|Tense=Pres|Voice=Act
-diem,dies,NOM5,Case=Acc|Numb=Sing
-.,vnvs,ADJcar,Case=Acc|Numb=Plur
-non,non,ADVneg,MORPH=empty
-faenoris,fenvs,NOM3,Case=Gen|Numb=Sing
-ulla,vllvs,PROind,Case=Nom|Numb=Sing

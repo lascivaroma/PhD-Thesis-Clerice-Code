@@ -1,9 +1,0 @@
-form,lemma,pos,morph
-nec,nec,CONcoo,MORPH=empty
-Stheneboea,stheneboea,NOM1,Case=Nom|Numb=Sing
-minus,parvm,ADV,Deg=Comp
-quam,qvam,ADVrel,MORPH=empty
-Cressa,cressa,NOM1,Case=Nom|Numb=Sing
-excanduit,excandesco,VER,Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
-et,et,CONcoo,MORPH=empty
-se,svi,PROref,Case=Acc|Numb=Sing

@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-casus,casvs,NOM4,Case=Nom|Numb=Plur
-et,et,CONcoo,MORPH=empty
-inpulsae,impello,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-praeceps,praeceps,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-inmane,immanis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-ruinae,rvina,NOM1,Case=Gen|Numb=Sing
-.,qvadrantal,ADJcar,Case=Ind|Numb=Plur

@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-defecisse,deficio,VER,Mood=Inf|Tense=Perf|Voice=Act
-amnes,amnis,NOM3,Case=Acc|Numb=Plur
-epota,epoto,VER,Case=Acc|Numb=Plur|Mood=Ind|Tense=Perf|Voice=Pass
--que,qvove,ADV,MORPH=empty
-flumina,flvmen,NOM3,Case=Acc|Numb=Plur
-Medo,medvs,NOM2,Case=Dat|Numb=Sing

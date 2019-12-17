@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-caecus,caecvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-adulator,advlator,NOM3,Case=Nom|Numb=Sing
-dirus,dirvs,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
--que,qvisqve,CONcoo,MORPH=empty
-a,ab,PRE,MORPH=empty
-ponte,pons,NOM3,Case=Abl|Numb=Sing
-satelles,satelles,NOM3,Case=Nom|Numb=Sing

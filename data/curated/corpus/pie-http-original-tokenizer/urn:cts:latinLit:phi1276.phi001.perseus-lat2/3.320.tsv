@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-me,ego,PROper,Case=Acc|Numb=Sing
-quoque,qvoqve,ADV,Deg=Pos
-ad,ad,PRE,MORPH=empty
-Heluinam,helvinvs,NOM1,Case=Acc|Numb=Sing
-Cererem,ceres,NOM3,Case=Acc|Numb=Sing
-uestramque,vester,PROpos,Case=Acc|Numb=Sing
-Dianam,diana,NOM1,Case=Acc|Numb=Sing

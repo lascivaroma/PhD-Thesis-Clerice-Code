@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-te,tv,PROper,Case=Acc|Numb=Sing
-respiciat,respicio,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-clauso,clavdo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-Veiento,veiento,NOM3,Case=Voc|Numb=Sing
-labello,labellvm,NOM2,Case=Abl|Numb=Sing

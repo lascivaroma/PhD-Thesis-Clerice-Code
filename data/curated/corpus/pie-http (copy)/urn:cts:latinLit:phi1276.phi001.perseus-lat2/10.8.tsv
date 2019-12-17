@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-di,devs,NOM2,Case=Nom|Numb=Plur
-faciles,facilis,ADJqua,Case=Nom|Numb=Plur|Deg=Pos
-nocitura,noceo,VER,Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act
-toga,toga,NOM1,Case=Nom|Numb=Sing
-nocitura,noceo,VER,Case=Nom|Numb=Plur|Mood=Par|Tense=Fut|Voice=Act
-petuntur,peto,VER,Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3

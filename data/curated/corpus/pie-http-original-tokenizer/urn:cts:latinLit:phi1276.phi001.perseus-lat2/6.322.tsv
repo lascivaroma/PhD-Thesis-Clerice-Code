@@ -1,6 +1,0 @@
-form,lemma,pos,morph
-ipsa,ipse,PROdem,Case=Nom|Numb=Sing
-Medullinae,medvllina,NOM1,Case=Gen|Numb=Sing
-fluctum,flvctvs,NOM4,Case=Acc|Numb=Sing
-crisantis,crisso,VER,Case=Gen|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act
-adorat,adoro,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3

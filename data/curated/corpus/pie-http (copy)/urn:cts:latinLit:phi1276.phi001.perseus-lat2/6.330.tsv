@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-illa,ille,PROdem,Case=Nom|Numb=Sing
-iubet,ivbeo,VER,Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-sumpto,svmo,VER,Case=Abl|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
-iuuenem,ivvenis,NOM3,Case=Acc|Numb=Sing
-properare,propero,VER,Mood=Inf|Tense=Pres|Voice=Act
-cucullo,cvcvllvs,NOM2,Case=Abl|Numb=Sing
-;,o,PRE,MORPH=empty

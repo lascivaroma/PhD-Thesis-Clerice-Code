@@ -1,8 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-qui,qvi,PROrel,Case=Nom|Numb=Sing
-fortis,fortis,ADJqua,Case=Nom|Numb=Sing|Deg=Pos
-erit,svm,VER,Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3
-sit,svm,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-felicissimus,felix,ADJqua,Case=Nom|Numb=Sing|Deg=Sup
-idem,idem,PROdem,Case=Nom|Numb=Sing

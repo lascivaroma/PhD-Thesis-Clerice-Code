@@ -1,7 +1,0 @@
-form,lemma,pos,morph
-ut,vt,CONsub,MORPH=empty
-bracatorum,bracatvs,ADJqua,Case=Gen|Numb=Plur
-pueri,pver,NOM2,Case=Nom|Numb=Plur
-Senonum,senones,NOM3,Case=Gen|Numb=Plur
--que,qvove,CONcoo,MORPH=empty
-minores,parvvs,ADJqua,Case=Nom|Numb=Plur|Deg=Comp

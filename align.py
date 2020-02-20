@@ -1,9 +1,9 @@
 from pprint import pprint
 from glob import glob
-from typing import Dict, List, Union, Tuple
+from typing import Dict, List, Union, Tuple, Optional
 import regex as re
 import os.path as op
-from Levenshtein import ratio
+from cltk.tokenize.word import WordTokenizer
 from lxml.builder import E as Builder
 import lxml.etree as ET
 
@@ -238,7 +238,8 @@ n_exceptions += ['Aaron', 'Abaddon', 'Abessalon', 'Abiron', 'Absalon', 'Accaron'
 
 # Manually
 n_exceptions += [
-    "Tharan", "arcton"
+    "Tharan", "arcton", "Fison", # Fleuve
+    "therapeuon"
 ]
 
 n_exceptions = [tok.lower() for tok in n_exceptions]
@@ -251,12 +252,12 @@ _xmls: Dict[str, str] = {
     op.basename(path): path
     for path in glob(XML_FILES, recursive=True)
 }
-from cltk.tokenize.word import WordTokenizer
 
 has_word = re.compile(r".*\w+.*")
 
+
 def get_text_object(ident: str) -> CapitainsCtsText:
-    """ Given an identifier, gets a text
+    """ Given an identifier, gets a text from Capitains
     """
     filename = ident.split(":")[-1]+".xml"
     current_file = _xmls.get(filename)
@@ -270,14 +271,17 @@ def minimal(text: str, annotations: List[Dict[str, str]]) -> Tuple[
                                                              int,
                                                              List[Dict[str, str]]]:
     """ Get the minimal amount of tokens and potentially cleans the order of the annotations"""
-    print(text)
+    print("Beginning", text)
     a_i = 0  # Annotation Index
+    orig_text = text  # For debugging purposes
+    before_current = ""
     # We make sure we have either text or annotations
     while a_i < len(annotations) and text:
         current = annotations[a_i]
         current_form = normalize_form(current["form"])
         next_form = "UNKNOWN"
-        if a_i +1 < len(annotations):
+        # If we have a next annotation, might be useful
+        if a_i + 1 < len(annotations):
             next_form = annotations[a_i + 1]["form"]
 
         # Bug related ot PR #970 in CLTK
@@ -302,27 +306,39 @@ def minimal(text: str, annotations: List[Dict[str, str]]) -> Tuple[
                 annotations = annotations[:a_i] + [annotations[a_i+1]] + [current] + annotations[a_i+2:]
                 # We move one
                 text = text[index:]
+                before_current = orig_text[:len(before_current)+index]
                 found = True
                 a_i += 1  # We move one more because se is out
                 break
             elif current_text.endswith(current_form):
                 text = text[index:]
+                before_current = orig_text[:len(before_current)+index]
                 found = True
                 break
             elif current["form"] == "-ne" and current_text.endswith("n") and not text[:index+1].endswith("ne"):
                 text = text[index:]
+                before_current = orig_text[:len(before_current)+index]
                 found = True
                 break
-            #else:
-            #    print(current_text, current_form)
+
             index += 1
 
         if not found and has_word.match(text):
             print("Not found, stopping iterations")
+            print("Treated before")
+            tokenized = WordTokenizer("latin").tokenize(text)
+            print("Tokenized", tokenized)
+            #pprint(before_current)
             print("Index", index)
             print("Remaining text: ", text)
             print("Aligned toks: ", [tok["form"] for tok in annotations[:a_i]])
             print("Remaining toks: ", [tok["form"] for tok in annotations[a_i:]])
+            print(annotations[:a_i])
+            print("Help for test building")
+            pprint([
+                {"form": an["form"], "tag": str(i)}
+                for i, an in enumerate(annotations[max(0, a_i-5):a_i+5])
+            ])
             raise Exception
 
         if found:
@@ -331,6 +347,14 @@ def minimal(text: str, annotations: List[Dict[str, str]]) -> Tuple[
             a_i += 1
 
             if a_i < len(annotations) and len(normalize_form(annotations[a_i]["form"])) > len(text):
+                # Specific case of elision treated first here
+                #   then in aligned
+                striped = text.strip()
+                if has_word.match(striped):  # Hyphenation were clean by transform
+                    hyphenated = striped.split()[-1]  # Keep the end then remove the "-"
+                    # If we the next form starts with the current text !
+                    if next_form.startswith(hyphenated):
+                        a_i += 1
                 break
         else:
             break
@@ -339,15 +363,41 @@ def minimal(text: str, annotations: List[Dict[str, str]]) -> Tuple[
 
 
 def normalize_form(form: str) -> str:
+    """ Removes additional characters from forms, namely "-" for enclitic"""
     if form.startswith("-"):
         return form[1:]
     return form
+
+
+def get_match(pattern: str, string: str) -> Tuple[str, Optional[int], Optional[int]]:
+    """ Find matches of pattern in a string, returns a boolean representing whether it was found
+    as well as the start and end position eventually
+
+    :param pattern: Form to find, potentially regexp formatted
+    :param string: String in which to search
+    :return: (Found or Not, Optional[Start position], Optional[End Position])
+    """
+    found = False
+    s, e = None, None
+    for match in re.finditer(pattern=pattern, string=string):
+        if not found:
+            s, e = match.start(), match.end()
+            found = True
+            break
+    return found, s, e
 
 
 def aligned(text: str, annotations: List[Dict[str, str]]) -> Tuple[
                                                              List[Union[str, Dict[str, str]]],
                                                              List[Dict[str, str]]
 ]:
+    """ Aligns text with a list of annotations
+
+    :param text: A string containing text tied to the annotation list
+    :param annotations: List of annotation where we have at least a `form` key
+    :return: List of [String, Dict] where strings are basically text between annotated form (mostly spaces)
+        Returns a new version of annotations where we removed things that we found
+    """
     start_text = ""+text  # Make a copy for debugging
     minimal_diff_nb_tokens, annotations = minimal(text, annotations)
     # If we are not emptying
@@ -360,26 +410,34 @@ def aligned(text: str, annotations: List[Dict[str, str]]) -> Tuple[
     alignement = []
 
     while text and tokens:
-        found = False
 
         pattern = normalize_form(tokens[0]["form"])
         # We search in the text the first token
         if tokens[0]["form"] == "-ne":
             pattern = r"ne|n"
 
-        for match in re.finditer(pattern=pattern, string=text):
-            if not found:
-                s, e = match.start(), match.end()
-                found = True
-                break
+        found, s, e = get_match(pattern, text)
 
         if not found:
-            print(pattern)
-            print("Text [{}]".format(text))
-            print(start_text)
-            print("Tokens, ", " ".join([t["form"] for t in tokens]))
-            print(tokens)
-            raise Exception()
+            # We could have a damn hyphenation
+            if has_word.match(text):
+                # If we have an hyphenation, current form should hold something
+                #   We start from the end !
+                for word_length in reversed(range(len(pattern))):
+                    found, s, e = get_match(pattern[:word_length], text)
+                    if found:
+                        # We need to store the end of the hyphenization in the annotations !
+                        remains = pattern[e-s:]
+                        tokens[0]["hyphen"] = "true"
+                        annotations.insert(0, {"form": remains, "hyphen": "true"})
+                        break
+            if not found:
+                print(pattern)
+                print("Text [{}]".format(text))
+                print(start_text)
+                print("Tokens, ", " ".join([t["form"] for t in tokens]))
+                print(tokens)
+                raise Exception()
 
         # Otherwise, if the beginning of match is not 0, we have supplementary text
         if s != 0:
@@ -398,9 +456,6 @@ def aligned(text: str, annotations: List[Dict[str, str]]) -> Tuple[
     return alignement, annotations
 
 
-texts = sorted(glob(op.join(PATH_TSV, "**", "*.tsv")) + glob(op.join(PATH_TSV, "**", ".tsv")), reverse=True)
-
-
 def element_or_tail(str_or_dict: Union[str, Dict[str, str]]):
     """ Transforms an element as str or dict """
     if isinstance(str_or_dict, str):
@@ -408,50 +463,82 @@ def element_or_tail(str_or_dict: Union[str, Dict[str, str]]):
     return Builder("token", str_or_dict["form"], **{key: val for key, val in str_or_dict.items() if key != "form"})
 
 
-for text in texts:
+def run_tests():
+    """ This is a suite of tests that checks I ain't breaking anything
 
-    with open(text) as tsv_io:
-        tsv = []
-        header = []
-        for line_no, line in enumerate(tsv_io.readlines()):
-            line = line.strip()
-            if line:
-                if line_no == 0:
-                    header = line.split("\t")
-                else:
-                    tsv.append(dict(list(zip(header, line.split("\t")))))
+    """
+    # Dealing with Hyphenation
+    hyphen = "plus pecudes rationis habent, quae numine motae"
+    annotations = [{"form": "plus", "tag": "1"}, {"form": "pecudes", "tag": "2"}, {"form": "rationis", "tag": "3"},
+                   {"form": "habent", "tag": "4"}, {"form": "quae", "tag": "5"}, {"form": "numine", "tag": "6"},
+                   {"form": "motaenil", "tag": "7"}]
 
-    # We get identifiers connected to the item
-    text_ident = op.split(op.dirname(text))[-1]
-    passage_ident = op.basename(text).replace(".tsv", "")
-    root = None
-    depth = 0
-    if passage_ident:
-        root = passage_ident
-        depth = passage_ident.count(".") + 1
-    # We get the text medata
-    print(text_ident)
-    text_obj = get_text_object(text_ident)
-    # Get the citation System
-    citation = text_obj.citation
-    # Set-up the current level citation
-    current_level = citation[depth - 1]
+    assert aligned(hyphen, annotations) == ([{"form": "plus", "tag": "1"}, " ", {"form": "pecudes", "tag": "2"}, " ",
+                                            {"form": "rationis", "tag": "3"}, " ", {"form": "habent", "tag": "4"}, ", ",
+                                            {"form": "quae", "tag": "5"}, " ", {"form": "numine", "tag": "6"}, " ",
+                                            {"form": "motaenil", "tag": "7", "hyphen": "true"}],
+                                            [{"form": "nil", "hyphen": "true"}]), "Hyphen should be correctly treated"
 
-    # Retrieve the same passage in XML
-    root_passage: CapitainsCtsPassage = text_obj.getTextualNode(subreference=passage_ident)
-    # Compute the maximum depth we have
-    remaining_depth = len(current_level) - depth
+    weird_issue = "enim utrumne ad praeclarum illut bonum facile perueniri putent"
+    annotations = [{'form': 'parum', 'tag': '0'},
+               {'form': 'o', 'tag': '1'},
+               {'form': 'est', 'tag': '2'},
+               {'form': 'ad', 'tag': '3'},
+               {'form': 'bonum', 'tag': '4'},
+               {'form': 'suscipiendum', 'tag': '5'},
+               {'form': 'malum', 'tag': '6'},
+               {'form': '-que', 'tag': '7'},
+               {'form': 'fugiendum', 'tag': '8'},
+               {'form': 'nisi', 'tag': '9'}]
 
-    parent = Builder("root", text_id=text_ident, n=str(root_passage.reference))
+if __name__ == "__main__":
+    run_tests()
+    texts = sorted(glob(op.join(PATH_TSV, "**", "*.tsv")) + glob(op.join(PATH_TSV, "**", ".tsv")), reverse=True)
+    texts = [text for text in texts if "stoa0171" in text]
+    for text in texts:
 
-    # Iterate over the passage
-    for child in root_passage.getReffs(level=-1):
-        current = root_passage.getTextualNode(subreference=child)
+        with open(text) as tsv_io:
+            tsv = []
+            header = []
+            for line_no, line in enumerate(tsv_io.readlines()):
+                line = line.strip()
+                if line:
+                    if line_no == 0:
+                        header = line.split("\t")
+                    else:
+                        tsv.append(dict(list(zip(header, line.split("\t")))))
 
-        # Get plain text
-        plain_text = normalize_space.sub(" ", transform(current.export(Mimetypes.PYTHON.ETREE))).strip()
-        alignment, tsv = aligned(plain_text, annotations=tsv)
+        # We get identifiers connected to the item
+        text_ident = op.split(op.dirname(text))[-1]
+        passage_ident = op.basename(text).replace(".tsv", "")
+        root = None
+        depth = 0
+        if passage_ident:
+            root = passage_ident
+            depth = passage_ident.count(".") + 1
+        # We get the text medata
+        print(text_ident)
+        text_obj = get_text_object(text_ident)
+        # Get the citation System
+        citation = text_obj.citation
+        # Set-up the current level citation
+        current_level = citation[depth - 1]
 
-        print(ET.tostring(Builder("passage", n=str(child), *list(map(element_or_tail, alignment))), encoding=str))
+        # Retrieve the same passage in XML
+        root_passage: CapitainsCtsPassage = text_obj.getTextualNode(subreference=passage_ident)
+        # Compute the maximum depth we have
+        remaining_depth = len(current_level) - depth
 
+        parent = Builder("root", text_id=text_ident, n=str(root_passage.reference))
 
+        # Iterate over the passage
+        for child in root_passage.getReffs(level=remaining_depth):
+            print(text_ident, child)
+            current = root_passage.getTextualNode(subreference=child)
+
+            # Get plain text
+            plain_text = normalize_space.sub(" ", transform(current.export(Mimetypes.PYTHON.ETREE))).strip()
+            alignment, tsv = aligned(plain_text, annotations=tsv)
+
+            print(ET.tostring(Builder("passage", n=str(child), *list(map(element_or_tail, alignment))), encoding=str,
+                              pretty_print=True))

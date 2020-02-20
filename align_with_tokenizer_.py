@@ -14,7 +14,7 @@ from MyCapytain.resources.texts.local.capitains.cts import CapitainsCtsText, Cap
 
 LANG = "lat"
 RAISE_ON_NO_CITATION = True
-PATH_TSV = "./data/curated/corpus/base"
+PATH_TSV = "./data/curated/corpus/pie"
 XML_FILES = "./data/raw/corpora/**/*.xml"
 
 n_exceptions = []
@@ -256,6 +256,13 @@ _xmls: Dict[str, str] = {
 has_word = re.compile(r".*\w+.*")
 
 
+latin_tokenizer = WordTokenizer("latin")
+
+
+def tokenizer(string: str, _tokenizer=latin_tokenizer) -> List[str]:
+    return _tokenizer.tokenize(string)
+
+
 def get_text_object(ident: str) -> CapitainsCtsText:
     """ Given an identifier, gets a text from Capitains
     """
@@ -267,101 +274,6 @@ def get_text_object(ident: str) -> CapitainsCtsText:
         raise Exception("% not found".format(ident))
 
 
-def minimal(text: str, annotations: List[Dict[str, str]]) -> Tuple[
-                                                             int,
-                                                             List[Dict[str, str]]]:
-    """ Get the minimal amount of tokens and potentially cleans the order of the annotations"""
-    print("Beginning", text)
-    a_i = 0  # Annotation Index
-    orig_text = text  # For debugging purposes
-    before_current = ""
-    # We make sure we have either text or annotations
-    while a_i < len(annotations) and text:
-        current = annotations[a_i]
-        current_form = normalize_form(current["form"])
-        next_form = "UNKNOWN"
-        # If we have a next annotation, might be useful
-        if a_i + 1 < len(annotations):
-            next_form = annotations[a_i + 1]["form"]
-
-        # Bug related ot PR #970 in CLTK
-        if current_form.lower()+"n" in n_exceptions and next_form == "-ne":
-            current_form = annotations[a_i]["form"] = current_form+"n"
-            annotations = annotations[:a_i+1] + annotations[a_i+2:]  # Remove the -ne
-
-        # To avoid unecessary step, we start the first index at the size of the original token
-        index = len(current_form)
-        if current["form"] == "-ne":
-            index = 1
-
-        text_length = len(text)
-
-        found = False
-        while index <= text_length:
-            current_text = text[:index]
-            # secum is tokenized as cum se by tokenizer...
-            if current_text.endswith(next_form+"cum") and\
-                    current_form == "cum":
-                # We reorder annotations
-                annotations = annotations[:a_i] + [annotations[a_i+1]] + [current] + annotations[a_i+2:]
-                # We move one
-                text = text[index:]
-                before_current = orig_text[:len(before_current)+index]
-                found = True
-                a_i += 1  # We move one more because se is out
-                break
-            elif current_text.endswith(current_form):
-                text = text[index:]
-                before_current = orig_text[:len(before_current)+index]
-                found = True
-                break
-            elif current["form"] == "-ne" and current_text.endswith("n") and not text[:index+1].endswith("ne"):
-                text = text[index:]
-                before_current = orig_text[:len(before_current)+index]
-                found = True
-                break
-
-            index += 1
-
-        if not found and has_word.match(text):
-            print("Not found, stopping iterations")
-            print("Treated before")
-            tokenized = WordTokenizer("latin").tokenize(text)
-            print("Tokenized", tokenized)
-            #pprint(before_current)
-            print("Index", index)
-            print("Remaining text: ", text)
-            print("Aligned toks: ", [tok["form"] for tok in annotations[:a_i]])
-            print("Remaining toks: ", [tok["form"] for tok in annotations[a_i:]])
-            print(annotations[:a_i])
-            print("Help for test building")
-            pprint([
-                {"form": an["form"], "tag": str(i)}
-                for i, an in enumerate(annotations[max(0, a_i-5):a_i+5])
-            ])
-            raise Exception
-
-        if found:
-            # If we still have annotation but the next token is longer than the remaining text
-            #   WE STOP
-            a_i += 1
-
-            if a_i < len(annotations) and len(normalize_form(annotations[a_i]["form"])) > len(text):
-                # Specific case of elision treated first here
-                #   then in aligned
-                striped = text.strip()
-                if has_word.match(striped):  # Hyphenation were clean by transform
-                    hyphenated = striped.split()[-1]  # Keep the end then remove the "-"
-                    # If we the next form starts with the current text !
-                    if next_form.startswith(hyphenated):
-                        a_i += 1
-                break
-        else:
-            break
-
-    return a_i, annotations
-
-
 def normalize_form(form: str) -> str:
     """ Removes additional characters from forms, namely "-" for enclitic"""
     if form.startswith("-"):
@@ -369,25 +281,21 @@ def normalize_form(form: str) -> str:
     return form
 
 
-def get_match(pattern: str, string: str) -> Tuple[str, Optional[int], Optional[int]]:
-    """ Find matches of pattern in a string, returns a boolean representing whether it was found
-    as well as the start and end position eventually
-
-    :param pattern: Form to find, potentially regexp formatted
-    :param string: String in which to search
-    :return: (Found or Not, Optional[Start position], Optional[End Position])
-    """
-    found = False
-    s, e = None, None
-    for match in re.finditer(pattern=pattern, string=string):
-        if not found:
-            s, e = match.start(), match.end()
-            found = True
-            break
-    return found, s, e
+def add_token(token: Union[str, Dict], input_list: List, with_space=True):
+    space = ""
+    if with_space:
+        space = " "
+    if isinstance(token, dict):
+        input_list.append(token)
+        if with_space:
+            input_list.append(" ")
+    elif input_list and isinstance(input_list[-1], str):
+        input_list[-1] = input_list[-1] + token.strip() + space
+    else:
+        input_list.append(token + space)
 
 
-def aligned(text: str, annotations: List[Dict[str, str]]) -> Tuple[
+def aligned(text: str, annotations: List[Dict[str, str]], debug: bool=False) -> Tuple[
                                                              List[Union[str, Dict[str, str]]],
                                                              List[Dict[str, str]]
 ]:
@@ -398,62 +306,71 @@ def aligned(text: str, annotations: List[Dict[str, str]]) -> Tuple[
     :return: List of [String, Dict] where strings are basically text between annotated form (mostly spaces)
         Returns a new version of annotations where we removed things that we found
     """
-    start_text = ""+text  # Make a copy for debugging
-    minimal_diff_nb_tokens, annotations = minimal(text, annotations)
-    # If we are not emptying
-    if minimal_diff_nb_tokens != len(annotations):
-        tokens, annotations = annotations[:minimal_diff_nb_tokens], annotations[minimal_diff_nb_tokens:]
-    else:
-        tokens = annotations
-        annotations = []
+    tokenized = tokenizer(text)
+    alignment = []
 
-    alignement = []
+    if debug:
+        print("Text received ===", text)
+        print("Text tokenized ===", tokenized)
+        print("Annotations that should match ===", annotations[:len(tokenized)])
 
-    while text and tokens:
+    while tokenized and annotations:
+        current = tokenized.pop(0)
+        if not current:
+            # Sometime empty tokens
+            continue
 
-        pattern = normalize_form(tokens[0]["form"])
-        # We search in the text the first token
-        if tokens[0]["form"] == "-ne":
-            pattern = r"ne|n"
+        if current == annotations[0]["form"]:
+            add_token(annotations.pop(0), alignment)
+        elif annotations[0].get("hyphen") == "true" and current in annotations[0]["form"]:
+            add_token(annotations.pop(0), alignment)
+        elif annotations[0]["form"].startswith(current):  # Hyphen...
+            anno = annotations.pop(0)
+            anno["hyphen"] = "true"
+            # We insert in annotations the end of the hyphenization
+            annotations.insert(0, {"form": anno["form"].replace(current, ""), "hyphen": "true"})
+            # And we add the beginning to alignment
+            add_token(anno, alignment, with_space=False)
+            alignment[-1]["form"] = current
+        elif has_word.search(current):
+            found, s, e = False, None, None
+            # We search partial match
+            for match in re.finditer(annotations[0]["form"], current):
+                s, e = match.start(), match.end()
+                found = True
+                break
 
-        found, s, e = get_match(pattern, text)
-
-        if not found:
-            # We could have a damn hyphenation
-            if has_word.match(text):
-                # If we have an hyphenation, current form should hold something
-                #   We start from the end !
-                for word_length in reversed(range(len(pattern))):
-                    found, s, e = get_match(pattern[:word_length], text)
-                    if found:
-                        # We need to store the end of the hyphenization in the annotations !
-                        remains = pattern[e-s:]
-                        tokens[0]["hyphen"] = "true"
-                        annotations.insert(0, {"form": remains, "hyphen": "true"})
-                        break
             if not found:
-                print(pattern)
-                print("Text [{}]".format(text))
-                print(start_text)
-                print("Tokens, ", " ".join([t["form"] for t in tokens]))
-                print(tokens)
-                raise Exception()
+                print(current)
+                print(annotations[:5])
+                raise Exception("Current is not found")
+            else:
+                # We got something
+                for element in [current[:s], annotations.pop(0), current[e:]]:
+                    if element:
+                        add_token(element, alignment)
+        else:
+            add_token(current, alignment)
 
-        # Otherwise, if the beginning of match is not 0, we have supplementary text
-        if s != 0:
-            alignement.append(text[:s])
-        alignement.append(tokens.pop(0))
-        text = text[e:]
+    # We check if we have still some tokens but no annotations
+    #  that it;s all not punctuation
+    if tokenized and not annotations:
+        has_some_a_word = False
+        for token in tokenized:
+            if has_word.search(token):
+                has_some_a_word = True
+                break
 
-    if tokens:
-        print("Remaining tokens", tokens)
-        print("Text", text)
-        raise Exception("All tokens should be aligned !")
+        if has_some_a_word:
+            raise Exception("Remaining words but no tokens ???")
+        else:
+            for token in tokenized:
+                add_token(token, alignment)
 
-    if text:
-        alignement.append(text)
-
-    return alignement, annotations
+    if debug == True:
+        print("Aligned :", alignment)
+        print("Remaining anno :", annotations)
+    return alignment, annotations
 
 
 def element_or_tail(str_or_dict: Union[str, Dict[str, str]]):
@@ -467,37 +384,66 @@ def run_tests():
     """ This is a suite of tests that checks I ain't breaking anything
 
     """
+    normal = "plus pecudes rationis habent, quae numine"
+    annotations = [{"form": "plus", "tag": "1"}, {"form": "pecudes", "tag": "2"}, {"form": "rationis", "tag": "3"},
+                   {"form": "habent", "tag": "4"}, {"form": "quae", "tag": "5"}, {"form": "numine", "tag": "6"}]
+
+    assert aligned(normal, annotations) == ([{"form": "plus", "tag": "1"}, " ", {"form": "pecudes", "tag": "2"}, " ",
+                                            {"form": "rationis", "tag": "3"}, " ", {"form": "habent", "tag": "4"}, " , ",
+                                            {"form": "quae", "tag": "5"}, " ", {"form": "numine", "tag": "6"}, " "],
+                                            []), "Normal case should work"
+
     # Dealing with Hyphenation
     hyphen = "plus pecudes rationis habent, quae numine motae"
     annotations = [{"form": "plus", "tag": "1"}, {"form": "pecudes", "tag": "2"}, {"form": "rationis", "tag": "3"},
                    {"form": "habent", "tag": "4"}, {"form": "quae", "tag": "5"}, {"form": "numine", "tag": "6"},
-                   {"form": "motaenil", "tag": "7"}]
+                   {"form": "motaenil", "tag": "7"}, {"form": "something", "tag": "8"}]
 
     assert aligned(hyphen, annotations) == ([{"form": "plus", "tag": "1"}, " ", {"form": "pecudes", "tag": "2"}, " ",
-                                            {"form": "rationis", "tag": "3"}, " ", {"form": "habent", "tag": "4"}, ", ",
+                                            {"form": "rationis", "tag": "3"}, " ", {"form": "habent", "tag": "4"}, " , ",
                                             {"form": "quae", "tag": "5"}, " ", {"form": "numine", "tag": "6"}, " ",
-                                            {"form": "motaenil", "tag": "7", "hyphen": "true"}],
-                                            [{"form": "nil", "hyphen": "true"}]), "Hyphen should be correctly treated"
+                                            {"form": "motae", "tag": "7", "hyphen": "true"}],
+                                            [{"form": "nil", "hyphen": "true"}, {"form": "something", "tag": "8"}]), \
+        "Hyphen should be correctly treated"
+    # Next sentence should work
+    assert aligned("nil something.", annotations) == ([{"form": "nil", "hyphen": "true"}, " ", {"form": "something",
+                                                                                          "tag": "8"}, " . "], [])
+    # Dots treated as hyphen O_O
+    annotations = [
+        {'form': 'das', 'lemma': 'do', 'POS': 'VER', 'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
+         'treated_token': 'das'},
+        {'form': 'spes', 'lemma': 'spes', 'POS': 'NOMcom', 'morph': 'Case=Acc|Numb=Sing', 'treated_token': 'spes'},
+        {'form': 'adimis', 'lemma': 'adimo', 'POS': 'VER', 'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
+         'treated_token': 'adimis'},
+        {'form': 'res', 'lemma': 'res', 'POS': 'NOMcom', 'morph': 'Case=Acc|Numb=Plur', 'treated_token': 'res'},
+        {'form': '.', 'lemma': '.', 'POS': 'PUNC', 'morph': 'MORPH=empty', 'treated_token': '.'}]
 
-    weird_issue = "enim utrumne ad praeclarum illut bonum facile perueniri putent"
-    annotations = [{'form': 'parum', 'tag': '0'},
-               {'form': 'o', 'tag': '1'},
-               {'form': 'est', 'tag': '2'},
-               {'form': 'ad', 'tag': '3'},
-               {'form': 'bonum', 'tag': '4'},
-               {'form': 'suscipiendum', 'tag': '5'},
-               {'form': 'malum', 'tag': '6'},
-               {'form': '-que', 'tag': '7'},
-               {'form': 'fugiendum', 'tag': '8'},
-               {'form': 'nisi', 'tag': '9'}]
+    tokens = ": das spes, adimis res\"."# Subdistinctio fit"
+    #print(aligned(tokens, annotations))
+
+    out, ano = aligned(tokens, annotations)
+    assert out == [": ", {'form': 'das', 'lemma': 'do', 'POS': 'VER',
+                          'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
+                          'treated_token': 'das'}, ' ',
+                   {'form': 'spes', 'lemma': 'spes', 'POS': 'NOMcom',
+                    'morph': 'Case=Acc|Numb=Sing', 'treated_token': 'spes'}, ' , ',
+                   {'form': 'adimis', 'lemma': 'adimo', 'POS': 'VER',
+                    'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
+                    'treated_token': 'adimis'}, ' ',
+                   {'form': 'res', 'lemma': 'res', 'POS': 'NOMcom',
+                    'morph': 'Case=Acc|Numb=Plur', 'treated_token': 'res'}, ' " ',
+                   {'form': '.', 'lemma': '.', 'POS': 'PUNC', 'morph': 'MORPH=empty',
+                    'treated_token': '.'}, ' ']
+    assert ano == []
+    #raise Exception()
+
+    # Make a test with glued token such as +Bestia
 
 
 if __name__ == "__main__":
     run_tests()
     texts = sorted(glob(op.join(PATH_TSV, "**", "*.tsv")) + glob(op.join(PATH_TSV, "**", ".tsv")), reverse=True)
-    texts = [text for text in texts if "stoa0171" in text]
     for text in texts:
-
         with open(text) as tsv_io:
             tsv = []
             header = []
@@ -512,11 +458,13 @@ if __name__ == "__main__":
         # We get identifiers connected to the item
         text_ident = op.split(op.dirname(text))[-1]
         passage_ident = op.basename(text).replace(".tsv", "")
+        output_file = open(text_ident+"_"+passage_ident, "w")
         root = None
         depth = 0
         if passage_ident:
             root = passage_ident
             depth = passage_ident.count(".") + 1
+
         # We get the text medata
         print(text_ident)
         text_obj = get_text_object(text_ident)
@@ -535,11 +483,16 @@ if __name__ == "__main__":
         # Iterate over the passage
         for child in root_passage.getReffs(level=remaining_depth):
             print(text_ident, child)
+            if not tsv:
+                raise Exception("We got text but no more annotations !")
             current = root_passage.getTextualNode(subreference=child)
 
             # Get plain text
             plain_text = normalize_space.sub(" ", transform(current.export(Mimetypes.PYTHON.ETREE))).strip()
-            alignment, tsv = aligned(plain_text, annotations=tsv)
+            debug = str(child) == "481.65"
+            alignment, tsv = aligned(plain_text, annotations=tsv, debug=debug)
 
-            print(ET.tostring(Builder("passage", n=str(child), *list(map(element_or_tail, alignment))), encoding=str,
-                              pretty_print=True))
+            output_file.write(ET.tostring(Builder("passage", n=str(child), *list(map(element_or_tail, alignment))), encoding=str,
+                              pretty_print=True)+"\n")
+            print(alignment)
+        output_file.close()

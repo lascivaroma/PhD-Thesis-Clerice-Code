@@ -21,6 +21,8 @@ from unidecode import unidecode
 class AlignmentError(Exception):
     """ Error of alignment """
 
+RATIO_SIZE_TOKENS = 3
+MAX_SIZE_PASSAGE = 75
 LANG = "lat"
 RAISE_ON_NO_CITATION = True
 PATH_TSV = "./data/curated/corpus/pie"
@@ -172,12 +174,13 @@ def align_elements_and_write(
     :param io_output: File in which we can write
     :return: annotation, annotations_tokens
     """
-
+    # We make the size of the annotation maximum n time the input text
+    annotations_taken_into_account = annotations_tokens[:int(RATIO_SIZE_TOKENS*len(tokenized))]
     # We get alignments from the pairwise where we add penalties for gaps
     #   Use the constant PAIRWISE to align things back
     #   (Honestly thinking should get a way to export raw texts from Capitains including the passages id)
     alignments = pairwise2.align.localms(
-        annotations_tokens,
+        annotations_taken_into_account,
         tokenized,
         10,  # 5 points for identical character
         0,  # -1 point for non-identical character
@@ -232,10 +235,18 @@ def align_elements_and_write(
         )
     # Now that we have aligned, we move tsv and annotations_as_word till the end
     #  Although, if end index is 0, we do not have any more annotations
-    if end_index == 0:
+    if end_index == 0 and len(annotations_taken_into_account) == annotations_tokens:
         return [], []
-    annotations_tokens, annotations = annotations_tokens[-end_index:], annotations[-end_index:]
+
+    real_end_index = - end_index - len(annotations_taken_into_account)
+    annotations_tokens, annotations = annotations_tokens[real_end_index:], annotations[real_end_index:]
     return annotations, annotations_tokens
+
+
+def smaller_passages(l: List[str], n: int):
+    # looping till length l
+    for i in range(0, len(l), n):
+        yield l[i:i + n]
 
 
 if __name__ == "__main__":
@@ -291,11 +302,13 @@ if __name__ == "__main__":
                 child_ids = []
                 # Firt we retrieve the text of the passage as tokenized input
                 print("   -> Multiple children from the root passage: reading")
+
                 for child in root_passage.getReffs(level=remaining_depth):
                     # We get the text passage
                     current = root_passage.getTextualNode(subreference=child)
-                    passages.append(tokenizer(get_plain_text(current)))
-                    child_ids.append(str(child))
+                    for small_current in smaller_passages(tokenizer(get_plain_text(current)), MAX_SIZE_PASSAGE):
+                        passages.append(small_current)
+                        child_ids.append(str(child))
 
                 print("   -> Multiple children from the root passage: aligning\n")
                 for id_passage, (tokenized_passage, passage_id) in tqdm.tqdm(enumerate(zip(passages, child_ids)),
@@ -303,7 +316,9 @@ if __name__ == "__main__":
                     # At transformation time, we replace ending hyphen glued to word with HYPHEN_REPLACE value
                     #   Which we can now replace with the next passage token
                     if tokenized_passage[-1].endswith(HYPHEN_REPLACE):
-                        tokenized_passage[-1] = tokenized_passage[-1].replace(HYPHEN_REPLACE, passages[id_passage+1].pop(0))
+                        tokenized_passage[-1] = tokenized_passage[-1].replace(
+                            HYPHEN_REPLACE, passages[id_passage+1].pop(0)
+                        )
 
                     if not tsv:
                         print(tokenized_passage)
@@ -322,6 +337,7 @@ if __name__ == "__main__":
                 # Should have been taken care of no ?
                 print("Remaining TSV ! ", len(tsv))
         except AlignmentError as E:
+            print(E)
             print("Error on {} from {}".format(passage_ident, text_ident))
         output_file.write("\n</root>")
         output_file.close()

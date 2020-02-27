@@ -305,12 +305,17 @@ if __name__ == "__main__":
                 # Firt we retrieve the text of the passage as tokenized input
                 print("   -> Multiple children from the root passage: reading")
 
-                for child in root_passage.getReffs(level=remaining_depth):
-                    # We get the text passage
-                    current = root_passage.getTextualNode(subreference=child)
-                    for small_current in smaller_passages(tokenizer(get_plain_text(current)), MAX_SIZE_PASSAGE):
+                try:
+                    for child in root_passage.getReffs(level=remaining_depth):
+                        # We get the text passage
+                        current = root_passage.getTextualNode(subreference=child)
+                        for small_current in smaller_passages(tokenizer(get_plain_text(current)), MAX_SIZE_PASSAGE):
+                            passages.append(small_current)
+                            child_ids.append(str(child))
+                except KeyError:  # KeyError are thrown when a passage does not have children
+                    for small_current in smaller_passages(tokenizer(get_plain_text(root_passage)), MAX_SIZE_PASSAGE):
                         passages.append(small_current)
-                        child_ids.append(str(child))
+                        child_ids.append(str(passage_ident))
 
                 print("   -> Multiple children from the root passage: aligning\n")
                 for id_passage, (tokenized_passage, passage_id) in tqdm.tqdm(enumerate(zip(passages, child_ids)),
@@ -318,10 +323,14 @@ if __name__ == "__main__":
                     # At transformation time, we replace ending hyphen glued to word with HYPHEN_REPLACE value
                     #   Which we can now replace with the next passage token
                     if tokenized_passage[-1].endswith(HYPHEN_REPLACE):
-                        tokenized_passage[-1] = tokenized_passage[-1].replace(
-                            HYPHEN_REPLACE, passages[id_passage+1].pop(0)
-                        )
-
+                        if len(passages) > id_passage + 1:
+                            tokenized_passage[-1] = tokenized_passage[-1].replace(
+                                HYPHEN_REPLACE, passages[id_passage+1].pop(0)
+                            )
+                        else:
+                            tokenized_passage[-1] = tokenized_passage[-1].replace(
+                                HYPHEN_REPLACE, "-"
+                            )
                     if not tsv:
                         print(tokenized_passage)
                         print(tsv)

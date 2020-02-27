@@ -3,6 +3,8 @@ data/curated/corpus/base/urn:cts:latinLit:phi0588.abo008.perseus-lat2/
 data/curated/corpus/lemmatized.zip
 data/curated/corpus/pie/
 data/curated/corpus/pie_old/
+small_scripts/corpus
+small_scripts/corpus.xml
 ..bfg-report/
 embedding_stability_orders.csv
 mallet.composition.txt

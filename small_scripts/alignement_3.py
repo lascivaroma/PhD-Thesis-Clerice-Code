@@ -196,6 +196,8 @@ def align_elements_and_write(
     #  as well as the index of the alignment containing this best index. Best alignement is computed
     #  so that the alignement ends as far as possible from the end of the text
     if not alignments:
+        print(annotations_taken_into_account)
+        print(tokenized)
         raise AlignmentError("No alignments found")
 
     end_index, best = get_best_alignement(alignments)
@@ -235,10 +237,10 @@ def align_elements_and_write(
         )
     # Now that we have aligned, we move tsv and annotations_as_word till the end
     #  Although, if end index is 0, we do not have any more annotations
-    if end_index == 0 and len(annotations_taken_into_account) == annotations_tokens:
+    if end_index == 0 and len(annotations_taken_into_account) == len(annotations_tokens):
         return [], []
 
-    real_end_index = - end_index - len(annotations_taken_into_account)
+    real_end_index = len(annotations_taken_into_account) - end_index
     annotations_tokens, annotations = annotations_tokens[real_end_index:], annotations[real_end_index:]
     return annotations, annotations_tokens
 

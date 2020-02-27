@@ -4,7 +4,10 @@ data/curated/corpus/lemmatized.zip
 data/curated/corpus/pie/
 data/curated/corpus/pie_old/
 small_scripts/corpus
+small_scripts/corpus_cqp
+small_scripts/data
 small_scripts/corpus.xml
+knownforms.json
 ..bfg-report/
 embedding_stability_orders.csv
 mallet.composition.txt

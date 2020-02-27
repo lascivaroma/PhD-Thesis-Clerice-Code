@@ -12,6 +12,11 @@ texts = {
 
 }
 
+with open("./cqp_format.xsl") as f:
+    xsl_xml = ET.parse(f)
+
+transform = ET.XSLT(xsl_xml)
+
 for file in list(glob.glob("../aligned_texts/*.xml")):
     with open(file) as f:
         xml = ET.parse(f)
@@ -43,3 +48,6 @@ for file in list(glob.glob("../aligned_texts/*.xml")):
 for file in texts:
     with open("corpus/{}.xml".format(file), "w") as f:
         f.write(ET.tostring(texts[file], encoding=str))
+    with open("corpus_cqp/{}.vrt".format(file), "w") as f:
+        f.write(str(transform(texts[file])))  # Remove XML declaration
+        print(file)

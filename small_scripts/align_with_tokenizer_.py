@@ -255,12 +255,12 @@ _xmls: Dict[str, str] = {
 
 has_word = re.compile(r".*\w+.*")
 
+from pie_extended.models.lasla.tokenizer import LatMemorizingTokenizer
+latin_tokenizer = LatMemorizingTokenizer()
 
-latin_tokenizer = WordTokenizer("latin")
 
-
-def tokenizer(string: str, _tokenizer=latin_tokenizer) -> List[str]:
-    return _tokenizer.tokenize(string)
+def tokenizer(string: str, _tokenizer=latin_tokenizer._real_word_tokenizer) -> List[str]:
+    return _tokenizer(string)
 
 
 def get_text_object(ident: str) -> CapitainsCtsText:
@@ -313,29 +313,29 @@ def aligned(text: str, annotations: List[Dict[str, str]], debug: bool=False) -> 
         print("Text received ===", text)
         print("Text tokenized ===", tokenized)
         print("Annotations that should match ===", annotations[:len(tokenized)])
-
+    print(annotations)
     while tokenized and annotations:
         current = tokenized.pop(0)
         if not current:
             # Sometime empty tokens
             continue
 
-        if current == annotations[0]["form"]:
+        if current == annotations[0]["token"]:
             add_token(annotations.pop(0), alignment)
-        elif annotations[0].get("hyphen") == "true" and current in annotations[0]["form"]:
+        elif annotations[0].get("hyphen") == "true" and current in annotations[0]["token"]:
             add_token(annotations.pop(0), alignment)
-        elif annotations[0]["form"].startswith(current):  # Hyphen...
+        elif annotations[0]["token"].startswith(current):  # Hyphen...
             anno = annotations.pop(0)
             anno["hyphen"] = "true"
             # We insert in annotations the end of the hyphenization
-            annotations.insert(0, {"form": anno["form"].replace(current, ""), "hyphen": "true"})
+            annotations.insert(0, {"token": anno["token"].replace(current, ""), "hyphen": "true"})
             # And we add the beginning to alignment
             add_token(anno, alignment, with_space=False)
-            alignment[-1]["form"] = current
+            alignment[-1]["token"] = current
         elif has_word.search(current):
             found, s, e = False, None, None
             # We search partial match
-            for match in re.finditer(annotations[0]["form"], current):
+            for match in re.finditer(annotations[0]["token"], current):
                 s, e = match.start(), match.end()
                 found = True
                 break
@@ -377,7 +377,7 @@ def element_or_tail(str_or_dict: Union[str, Dict[str, str]]):
     """ Transforms an element as str or dict """
     if isinstance(str_or_dict, str):
         return str
-    return Builder("token", str_or_dict["form"], **{key: val for key, val in str_or_dict.items() if key != "form"})
+    return Builder("token", str_or_dict["token"], **{key: val for key, val in str_or_dict.items() if key != "token"})
 
 
 def run_tests():
@@ -385,54 +385,54 @@ def run_tests():
 
     """
     normal = "plus pecudes rationis habent, quae numine"
-    annotations = [{"form": "plus", "tag": "1"}, {"form": "pecudes", "tag": "2"}, {"form": "rationis", "tag": "3"},
-                   {"form": "habent", "tag": "4"}, {"form": "quae", "tag": "5"}, {"form": "numine", "tag": "6"}]
+    annotations = [{"token": "plus", "tag": "1"}, {"token": "pecudes", "tag": "2"}, {"token": "rationis", "tag": "3"},
+                   {"token": "habent", "tag": "4"}, {"token": "quae", "tag": "5"}, {"token": "numine", "tag": "6"}]
 
-    assert aligned(normal, annotations) == ([{"form": "plus", "tag": "1"}, " ", {"form": "pecudes", "tag": "2"}, " ",
-                                            {"form": "rationis", "tag": "3"}, " ", {"form": "habent", "tag": "4"}, " , ",
-                                            {"form": "quae", "tag": "5"}, " ", {"form": "numine", "tag": "6"}, " "],
+    assert aligned(normal, annotations) == ([{"token": "plus", "tag": "1"}, " ", {"token": "pecudes", "tag": "2"}, " ",
+                                            {"token": "rationis", "tag": "3"}, " ", {"token": "habent", "tag": "4"}, " , ",
+                                            {"token": "quae", "tag": "5"}, " ", {"token": "numine", "tag": "6"}, " "],
                                             []), "Normal case should work"
 
     # Dealing with Hyphenation
     hyphen = "plus pecudes rationis habent, quae numine motae"
-    annotations = [{"form": "plus", "tag": "1"}, {"form": "pecudes", "tag": "2"}, {"form": "rationis", "tag": "3"},
-                   {"form": "habent", "tag": "4"}, {"form": "quae", "tag": "5"}, {"form": "numine", "tag": "6"},
-                   {"form": "motaenil", "tag": "7"}, {"form": "something", "tag": "8"}]
+    annotations = [{"token": "plus", "tag": "1"}, {"token": "pecudes", "tag": "2"}, {"token": "rationis", "tag": "3"},
+                   {"token": "habent", "tag": "4"}, {"token": "quae", "tag": "5"}, {"token": "numine", "tag": "6"},
+                   {"token": "motaenil", "tag": "7"}, {"token": "something", "tag": "8"}]
 
-    assert aligned(hyphen, annotations) == ([{"form": "plus", "tag": "1"}, " ", {"form": "pecudes", "tag": "2"}, " ",
-                                            {"form": "rationis", "tag": "3"}, " ", {"form": "habent", "tag": "4"}, " , ",
-                                            {"form": "quae", "tag": "5"}, " ", {"form": "numine", "tag": "6"}, " ",
-                                            {"form": "motae", "tag": "7", "hyphen": "true"}],
-                                            [{"form": "nil", "hyphen": "true"}, {"form": "something", "tag": "8"}]), \
+    assert aligned(hyphen, annotations) == ([{"token": "plus", "tag": "1"}, " ", {"token": "pecudes", "tag": "2"}, " ",
+                                            {"token": "rationis", "tag": "3"}, " ", {"token": "habent", "tag": "4"}, " , ",
+                                            {"token": "quae", "tag": "5"}, " ", {"token": "numine", "tag": "6"}, " ",
+                                            {"token": "motae", "tag": "7", "hyphen": "true"}],
+                                            [{"token": "nil", "hyphen": "true"}, {"token": "something", "tag": "8"}]), \
         "Hyphen should be correctly treated"
     # Next sentence should work
-    assert aligned("nil something.", annotations) == ([{"form": "nil", "hyphen": "true"}, " ", {"form": "something",
+    assert aligned("nil something.", annotations) == ([{"token": "nil", "hyphen": "true"}, " ", {"token": "something",
                                                                                           "tag": "8"}, " . "], [])
     # Dots treated as hyphen O_O
     annotations = [
-        {'form': 'das', 'lemma': 'do', 'POS': 'VER', 'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
+        {"token": 'das', 'lemma': 'do', 'POS': 'VER', 'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
          'treated_token': 'das'},
-        {'form': 'spes', 'lemma': 'spes', 'POS': 'NOMcom', 'morph': 'Case=Acc|Numb=Sing', 'treated_token': 'spes'},
-        {'form': 'adimis', 'lemma': 'adimo', 'POS': 'VER', 'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
+        {"token": 'spes', 'lemma': 'spes', 'POS': 'NOMcom', 'morph': 'Case=Acc|Numb=Sing', 'treated_token': 'spes'},
+        {"token": 'adimis', 'lemma': 'adimo', 'POS': 'VER', 'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
          'treated_token': 'adimis'},
-        {'form': 'res', 'lemma': 'res', 'POS': 'NOMcom', 'morph': 'Case=Acc|Numb=Plur', 'treated_token': 'res'},
-        {'form': '.', 'lemma': '.', 'POS': 'PUNC', 'morph': 'MORPH=empty', 'treated_token': '.'}]
+        {"token": 'res', 'lemma': 'res', 'POS': 'NOMcom', 'morph': 'Case=Acc|Numb=Plur', 'treated_token': 'res'},
+        {"token": '.', 'lemma': '.', 'POS': 'PUNC', 'morph': 'MORPH=empty', 'treated_token': '.'}]
 
     tokens = ": das spes, adimis res\"."# Subdistinctio fit"
     #print(aligned(tokens, annotations))
 
     out, ano = aligned(tokens, annotations)
-    assert out == [": ", {'form': 'das', 'lemma': 'do', 'POS': 'VER',
+    assert out == [": ", {"token": 'das', 'lemma': 'do', 'POS': 'VER',
                           'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
                           'treated_token': 'das'}, ' ',
-                   {'form': 'spes', 'lemma': 'spes', 'POS': 'NOMcom',
+                   {"token": 'spes', 'lemma': 'spes', 'POS': 'NOMcom',
                     'morph': 'Case=Acc|Numb=Sing', 'treated_token': 'spes'}, ' , ',
-                   {'form': 'adimis', 'lemma': 'adimo', 'POS': 'VER',
+                   {"token": 'adimis', 'lemma': 'adimo', 'POS': 'VER',
                     'morph': 'Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=2',
                     'treated_token': 'adimis'}, ' ',
-                   {'form': 'res', 'lemma': 'res', 'POS': 'NOMcom',
+                   {"token": 'res', 'lemma': 'res', 'POS': 'NOMcom',
                     'morph': 'Case=Acc|Numb=Plur', 'treated_token': 'res'}, ' " ',
-                   {'form': '.', 'lemma': '.', 'POS': 'PUNC', 'morph': 'MORPH=empty',
+                   {"token": '.', 'lemma': '.', 'POS': 'PUNC', 'morph': 'MORPH=empty',
                     'treated_token': '.'}, ' ']
     assert ano == []
     #raise Exception()
@@ -479,6 +479,7 @@ if __name__ == "__main__":
         remaining_depth = len(current_level) - depth
 
         parent = Builder("root", text_id=text_ident, n=str(root_passage.reference))
+
 
         # Iterate over the passage
         for child in root_passage.getReffs(level=remaining_depth):

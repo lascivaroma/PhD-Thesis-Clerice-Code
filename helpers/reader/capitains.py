@@ -15,8 +15,9 @@ from unidecode import unidecode
 with open("./helpers/reader/passage.transform.xsl") as f:
     xml = etree.parse(f)
 _transformer = etree.XSLT(xml)
-_hyphen = re.compile("-[\s\n]+")
-_number = re.compile("\d+")
+_ending_hyphen = re.compile(r"-\s+$")
+_hyphen = re.compile(r"-[\s\n]+")
+_number = re.compile(r"\d+")
 
 IGNORED = [
     "urn:cts:phi0474.phi045.perseus-lat1:praef",

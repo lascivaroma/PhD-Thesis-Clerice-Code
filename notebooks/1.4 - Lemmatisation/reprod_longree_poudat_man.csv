@@ -17,15 +17,15 @@ Catul,Catullus_Catullus_Catul.tsv,13020,y,,,,,,,,,,,,
 "Cic, Metel",Cicero_ContraContionemQMetelliFragmenta_CicMetel.tsv,114,,,,,,,,,y,,y,y,
 "Cic, Amici",Cicero_DeAmicitia_CicAmici.tsv,9272,,,,,,,,,,y,y,y,
 "Cic, Domo",Cicero_DeDomoSua_CicDomo.tsv,14928,,,,,,,,,,,,,
-"Cic, Harus",Cicero_DeHaruspicumResponso_CicHarus.tsv,7477,,,,,,,,,,,,,
+"Cic, Harus",Cicero_DeHaruspicumResponso_CicHarus.tsv,7477,,,,,,,,,y,,y,y,
 "Cic, DeImp",Cicero_DeImperioCnPompei_CicDeImp.tsv,6615,,,,,,,,,y,,y,y,
-"Cic, LegA, 1",Cicero_DeLegeAgraria_CicLegA1.tsv,2278,,,,,,,,,,,,,
-"Cic, LegA, 2",Cicero_DeLegeAgraria_CicLegA2.tsv,10082,,,,,,,,,,,,,
-"Cic, LegA, 3",Cicero_DeLegeAgraria_CicLegA3.tsv,1233,,,,,,,,,,,,,
+"Cic, LegA, 1",Cicero_DeLegeAgraria_CicLegA1.tsv,2278,,,,,,,,,y,,y,y,
+"Cic, LegA, 2",Cicero_DeLegeAgraria_CicLegA2.tsv,10082,,,,,,,,,y,,y,y,
+"Cic, LegA, 3",Cicero_DeLegeAgraria_CicLegA3.tsv,1233,,,,,,,,,y,,y,y,
 "Cic, Offic, 1",Cicero_DeOfficiis_CicOffic1.tsv,14574,,,,,,,,,,y,y,y,
 "Cic, Offic, 2",Cicero_DeOfficiis_CicOffic2.tsv,8572,,,,,,,,,,y,y,y,
 "Cic, Offic, 3",Cicero_DeOfficiis_CicOffic3.tsv,11123,,,,,,,,,,y,y,y,
-"Cic, Prov",Cicero_DeProvinciisConsularibus_CicProv.tsv,5024,,,,,,,,,,,,,
+"Cic, Prov",Cicero_DeProvinciisConsularibus_CicProv.tsv,5024,,,,,,,,,y,,y,y,
 "Cic, Alex",Cicero_DeRegeAlexandrinoFragmenta_CicAlex.tsv,120,,,,,,,,,,,,,
 "Cic, Senec",Cicero_DeSenectute_CicSenec.tsv,8227,,,,,,,,,,y,y,y,
 "Cic, DivCa",Cicero_DivinatioinQCaecilium_CicDivCa.tsv,5792,,,,,,,,,,,,,
@@ -235,7 +235,7 @@ Hisp,PseudoCaesar3_BellumHispanum_BHisp.tsv,6026,,,,,y,y,,y,,,,y,
 "Cic, Quaest",Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.tsv,8,,,,,,,,,,,,,
 "Cic, CMani",Cicero_ProCManilioFragmenta_CicCMani.tsv,8,,,,,,,,,y,,y,y,
 "Cic, NegAc",Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.tsv,5,,,,,,,,,y,,y,y,
-,,,37718,41719,32921,74640,57798,132438,213576,346014,365309,51768,417077,549515,215103
+,,,37718,41719,32921,74640,57798,132438,213576,346014,391403,51768,443171,575609,215103
 ,,,,42055,33221,75277,65532,137809,215011,352820,417245,52252,469497,607306,0
-,,,37718,-336,-300,-637,-7734,-5371,-1435,-6806,-51936,-484,-52420,-57791,215103
+,,,37718,-336,-300,-637,-7734,-5371,-1435,-6806,-25842,-484,-26326,-31697,215103
 ,,,,,,,,previous+cesar,,,,,,,a comparer avec histoire non republicaine

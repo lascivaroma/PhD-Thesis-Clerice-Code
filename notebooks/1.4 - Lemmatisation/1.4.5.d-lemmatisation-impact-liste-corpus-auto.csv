@@ -1,0 +1,237 @@
+title,file,tokens
+"Caes, BC, 1",Caesar_BellumCivile_CaesBC1.tsv,11104
+"Caes, BC, 2",Caesar_BellumCivile_CaesBC2.tsv,6495
+"Caes, BC, 3",Caesar_BellumCivile_CaesBC3.tsv,15322
+"Caes, BG, 1",Caesar_BellumGallicum_CaesBG1.tsv,8166
+"Caes, BG, 2",Caesar_BellumGallicum_CaesBG2.tsv,4230
+"Caes, BG, 3",Caesar_BellumGallicum_CaesBG3.tsv,3637
+"Caes, BG, 4",Caesar_BellumGallicum_CaesBG4.tsv,4601
+"Caes, BG, 5",Caesar_BellumGallicum_CaesBG5.tsv,7514
+"Caes, BG, 6",Caesar_BellumGallicum_CaesBG6.tsv,5568
+"Caes, BG, 7",Caesar_BellumGallicum_CaesBG7.tsv,11640
+"Cat, Agr",Cato_CatoAgricultura_CatAgr.tsv,15814
+"Cat, Frag",Cato_CatoFragmentaReliqua_CatFrag.tsv,490
+"Cat, Orat",Cato_CatoOrationumFragmenta_CatOrat.tsv,2678
+"Cat, Orig",Cato_CatoOrigines_CatOrig.tsv,852
+Catul,Catullus_Catullus_Catul.tsv,13020
+"Cic, Metel",Cicero_ContraContionemQMetelliFragmenta_CicMetel.tsv,114
+"Cic, Amici",Cicero_DeAmicitia_CicAmici.tsv,9272
+"Cic, Domo",Cicero_DeDomoSua_CicDomo.tsv,14928
+"Cic, Harus",Cicero_DeHaruspicumResponso_CicHarus.tsv,7477
+"Cic, DeImp",Cicero_DeImperioCnPompei_CicDeImp.tsv,6615
+"Cic, LegA, 1",Cicero_DeLegeAgraria_CicLegA1.tsv,2278
+"Cic, LegA, 2",Cicero_DeLegeAgraria_CicLegA2.tsv,10082
+"Cic, LegA, 3",Cicero_DeLegeAgraria_CicLegA3.tsv,1233
+"Cic, Offic, 1",Cicero_DeOfficiis_CicOffic1.tsv,14574
+"Cic, Offic, 2",Cicero_DeOfficiis_CicOffic2.tsv,8572
+"Cic, Offic, 3",Cicero_DeOfficiis_CicOffic3.tsv,11123
+"Cic, Prov",Cicero_DeProvinciisConsularibus_CicProv.tsv,5024
+"Cic, Alex",Cicero_DeRegeAlexandrinoFragmenta_CicAlex.tsv,120
+"Cic, Senec",Cicero_DeSenectute_CicSenec.tsv,8227
+"Cic, DivCa",Cicero_DivinatioinQCaecilium_CicDivCa.tsv,5792
+"Cic, Cat, 1",Cicero_InCatilinam_CicCat1.tsv,3288
+"Cic, Cat, 2",Cicero_InCatilinam_CicCat2.tsv,3057
+"Cic, Cat, 3",Cicero_InCatilinam_CicCat3.tsv,3143
+"Cic, Cat, 4",Cicero_InCatilinam_CicCat4.tsv,2836
+"Cic, Pis",Cicero_InLCalpurniumPisonem_CicPis.tsv,10814
+"Cic, Clodi",Cicero_InPClodiumEtCCurionemFragmenta_CicClodi.tsv,619
+"Cic, TogCan",Cicero_InSenatuInTogaCandidaContraCAntoniumEtLCatilinamCompetitoresFragmenta_CicTogCan.tsv,704
+"Cic, Vatin",Cicero_InVatinium_CicVatin.tsv,4441
+Ver,Cicero_InVerremActioPrima_Cic1Ver.tsv,4611
+"Ver, 1",Cicero_InVerremActioSecunda_Cic2Ver1.tsv,15331
+"Ver, 2",Cicero_InVerremActioSecunda_Cic2Ver2.tsv,18897
+"Ver, 3",Cicero_InVerremActioSecunda_Cic2Ver3.tsv,24734
+"Ver, 4",Cicero_InVerremActioSecunda_Cic2Ver4.tsv,17028
+"Ver, 5",Cicero_InVerremActioSecunda_Cic2Ver5.tsv,19072
+"Cic, IncFr",Cicero_Incertarum0rationumFragmenta_CicIncFr.tsv,318
+"Cic, AerAl",Cicero_InterrogatioDeAereAlienoMilonisFragmenta_CicAerAl.tsv,214
+"Cic, Phi, 1",Cicero_PhilippicaOratio_CicPhi01.tsv,3652
+"Cic, Phi, 2",Cicero_PhilippicaOratio_CicPhi02.tsv,11212
+"Cic, Phi, 3",Cicero_PhilippicaOratio_CicPhi03.tsv,3753
+"Cic, Phi, 4",Cicero_PhilippicaOratio_CicPhi04.tsv,1353
+"Cic, Phi, 5",Cicero_PhilippicaOratio_CicPhi05.tsv,5088
+"Cic, Phi, 6",Cicero_PhilippicaOratio_CicPhi06.tsv,1766
+"Cic, Phi, 7",Cicero_PhilippicaOratio_CicPhi07.tsv,2185
+"Cic, Phi, 8",Cicero_PhilippicaOratio_CicPhi08.tsv,2961
+"Cic, Phi, 9",Cicero_PhilippicaOratio_CicPhi09.tsv,1624
+"Cic, Phi, 10",Cicero_PhilippicaOratio_CicPhi10.tsv,2721
+"Cic, Phi, 11",Cicero_PhilippicaOratio_CicPhi11.tsv,4087
+"Cic, Phi, 12",Cicero_PhilippicaOratio_CicPhi12.tsv,3111
+"Cic, Phi, 13",Cicero_PhilippicaOratio_CicPhi13.tsv,5216
+"Cic, Phi, 14",Cicero_PhilippicaOratio_CicPhi14.tsv,3367
+"Cic, RedQ",Cicero_PostReditumAdQuirites_CicRedQ.tsv,2587
+"Cic, RedS",Cicero_PostReditumInSenatu_CicRedS.tsv,4285
+"Cic, Lig",Cicero_PrLigario_CicLig.tsv,3244
+"Cic, ACaec",Cicero_ProACaecina_CicACaec.tsv,10225
+"Cic, AClu",Cicero_ProACluentio_CicAClu.tsv,20324
+"Cic, Arch",Cicero_ProArchia_CicArch.tsv,3094
+"Cic, Balb",Cicero_ProBalbo_CicBalb.tsv,6693
+"Cic, CFund",Cicero_ProCFundanioFragmenta_CicCFund.tsv,40
+"Cic, RabPe",Cicero_ProCRabirioPerduellionisReo_CicRabPe.tsv,3501
+"Cic, Cael",Cicero_ProCaelio_CicCael.tsv,8393
+"Cic, Corn, 1",Cicero_ProCornelioFragmenta_CicCorn1.tsv,1197
+"Cic, Corn, 2",Cicero_ProCornelioFragmenta_CicCorn2.tsv,299
+"Cic, Flac",Cicero_ProFlacco_CicFlac.tsv,10737
+"Cic, LVare",Cicero_ProLVarenoFragmenta_CicLVare.tsv,141
+"Cic, MFont",Cicero_ProMFonteio_CicMFont.tsv,4566
+"Cic, MScau",Cicero_ProMScauroFragmenta_CicMScau.tsv,2931
+"Cic, MTull",Cicero_ProMTullio_CicMTull.tsv,3456
+"Cic, Marc",Cicero_ProMarcello_CicMarc.tsv,2742
+"Cic, Mil",Cicero_ProMilone_CicMil.tsv,10328
+"Cic, Mur",Cicero_ProMurena_CicMur.tsv,10393
+"Cic, Oppio",Cicero_ProOppioFragmenta_CicOppio.tsv,71
+"Cic, Quinc",Cicero_ProPQuinctio_CicQuinc.tsv,8524
+"Cic, PVati",Cicero_ProPVatinioFragmenta_CicPVati.tsv,32
+"Cic, Planc",Cicero_ProPlancio_CicPlanc.tsv,11480
+"Cic, QGal",Cicero_ProQGallioFragmenta_CicQGal.tsv,188
+"Cic, QRosc",Cicero_ProQRoscioComoedo_CicQRosc.tsv,4695
+"Cic, RabP",Cicero_ProRabirioPostumo_CicRabP.tsv,4012
+"Cic, Deiot",Cicero_ProRegeDeiotario_CicDeiot.tsv,3866
+"Cic, SRosc",Cicero_ProSRoscioAmerino_CicSRosc.tsv,13130
+"Cic, Sest",Cicero_ProSestio_CicSest.tsv,16566
+"Cic, Sul",Cicero_ProSulla_CicSul.tsv,9126
+"Curt, 3",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt03.tsv,7175
+"Curt, 4",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt04.tsv,13210
+"Curt, 5",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt05.tsv,8095
+"Curt, 6",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt06.tsv,8594
+"Curt, 7",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt07.tsv,9488
+"Curt, 8",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt08.tsv,10971
+"Curt, 9",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt09.tsv,8107
+"Curt, 10",Curtius_CurtiusHistoriaeAlexandriMagni_QCurt10.tsv,6014
+"Hirt, BG, 8",Hirtius_Bellum8Gallicum_HirtBG8.tsv,6574
+"Hor, ArsPo",Horatius_ArsPoetica_HorArsPo.tsv,3199
+"Hor, Saecu",Horatius_CarmenSaeculare_HorSaecu.tsv,338
+"Hor, Carm, 1",Horatius_Carmina_HorCarm1.tsv,4059
+"Hor, Carm, 2",Horatius_Carmina_HorCarm2.tsv,2475
+"Hor, Carm, 3",Horatius_Carmina_HorCarm3.tsv,4458
+"Hor, Carm, 4",Horatius_Carmina_HorCarm4.tsv,2652
+"Hor, Epodi",Horatius_Epodi_HorEpodi.tsv,3071
+"Hor, Epis, 1",Horatius_HorEpistulae_HorEpis1.tsv,6871
+"Hor, Epis, 2",Horatius_HorEpistulae_HorEpis2.tsv,3253
+"Hor, Serm, 1",Horatius_HorSermones_HorSerm1.tsv,7090
+"Hor, Serm, 2",Horatius_HorSermones_HorSerm2.tsv,7424
+"Juv, Satur",Juvenalis_JuvSaturae_JuvSatur.tsv,25487
+"Lucr, DRN, 1",Lucretius_DeRerumNatura_LucrDRN1.tsv,7373
+"Lucr, DRN, 2",Lucretius_DeRerumNatura_LucrDRN2.tsv,7801
+"Lucr, DRN, 3",Lucretius_DeRerumNatura_LucrDRN3.tsv,7521
+"Lucr, DRN, 4",Lucretius_DeRerumNatura_LucrDRN4.tsv,8720
+"Lucr, DRN, 5",Lucretius_DeRerumNatura_LucrDRN5.tsv,9666
+"Lucr, DRN, 6",Lucretius_DeRerumNatura_LucrDRN6.tsv,8655
+"Ovi, Amor, 1",Ovidius_Amores_OviAmor1.tsv,5047
+"Ovi, Amor, 2",Ovidius_Amores_OviAmor2.tsv,5314
+"Ovi, Amor, 3",Ovidius_Amores_OviAmor3.tsv,5592
+"Ovi, ArsA, 1",Ovidius_ArsAmatoria_OviArsA1.tsv,5038
+"Ovi, ArsA, 2",Ovidius_ArsAmatoria_OviArsA2.tsv,4871
+"Ovi, ArsA, 3",Ovidius_ArsAmatoria_OviArsA3.tsv,5294
+"Ov, Fasti, 1",Ovidius_Fasti_OvFasti1.tsv,4675
+"Ov, Fasti, 2",Ovidius_Fasti_OvFasti2.tsv,5563
+"Ov, Fasti, 3",Ovidius_Fasti_OvFasti3.tsv,5696
+"Ov, Fasti, 4",Ovidius_Fasti_OvFasti4.tsv,6143
+"Ov, Fasti, 5",Ovidius_Fasti_OvFasti5.tsv,4682
+"Ov, Fasti, 6",Ovidius_Fasti_OvFasti6.tsv,5239
+"Ovi, Halie",Ovidius_Halieutica_OviHalie.tsv,876
+"Ovi, Epist",Ovidius_HeroidumEpistulae_OviEpist.tsv,26324
+"Ovi, Ibin",Ovidius_InIbin_OviIbin.tsv,4196
+"Ovi, Medic",Ovidius_MedicaminaFacieiFemineae_OviMedic.tsv,619
+"Ovi, Remed",Ovidius_RemediaAmoris_OviRemed.tsv,5312
+,Persius_PersiusSatirae_PersiusS.tsv,4633
+"Petron, Sa",Petronius_PetroniusSatiricon_PetronSa.tsv,30615
+"Pl, Amphi",Plautus_Amphitruo_PlAmphi.tsv,9335
+"Pl, Asina",Plautus_Asinaria_PlAsina.tsv,7702
+"Pl, Aulul",Plautus_Aulularia_PlAulul.tsv,6611
+"Pl, Bacch",Plautus_Bacchides_PlBacch.tsv,9557
+"Pl, Capt",Plautus_Captiui_PlCapt.tsv,8353
+"Pl, Casin",Plautus_Casina_PlCasin.tsv,7235
+"Pl, Curcu",Plautus_Curculio_PlCurcu.tsv,5771
+"Pl, Epidic",Plautus_Epidicus_PlEpidic.tsv,6043
+"Pli, Ep, 1",Plinius_PliniusEpistulae_PliEp01.tsv,6171
+"Pli, Ep, 2",Plinius_PliniusEpistulae_PliEp02.tsv,6273
+"Pli, Ep, 3",Plinius_PliniusEpistulae_PliEp03.tsv,6561
+"Pli, Ep, 4",Plinius_PliniusEpistulae_PliEp04.tsv,6121
+"Pli, Ep, 5",Plinius_PliniusEpistulae_PliEp05.tsv,5922
+"Pli, Ep, 6",Plinius_PliniusEpistulae_PliEp06.tsv,6675
+"Pli, Ep, 7",Plinius_PliniusEpistulae_PliEp07.tsv,6102
+"Pli, Ep, 8",Plinius_PliniusEpistulae_PliEp08.tsv,6095
+"Pli, Ep, 9",Plinius_PliniusEpistulae_PliEp09.tsv,6041
+"Pli, Ep, 10",Plinius_PliniusEpistulae_PliEp10.tsv,9423
+"Plin, Pane",Plinius_PliniusPanegyricus_PlinPane.tsv,19497
+"Propert, 1",Propertius_PropertiusElegiae_Propert1.tsv,4390
+"Propert, 2",Propertius_PropertiusElegiae_Propert2.tsv,8799
+"Propert, 3",Propertius_PropertiusElegiae_Propert3.tsv,6338
+"Propert, 4",Propertius_PropertiusElegiae_Propert4.tsv,6067
+Afr,PseudoCaesar1_BellumAfricanum_BAfr.tsv,13358
+Alex,PseudoCaesar2_BellumAlexandrinum_BAlex.tsv,10562
+Hisp,PseudoCaesar3_BellumHispanum_BHisp.tsv,6026
+"Sal, Catil",Sallustius_Catilina_SalCatil.tsv,10598
+"Sal, HistF",Sallustius_FragmentaHistoriarum_SalHistF.tsv,4136
+"Sal, Jugur",Sallustius_Jugurtha_SalJugur.tsv,21278
+"Sen, Helvi",Seneca_AdHelviamMatremDeConsolatione_SenHelvi.tsv,6724
+"Sen, Epist",Seneca_AdLuciliumEpistulaeMorales_SenEpist.tsv,118801
+"Sen, Marci",Seneca_AdMarciamDeConsolatione_SenMarci.tsv,8314
+"Sen, Polyb",Seneca_AdPolybiumDeConsolatione_SenPolyb.tsv,5649
+"Sen, Agamn",Seneca_Agamemnon_SenAgamn.tsv,5562
+"Sen, Apoco",Seneca_Apocolocyntosis_SenApoco.tsv,2917
+"Sen, Benef",Seneca_DeBeneficiis_SenBenef.tsv,45312
+"Sen, Brevi",Seneca_DeBrevitateVitae_SenBrevi.tsv,6113
+"Sen, Clem, 1",Seneca_DeClementia_SenClem1.tsv,6695
+"Sen, Clem, 2",Seneca_DeClementia_SenClem2.tsv,1526
+"Sen, Const",Seneca_DeConstantia_SenConst.tsv,5305
+"Sen, Ira, 1",Seneca_DeIra_SenIra1.tsv,5492
+"Sen, Ira, 2",Seneca_DeIra_SenIra2.tsv,7620
+"Sen, Ira, 3",Seneca_DeIra_SenIra3.tsv,9334
+"Sen, Otio",Seneca_DeOtio_SenOtio.tsv,1949
+"Sen, Provi",Seneca_DeProvidentia_SenProvi.tsv,4083
+"Sen, Tranq",Seneca_DeTranquillitateAnimi_SenTranq.tsv,7574
+"Sen, VitBe",Seneca_DeVitaBeata_SenVitBe.tsv,7278
+"Sen, HerFu",Seneca_HerculesFurens_SenHerFu.tsv,7687
+"Sen, HerOe",Seneca_HerculesOetaeus_SenHerOe.tsv,11312
+"Sen, Medea",Seneca_Medea_SenMedea.tsv,5685
+"Sen, Oedip",Seneca_Oedipus_SenOedip.tsv,5908
+"Sen, Phaed",Seneca_Phaedra_SenPhaed.tsv,7246
+"Sen, Phoen",Seneca_Phoenissae_SenPhoen.tsv,4145
+"Sen, Thyes",Seneca_Thyestes_SenThyes.tsv,6277
+"Sen, Troad",Seneca_Troades_SenTroad.tsv,6827
+"Tac, Agric",Tacitus_TacAgricola_TacAgric.tsv,6772
+"Tac, Ann, 1",Tacitus_TacAnnales_TacAnn01.tsv,10873
+"Tac, Ann, 2",Tacitus_TacAnnales_TacAnn02.tsv,10459
+"Tac, Ann, 3",Tacitus_TacAnnales_TacAnn03.tsv,9387
+"Tac, Ann, 4",Tacitus_TacAnnales_TacAnn04.tsv,10134
+"Tac, Ann, 5",Tacitus_TacAnnales_TacAnn05.tsv,1035
+"Tac, Ann, 6",Tacitus_TacAnnales_TacAnn06.tsv,6980
+"Tac, Ann, 11",Tacitus_TacAnnales_TacAnn11.tsv,4734
+"Tac, Ann, 12",Tacitus_TacAnnales_TacAnn12.tsv,7543
+"Tac, Ann, 13",Tacitus_TacAnnales_TacAnn13.tsv,7663
+"Tac, Ann, 14",Tacitus_TacAnnales_TacAnn14.tsv,8114
+"Tac, Ann, 15",Tacitus_TacAnnales_TacAnn15.tsv,9257
+"Tac, Ann, 16",Tacitus_TacAnnales_TacAnn16.tsv,3894
+"Tac, Dialo",Tacitus_TacDialogusDeOratoribus_TacDialo.tsv,9315
+"Tac, Germa",Tacitus_TacGermania_TacGerma.tsv,5648
+"Tac, Hist, 1",Tacitus_TacHistoriae_TacHist1.tsv,11905
+"Tac, Hist, 2",Tacitus_TacHistoriae_TacHist2.tsv,12401
+"Tac, Hist, 3",Tacitus_TacHistoriae_TacHist3.tsv,11437
+"Tac, Hist, 4",Tacitus_TacHistoriae_TacHist4.tsv,13030
+"Tac, Hist, 5",Tacitus_TacHistoriae_TacHist5.tsv,3479
+"Tib, Eleg, 1",Tibullus_TibElegiae_TibEleg1.tsv,5311
+"Tib, Eleg, 2",Tibullus_TibElegiae_TibEleg2.tsv,2800
+"Tib, Eleg, 3",Tibullus_TibElegiae_TibEleg3.tsv,4479
+"Ver, Aen, 1",Vergilius_Aeneis_VerAen01.tsv,5166
+"Ver, Aen, 2",Vergilius_Aeneis_VerAen02.tsv,5455
+"Ver, Aen, 3",Vergilius_Aeneis_VerAen03.tsv,4758
+"Ver, Aen, 4",Vergilius_Aeneis_VerAen04.tsv,4804
+"Ver, Aen, 5",Vergilius_Aeneis_VerAen05.tsv,5878
+"Ver, Aen, 6",Vergilius_Aeneis_VerAen06.tsv,6125
+"Ver, Aen, 7",Vergilius_Aeneis_VerAen07.tsv,5499
+"Ver, Aen, 8",Vergilius_Aeneis_VerAen08.tsv,4877
+"Ver, Aen, 9",Vergilius_Aeneis_VerAen09.tsv,5520
+"Ver, Aen, 10",Vergilius_Aeneis_VerAen10.tsv,6170
+"Ver, Aen, 11",Vergilius_Aeneis_VerAen11.tsv,6219
+"Ver, Aen, 12",Vergilius_Aeneis_VerAen12.tsv,6517
+"Verg, Eclo",Vergilius_Eclogae_VergEclo.tsv,5696
+"Ver, Geor, 1",Vergilius_Georgica_VerGeor1.tsv,3431
+"Ver, Geor, 2",Vergilius_Georgica_VerGeor2.tsv,3674
+"Ver, Geor, 3",Vergilius_Georgica_VerGeor3.tsv,3886
+"Ver, Geor, 4",Vergilius_Georgica_VerGeor4.tsv,3813
+"Cic, LudCo",Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.tsv,10
+"Cic, Quaest",Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.tsv,8
+"Cic, CMani",Cicero_ProCManilioFragmenta_CicCMani.tsv,8
+"Cic, NegAc",Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.tsv,5

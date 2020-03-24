@@ -1,0 +1,240 @@
+title,,,file,tokens,test,prose,vers,virgile,horace+lucrece,ovide,theatre-plaute-seneque,seneque-lucilium,seneque-philo-autres,ciceron-petit,tacite,cicero-discours,corpus-divers
+,,,,tokens,77399,257034,259717,87488,91555,95409,115571,118801,117550,116367,117552,391390,392402
+,,,,authors,10,7,7,1,2,1,2,1,1,1,1,1,13
+,,,,texts,12,9,17,3,6,6,16,1,10,2,4,44,24
+"Caes, BC, 1",Caesar,BellumCivile,Caesar_BellumCivile_CaesBC1.tsv,11104,,y,,,,,,,,,,,
+"Caes, BC, 2",Caesar,BellumCivile,Caesar_BellumCivile_CaesBC2.tsv,6495,,,,,,,,,,,,,
+"Caes, BC, 3",Caesar,BellumCivile,Caesar_BellumCivile_CaesBC3.tsv,15322,,y,,,,,,,,,,,y
+"Caes, BG, 1",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG1.tsv,8166,,,,,,,,,,,,,
+"Caes, BG, 2",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG2.tsv,4230,,,,,,,,,,,,,
+"Caes, BG, 3",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG3.tsv,3637,y,,,,,,,,,,,,
+"Caes, BG, 4",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG4.tsv,4601,,,,,,,,,,,,,
+"Caes, BG, 5",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG5.tsv,7514,,,,,,,,,,,,,
+"Caes, BG, 6",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG6.tsv,5568,,,,,,,,,,,,,
+"Caes, BG, 7",Caesar,BellumGallicum,Caesar_BellumGallicum_CaesBG7.tsv,11640,,,,,,,,,,,,,
+"Cat, Agr",Cato,CatoAgricultura,Cato_CatoAgricultura_CatAgr.tsv,15814,,y,,,,,,,,,,,y
+"Cat, Frag",Cato,CatoFragmentaReliqua,Cato_CatoFragmentaReliqua_CatFrag.tsv,490,,,,,,,,,,,,,
+"Cat, Orat",Cato,CatoOrationumFragmenta,Cato_CatoOrationumFragmenta_CatOrat.tsv,2678,,,,,,,,,,,,,
+"Cat, Orig",Cato,CatoOrigines,Cato_CatoOrigines_CatOrig.tsv,852,,,,,,,,,,,,,
+Catul,Catullus,Catullus,Catullus_Catullus_Catul.tsv,13020,y,,,,,,,,,,,,
+"Cic, Metel",Cicero,ContraContionemQMetelliFragmenta,Cicero_ContraContionemQMetelliFragmenta_CicMetel.tsv,114,,,,,,,,,,,,y,
+"Cic, Amici",Cicero,DeAmicitia,Cicero_DeAmicitia_CicAmici.tsv,9272,y,,,,,,,,,,,,
+"Cic, Domo",Cicero,DeDomoSua,Cicero_DeDomoSua_CicDomo.tsv,14928,,,,,,,,,,,,,
+"Cic, Harus",Cicero,DeHaruspicumResponso,Cicero_DeHaruspicumResponso_CicHarus.tsv,7477,,,,,,,,,,,,y,
+"Cic, DeImp",Cicero,DeImperioCnPompei,Cicero_DeImperioCnPompei_CicDeImp.tsv,6615,,,,,,,,,,,,y,
+"Cic, LegA, 1",Cicero,DeLegeAgraria,Cicero_DeLegeAgraria_CicLegA1.tsv,2278,,,,,,,,,,,,y,
+"Cic, LegA, 2",Cicero,DeLegeAgraria,Cicero_DeLegeAgraria_CicLegA2.tsv,10082,,,,,,,,,,,,y,
+"Cic, LegA, 3",Cicero,DeLegeAgraria,Cicero_DeLegeAgraria_CicLegA3.tsv,1233,,,,,,,,,,,,y,
+"Cic, Offic, 1",Cicero,DeOfficiis,Cicero_DeOfficiis_CicOffic1.tsv,14574,,,,,,,,,,,,,
+"Cic, Offic, 2",Cicero,DeOfficiis,Cicero_DeOfficiis_CicOffic2.tsv,8572,,,,,,,,,,,,,
+"Cic, Offic, 3",Cicero,DeOfficiis,Cicero_DeOfficiis_CicOffic3.tsv,11123,,,,,,,,,,,,,
+"Cic, Prov",Cicero,DeProvinciisConsularibus,Cicero_DeProvinciisConsularibus_CicProv.tsv,5024,,,,,,,,,,,,y,
+"Cic, Alex",Cicero,DeRegeAlexandrinoFragmenta,Cicero_DeRegeAlexandrinoFragmenta_CicAlex.tsv,120,,,,,,,,,,,,,
+"Cic, Senec",Cicero,DeSenectute,Cicero_DeSenectute_CicSenec.tsv,8227,,,,,,,,,,,,,
+"Cic, DivCa",Cicero,DivinatioinQCaecilium,Cicero_DivinatioinQCaecilium_CicDivCa.tsv,5792,,,,,,,,,,,,,
+"Cic, Cat, 1",Cicero,InCatilinam,Cicero_InCatilinam_CicCat1.tsv,3288,y,,,,,,,,,,,,
+"Cic, Cat, 2",Cicero,InCatilinam,Cicero_InCatilinam_CicCat2.tsv,3057,,,,,,,,,,,,y,
+"Cic, Cat, 3",Cicero,InCatilinam,Cicero_InCatilinam_CicCat3.tsv,3143,,,,,,,,,,,,y,
+"Cic, Cat, 4",Cicero,InCatilinam,Cicero_InCatilinam_CicCat4.tsv,2836,,,,,,,,,,,,y,
+"Cic, Pis",Cicero,InLCalpurniumPisonem,Cicero_InLCalpurniumPisonem_CicPis.tsv,10814,,,,,,,,,,,,y,
+"Cic, Clodi",Cicero,InPClodiumEtCCurionemFragmenta,Cicero_InPClodiumEtCCurionemFragmenta_CicClodi.tsv,619,,,,,,,,,,,,y,
+"Cic, TogCan",Cicero,InSenatuInTogaCandidaContraCAntoniumEtLCatilinamCompetitoresFragmenta,Cicero_InSenatuInTogaCandidaContraCAntoniumEtLCatilinamCompetitoresFragmenta_CicTogCan.tsv,704,,,,,,,,,,,,y,
+"Cic, Vatin",Cicero,InVatinium,Cicero_InVatinium_CicVatin.tsv,4441,,,,,,,,,,,,y,
+Ver,Cicero,InVerremActioPrima,Cicero_InVerremActioPrima_Cic1Ver.tsv,4611,,,,,,,,,,,,y,
+"Ver, 1",Cicero,InVerremActioSecunda,Cicero_InVerremActioSecunda_Cic2Ver1.tsv,15331,,,,,,,,,,y,,y,
+"Ver, 2",Cicero,InVerremActioSecunda,Cicero_InVerremActioSecunda_Cic2Ver2.tsv,18897,,,,,,,,,,y,,y,
+"Ver, 3",Cicero,InVerremActioSecunda,Cicero_InVerremActioSecunda_Cic2Ver3.tsv,24734,,,,,,,,,,y,,y,
+"Ver, 4",Cicero,InVerremActioSecunda,Cicero_InVerremActioSecunda_Cic2Ver4.tsv,17028,,,,,,,,,,y,,y,
+"Ver, 5",Cicero,InVerremActioSecunda,Cicero_InVerremActioSecunda_Cic2Ver5.tsv,19072,,,,,,,,,,y,,y,
+"Cic, IncFr",Cicero,Incertarum0rationumFragmenta,Cicero_Incertarum0rationumFragmenta_CicIncFr.tsv,318,,,,,,,,,,,,y,
+"Cic, AerAl",Cicero,InterrogatioDeAereAlienoMilonisFragmenta,Cicero_InterrogatioDeAereAlienoMilonisFragmenta_CicAerAl.tsv,214,,,,,,,,,,,,,
+"Cic, Phi, 1",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi01.tsv,3652,,,,,,,,,,y,,y,
+"Cic, Phi, 2",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi02.tsv,11212,,y,,,,,,,,y,,y,
+"Cic, Phi, 3",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi03.tsv,3753,,,,,,,,,,,,y,
+"Cic, Phi, 4",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi04.tsv,1353,,y,,,,,,,,y,,y,
+"Cic, Phi, 5",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi05.tsv,5088,,,,,,,,,,y,,y,
+"Cic, Phi, 6",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi06.tsv,1766,,,,,,,,,,,,y,
+"Cic, Phi, 7",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi07.tsv,2185,,,,,,,,,,,,y,
+"Cic, Phi, 8",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi08.tsv,2961,,,,,,,,,,,,y,
+"Cic, Phi, 9",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi09.tsv,1624,,,,,,,,,,,,y,
+"Cic, Phi, 10",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi10.tsv,2721,,,,,,,,,,,,y,
+"Cic, Phi, 11",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi11.tsv,4087,,,,,,,,,,,,y,
+"Cic, Phi, 12",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi12.tsv,3111,,,,,,,,,,,,y,
+"Cic, Phi, 13",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi13.tsv,5216,,,,,,,,,,,,y,
+"Cic, Phi, 14",Cicero,PhilippicaOratio,Cicero_PhilippicaOratio_CicPhi14.tsv,3367,,,,,,,,,,,,y,
+"Cic, RedQ",Cicero,PostReditumAdQuirites,Cicero_PostReditumAdQuirites_CicRedQ.tsv,2587,,,,,,,,,,,,y,
+"Cic, RedS",Cicero,PostReditumInSenatu,Cicero_PostReditumInSenatu_CicRedS.tsv,4285,,,,,,,,,,,,y,
+"Cic, Lig",Cicero,PrLigario,Cicero_PrLigario_CicLig.tsv,3244,,,,,,,,,,,,y,
+"Cic, ACaec",Cicero,ProACaecina,Cicero_ProACaecina_CicACaec.tsv,10225,,,,,,,,,,,,y,
+"Cic, AClu",Cicero,ProACluentio,Cicero_ProACluentio_CicAClu.tsv,20324,,,,,,,,,,,,y,
+"Cic, Arch",Cicero,ProArchia,Cicero_ProArchia_CicArch.tsv,3094,,,,,,,,,,,,y,
+"Cic, Balb",Cicero,ProBalbo,Cicero_ProBalbo_CicBalb.tsv,6693,,,,,,,,,,,,y,
+"Cic, CFund",Cicero,ProCFundanioFragmenta,Cicero_ProCFundanioFragmenta_CicCFund.tsv,40,,,,,,,,,,,,y,
+"Cic, RabPe",Cicero,ProCRabirioPerduellionisReo,Cicero_ProCRabirioPerduellionisReo_CicRabPe.tsv,3501,,,,,,,,,,,,y,
+"Cic, Cael",Cicero,ProCaelio,Cicero_ProCaelio_CicCael.tsv,8393,,,,,,,,,,,,y,
+"Cic, Corn, 1",Cicero,ProCornelioFragmenta,Cicero_ProCornelioFragmenta_CicCorn1.tsv,1197,,,,,,,,,,,,y,
+"Cic, Corn, 2",Cicero,ProCornelioFragmenta,Cicero_ProCornelioFragmenta_CicCorn2.tsv,299,,,,,,,,,,,,y,
+"Cic, Flac",Cicero,ProFlacco,Cicero_ProFlacco_CicFlac.tsv,10737,,,,,,,,,,,,y,
+"Cic, LVare",Cicero,ProLVarenoFragmenta,Cicero_ProLVarenoFragmenta_CicLVare.tsv,141,,,,,,,,,,,,y,
+"Cic, MFont",Cicero,ProMFonteio,Cicero_ProMFonteio_CicMFont.tsv,4566,,,,,,,,,,,,y,
+"Cic, MScau",Cicero,ProMScauroFragmenta,Cicero_ProMScauroFragmenta_CicMScau.tsv,2931,,,,,,,,,,,,y,
+"Cic, MTull",Cicero,ProMTullio,Cicero_ProMTullio_CicMTull.tsv,3456,,,,,,,,,,,,y,
+"Cic, Marc",Cicero,ProMarcello,Cicero_ProMarcello_CicMarc.tsv,2742,,,,,,,,,,,,y,
+"Cic, Mil",Cicero,ProMilone,Cicero_ProMilone_CicMil.tsv,10328,,,,,,,,,,,,y,
+"Cic, Mur",Cicero,ProMurena,Cicero_ProMurena_CicMur.tsv,10393,,,,,,,,,,,,y,
+"Cic, Oppio",Cicero,ProOppioFragmenta,Cicero_ProOppioFragmenta_CicOppio.tsv,71,,,,,,,,,,,,y,
+"Cic, Quinc",Cicero,ProPQuinctio,Cicero_ProPQuinctio_CicQuinc.tsv,8524,,,,,,,,,,,,y,
+"Cic, PVati",Cicero,ProPVatinioFragmenta,Cicero_ProPVatinioFragmenta_CicPVati.tsv,32,,,,,,,,,,,,y,
+"Cic, Planc",Cicero,ProPlancio,Cicero_ProPlancio_CicPlanc.tsv,11480,,,,,,,,,,,,y,
+"Cic, QGal",Cicero,ProQGallioFragmenta,Cicero_ProQGallioFragmenta_CicQGal.tsv,188,,,,,,,,,,,,y,
+"Cic, QRosc",Cicero,ProQRoscioComoedo,Cicero_ProQRoscioComoedo_CicQRosc.tsv,4695,,,,,,,,,,,,y,
+"Cic, RabP",Cicero,ProRabirioPostumo,Cicero_ProRabirioPostumo_CicRabP.tsv,4012,,,,,,,,,,,,y,
+"Cic, Deiot",Cicero,ProRegeDeiotario,Cicero_ProRegeDeiotario_CicDeiot.tsv,3866,,,,,,,,,,,,y,
+"Cic, SRosc",Cicero,ProSRoscioAmerino,Cicero_ProSRoscioAmerino_CicSRosc.tsv,13130,,,,,,,,,,,,y,
+"Cic, Sest",Cicero,ProSestio,Cicero_ProSestio_CicSest.tsv,16566,,,,,,,,,,,,y,
+"Cic, Sul",Cicero,ProSulla,Cicero_ProSulla_CicSul.tsv,9126,,,,,,,,,,,,y,
+"Curt, 3",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt03.tsv,7175,y,,,,,,,,,,,,
+"Curt, 4",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt04.tsv,13210,,y,,,,,,,,,,,y
+"Curt, 5",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt05.tsv,8095,,y,,,,,,,,,,,y
+"Curt, 6",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt06.tsv,8594,,y,,,,,,,,,,,y
+"Curt, 7",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt07.tsv,9488,,y,,,,,,,,,,,y
+"Curt, 8",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt08.tsv,10971,,y,,,,,,,,,,,
+"Curt, 9",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt09.tsv,8107,,,,,,,,,,,,,
+"Curt, 10",Curtius,CurtiusHistoriaeAlexandriMagni,Curtius_CurtiusHistoriaeAlexandriMagni_QCurt10.tsv,6014,,,,,,,,,,,,,
+"Hirt, BG, 8",Hirtius,Bellum8Gallicum,Hirtius_Bellum8Gallicum_HirtBG8.tsv,6574,,,,,,,,,,,,,
+"Hor, ArsPo",Horatius,ArsPoetica,Horatius_ArsPoetica_HorArsPo.tsv,3199,,,y,,y,,,,,,,,y
+"Hor, Saecu",Horatius,CarmenSaeculare,Horatius_CarmenSaeculare_HorSaecu.tsv,338,,,y,,y,,,,,,,,y
+"Hor, Carm, 1",Horatius,Carmina,Horatius_Carmina_HorCarm1.tsv,4059,,,y,,y,,,,,,,,y
+"Hor, Carm, 2",Horatius,Carmina,Horatius_Carmina_HorCarm2.tsv,2475,,,y,,y,,,,,,,,y
+"Hor, Carm, 3",Horatius,Carmina,Horatius_Carmina_HorCarm3.tsv,4458,,,y,,y,,,,,,,,y
+"Hor, Carm, 4",Horatius,Carmina,Horatius_Carmina_HorCarm4.tsv,2652,,,y,,y,,,,,,,,y
+"Hor, Epodi",Horatius,Epodi,Horatius_Epodi_HorEpodi.tsv,3071,y,,,,,,,,,,,,
+"Hor, Epis, 1",Horatius,HorEpistulae,Horatius_HorEpistulae_HorEpis1.tsv,6871,,,,,y,,,,,,,,
+"Hor, Epis, 2",Horatius,HorEpistulae,Horatius_HorEpistulae_HorEpis2.tsv,3253,,,,,y,,,,,,,,
+"Hor, Serm, 1",Horatius,HorSermones,Horatius_HorSermones_HorSerm1.tsv,7090,,,y,,y,,,,,,,,y
+"Hor, Serm, 2",Horatius,HorSermones,Horatius_HorSermones_HorSerm2.tsv,7424,,,y,,y,,,,,,,,y
+"Juv, Satur",Juvenalis,JuvSaturae,Juvenalis_JuvSaturae_JuvSatur.tsv,25487,,,y,,,,,,,,,,y
+"Lucr, DRN, 1",Lucretius,DeRerumNatura,Lucretius_DeRerumNatura_LucrDRN1.tsv,7373,,,y,,y,,,,,,,,y
+"Lucr, DRN, 2",Lucretius,DeRerumNatura,Lucretius_DeRerumNatura_LucrDRN2.tsv,7801,,,y,,y,,,,,,,,y
+"Lucr, DRN, 3",Lucretius,DeRerumNatura,Lucretius_DeRerumNatura_LucrDRN3.tsv,7521,,,y,,y,,,,,,,,y
+"Lucr, DRN, 4",Lucretius,DeRerumNatura,Lucretius_DeRerumNatura_LucrDRN4.tsv,8720,,,y,,y,,,,,,,,
+"Lucr, DRN, 5",Lucretius,DeRerumNatura,Lucretius_DeRerumNatura_LucrDRN5.tsv,9666,,,y,,y,,,,,,,,
+"Lucr, DRN, 6",Lucretius,DeRerumNatura,Lucretius_DeRerumNatura_LucrDRN6.tsv,8655,,,y,,y,,,,,,,,
+"Ovi, Amor, 1",Ovidius,Amores,Ovidius_Amores_OviAmor1.tsv,5047,,,y,,,y,,,,,,,y
+"Ovi, Amor, 2",Ovidius,Amores,Ovidius_Amores_OviAmor2.tsv,5314,,,y,,,y,,,,,,,y
+"Ovi, Amor, 3",Ovidius,Amores,Ovidius_Amores_OviAmor3.tsv,5592,,,y,,,y,,,,,,,y
+"Ovi, ArsA, 1",Ovidius,ArsAmatoria,Ovidius_ArsAmatoria_OviArsA1.tsv,5038,,,y,,,y,,,,,,,
+"Ovi, ArsA, 2",Ovidius,ArsAmatoria,Ovidius_ArsAmatoria_OviArsA2.tsv,4871,,,y,,,y,,,,,,,
+"Ovi, ArsA, 3",Ovidius,ArsAmatoria,Ovidius_ArsAmatoria_OviArsA3.tsv,5294,,,y,,,y,,,,,,,
+"Ov, Fasti, 1",Ovidius,Fasti,Ovidius_Fasti_OvFasti1.tsv,4675,,,y,,,y,,,,,,,
+"Ov, Fasti, 2",Ovidius,Fasti,Ovidius_Fasti_OvFasti2.tsv,5563,,,y,,,y,,,,,,,y
+"Ov, Fasti, 3",Ovidius,Fasti,Ovidius_Fasti_OvFasti3.tsv,5696,,,y,,,y,,,,,,,y
+"Ov, Fasti, 4",Ovidius,Fasti,Ovidius_Fasti_OvFasti4.tsv,6143,,,y,,,y,,,,,,,y
+"Ov, Fasti, 5",Ovidius,Fasti,Ovidius_Fasti_OvFasti5.tsv,4682,,,y,,,y,,,,,,,y
+"Ov, Fasti, 6",Ovidius,Fasti,Ovidius_Fasti_OvFasti6.tsv,5239,,,y,,,y,,,,,,,y
+"Ovi, Halie",Ovidius,Halieutica,Ovidius_Halieutica_OviHalie.tsv,876,,,y,,,,,,,,,,y
+"Ovi, Epist",Ovidius,HeroidumEpistulae,Ovidius_HeroidumEpistulae_OviEpist.tsv,26324,,,y,,,y,,,,,,,y
+"Ovi, Ibin",Ovidius,InIbin,Ovidius_InIbin_OviIbin.tsv,4196,y,,,,,,,,,,,,
+"Ovi, Medic",Ovidius,MedicaminaFacieiFemineae,Ovidius_MedicaminaFacieiFemineae_OviMedic.tsv,619,,,y,,,y,,,,,,,y
+"Ovi, Remed",Ovidius,RemediaAmoris,Ovidius_RemediaAmoris_OviRemed.tsv,5312,,,y,,,y,,,,,,,y
+,Persius,PersiusSatirae,Persius_PersiusSatirae_PersiusS.tsv,4633,,,y,,,,,,,,,,y
+"Petron, Sa",Petronius,PetroniusSatiricon,Petronius_PetroniusSatiricon_PetronSa.tsv,30615,,,,,,,,,,,,,
+"Pl, Amphi",Plautus,Amphitruo,Plautus_Amphitruo_PlAmphi.tsv,9335,,,,,,,y,,,,,,
+"Pl, Asina",Plautus,Asinaria,Plautus_Asinaria_PlAsina.tsv,7702,,,,,,,y,,,,,,
+"Pl, Aulul",Plautus,Aulularia,Plautus_Aulularia_PlAulul.tsv,6611,,,,,,,y,,,,,,
+"Pl, Bacch",Plautus,Bacchides,Plautus_Bacchides_PlBacch.tsv,9557,,,,,,,y,,,,,,
+"Pl, Capt",Plautus,Captiui,Plautus_Captiui_PlCapt.tsv,8353,,,,,,,y,,,,,,
+"Pl, Casin",Plautus,Casina,Plautus_Casina_PlCasin.tsv,7235,,,,,,,y,,,,,,
+"Pl, Curcu",Plautus,Curculio,Plautus_Curculio_PlCurcu.tsv,5771,,,,,,,y,,,,,,
+"Pl, Epidic",Plautus,Epidicus,Plautus_Epidicus_PlEpidic.tsv,6043,,,,,,,y,,,,,,
+"Pli, Ep, 1",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp01.tsv,6171,,y,,,,,,,,,,,y
+"Pli, Ep, 2",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp02.tsv,6273,,,,,,,,,,,,,
+"Pli, Ep, 3",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp03.tsv,6561,,,,,,,,,,,,,
+"Pli, Ep, 4",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp04.tsv,6121,,,,,,,,,,,,,
+"Pli, Ep, 5",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp05.tsv,5922,,,,,,,,,,,,,
+"Pli, Ep, 6",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp06.tsv,6675,,,,,,,,,,,,,
+"Pli, Ep, 7",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp07.tsv,6102,,,,,,,,,,,,,
+"Pli, Ep, 8",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp08.tsv,6095,,,,,,,,,,,,,
+"Pli, Ep, 9",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp09.tsv,6041,,,,,,,,,,,,,
+"Pli, Ep, 10",Plinius,PliniusEpistulae,Plinius_PliniusEpistulae_PliEp10.tsv,9423,,,,,,,,,,,,,
+"Plin, Pane",Plinius,PliniusPanegyricus,Plinius_PliniusPanegyricus_PlinPane.tsv,19497,,,,,,,,,,,,,
+"Propert, 1",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert1.tsv,4390,,,,,,,,,,,,,
+"Propert, 2",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert2.tsv,8799,,,,,,,,,,,,,
+"Propert, 3",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert3.tsv,6338,,,,,,,,,,,,,
+"Propert, 4",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert4.tsv,6067,,,,,,,,,,,,,
+Afr,PseudoCaesar1,BellumAfricanum,PseudoCaesar1_BellumAfricanum_BAfr.tsv,13358,,,,,,,,,,,,,
+Alex,PseudoCaesar2,BellumAlexandrinum,PseudoCaesar2_BellumAlexandrinum_BAlex.tsv,10562,,,,,,,,,,,,,
+Hisp,PseudoCaesar3,BellumHispanum,PseudoCaesar3_BellumHispanum_BHisp.tsv,6026,,,,,,,,,,,,,
+"Sal, Catil",Sallustius,Catilina,Sallustius_Catilina_SalCatil.tsv,10598,y,,,,,,,,,,,,
+"Sal, HistF",Sallustius,FragmentaHistoriarum,Sallustius_FragmentaHistoriarum_SalHistF.tsv,4136,,,,,,,,,,,,,
+"Sal, Jugur",Sallustius,Jugurtha,Sallustius_Jugurtha_SalJugur.tsv,21278,,,,,,,,,,,,,
+"Sen, Helvi",Seneca,AdHelviamMatremDeConsolatione,Seneca_AdHelviamMatremDeConsolatione_SenHelvi.tsv,6724,,,,,,,,,y,,,,
+"Sen, Epist",Seneca,AdLuciliumEpistulaeMorales,Seneca_AdLuciliumEpistulaeMorales_SenEpist.tsv,118801,,,,,,,,y,,,,,
+"Sen, Marci",Seneca,AdMarciamDeConsolatione,Seneca_AdMarciamDeConsolatione_SenMarci.tsv,8314,,,,,,,,,y,,,,
+"Sen, Polyb",Seneca,AdPolybiumDeConsolatione,Seneca_AdPolybiumDeConsolatione_SenPolyb.tsv,5649,,,,,,,,,y,,,,
+"Sen, Agamn",Seneca,Agamemnon,Seneca_Agamemnon_SenAgamn.tsv,5562,,,,,,,y,,,,,,
+"Sen, Apoco",Seneca,Apocolocyntosis,Seneca_Apocolocyntosis_SenApoco.tsv,2917,,,,,,,,,,,,,
+"Sen, Benef",Seneca,DeBeneficiis,Seneca_DeBeneficiis_SenBenef.tsv,45312,,,,,,,,,y,,,,
+"Sen, Brevi",Seneca,DeBrevitateVitae,Seneca_DeBrevitateVitae_SenBrevi.tsv,6113,y,,,,,,,,,,,,
+"Sen, Clem, 1",Seneca,DeClementia,Seneca_DeClementia_SenClem1.tsv,6695,,,,,,,,,y,,,,
+"Sen, Clem, 2",Seneca,DeClementia,Seneca_DeClementia_SenClem2.tsv,1526,,,,,,,,,y,,,,
+"Sen, Const",Seneca,DeConstantia,Seneca_DeConstantia_SenConst.tsv,5305,,,,,,,,,,,,,
+"Sen, Ira, 1",Seneca,DeIra,Seneca_DeIra_SenIra1.tsv,5492,,y,,,,,,,y,,,,y
+"Sen, Ira, 2",Seneca,DeIra,Seneca_DeIra_SenIra2.tsv,7620,,y,,,,,,,y,,,,y
+"Sen, Ira, 3",Seneca,DeIra,Seneca_DeIra_SenIra3.tsv,9334,,,,,,,,,y,,,,
+"Sen, Otio",Seneca,DeOtio,Seneca_DeOtio_SenOtio.tsv,1949,,,,,,,,,y,,,,
+"Sen, Provi",Seneca,DeProvidentia,Seneca_DeProvidentia_SenProvi.tsv,4083,,,,,,,,,y,,,,
+"Sen, Tranq",Seneca,DeTranquillitateAnimi,Seneca_DeTranquillitateAnimi_SenTranq.tsv,7574,,,,,,,,,y,,,,
+"Sen, VitBe",Seneca,DeVitaBeata,Seneca_DeVitaBeata_SenVitBe.tsv,7278,,,,,,,,,y,,,,
+"Sen, HerFu",Seneca,HerculesFurens,Seneca_HerculesFurens_SenHerFu.tsv,7687,,,,,,,y,,,,,,
+"Sen, HerOe",Seneca,HerculesOetaeus,Seneca_HerculesOetaeus_SenHerOe.tsv,11312,,,,,,,y,,,,,,
+"Sen, Medea",Seneca,Medea,Seneca_Medea_SenMedea.tsv,5685,y,,,,,,,,,,,,
+"Sen, Oedip",Seneca,Oedipus,Seneca_Oedipus_SenOedip.tsv,5908,,,,,,,y,,,,,,
+"Sen, Phaed",Seneca,Phaedra,Seneca_Phaedra_SenPhaed.tsv,7246,,,,,,,y,,,,,,
+"Sen, Phoen",Seneca,Phoenissae,Seneca_Phoenissae_SenPhoen.tsv,4145,,,,,,,y,,,,,,
+"Sen, Thyes",Seneca,Thyestes,Seneca_Thyestes_SenThyes.tsv,6277,,,,,,,y,,,,,,
+"Sen, Troad",Seneca,Troades,Seneca_Troades_SenTroad.tsv,6827,,,,,,,y,,,,,,
+"Tac, Agric",Tacitus,TacAgricola,Tacitus_TacAgricola_TacAgric.tsv,6772,,y,,,,,,,,,y,,y
+"Tac, Ann, 1",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn01.tsv,10873,,y,,,,,,,,,y,,y
+"Tac, Ann, 2",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn02.tsv,10459,,y,,,,,,,,,y,,y
+"Tac, Ann, 3",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn03.tsv,9387,,y,,,,,,,,,y,,y
+"Tac, Ann, 4",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn04.tsv,10134,,y,,,,,,,,,y,,y
+"Tac, Ann, 5",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn05.tsv,1035,,y,,,,,,,,,y,,y
+"Tac, Ann, 6",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn06.tsv,6980,,y,,,,,,,,,,,y
+"Tac, Ann, 11",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn11.tsv,4734,,y,,,,,,,,,y,,y
+"Tac, Ann, 12",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn12.tsv,7543,,y,,,,,,,,,y,,
+"Tac, Ann, 13",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn13.tsv,7663,,y,,,,,,,,,y,,
+"Tac, Ann, 14",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn14.tsv,8114,,y,,,,,,,,,,,
+"Tac, Ann, 15",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn15.tsv,9257,,y,,,,,,,,,,,
+"Tac, Ann, 16",Tacitus,TacAnnales,Tacitus_TacAnnales_TacAnn16.tsv,3894,,y,,,,,,,,,y,,y
+"Tac, Dialo",Tacitus,TacDialogusDeOratoribus,Tacitus_TacDialogusDeOratoribus_TacDialo.tsv,9315,,,,,,,,,,,y,,
+"Tac, Germa",Tacitus,TacGermania,Tacitus_TacGermania_TacGerma.tsv,5648,y,,,,,,,,,,,,
+"Tac, Hist, 1",Tacitus,TacHistoriae,Tacitus_TacHistoriae_TacHist1.tsv,11905,,y,,,,,,,,,y,,y
+"Tac, Hist, 2",Tacitus,TacHistoriae,Tacitus_TacHistoriae_TacHist2.tsv,12401,,y,,,,,,,,,y,,y
+"Tac, Hist, 3",Tacitus,TacHistoriae,Tacitus_TacHistoriae_TacHist3.tsv,11437,,y,,,,,,,,,y,,y
+"Tac, Hist, 4",Tacitus,TacHistoriae,Tacitus_TacHistoriae_TacHist4.tsv,13030,,,,,,,,,,,,,
+"Tac, Hist, 5",Tacitus,TacHistoriae,Tacitus_TacHistoriae_TacHist5.tsv,3479,,,,,,,,,,,,,
+"Tib, Eleg, 1",Tibullus,TibElegiae,Tibullus_TibElegiae_TibEleg1.tsv,5311,,,y,,,,,,,,,,y
+"Tib, Eleg, 2",Tibullus,TibElegiae,Tibullus_TibElegiae_TibEleg2.tsv,2800,,,y,,,,,,,,,,y
+"Tib, Eleg, 3",Tibullus,TibElegiae,Tibullus_TibElegiae_TibEleg3.tsv,4479,,,y,,,,,,,,,,y
+"Ver, Aen, 1",Vergilius,Aeneis,Vergilius_Aeneis_VerAen01.tsv,5166,,,y,y,,,,,,,,,y
+"Ver, Aen, 2",Vergilius,Aeneis,Vergilius_Aeneis_VerAen02.tsv,5455,,,y,y,,,,,,,,,
+"Ver, Aen, 3",Vergilius,Aeneis,Vergilius_Aeneis_VerAen03.tsv,4758,,,y,y,,,,,,,,,
+"Ver, Aen, 4",Vergilius,Aeneis,Vergilius_Aeneis_VerAen04.tsv,4804,,,y,y,,,,,,,,,y
+"Ver, Aen, 5",Vergilius,Aeneis,Vergilius_Aeneis_VerAen05.tsv,5878,,,y,y,,,,,,,,,y
+"Ver, Aen, 6",Vergilius,Aeneis,Vergilius_Aeneis_VerAen06.tsv,6125,,,y,y,,,,,,,,,y
+"Ver, Aen, 7",Vergilius,Aeneis,Vergilius_Aeneis_VerAen07.tsv,5499,,,,y,,,,,,,,,
+"Ver, Aen, 8",Vergilius,Aeneis,Vergilius_Aeneis_VerAen08.tsv,4877,,,,y,,,,,,,,,
+"Ver, Aen, 9",Vergilius,Aeneis,Vergilius_Aeneis_VerAen09.tsv,5520,,,,y,,,,,,,,,
+"Ver, Aen, 10",Vergilius,Aeneis,Vergilius_Aeneis_VerAen10.tsv,6170,,,,y,,,,,,,,,
+"Ver, Aen, 11",Vergilius,Aeneis,Vergilius_Aeneis_VerAen11.tsv,6219,,,,y,,,,,,,,,
+"Ver, Aen, 12",Vergilius,Aeneis,Vergilius_Aeneis_VerAen12.tsv,6517,,,,y,,,,,,,,,
+"Verg, Eclo",Vergilius,Eclogae,Vergilius_Eclogae_VergEclo.tsv,5696,y,,,y,,,,,,,,,
+"Ver, Geor, 1",Vergilius,Georgica,Vergilius_Georgica_VerGeor1.tsv,3431,,,y,y,,,,,,,,,y
+"Ver, Geor, 2",Vergilius,Georgica,Vergilius_Georgica_VerGeor2.tsv,3674,,,y,y,,,,,,,,,y
+"Ver, Geor, 3",Vergilius,Georgica,Vergilius_Georgica_VerGeor3.tsv,3886,,,,y,,,,,,,,,
+"Ver, Geor, 4",Vergilius,Georgica,Vergilius_Georgica_VerGeor4.tsv,3813,,,,y,,,,,,,,,
+"Cic, LudCo",Cicero,CumALudisContionemAvocavitFragmenta,Cicero_CumALudisContionemAvocavitFragmenta_CicLudCo.tsv,10,,,,,,,,,,,,,
+"Cic, Quaest",Cicero,CumQuaestorLilybaeoDecederetFragmenta,Cicero_CumQuaestorLilybaeoDecederetFragmenta_CicQuaest.tsv,8,,,,,,,,,,,,,
+"Cic, CMani",Cicero,ProCManilioFragmenta,Cicero_ProCManilioFragmenta_CicCMani.tsv,8,,,,,,,,,,,,,
+"Cic, NegAc",Cicero,ProNegotiatoribusAchaeisFragmenta,Cicero_ProNegotiatoribusAchaeisFragmenta_CicNegAc.tsv,5,,,,,,,,,,,,,

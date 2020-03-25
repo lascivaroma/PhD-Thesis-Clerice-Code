@@ -1,7 +1,7 @@
 title,,,file,tokens,test,prose,vers,virgile,horace+lucrece,ovide,theatre-plaute-seneque,seneque-lucilium,seneque-philo-autres,ciceron-petit,tacite,cicero-discours,corpus-divers
-,,,,tokens,77399,257034,259717,87488,91555,95409,115571,118801,117550,116367,117552,391390,392402
-,,,,authors,10,7,7,1,2,1,2,1,1,1,1,1,13
-,,,,texts,12,9,17,3,6,6,16,1,10,2,4,44,24
+,,,,tokens,115676,257034,259717,87488,91555,95409,115571,118801,117550,116367,117552,391390,392402
+,,,,authors,11,7,7,1,2,1,2,1,1,1,1,1,13
+,,,,texts,13,9,17,3,6,6,16,1,10,2,4,44,24
 "Caes, BC, 1",Caesar,BellumCivile,Caesar_BellumCivile_CaesBC1.tsv,11104,,y,,,,,,,,,,,
 "Caes, BC, 2",Caesar,BellumCivile,Caesar_BellumCivile_CaesBC2.tsv,6495,,,,,,,,,,,,,
 "Caes, BC, 3",Caesar,BellumCivile,Caesar_BellumCivile_CaesBC3.tsv,15322,,y,,,,,,,,,,,y
@@ -138,7 +138,7 @@ Ver,Cicero,InVerremActioPrima,Cicero_InVerremActioPrima_Cic1Ver.tsv,4611,,,,,,,,
 "Ovi, Medic",Ovidius,MedicaminaFacieiFemineae,Ovidius_MedicaminaFacieiFemineae_OviMedic.tsv,619,,,y,,,y,,,,,,,y
 "Ovi, Remed",Ovidius,RemediaAmoris,Ovidius_RemediaAmoris_OviRemed.tsv,5312,,,y,,,y,,,,,,,y
 ,Persius,PersiusSatirae,Persius_PersiusSatirae_PersiusS.tsv,4633,,,y,,,,,,,,,,y
-"Petron, Sa",Petronius,PetroniusSatiricon,Petronius_PetroniusSatiricon_PetronSa.tsv,30615,,,,,,,,,,,,,
+"Petron, Sa",Petronius,PetroniusSatiricon,Petronius_PetroniusSatiricon_PetronSa.tsv,30615,y,,,,,,,,,,,,
 "Pl, Amphi",Plautus,Amphitruo,Plautus_Amphitruo_PlAmphi.tsv,9335,,,,,,,y,,,,,,
 "Pl, Asina",Plautus,Asinaria,Plautus_Asinaria_PlAsina.tsv,7702,,,,,,,y,,,,,,
 "Pl, Aulul",Plautus,Aulularia,Plautus_Aulularia_PlAulul.tsv,6611,,,,,,,y,,,,,,
@@ -162,7 +162,7 @@ Ver,Cicero,InVerremActioPrima,Cicero_InVerremActioPrima_Cic1Ver.tsv,4611,,,,,,,,
 "Propert, 2",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert2.tsv,8799,,,,,,,,,,,,,
 "Propert, 3",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert3.tsv,6338,,,,,,,,,,,,,
 "Propert, 4",Propertius,PropertiusElegiae,Propertius_PropertiusElegiae_Propert4.tsv,6067,,,,,,,,,,,,,
-Afr,PseudoCaesar1,BellumAfricanum,PseudoCaesar1_BellumAfricanum_BAfr.tsv,13358,,,,,,,,,,,,,
+Afr,PseudoCaesar1,BellumAfricanum,PseudoCaesar1_BellumAfricanum_BAfr.tsv,13358,y,,,,,,,,,,,,
 Alex,PseudoCaesar2,BellumAlexandrinum,PseudoCaesar2_BellumAlexandrinum_BAlex.tsv,10562,,,,,,,,,,,,,
 Hisp,PseudoCaesar3,BellumHispanum,PseudoCaesar3_BellumHispanum_BHisp.tsv,6026,,,,,,,,,,,,,
 "Sal, Catil",Sallustius,Catilina,Sallustius_Catilina_SalCatil.tsv,10598,y,,,,,,,,,,,,
@@ -229,7 +229,7 @@ Hisp,PseudoCaesar3,BellumHispanum,PseudoCaesar3_BellumHispanum_BHisp.tsv,6026,,,
 "Ver, Aen, 10",Vergilius,Aeneis,Vergilius_Aeneis_VerAen10.tsv,6170,,,,y,,,,,,,,,
 "Ver, Aen, 11",Vergilius,Aeneis,Vergilius_Aeneis_VerAen11.tsv,6219,,,,y,,,,,,,,,
 "Ver, Aen, 12",Vergilius,Aeneis,Vergilius_Aeneis_VerAen12.tsv,6517,,,,y,,,,,,,,,
-"Verg, Eclo",Vergilius,Eclogae,Vergilius_Eclogae_VergEclo.tsv,5696,y,,,y,,,,,,,,,
+"Verg, Eclo",Vergilius,Eclogae,Vergilius_Eclogae_VergEclo.tsv,5696,,,,y,,,,,,,,,
 "Ver, Geor, 1",Vergilius,Georgica,Vergilius_Georgica_VerGeor1.tsv,3431,,,y,y,,,,,,,,,y
 "Ver, Geor, 2",Vergilius,Georgica,Vergilius_Georgica_VerGeor2.tsv,3674,,,y,y,,,,,,,,,y
 "Ver, Geor, 3",Vergilius,Georgica,Vergilius_Georgica_VerGeor3.tsv,3886,,,,y,,,,,,,,,

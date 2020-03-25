@@ -1,0 +1,63 @@
+--- Using train set from settings
+
+::: Evaluation report for task: lemma :::
+
+all:
+  accuracy: 0.8448
+  precision: 0.5989
+  recall: 0.5705
+  support: 3403
+ambiguous-tokens:
+  accuracy: 0.6751
+  precision: 0.4951
+  recall: 0.4961
+  support: 357
+unknown-targets:
+  accuracy: 0.4053
+  precision: 0.2647
+  recall: 0.2333
+  support: 301
+unknown-tokens:
+  accuracy: 0.6
+  precision: 0.4352
+  recall: 0.3989
+  support: 850
+
+
+::: Evaluation report for task: pos :::
+
+all:
+  accuracy: 0.8592
+  precision: 0.6783
+  recall: 0.6338
+  support: 3403
+ambiguous-tokens:
+  accuracy: 0.7706
+  precision: 0.6224
+  recall: 0.623
+  support: 558
+unknown-tokens:
+  accuracy: 0.6682
+  precision: 0.1573
+  recall: 0.1653
+  support: 850
+
+
+::: Evaluation report for task: Gend :::
+
+all:
+  accuracy: 0.8833
+  precision: 0.7236
+  recall: 0.7437
+  support: 3403
+ambiguous-tokens:
+  accuracy: 0.6383
+  precision: 0.5859
+  recall: 0.6659
+  support: 329
+unknown-tokens:
+  accuracy: 0.7365
+  precision: 0.4697
+  recall: 0.4721
+  support: 850
+

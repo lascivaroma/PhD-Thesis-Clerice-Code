@@ -1,0 +1,6 @@
+file,conf,acc,acc-amb,acc-unk-tar,acc-unk-tok,pos,pos-amb,gend,gend-amb,Unk-tar-support,Unk-toks-support,All support,training-time,nb-epochs,Sec / Epoch,Average Dev Test Time,sec / 1000 words
+./models/FinalModel-lemma-2020_05_05-15_17_40.tar,./configs/final_config.json,0.9721,0.9213,0.6533,0.864,0.9647,0.9114,0.9651,0.869,41834,6535,169822,18562.3,69,269.02,7.94,2460.28
+./models/FinalModel-lemma-2020_05_04-23_17_25.tar,./configs/final_config.json,0.9724,0.9226,0.6351,0.8637,0.9651,0.9098,0.9671,0.8725,41834,6535,169822,12698.2,47,270.17,8.01,2440.38
+./models/FinalModel-lemma-2020_05_04-19_44_27.tar,./configs/final_config.json,0.9739,0.9274,0.4941,0.856,0.9656,0.9128,0.9656,0.8701,41834,6535,169822,18890.9,70,269.87,7.97,2451.0
+./models/FinalModel-lemma-2020_05_05-10_06_59.tar,./configs/final_config.json,0.9748,0.9288,0.6652,0.8759,0.9655,0.9128,0.9659,0.8712,41834,6535,169822,19964.6,74,269.79,7.98,2448.63
+./models/FinalModel-lemma-2020_05_05-04_32_56.tar,./configs/final_config.json,0.9752,0.9295,0.6597,0.8771,0.9667,0.915,0.968,0.8772,41834,6535,169822,18851.0,70,269.3,7.98,2450.13

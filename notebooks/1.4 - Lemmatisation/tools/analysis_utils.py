@@ -133,7 +133,8 @@ def convert_raw(gold, task_list=[],
                 form_fn=lambda x: vjui(x).lower(), 
                 lemma_fn=lambda x: vjui(x).lower(), 
                 pos_fn=lambda x: x.replace("com", "").replace("pro", ""),
-                clitics_are_duplicate=True
+                clitics_are_duplicate=True,
+                clitics_starts_with_dash=False, pos_key="POS"
                ):
     """ Converts input data into Gold data
     """
@@ -145,12 +146,13 @@ def convert_raw(gold, task_list=[],
             new_token.update({
                 "form": form_fn(token["form"]),
                 "lemma": lemma_fn(token["lemma"]),
-                "pos": pos_fn(token["POS"]),
+                "pos": pos_fn(token[pos_key]),
             })
             # No disambiguation at the lemmatizer lever
             if new_token["lemma"][-1].isnumeric():
                 new_token["lemma"] = new_token["lemma"][:-1]
 
+            #print(token)
             # Treat morph as separate tasks
             for morph in token["morph"].split("|"):
                 task, value = morph.split("=")
@@ -161,6 +163,10 @@ def convert_raw(gold, task_list=[],
             ]).replace("_|_|_", "_")
 
             if clitics_are_duplicate and temp_sentence and new_token["form"] == temp_sentence[-1]["form"]:
+                temp_sentence[-1]["lemma"] += "界" + new_token["lemma"]
+                continue
+            elif clitics_starts_with_dash and new_token["form"].startswith("-"):
+                temp_sentence[-1]["form"] += new_token["form"][1:]
                 temp_sentence[-1]["lemma"] += "界" + new_token["lemma"]
                 continue
             temp_sentence.append(new_token)

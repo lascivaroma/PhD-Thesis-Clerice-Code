@@ -10,5 +10,5 @@
     <xsl:template match="tei:p|tei:div|tei:seg|tei:l|tei:w|tei:ab">
         <xsl:text> </xsl:text><xsl:apply-templates />
     </xsl:template>
-    <xsl:template match="tei:label|tei:ref|tei:milestone|tei:orig|tei:abbr|tei:head|tei:title|tei:teiHeader|tei:del|tei:g|tei:bibl|tei:front|tei:back|tei:foreign" />
+    <xsl:template match="tei:teiHeader|tei:label|tei:ref|tei:milestone|tei:orig|tei:abbr|tei:head|tei:title|tei:teiHeader|tei:del|tei:g|tei:bibl|tei:front|tei:back|tei:foreign" />
 </xsl:stylesheet>

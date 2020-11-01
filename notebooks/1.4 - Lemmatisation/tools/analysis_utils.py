@@ -93,16 +93,18 @@ def compile_scores(
                 score_sentence.append((
                     p_tags,
                     t_tags,
-                    {task: p_tags[task] == t_tags[task] for task in task_list}
+                    {task: p_tags.get(task, "_") == t_tags.get(task, "_") for task in task_list}
                 ))
                 for task in task_list:
-                    _raw_scores[task][0].append(p_tags[task])
-                    _raw_scores[task][1].append(t_tags[task])
-                    if t_tags[task] != "_":
-                        _raw_scores_not_empty[task][0].append(p_tags[task])
-                        _raw_scores_not_empty[task][1].append(t_tags[task])
-                    if t_tags[task] != p_tags[task]:
-                        _errors[task][t_tags[task]][p_tags[task]][token] += 1
+                    t_value = t_tags.get(task, "_")
+                    p_value = p_tags.get(task, "_")
+                    _raw_scores[task][0].append(p_value)
+                    _raw_scores[task][1].append(t_value)
+                    if t_value != "_":
+                        _raw_scores_not_empty[task][0].append(p_value)
+                        _raw_scores_not_empty[task][1].append(t_value)
+                    if t_value != p_tags[task]:
+                        _errors[task][t_value][p_value][token] += 1
                         
                 scores_lemma_pos.append(
                     score_sentence[-1][-1]
@@ -134,7 +136,7 @@ def convert_raw(gold, task_list=[],
                 lemma_fn=lambda x: vjui(x).lower(), 
                 pos_fn=lambda x: x.replace("com", "").replace("pro", ""),
                 clitics_are_duplicate=True,
-                clitics_starts_with_dash=False, pos_key="POS"
+                clitics_starts_with_dash=False, pos_key="POS", remove_disambiguation: bool = True
                ):
     """ Converts input data into Gold data
     """
@@ -149,7 +151,7 @@ def convert_raw(gold, task_list=[],
                 "pos": pos_fn(token[pos_key]),
             })
             # No disambiguation at the lemmatizer lever
-            if new_token["lemma"][-1].isnumeric():
+            if remove_disambiguation and new_token["lemma"][-1].isnumeric():
                 new_token["lemma"] = new_token["lemma"][:-1]
 
             #print(token)

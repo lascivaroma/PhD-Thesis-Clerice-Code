@@ -136,7 +136,8 @@ def convert_raw(gold, task_list=[],
                 lemma_fn=lambda x: vjui(x).lower(), 
                 pos_fn=lambda x: x.replace("com", "").replace("pro", ""),
                 clitics_are_duplicate=True,
-                clitics_starts_with_dash=False, pos_key="POS", remove_disambiguation: bool = True
+                clitics_starts_with_dash=False, pos_key="POS", remove_disambiguation: bool = True,
+                clitics_starts_with_accollade: bool = True
                ):
     """ Converts input data into Gold data
     """
@@ -165,6 +166,9 @@ def convert_raw(gold, task_list=[],
             ]).replace("_|_|_", "_")
 
             if clitics_are_duplicate and temp_sentence and new_token["form"] == temp_sentence[-1]["form"]:
+                temp_sentence[-1]["lemma"] += "界" + new_token["lemma"]
+                continue
+            elif clitics_starts_with_accollade and new_token["form"].startswith("{") and new_token["form"].endswith("}"):
                 temp_sentence[-1]["lemma"] += "界" + new_token["lemma"]
                 continue
             elif clitics_starts_with_dash and new_token["form"].startswith("-"):

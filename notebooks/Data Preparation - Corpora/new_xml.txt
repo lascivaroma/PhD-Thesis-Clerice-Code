@@ -1,0 +1,1 @@
+lemmatized/tsv/urn:cts:latinLit:stoa0089.stoa001a.mgh-lat1-pie.txt

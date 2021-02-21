@@ -1,1 +1,3 @@
-lemmatized/tsv/urn:cts:latinLit:stoa0089.stoa001a.mgh-lat1-pie.txt
+lemmatized/tsv/urn:cts:latinLit:phi2349.phi005.perseus-lat1-pie.txt
+lemmatized/tsv/urn:cts:latinLit:phi2349.phi007.perseus-lat1-pie.txt
+lemmatized/tsv/urn:cts:latinLit:phi2349.phi006.perseus-lat1-pie.txt

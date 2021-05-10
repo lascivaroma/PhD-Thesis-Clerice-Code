@@ -1,0 +1,473 @@
+,Same,wordset,nb_clusters
+0,False,Puer et al.,5
+1,False,Puer et al.,6
+2,True,Puer et al.,7
+3,True,Puer et al.,8
+4,False,Puer et al.,9
+5,False,Puer et al.,10
+6,False,Puer et al.,11
+7,False,Puer et al.,12
+8,False,Puer et al.,13
+9,False,Puer et al.,14
+10,False,Puer et al.,5
+11,False,Puer et al.,6
+12,False,Puer et al.,7
+13,False,Puer et al.,8
+14,False,Puer et al.,9
+15,False,Puer et al.,10
+16,False,Puer et al.,11
+17,False,Puer et al.,12
+18,False,Puer et al.,13
+19,False,Puer et al.,14
+20,True,Puer et al.,5
+21,False,Puer et al.,6
+22,False,Puer et al.,7
+23,False,Puer et al.,8
+24,False,Puer et al.,9
+25,False,Puer et al.,10
+26,False,Puer et al.,11
+27,True,Puer et al.,5
+28,True,Puer et al.,6
+29,True,Puer et al.,7
+30,False,Puer et al.,8
+31,False,Puer et al.,9
+32,False,Puer et al.,10
+33,False,Puer et al.,11
+34,True,Puer et al.,5
+35,True,Puer et al.,6
+36,False,Puer et al.,7
+37,False,Puer et al.,8
+38,False,Puer et al.,9
+39,False,Puer et al.,10
+40,False,Puer et al.,11
+41,True,Puer et al.,5
+42,False,Puer et al.,6
+43,False,Puer et al.,7
+44,False,Puer et al.,8
+45,False,Puer et al.,9
+46,False,Puer et al.,10
+47,False,Puer et al.,11
+48,False,Puer et al.,12
+49,False,Puer et al.,5
+50,False,Puer et al.,6
+51,True,Puer et al.,7
+52,False,Puer et al.,5
+53,False,Puer et al.,6
+54,False,Puer et al.,7
+55,False,Puer et al.,8
+56,False,Puer et al.,9
+57,False,Puer et al.,10
+58,False,Puer et al.,11
+59,False,Puer et al.,5
+60,False,Puer et al.,6
+61,False,Puer et al.,7
+62,False,Puer et al.,8
+63,False,Puer et al.,9
+64,False,Puer et al.,10
+65,False,Puer et al.,11
+66,False,Puer et al.,5
+67,False,Puer et al.,6
+68,False,Puer et al.,7
+69,False,Puer et al.,8
+70,False,Puer et al.,9
+71,False,Puer et al.,10
+72,False,Puer et al.,11
+73,False,Puer et al.,5
+74,False,Puer et al.,6
+75,False,Puer et al.,7
+76,False,Puer et al.,8
+77,False,Puer et al.,9
+78,True,Puer et al.,5
+79,False,Puer et al.,6
+80,False,Puer et al.,7
+81,False,Puer et al.,8
+82,False,Puer et al.,9
+83,False,Puer et al.,10
+84,False,Puer et al.,5
+85,False,Puer et al.,6
+86,False,Puer et al.,7
+87,False,Puer et al.,8
+88,False,Puer et al.,9
+89,False,Puer et al.,10
+90,False,Puer et al.,5
+91,False,Puer et al.,6
+92,False,Puer et al.,7
+93,False,Puer et al.,8
+94,False,Puer et al.,9
+95,False,Puer et al.,10
+96,False,Puer et al.,5
+97,False,Puer et al.,6
+98,False,Puer et al.,7
+99,False,Puer et al.,8
+100,False,Puer et al.,9
+101,False,Puer et al.,10
+102,True,Carmen et al.,5
+103,True,Carmen et al.,6
+104,True,Carmen et al.,7
+105,True,Carmen et al.,8
+106,True,Carmen et al.,9
+107,False,Carmen et al.,10
+108,True,Carmen et al.,11
+109,True,Carmen et al.,5
+110,True,Carmen et al.,6
+111,True,Carmen et al.,7
+112,False,Carmen et al.,8
+113,False,Carmen et al.,9
+114,False,Carmen et al.,10
+115,False,Carmen et al.,5
+116,False,Carmen et al.,6
+117,False,Carmen et al.,7
+118,False,Carmen et al.,5
+119,False,Carmen et al.,6
+120,False,Carmen et al.,7
+121,False,Carmen et al.,8
+122,False,Carmen et al.,9
+123,True,Carmen et al.,5
+124,False,Carmen et al.,6
+125,False,Carmen et al.,7
+126,False,Carmen et al.,8
+127,False,Carmen et al.,9
+128,False,Carmen et al.,5
+129,False,Carmen et al.,6
+130,True,Carmen et al.,7
+131,False,Carmen et al.,8
+132,False,Carmen et al.,9
+133,False,Carmen et al.,5
+134,False,Carmen et al.,6
+135,False,Carmen et al.,5
+136,False,Carmen et al.,6
+137,False,Carmen et al.,5
+138,False,Carmen et al.,6
+139,False,Carmen et al.,5
+140,False,Carmen et al.,6
+141,False,Carmen et al.,5
+142,False,Carmen et al.,6
+143,False,Carmen et al.,7
+144,False,Carmen et al.,5
+145,False,Carmen et al.,6
+146,True,Carmen et al.,7
+147,False,Carmen et al.,5
+148,False,Carmen et al.,6
+149,False,Carmen et al.,7
+150,False,Carmen et al.,5
+151,False,Carmen et al.,6
+152,False,Carmen et al.,7
+153,False,Carmen et al.,5
+154,False,Carmen et al.,6
+155,False,Carmen et al.,7
+156,False,Carmen et al.,8
+157,False,Puer et Carmen et al.,5
+158,False,Puer et Carmen et al.,6
+159,False,Puer et Carmen et al.,7
+160,False,Puer et Carmen et al.,8
+161,False,Puer et Carmen et al.,9
+162,False,Puer et Carmen et al.,10
+163,False,Puer et Carmen et al.,11
+164,False,Puer et Carmen et al.,12
+165,False,Puer et Carmen et al.,13
+166,False,Puer et Carmen et al.,14
+167,False,Puer et Carmen et al.,5
+168,False,Puer et Carmen et al.,6
+169,False,Puer et Carmen et al.,7
+170,False,Puer et Carmen et al.,8
+171,False,Puer et Carmen et al.,9
+172,False,Puer et Carmen et al.,10
+173,False,Puer et Carmen et al.,11
+174,False,Puer et Carmen et al.,12
+175,False,Puer et Carmen et al.,13
+176,False,Puer et Carmen et al.,14
+177,False,Puer et Carmen et al.,5
+178,False,Puer et Carmen et al.,6
+179,False,Puer et Carmen et al.,7
+180,False,Puer et Carmen et al.,8
+181,False,Puer et Carmen et al.,9
+182,False,Puer et Carmen et al.,10
+183,False,Puer et Carmen et al.,11
+184,False,Puer et Carmen et al.,12
+185,False,Puer et Carmen et al.,13
+186,False,Puer et Carmen et al.,14
+187,False,Puer et Carmen et al.,5
+188,False,Puer et Carmen et al.,6
+189,False,Puer et Carmen et al.,7
+190,False,Puer et Carmen et al.,8
+191,False,Puer et Carmen et al.,9
+192,False,Puer et Carmen et al.,10
+193,False,Puer et Carmen et al.,5
+194,False,Puer et Carmen et al.,6
+195,False,Puer et Carmen et al.,7
+196,False,Puer et Carmen et al.,8
+197,True,Puer et Carmen et al.,9
+198,False,Puer et Carmen et al.,10
+199,True,Puer et Carmen et al.,11
+200,True,Puer et Carmen et al.,12
+201,False,Puer et Carmen et al.,13
+202,True,Puer et Carmen et al.,14
+203,False,Puer et Carmen et al.,5
+204,False,Puer et Carmen et al.,6
+205,True,Puer et Carmen et al.,7
+206,True,Puer et Carmen et al.,8
+207,True,Puer et Carmen et al.,9
+208,True,Puer et Carmen et al.,10
+209,False,Puer et Carmen et al.,11
+210,True,Puer et Carmen et al.,12
+211,True,Puer et Carmen et al.,13
+212,False,Puer et Carmen et al.,14
+213,False,Puer et Carmen et al.,5
+214,True,Puer et Carmen et al.,6
+215,True,Puer et Carmen et al.,7
+216,False,Puer et Carmen et al.,8
+217,False,Puer et Carmen et al.,9
+218,False,Puer et Carmen et al.,10
+219,False,Puer et Carmen et al.,11
+220,False,Puer et Carmen et al.,12
+221,False,Puer et Carmen et al.,13
+222,False,Puer et Carmen et al.,14
+223,False,Puer et Carmen et al.,5
+224,False,Puer et Carmen et al.,6
+225,False,Puer et Carmen et al.,7
+226,False,Puer et Carmen et al.,8
+227,False,Puer et Carmen et al.,9
+228,False,Puer et Carmen et al.,10
+229,False,Puer et Carmen et al.,11
+230,False,Puer et Carmen et al.,12
+231,False,Puer et Carmen et al.,13
+232,False,Puer et Carmen et al.,14
+233,True,Puer et Carmen et al.,5
+234,False,Puer et Carmen et al.,6
+235,False,Puer et Carmen et al.,7
+236,False,Puer et Carmen et al.,8
+237,False,Puer et Carmen et al.,9
+238,False,Puer et Carmen et al.,10
+239,False,Puer et Carmen et al.,11
+240,False,Puer et Carmen et al.,12
+241,False,Puer et Carmen et al.,13
+242,False,Puer et Carmen et al.,14
+243,True,Puer et Carmen et al.,5
+244,False,Puer et Carmen et al.,6
+245,False,Puer et Carmen et al.,7
+246,False,Puer et Carmen et al.,8
+247,False,Puer et Carmen et al.,9
+248,False,Puer et Carmen et al.,10
+249,False,Puer et Carmen et al.,11
+250,False,Puer et Carmen et al.,12
+251,False,Puer et Carmen et al.,13
+252,False,Puer et Carmen et al.,14
+253,True,Puer et Carmen et al.,5
+254,False,Puer et Carmen et al.,6
+255,False,Puer et Carmen et al.,7
+256,False,Puer et Carmen et al.,8
+257,False,Puer et Carmen et al.,9
+258,False,Puer et Carmen et al.,10
+259,False,Puer et Carmen et al.,11
+260,False,Puer et Carmen et al.,12
+261,False,Puer et Carmen et al.,13
+262,False,Puer et Carmen et al.,14
+263,False,Puer et Carmen et al.,5
+264,False,Puer et Carmen et al.,6
+265,False,Puer et Carmen et al.,7
+266,False,Puer et Carmen et al.,8
+267,False,Puer et Carmen et al.,9
+268,False,Puer et Carmen et al.,10
+269,False,Puer et Carmen et al.,11
+270,False,Puer et Carmen et al.,12
+271,False,Puer et Carmen et al.,13
+272,False,Puer et Carmen et al.,14
+273,False,Puer et Carmen et al.,5
+274,True,Puer et Carmen et al.,6
+275,False,Puer et Carmen et al.,7
+276,False,Puer et Carmen et al.,8
+277,False,Puer et Carmen et al.,9
+278,False,Puer et Carmen et al.,10
+279,False,Puer et Carmen et al.,11
+280,False,Puer et Carmen et al.,12
+281,False,Puer et Carmen et al.,13
+282,False,Puer et Carmen et al.,14
+283,False,Puer et Carmen et al.,5
+284,True,Puer et Carmen et al.,6
+285,False,Puer et Carmen et al.,7
+286,False,Puer et Carmen et al.,8
+287,False,Puer et Carmen et al.,9
+288,False,Puer et Carmen et al.,10
+289,False,Puer et Carmen et al.,11
+290,False,Puer et Carmen et al.,12
+291,False,Puer et Carmen et al.,13
+292,False,Puer et Carmen et al.,14
+293,False,Puer et Carmen et al.,5
+294,True,Puer et Carmen et al.,6
+295,True,Puer et Carmen et al.,7
+296,False,Puer et Carmen et al.,8
+297,False,Puer et Carmen et al.,9
+298,False,Puer et Carmen et al.,10
+299,False,Puer et Carmen et al.,11
+300,False,Puer et Carmen et al.,12
+301,False,Puer et Carmen et al.,13
+302,False,Puer et Carmen et al.,14
+303,False,Puer et Carmen et al.,5
+304,False,Puer et Carmen et al.,6
+305,False,Puer et Carmen et al.,7
+306,False,Puer et Carmen et al.,8
+307,False,Puer et Carmen et al.,9
+308,False,Puer et Carmen et al.,10
+309,False,Puer et Carmen et al.,11
+310,False,Puer et Carmen et al.,12
+311,False,Puer et Carmen et al.,13
+312,False,"Futuo, carmen, puer et al.",5
+313,False,"Futuo, carmen, puer et al.",6
+314,False,"Futuo, carmen, puer et al.",7
+315,False,"Futuo, carmen, puer et al.",8
+316,False,"Futuo, carmen, puer et al.",9
+317,False,"Futuo, carmen, puer et al.",10
+318,False,"Futuo, carmen, puer et al.",11
+319,False,"Futuo, carmen, puer et al.",12
+320,False,"Futuo, carmen, puer et al.",13
+321,False,"Futuo, carmen, puer et al.",14
+322,False,"Futuo, carmen, puer et al.",5
+323,False,"Futuo, carmen, puer et al.",6
+324,False,"Futuo, carmen, puer et al.",7
+325,False,"Futuo, carmen, puer et al.",8
+326,False,"Futuo, carmen, puer et al.",9
+327,False,"Futuo, carmen, puer et al.",10
+328,False,"Futuo, carmen, puer et al.",11
+329,False,"Futuo, carmen, puer et al.",12
+330,False,"Futuo, carmen, puer et al.",13
+331,False,"Futuo, carmen, puer et al.",14
+332,False,"Futuo, carmen, puer et al.",5
+333,False,"Futuo, carmen, puer et al.",6
+334,False,"Futuo, carmen, puer et al.",7
+335,False,"Futuo, carmen, puer et al.",8
+336,False,"Futuo, carmen, puer et al.",9
+337,False,"Futuo, carmen, puer et al.",10
+338,False,"Futuo, carmen, puer et al.",11
+339,False,"Futuo, carmen, puer et al.",12
+340,False,"Futuo, carmen, puer et al.",13
+341,False,"Futuo, carmen, puer et al.",14
+342,False,"Futuo, carmen, puer et al.",5
+343,False,"Futuo, carmen, puer et al.",6
+344,False,"Futuo, carmen, puer et al.",7
+345,False,"Futuo, carmen, puer et al.",8
+346,False,"Futuo, carmen, puer et al.",9
+347,False,"Futuo, carmen, puer et al.",10
+348,False,"Futuo, carmen, puer et al.",11
+349,False,"Futuo, carmen, puer et al.",12
+350,False,"Futuo, carmen, puer et al.",13
+351,False,"Futuo, carmen, puer et al.",14
+352,False,"Futuo, carmen, puer et al.",5
+353,False,"Futuo, carmen, puer et al.",6
+354,False,"Futuo, carmen, puer et al.",7
+355,False,"Futuo, carmen, puer et al.",8
+356,False,"Futuo, carmen, puer et al.",9
+357,False,"Futuo, carmen, puer et al.",10
+358,False,"Futuo, carmen, puer et al.",11
+359,False,"Futuo, carmen, puer et al.",12
+360,False,"Futuo, carmen, puer et al.",13
+361,False,"Futuo, carmen, puer et al.",14
+362,False,"Futuo, carmen, puer et al.",5
+363,False,"Futuo, carmen, puer et al.",6
+364,False,"Futuo, carmen, puer et al.",7
+365,False,"Futuo, carmen, puer et al.",8
+366,False,"Futuo, carmen, puer et al.",9
+367,False,"Futuo, carmen, puer et al.",10
+368,False,"Futuo, carmen, puer et al.",11
+369,False,"Futuo, carmen, puer et al.",12
+370,False,"Futuo, carmen, puer et al.",13
+371,False,"Futuo, carmen, puer et al.",14
+372,False,"Futuo, carmen, puer et al.",5
+373,False,"Futuo, carmen, puer et al.",6
+374,False,"Futuo, carmen, puer et al.",7
+375,False,"Futuo, carmen, puer et al.",8
+376,False,"Futuo, carmen, puer et al.",9
+377,False,"Futuo, carmen, puer et al.",10
+378,False,"Futuo, carmen, puer et al.",11
+379,False,"Futuo, carmen, puer et al.",12
+380,False,"Futuo, carmen, puer et al.",13
+381,False,"Futuo, carmen, puer et al.",14
+382,False,"Futuo, carmen, puer et al.",5
+383,False,"Futuo, carmen, puer et al.",6
+384,False,"Futuo, carmen, puer et al.",7
+385,False,"Futuo, carmen, puer et al.",8
+386,False,"Futuo, carmen, puer et al.",9
+387,False,"Futuo, carmen, puer et al.",10
+388,False,"Futuo, carmen, puer et al.",11
+389,False,"Futuo, carmen, puer et al.",12
+390,False,"Futuo, carmen, puer et al.",13
+391,False,"Futuo, carmen, puer et al.",14
+392,False,"Futuo, carmen, puer et al.",5
+393,False,"Futuo, carmen, puer et al.",6
+394,False,"Futuo, carmen, puer et al.",7
+395,False,"Futuo, carmen, puer et al.",8
+396,False,"Futuo, carmen, puer et al.",9
+397,False,"Futuo, carmen, puer et al.",10
+398,False,"Futuo, carmen, puer et al.",11
+399,False,"Futuo, carmen, puer et al.",12
+400,False,"Futuo, carmen, puer et al.",13
+401,False,"Futuo, carmen, puer et al.",14
+402,False,"Futuo, carmen, puer et al.",5
+403,False,"Futuo, carmen, puer et al.",6
+404,False,"Futuo, carmen, puer et al.",7
+405,False,"Futuo, carmen, puer et al.",8
+406,False,"Futuo, carmen, puer et al.",9
+407,False,"Futuo, carmen, puer et al.",10
+408,False,"Futuo, carmen, puer et al.",11
+409,False,"Futuo, carmen, puer et al.",12
+410,False,"Futuo, carmen, puer et al.",13
+411,False,"Futuo, carmen, puer et al.",14
+412,False,"Futuo, carmen, puer et al.",5
+413,False,"Futuo, carmen, puer et al.",6
+414,False,"Futuo, carmen, puer et al.",7
+415,False,"Futuo, carmen, puer et al.",8
+416,False,"Futuo, carmen, puer et al.",9
+417,False,"Futuo, carmen, puer et al.",10
+418,False,"Futuo, carmen, puer et al.",11
+419,False,"Futuo, carmen, puer et al.",12
+420,False,"Futuo, carmen, puer et al.",13
+421,False,"Futuo, carmen, puer et al.",14
+422,False,"Futuo, carmen, puer et al.",5
+423,False,"Futuo, carmen, puer et al.",6
+424,False,"Futuo, carmen, puer et al.",7
+425,False,"Futuo, carmen, puer et al.",8
+426,False,"Futuo, carmen, puer et al.",9
+427,False,"Futuo, carmen, puer et al.",10
+428,False,"Futuo, carmen, puer et al.",11
+429,False,"Futuo, carmen, puer et al.",12
+430,False,"Futuo, carmen, puer et al.",13
+431,False,"Futuo, carmen, puer et al.",14
+432,False,"Futuo, carmen, puer et al.",5
+433,False,"Futuo, carmen, puer et al.",6
+434,False,"Futuo, carmen, puer et al.",7
+435,False,"Futuo, carmen, puer et al.",8
+436,False,"Futuo, carmen, puer et al.",9
+437,False,"Futuo, carmen, puer et al.",10
+438,False,"Futuo, carmen, puer et al.",11
+439,False,"Futuo, carmen, puer et al.",12
+440,False,"Futuo, carmen, puer et al.",13
+441,False,"Futuo, carmen, puer et al.",14
+442,False,"Futuo, carmen, puer et al.",5
+443,False,"Futuo, carmen, puer et al.",6
+444,False,"Futuo, carmen, puer et al.",7
+445,False,"Futuo, carmen, puer et al.",8
+446,False,"Futuo, carmen, puer et al.",9
+447,False,"Futuo, carmen, puer et al.",10
+448,False,"Futuo, carmen, puer et al.",11
+449,False,"Futuo, carmen, puer et al.",12
+450,False,"Futuo, carmen, puer et al.",13
+451,False,"Futuo, carmen, puer et al.",14
+452,False,"Futuo, carmen, puer et al.",5
+453,False,"Futuo, carmen, puer et al.",6
+454,False,"Futuo, carmen, puer et al.",7
+455,False,"Futuo, carmen, puer et al.",8
+456,False,"Futuo, carmen, puer et al.",9
+457,False,"Futuo, carmen, puer et al.",10
+458,False,"Futuo, carmen, puer et al.",11
+459,False,"Futuo, carmen, puer et al.",12
+460,False,"Futuo, carmen, puer et al.",13
+461,False,"Futuo, carmen, puer et al.",14
+462,False,"Futuo, carmen, puer et al.",5
+463,False,"Futuo, carmen, puer et al.",6
+464,False,"Futuo, carmen, puer et al.",7
+465,False,"Futuo, carmen, puer et al.",8
+466,False,"Futuo, carmen, puer et al.",9
+467,False,"Futuo, carmen, puer et al.",10
+468,False,"Futuo, carmen, puer et al.",11
+469,False,"Futuo, carmen, puer et al.",12
+470,False,"Futuo, carmen, puer et al.",13
+471,False,"Futuo, carmen, puer et al.",14

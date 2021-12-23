@@ -1,4 +1,4 @@
-from capitains_nautilus.cts.resolver import NautilusCTSResolver
+from MyCapytain.resolvers.cts.local import CtsCapitainsLocalResolver
 from MyCapytain.common.constants import Mimetypes
 import glob
 from ..metadata.ns import THESE_NS, THESE_NS_PREFIX, SemanticCut
@@ -50,7 +50,7 @@ def make_resolver(directories=None, additional_metadata=None):
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.CRITICAL)
 
-    resolver = NautilusCTSResolver(resource=directories, logger=logger)
+    resolver = CtsCapitainsLocalResolver(resource=directories, logger=logger)
     resolver.inventory.graph.namespace_manager.bind(THESE_NS_PREFIX, THESE_NS)
     resolver.inventory.graph.namespace_manager.bind("dc", rdflib.namespace.DC)
     return resolver

@@ -1,3 +1,7 @@
+notebooks/4\ -\ Detection/data/
+these-corpus
+*.gz
+*.pickle
 tarball.tar.gz
 *cache*
 notebooks/1\ -\ Corpus/gapi

@@ -12,7 +12,11 @@ from lxml import etree
 from unidecode import unidecode
 
 
-with open("./helpers/reader/passage.transform.xsl") as f:
+
+
+with open(os.path.join(
+    os.path.dirname(__file__),
+    "passage.transform.xsl")) as f:
     xml = etree.parse(f)
 _transformer = etree.XSLT(xml)
 _ending_hyphen = re.compile(r"-\s+$")

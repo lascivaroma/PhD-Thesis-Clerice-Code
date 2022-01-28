@@ -1,9 +1,13 @@
 import rdflib
 import glob
 from helpers.cache import memoize
+import os
+
+def _local_path(path):
+    return os.path.join(os.path.dirname(__file__), os.path.basename(path))
 
 
-def get_graph(src="data/curated/inventory.xml.turtle"):
+def get_graph(src=_local_path(_local_path("data/curated/inventory.xml.turtle"))):
     g = rdflib.Graph()
     g.parse(src, format="n3")
     return g
